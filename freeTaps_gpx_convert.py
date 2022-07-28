@@ -58,7 +58,7 @@ for wp in jsonFreeTaps.get('waterpoints'):
 	cmt_elem.text = wp.get('type')
 	wp_processed += 1
 
-fileFreeTaps.close()
+#fileFreeTaps.close()
 
 print(jsonFreeTaps.get('message'))
 print(str(wp_processed) + " wp processed")
