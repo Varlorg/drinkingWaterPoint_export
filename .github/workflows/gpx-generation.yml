@@ -4,6 +4,8 @@ jobs:
   report:
     runs-on: ubuntu-latest
     steps:
+        # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
       - name: Create report file
         run: python freeTaps_gpx_convert.py
       - name: Commit report
