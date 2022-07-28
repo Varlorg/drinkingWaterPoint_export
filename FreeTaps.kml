@@ -88031,4 +88031,18 @@ afd3cda16e9d277dab011dec47968562</description>
     <description>FOUNTAIN
 6f6600bf114860f2b1f5751a2d9f5535</description>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0866551167129,1.89535737482549</coordinates>
+    </Point>
+    <description>FOUNTAIN
+c3d1fd919f5c08c58df3b3bd2461b3da</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0866305567089,1.89571788055424</coordinates>
+    </Point>
+    <description>FOUNTAIN
+c3d1fd919f5c08c58df3b3bd2461b3da</description>
+  </Placemark>
 </kml>
