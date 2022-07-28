@@ -39,8 +39,9 @@ encoding = response.info().get_content_charset('utf-8')
 #		"type": "FOUNTAIN"
 #	}]
 #	}
-fileFreeTaps = open('waterpoints.json')
+#fileFreeTaps = open('waterpoints.json')
 #jsonFreeTaps = json.load(fileFreeTaps)
+
 jsonFreeTaps = json.loads(data.decode(encoding))
 
 
