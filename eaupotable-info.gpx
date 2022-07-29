@@ -1,0 +1,2942 @@
+<gpx version="1.1">
+  <wpt lat="50.350712" lon="5.583408">
+    <src>https://eaupotable.info/fr/1-source-de-ninane</src>
+    <name>Source de Ninane</name>
+    <desc>Route des Roches</desc>
+  </wpt>
+  <wpt lat="48.864891" lon="2.275152">
+    <src>https://eaupotable.info/fr/2-eau-de-l-albien-fontaine-du-square-lamartine</src>
+    <name>Eau de l'Albien: Fontaine du square Lamartine</name>
+    <desc>Square Lamartine</desc>
+  </wpt>
+  <wpt lat="48.89304" lon="2.361283">
+    <src>https://eaupotable.info/fr/3-eau-de-l-albien-fontaine-de-la-madone</src>
+    <name>Eau de l'Albien: Fontaine de la Madone</name>
+    <desc>Square de la Madone</desc>
+  </wpt>
+  <wpt lat="48.8276881699896" lon="2.35270824669647">
+    <src>https://eaupotable.info/fr/4-eau-de-l-albien-fontaine-place-paul-verlaine</src>
+    <name>Eau de l'Albien: Fontaine Place Paul Verlaine</name>
+    <desc>Place Paul Verlaine</desc>
+  </wpt>
+  <wpt lat="50.366764" lon="5.624828">
+    <src>https://eaupotable.info/fr/5-pouhon-de-fays</src>
+    <name>Pouhon de Fays</name>
+    <desc>rue du Pouhon</desc>
+  </wpt>
+  <wpt lat="50.369144" lon="5.847701">
+    <src>https://eaupotable.info/fr/6-pouhon-de-trois-ponts</src>
+    <name>Pouhon de Trois-Ponts</name>
+    <desc>Henri Moulin</desc>
+  </wpt>
+  <wpt lat="43.074459" lon="-73.766953">
+    <src>https://eaupotable.info/fr/7-saratoga-springs-big-red-spring</src>
+    <name>Saratoga Springs: Big Red Spring</name>
+    <desc>267 Union Avenue</desc>
+  </wpt>
+  <wpt lat="43.055717" lon="-73.80426">
+    <src>https://eaupotable.info/fr/8-saratoga-springs-charlie-spring</src>
+    <name>Saratoga Springs: Charlie Spring</name>
+    <desc>Saratoga Performing Arts Center</desc>
+  </wpt>
+  <wpt lat="43.078159" lon="-73.78537">
+    <src>https://eaupotable.info/fr/9-saratoga-springs-congress-spring</src>
+    <name>Saratoga Springs: Congress Spring</name>
+    <desc>Congress Park</desc>
+  </wpt>
+  <wpt lat="43.078312" lon="-73.784508">
+    <src>https://eaupotable.info/fr/10-saratoga-springs-deer-park-spring</src>
+    <name>Saratoga Springs: Deer Park Spring</name>
+    <desc>Congress Park</desc>
+  </wpt>
+  <wpt lat="43.090523" lon="-73.766602">
+    <src>https://eaupotable.info/fr/11-saratoga-springs-empire-spring</src>
+    <name>Saratoga Springs: Empire Spring</name>
+    <desc>Excelsior Avenue</desc>
+  </wpt>
+  <wpt lat="43.051643" lon="-73.805511">
+    <src>https://eaupotable.info/fr/12-saratoga-springs-geyser-island-spouter</src>
+    <name>Saratoga Springs: Geyser Island Spouter</name>
+    <desc>Spa State Park</desc>
+  </wpt>
+  <wpt lat="43.088936" lon="-73.776169">
+    <src>https://eaupotable.info/fr/13-saratoga-springs-old-red-spring</src>
+    <name>Saratoga Springs: Old Red Spring</name>
+    <desc>High Rock Avenue</desc>
+  </wpt>
+  <wpt lat="43.079735" lon="-73.784134">
+    <src>https://eaupotable.info/fr/14-saratoga-springs-hathorn-1</src>
+    <name>Saratoga Springs: Hathorn #1</name>
+    <desc>Putnam Street</desc>
+  </wpt>
+  <wpt lat="43.048862" lon="-73.812248">
+    <src>https://eaupotable.info/fr/15-saratoga-springs-hathorn-3</src>
+    <name>Saratoga Springs: Hathorn #3</name>
+    <desc>East West Road</desc>
+  </wpt>
+  <wpt lat="43.086933" lon="-73.780113">
+    <src>https://eaupotable.info/fr/16-saratoga-springs-high-rock-spring</src>
+    <name>Saratoga Springs: High Rock Spring</name>
+    <desc>High Rock Avenue</desc>
+  </wpt>
+  <wpt lat="43.086479" lon="-73.780403">
+    <src>https://eaupotable.info/fr/17-saratoga-springs-governor-peerless-spring</src>
+    <name>Saratoga Springs: Governor &amp; Peerless Spring</name>
+    <desc>High Rock Avenue</desc>
+  </wpt>
+  <wpt lat="43.057938" lon="-73.803864">
+    <src>https://eaupotable.info/fr/18-saratoga-springs-state-seal</src>
+    <name>Saratoga Springs: State Seal</name>
+    <desc>Avenue of Pines</desc>
+  </wpt>
+  <wpt lat="50.484768" lon="5.898386">
+    <src>https://eaupotable.info/fr/19-sources-de-la-sauveniere-et-de-groesbeeck</src>
+    <name>Sources de la Sauveni&#232;re et de Groesbeeck</name>
+    <desc>Route de la Sauveni&#232;re</desc>
+  </wpt>
+  <wpt lat="50.4709288" lon="5.8770828">
+    <src>https://eaupotable.info/fr/20-pouhon-pia</src>
+    <name>Pouhon Pia</name>
+    <desc>Chemin des Fontaines</desc>
+  </wpt>
+  <wpt lat="50.4921" lon="5.885292">
+    <src>https://eaupotable.info/fr/21-source-du-tonnelet</src>
+    <name>Source du Tonnelet</name>
+    <desc>Route du Tonnelet</desc>
+  </wpt>
+  <wpt lat="51.143501" lon="-2.705961">
+    <src>https://eaupotable.info/fr/22-the-white-spring</src>
+    <name>The White Spring</name>
+    <desc>Well House Lane</desc>
+  </wpt>
+  <wpt lat="43.857548" lon="18.42762">
+    <src>https://eaupotable.info/fr/23-sarajevo-bascarsija-sebilj</src>
+    <name>Sarajevo Bascarsija Sebilj</name>
+    <desc>Ba&#353;&#269;ar&#353;ija</desc>
+  </wpt>
+  <wpt lat="34.945435" lon="-83.08963">
+    <src>https://eaupotable.info/fr/24-moody-spring</src>
+    <name>Moody Spring</name>
+    <desc>Road 107</desc>
+  </wpt>
+  <wpt lat="38.858685" lon="-104.911621">
+    <src>https://eaupotable.info/fr/25-manitou-springs-seven-minute-spring</src>
+    <name>Manitou Springs: Seven Minute Spring</name>
+    <desc>Washington Avenue</desc>
+  </wpt>
+  <wpt lat="38.859501" lon="-104.918213">
+    <src>https://eaupotable.info/fr/26-manitou-springs-wheeler-spring</src>
+    <name>Manitou Springs: Wheeler Spring</name>
+    <desc>Park Avenue</desc>
+  </wpt>
+  <wpt lat="38.857487" lon="-104.916878">
+    <src>https://eaupotable.info/fr/27-manitou-springs-navajo-geyser</src>
+    <name>Manitou Springs: Navajo Geyser</name>
+    <desc>Manitou Springs</desc>
+  </wpt>
+  <wpt lat="38.858002" lon="-104.917328">
+    <src>https://eaupotable.info/fr/28-manitou-springs-shoshone-spring</src>
+    <name>Manitou Springs: Shoshone Spring</name>
+    <desc>Manitou Springs</desc>
+  </wpt>
+  <wpt lat="38.858864" lon="-104.918411">
+    <src>https://eaupotable.info/fr/29-manitou-springs-cheyenne-spring</src>
+    <name>Manitou Springs: Cheyenne Spring</name>
+    <desc>Manitou Springs</desc>
+  </wpt>
+  <wpt lat="38.858814" lon="-104.919624">
+    <src>https://eaupotable.info/fr/30-manitou-springs-stratton-spring</src>
+    <name>Manitou Springs: Stratton Spring</name>
+    <desc>Manitou Springs</desc>
+  </wpt>
+  <wpt lat="38.858257" lon="-104.921616">
+    <src>https://eaupotable.info/fr/31-manitou-springs-twin-spring</src>
+    <name>Manitou Springs: Twin Spring</name>
+    <desc>Manitou Springs</desc>
+  </wpt>
+  <wpt lat="38.863304" lon="-104.922485">
+    <src>https://eaupotable.info/fr/32-manitou-springs-ute-chief-spring</src>
+    <name>Manitou Springs: Ute Chief Spring</name>
+    <desc>Manitou Springs</desc>
+  </wpt>
+  <wpt lat="38.856503" lon="-104.92852">
+    <src>https://eaupotable.info/fr/33-manitou-springs-iron-spring</src>
+    <name>Manitou Springs: Iron Spring</name>
+    <desc>Manitou Springs</desc>
+  </wpt>
+  <wpt lat="40.048176" lon="-80.387627">
+    <src>https://eaupotable.info/fr/34-jesus-said</src>
+    <name>Jesus Said</name>
+    <desc>Claysville</desc>
+  </wpt>
+  <wpt lat="50.477448" lon="5.873095">
+    <src>https://eaupotable.info/fr/35-source-de-la-geronstere</src>
+    <name>Source de la G&#233;ronst&#232;re</name>
+    <desc>Route de la G&#233;ronst&#232;re, 4900 Spa, Belgique</desc>
+  </wpt>
+  <wpt lat="50.5846604971" lon="5.64378113226">
+    <src>https://eaupotable.info/fr/37-les-belles-fontaines</src>
+    <name>Les Belles Fontaines</name>
+    <desc>Rue des Belles Fontaines 24, 4050 Chaudfontaine, Belgique</desc>
+  </wpt>
+  <wpt lat="50.297142" lon="5.65148">
+    <src>https://eaupotable.info/fr/38-le-pouhon-de-grandmenil</src>
+    <name>Le pouhon de Grandmenil</name>
+    <desc>Route de Bomal, 6960 Manhay, Belgique</desc>
+  </wpt>
+  <wpt lat="48.363686" lon="-3.746753">
+    <src>https://eaupotable.info/fr/40-eau-de-source-huelgoat-finistere</src>
+    <name>Eau de source Huelgoat Finist&#232;re</name>
+    <desc>Huelgoat</desc>
+  </wpt>
+  <wpt lat="48.353237" lon="-0.081012">
+    <src>https://eaupotable.info/fr/42-source-d-eau-ferrugineuse-de-saint-leonard-des-bois</src>
+    <name>Source d'eau ferrugineuse de Saint-L&#233;onard-des-Bois</name>
+    <desc>Saint-L&#233;onard-des-Bois</desc>
+  </wpt>
+  <wpt lat="46.514153" lon="14.984479">
+    <src>https://eaupotable.info/fr/43-ravne-na-koroskem-kotlje</src>
+    <name>Ravne na Koro&#353;kem - Kotlje</name>
+    <desc>Kotlje 28, 2394 Ravne na Koro&#353;kem, Slov&#233;nie</desc>
+  </wpt>
+  <wpt lat="46.031582" lon="25.823286">
+    <src>https://eaupotable.info/fr/44-malnas-bai</src>
+    <name>Malnas Bai</name>
+    <desc>Malna&#537; B&#259;i</desc>
+  </wpt>
+  <wpt lat="50.508266" lon="3.591007">
+    <src>https://eaupotable.info/fr/45-le-lavoir-dubuisson-copin</src>
+    <name>Le lavoir Dubuisson-Copin</name>
+    <desc>Rue Albert 1er 13-41, 7600 P&#233;ruwelz, Belgique</desc>
+  </wpt>
+  <wpt lat="50.5103554036556" lon="3.60341936364591">
+    <src>https://eaupotable.info/fr/46-la-fontaine-jaunay-clan</src>
+    <name>La fontaine Jaunay-Clan</name>
+    <desc>Rue Castiau 7, P&#233;ruwelz, Belgique</desc>
+  </wpt>
+  <wpt lat="49.309013" lon="16.624727">
+    <src>https://eaupotable.info/fr/48-studanka-zdravas-maria</src>
+    <name>Stud&#225;nka - Zdr&#225;vas Maria</name>
+    <desc>Vranov 182, 664 32 Vranov, R&#233;publique Tch&#232;que</desc>
+  </wpt>
+  <wpt lat="31.094353" lon="-87.832687">
+    <src>https://eaupotable.info/fr/49-red-hill-spring</src>
+    <name>Red Hill Spring</name>
+    <desc>59578-59818 State Highway 59, Stockton, Alabama 36579, &#201;tats-Unis</desc>
+  </wpt>
+  <wpt lat="34.616962" lon="-82.479439">
+    <src>https://eaupotable.info/fr/50-williamston-mineral-springs-park</src>
+    <name>Williamston Mineral Springs Park</name>
+    <desc>Center St, Williamston, Caroline du Sud 29697, &#201;tats-Unis</desc>
+  </wpt>
+  <wpt lat="40.367657" lon="-78.960777">
+    <src>https://eaupotable.info/fr/51-heffley-springs</src>
+    <name>Heffley springs</name>
+    <desc>Haws Pike, Johnstown, Pennsylvanie 15906, &#201;tats-Unis</desc>
+  </wpt>
+  <wpt lat="45.098228" lon="-78.651703">
+    <src>https://eaupotable.info/fr/52-maple-lake-natural-spring</src>
+    <name>Maple Lake natural spring</name>
+    <desc>State Highway 118, Haliburton, ON K0M 1S0, Canada</desc>
+  </wpt>
+  <wpt lat="37.859112" lon="-121.935287">
+    <src>https://eaupotable.info/fr/53-mount-diablo-state-park</src>
+    <name>Mount Diablo State Park</name>
+    <desc>S Gate Rd, Alamo, Californie 94507, &#201;tats-Unis</desc>
+  </wpt>
+  <wpt lat="50.2034367342772" lon="5.38662779629522">
+    <src>https://eaupotable.info/fr/54-source-du-bois-de-nolaumont</src>
+    <name>Source du Bois de Nolaumont</name>
+    <desc>Rue de La Roche, 6900 Marche-en-Famenne, Belgique</desc>
+  </wpt>
+  <wpt lat="42.521641" lon="2.944226">
+    <src>https://eaupotable.info/fr/56-source-d-eau-piquante-ferrugineuse-a-laroque-des-alberes</src>
+    <name>Source d'eau piquante ferrugineuse &#224; Laroque-des-Alb&#232;res</name>
+    <desc>Les Alb&#232;res, 66740 Laroque-des-Alb&#232;res, France</desc>
+  </wpt>
+  <wpt lat="46.927135" lon="5.784739">
+    <src>https://eaupotable.info/fr/57-fontaine-a-montigny-les-arsures</src>
+    <name>Fontaine &#224; Montigny-l&#232;s-Arsures</name>
+    <desc>Rue de la Bouti&#232;re, 39600 Montigny-l&#232;s-Arsures, France</desc>
+  </wpt>
+  <wpt lat="50.822948" lon="4.663429">
+    <src>https://eaupotable.info/fr/58-oud-heverlee-zoet-water</src>
+    <name>Oud-Heverlee - Zoet water</name>
+    <desc>Kapellendreef, 3050 Oud-Heverlee, Belgique</desc>
+  </wpt>
+  <wpt lat="49.687515" lon="7.142206">
+    <src>https://eaupotable.info/fr/59-sauerbrunnen-oberhambach</src>
+    <name>Sauerbrunnen - Oberhambach</name>
+    <desc>L174, 55765 Oberhambach, Allemagne</desc>
+  </wpt>
+  <wpt lat="50.285435" lon="5.480814">
+    <src>https://eaupotable.info/fr/60-fontaines-de-ny-hotton</src>
+    <name>Fontaines de Ny (Hotton)</name>
+    <desc>Rue des Fontaines, 6990 Hotton, Belgique</desc>
+  </wpt>
+  <wpt lat="49.665901" lon="5.86547">
+    <src>https://eaupotable.info/fr/62-source-saint-bernard</src>
+    <name>Source Saint-Bernard</name>
+    <desc>Rue du Clo&#238;tre 41-69, 6700 Arlon, Belgique</desc>
+  </wpt>
+  <wpt lat="50.3992" lon="3.956865">
+    <src>https://eaupotable.info/fr/63-source-de-quevy</src>
+    <name>Source de Qu&#233;vy</name>
+    <desc>Rue des Montrys 24 - 36, 7040 Qu&#233;vy, Belgique</desc>
+  </wpt>
+  <wpt lat="50.485321" lon="4.063169">
+    <src>https://eaupotable.info/fr/64-source-notre-dame-de-creuse</src>
+    <name>Source Notre Dame de Creuse</name>
+    <desc>Sentier du Chien, 7070 Le Roeulx, Belgique</desc>
+  </wpt>
+  <wpt lat="43.996143" lon="7.149346">
+    <src>https://eaupotable.info/fr/65-fontaine-de-clans</src>
+    <name>Fontaine de Clans</name>
+    <desc>Rue Droite, 06420 Clans, France</desc>
+  </wpt>
+  <wpt lat="43.291374" lon="5.663109">
+    <src>https://eaupotable.info/fr/66-source-de-st-pons</src>
+    <name>Source de St Pons</name>
+    <desc>D2, 13420 G&#233;menos, France</desc>
+  </wpt>
+  <wpt lat="46.058353" lon="6.319903">
+    <src>https://eaupotable.info/fr/67-la-benite-fontaine</src>
+    <name>La B&#233;nite Fontaine</name>
+    <desc>1200 Avenue de la B&#233;nite Fontaine, 74800 La Roche-sur-Foron, France</desc>
+  </wpt>
+  <wpt lat="43.60046" lon="2.702604">
+    <src>https://eaupotable.info/fr/68-source-de-la-salvetat-sur-agout</src>
+    <name>Source de la Salvetat sur Ago&#251;t</name>
+    <desc>La Salvetat-sur-Agout, France</desc>
+  </wpt>
+  <wpt lat="45.982174" lon="2.956752">
+    <src>https://eaupotable.info/fr/70-source-marie-laure</src>
+    <name>Source Marie-Laure</name>
+    <desc>Montoute, 63410 Saint-Angel, France</desc>
+  </wpt>
+  <wpt lat="50.417885" lon="4.633315">
+    <src>https://eaupotable.info/fr/72-source-de-la-baume</src>
+    <name>Source de la baume</name>
+    <desc>Rue de la Montagne 53-69, 5060 Sambreville, Belgique</desc>
+  </wpt>
+  <wpt lat="50.6927678426759" lon="5.24166026175885">
+    <src>https://eaupotable.info/fr/74-fontaine-saint-michel</src>
+    <name>Fontaine Saint-Michel</name>
+    <desc>waremme rue de berloz</desc>
+  </wpt>
+  <wpt lat="50.062588" lon="3.794151">
+    <src>https://eaupotable.info/fr/90-fontaine-de-beaurepaire-sur-sambre</src>
+    <name>Fontaine de Beaurepaire sur Sambre</name>
+    <desc>Beaurepaire-sur-Sambre, France</desc>
+  </wpt>
+  <wpt lat="48.413475" lon="-0.0327">
+    <src>https://eaupotable.info/fr/100-la-ferriere-bochard</src>
+    <name>La Ferri&#232;re-Bochard</name>
+    <desc>Le Bourg, 61420 La Ferri&#232;re-Bochard, France</desc>
+  </wpt>
+  <wpt lat="48.748661" lon="6.198336">
+    <src>https://eaupotable.info/fr/102-fontaine-de-lay-saint-christophe-en-lorraine</src>
+    <name>Fontaine de Lay-Saint-Christophe en Lorraine</name>
+    <desc>6 D32, 54690 Lay-Saint-Christophe, France</desc>
+  </wpt>
+  <wpt lat="45.588696" lon="4.315004">
+    <src>https://eaupotable.info/fr/144-la-source-badoit</src>
+    <name>La source Badoit</name>
+    <desc>Avenue de la Coise, 42330 Saint-Galmier, France</desc>
+  </wpt>
+  <wpt lat="50.8879849671" lon="-0.229022135443">
+    <src>https://eaupotable.info/fr/145-fulking-spring</src>
+    <name>Fulking spring</name>
+    <desc>Edburton Road, South Downs National Park, Henfield, West Sussex BN5, Royaume-Uni</desc>
+  </wpt>
+  <wpt lat="42.1454947513" lon="1.85969921646">
+    <src>https://eaupotable.info/fr/146-font-gran-de-cercs</src>
+    <name>Font Gran de Cercs</name>
+    <desc>Carrer del Campet, 5, 08698 Cercs, Province de Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="50.6799956133" lon="11.2722389226">
+    <src>https://eaupotable.info/fr/148-antonius-quelle</src>
+    <name>Antonius Quelle</name>
+    <desc>Wirbacher Stra&#223;e 7, 07422 Bad Blankenburg, Allemagne</desc>
+  </wpt>
+  <wpt lat="47.8836912" lon="12.1438161999999">
+    <src>https://eaupotable.info/fr/149-st-leonhardsquelle</src>
+    <name>St. Leonhardsquelle</name>
+    <desc>M&#252;hlthalweg 48, 83071 Stephanskirchen, Allemagne</desc>
+  </wpt>
+  <wpt lat="50.0664928219" lon="12.7882007391">
+    <src>https://eaupotable.info/fr/150-grunska-kyselka</src>
+    <name>Gr&#252;nsk&#225; kyselka</name>
+    <desc>21020, Nov&#225; Ves, R&#233;publique tch&#232;que</desc>
+  </wpt>
+  <wpt lat="50.6914902078" lon="4.80893579102">
+    <src>https://eaupotable.info/fr/151-la-fontaine-sainte-ragenufle</src>
+    <name>La fontaine Sainte-Ragenufle</name>
+    <desc>Rue Sainte-Ragenufle 1-9, 1315 Jodoigne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.4922890235" lon="5.86739772031">
+    <src>https://eaupotable.info/fr/152-pouhon-aux-armes-d-autriche</src>
+    <name>Pouhon "Aux Armes d'Autriche"</name>
+    <desc>Rue du March&#233; 20, 4900 Spa, Belgique</desc>
+  </wpt>
+  <wpt lat="50.6308204246" lon="15.781857192">
+    <src>https://eaupotable.info/fr/153-janske-lazne-pramenik</src>
+    <name>Jansk&#233; L&#225;zn&#283; - Pramen&#237;k</name>
+    <desc>Horn&#237; promen&#225;da, 542 25 Jansk&#233; L&#225;zn&#283;, R&#233;publique tch&#232;que</desc>
+  </wpt>
+  <wpt lat="46.656220144" lon="-70.9793658368">
+    <src>https://eaupotable.info/fr/154-source-de-st-anselme</src>
+    <name>Source de St-Ans&#232;lme</name>
+    <desc>213-305 Rang de la Montagne, Saint-Anselme, QC G0R 2N0, Canada</desc>
+  </wpt>
+  <wpt lat="46.4140482496" lon="-70.8817867275">
+    <src>https://eaupotable.info/fr/156-source-de-saints-anges</src>
+    <name>Source de Saints-Anges</name>
+    <desc>Route des &#201;rables, Saints-Anges, QC G0S 3E0, Canada</desc>
+  </wpt>
+  <wpt lat="46.4809536939" lon="-70.6177231981">
+    <src>https://eaupotable.info/fr/157-source-de-saint-leon-de-standon</src>
+    <name>Source de Saint-L&#233;on-de-Standon</name>
+    <desc>501-517 Rang le Grand, STANDON, QC G0R 4L0, Canada</desc>
+  </wpt>
+  <wpt lat="52.066568584" lon="-2.34226845586">
+    <src>https://eaupotable.info/fr/158-evendine-spring</src>
+    <name>Evendine spring</name>
+    <desc>Evendine Lane, Malvern, Herefordshire WR13, Royaume-Uni</desc>
+  </wpt>
+  <wpt lat="46.5864918226" lon="6.70819840182">
+    <src>https://eaupotable.info/fr/159-fontaine-de-froideville</src>
+    <name>Fontaine de Froideville</name>
+    <desc>Route des Paysans, 1000 Froideville, Suisse</desc>
+  </wpt>
+  <wpt lat="40.3505263323" lon="-7.09014034841">
+    <src>https://eaupotable.info/fr/160-fontaine-de-sabugal</src>
+    <name>Fontaine de Sabugal</name>
+    <desc>Largo 25 de Abril 10, 6320-330 Sabugal, Portugal</desc>
+  </wpt>
+  <wpt lat="42.0998929127" lon="-8.73380421111">
+    <src>https://eaupotable.info/fr/161-fontaine-de-gondomar</src>
+    <name>Fontaine de Gondomar</name>
+    <desc>Peroleira, 16G, 36389 Gondomar, Pontevedra, Espagne</desc>
+  </wpt>
+  <wpt lat="40.3746576" lon="-7.4677339">
+    <src>https://eaupotable.info/fr/162-fontaine-de-verdelhos</src>
+    <name>Fontaine de Verdelhos</name>
+    <desc>Rua da Amoreira 27, 6200 Verdelhos, Portugal</desc>
+  </wpt>
+  <wpt lat="40.4410104105" lon="-7.27556018895">
+    <src>https://eaupotable.info/fr/163-fontaine-publique-de-benespera</src>
+    <name>Fontaine publique de Benespera</name>
+    <desc>Largo Padre Doutor M. C. Amarelo, 6300, Portugal</desc>
+  </wpt>
+  <wpt lat="40.7517084941" lon="-111.877122225">
+    <src>https://eaupotable.info/fr/164-artesian-well-spring</src>
+    <name>Artesian Well Spring</name>
+    <desc>808 South 500 East, Salt Lake City, Utah 84102, &#201;tats-Unis</desc>
+  </wpt>
+  <wpt lat="47.8519742714" lon="-122.284404264">
+    <src>https://eaupotable.info/fr/165-164th-street-artesian-well</src>
+    <name>164th Street Artesian Well</name>
+    <desc>3711 164th Street Southwest, Lynnwood, &#201;tat de Washington 98087, &#201;tats-Unis</desc>
+  </wpt>
+  <wpt lat="44.166783" lon="5.149443">
+    <src>https://eaupotable.info/fr/166-source-du-groseau-a-malaucene-84</src>
+    <name>Source du Groseau &#224; Malauc&#232;ne (84)</name>
+    <desc>Le Groseau</desc>
+  </wpt>
+  <wpt lat="50.1842909" lon="4.6050291">
+    <src>https://eaupotable.info/fr/176-source-de-villers-le-gambon</src>
+    <name>Source de Villers-le-Gambon</name>
+    <desc>Avenue de la Source, 5600 Philippeville, Belgique</desc>
+  </wpt>
+  <wpt lat="43.6782125735" lon="3.50662966138">
+    <src>https://eaupotable.info/fr/177-source-les-bains</src>
+    <name>Source "Les Bains"</name>
+    <desc>D141E2, 34150 Montpeyroux, France</desc>
+  </wpt>
+  <wpt lat="44.153971839" lon="6.0773763653">
+    <src>https://eaupotable.info/fr/178-chapelle-saint-joseph</src>
+    <name>Chapelle Saint Joseph</name>
+    <desc>5 Simon, 04380 Thoard, France</desc>
+  </wpt>
+  <wpt lat="44.2451873406" lon="6.05331158602">
+    <src>https://eaupotable.info/fr/180-village-de-saint-geniez</src>
+    <name>Village de Saint Geniez</name>
+    <desc>Le Village, 04200 Saint-Geniez, France</desc>
+  </wpt>
+  <wpt lat="44.2818001471" lon="6.17849586132">
+    <src>https://eaupotable.info/fr/181-lac-des-monges</src>
+    <name>Lac des Monges</name>
+    <desc>Baudinard, 04250 Bayons, France</desc>
+  </wpt>
+  <wpt lat="44.0259150717" lon="5.93558224369">
+    <src>https://eaupotable.info/fr/182-peyruis</src>
+    <name>Peyruis</name>
+    <desc>Rue du Crouton, 04310 Peyruis, France</desc>
+  </wpt>
+  <wpt lat="50.7050025522" lon="5.81348586243">
+    <src>https://eaupotable.info/fr/186-fontaine-de-saint-jean-sart</src>
+    <name>Fontaine de Saint-Jean-Sart</name>
+    <desc>Rue de Lammerschot 9, 4880 Aubel, Belgi&#235;</desc>
+  </wpt>
+  <wpt lat="43.1123193443" lon="5.98858014345">
+    <src>https://eaupotable.info/fr/188-stade-du-pouverel</src>
+    <name>Stade du Pouverel</name>
+    <desc>Piste Cyclable du Littoral, 83130 La Garde, France</desc>
+  </wpt>
+  <wpt lat="50.5641974" lon="4.2532955">
+    <src>https://eaupotable.info/fr/189-source-de-la-coule-coulette</src>
+    <name>Source de la Coule Coulette</name>
+    <desc>Rue de la Coulette, 7181 Seneffe, Belgique</desc>
+  </wpt>
+  <wpt lat="50.4776043933" lon="4.71076731045">
+    <src>https://eaupotable.info/fr/190-source-de-la-sauveniere</src>
+    <name>Source de la Sauveni&#232;re</name>
+    <desc>Rue de la Sauveni&#232;re 26-30, 5190 Jemeppe-sur-Sambre, Belgique</desc>
+  </wpt>
+  <wpt lat="43.6972038798" lon="7.12164903743">
+    <src>https://eaupotable.info/fr/191-saint-paul-de-vence</src>
+    <name>Saint-Paul-de-Vence</name>
+    <desc>13-19 Rue Grande, 06570 Saint-Paul-de-Vence, France</desc>
+  </wpt>
+  <wpt lat="45.8176101421" lon="-0.251373357147">
+    <src>https://eaupotable.info/fr/193-fontaine-de-brie-sous-matha</src>
+    <name>Fontaine de Brie-sous-Matha</name>
+    <desc>8 Rue de la Fontaine, 17160 Brie-sous-Matha, Frankrijk</desc>
+  </wpt>
+  <wpt lat="50.3992199715" lon="3.83497561797">
+    <src>https://eaupotable.info/fr/194-source-du-rossignol</src>
+    <name>Source du Rossignol</name>
+    <desc>Rue du Rossignol, 7340 Colfontaine, Belgique</desc>
+  </wpt>
+  <wpt lat="41.9521186314" lon="-87.843973827">
+    <src>https://eaupotable.info/fr/195-schiller-park-water-pump</src>
+    <name>Schiller Park water pump</name>
+    <desc>8352 West Irving Park Road, Chicago, Illinois 60634, &#201;tats-Unis</desc>
+  </wpt>
+  <wpt lat="48.1822837355" lon="5.89434054285">
+    <src>https://eaupotable.info/fr/196-source-thermale-de-contrexeville</src>
+    <name>Source thermale de Contrex&#233;ville</name>
+    <desc>306-334 D164, 88140 Contrex&#233;ville, France</desc>
+  </wpt>
+  <wpt lat="46.3693993388" lon="6.47465462144">
+    <src>https://eaupotable.info/fr/199-source-de-la-versoie-eaux-de-thonon</src>
+    <name>Source de la Versoie - Eaux de Thonon</name>
+    <desc>20-22 Avenue du G&#233;n&#233;ral de Gaulle, 74200 Thonon-les-Bains, France</desc>
+  </wpt>
+  <wpt lat="48.635569" lon="0.574064">
+    <src>https://eaupotable.info/fr/200-source-saint-bernard</src>
+    <name>Source Saint-Bernard</name>
+    <desc>Soligny-la-Trappe, France</desc>
+  </wpt>
+  <wpt lat="-33.8844229815" lon="151.192754652">
+    <src>https://eaupotable.info/fr/201-municipal-jubilee-of-the-clebe-fountain</src>
+    <name>Municipal Jubilee of the Clebe fountain</name>
+    <desc>2 Glebe Point Road, Glebe Nouvelle Galles du Sud 2037, Australie</desc>
+  </wpt>
+  <wpt lat="50.6960578469" lon="5.70026779175">
+    <src>https://eaupotable.info/fr/202-eglise-de-saint-remy</src>
+    <name>Eglise de Saint-Remy</name>
+    <desc>Voie Marion 2, 4672 Bl&#233;gny, Belgique</desc>
+  </wpt>
+  <wpt lat="50.5663469621" lon="5.71886086464">
+    <src>https://eaupotable.info/fr/203-cimetiere-fraipont</src>
+    <name>Cimeti&#232;re Fraipont</name>
+    <desc>Rue de Li&#232;ge 12, 4877 Trooz, Belgique</desc>
+  </wpt>
+  <wpt lat="48.3847970319" lon="1.47761064907">
+    <src>https://eaupotable.info/fr/204-fontaine-publique-rue-de-la-barriere-a-ver-les-chartres</src>
+    <name>Fontaine publique rue de la Barri&#232;re &#224; Ver-l&#232;s-Chartres</name>
+    <desc>2-4 Rue de la Barri&#232;re, 28630 Ver-l&#232;s-Chartres, France</desc>
+  </wpt>
+  <wpt lat="47.1534959298" lon="-0.937497486755">
+    <src>https://eaupotable.info/fr/205-fontaine-de-l-abbaye-de-begrolles-en-mauges</src>
+    <name>Fontaine de l'abbaye de B&#233;grolles-en-Mauges</name>
+    <desc>Belle Fontaine, 49122 B&#233;grolles-en-Mauges, France</desc>
+  </wpt>
+  <wpt lat="45.9080536890091" lon="6.22114743862301">
+    <src>https://eaupotable.info/fr/206-source-de-la-route-du-chef-lieu-a-dingy-saint-clair</src>
+    <name>Source de la Route du Chef-Lieu &#224; Dingy-Saint-Clair</name>
+    <desc>248 Route du Chef-Lieu, 74230 Dingy-Saint-Clair, France</desc>
+  </wpt>
+  <wpt lat="50.3225563263" lon="4.96777580397">
+    <src>https://eaupotable.info/fr/207-source-de-chansin</src>
+    <name>Source de Chansin</name>
+    <desc>Chansin 10, 5530 Yvoir, Belgique</desc>
+  </wpt>
+  <wpt lat="44.2110753309" lon="0.893968570778">
+    <src>https://eaupotable.info/fr/208-source-potable-de-saint-maurin</src>
+    <name>Source potable de Saint-Maurin</name>
+    <desc>35-38 Gr Grande Rue, 47270 Saint-Maurin, France</desc>
+  </wpt>
+  <wpt lat="44.5310334" lon="0.7663166">
+    <src>https://eaupotable.info/fr/209-source-les-canelles</src>
+    <name>Source les canelles</name>
+    <desc>Place des Cannelles, 47150 Monflanquin, France</desc>
+  </wpt>
+  <wpt lat="50.6165219" lon="4.5083049">
+    <src>https://eaupotable.info/fr/210-fontaine-de-la-place-de-bousval</src>
+    <name>Fontaine de la place de Bousval</name>
+    <desc>Place Communale, 1470 Genappe, Belgique</desc>
+  </wpt>
+  <wpt lat="49.2832251823" lon="2.99872721898">
+    <src>https://eaupotable.info/fr/212-fontaine-publique-de-bonneuil-en-valois</src>
+    <name>Fontaine publique de Bonneuil-en-Valois</name>
+    <desc>540 Rue de Villers, 60123 Bonneuil-en-Valois, France</desc>
+  </wpt>
+  <wpt lat="50.4344290331" lon="5.53353959325">
+    <src>https://eaupotable.info/fr/214-source-de-hamoir</src>
+    <name>Source de Hamoir</name>
+    <desc>Place Del Cour 21, 4180 Hamoir, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1705505074112" lon="5.41360533790589">
+    <src>https://eaupotable.info/fr/215-robinet-du-cimetiere-de-bande</src>
+    <name>Robinet du cimeti&#232;re de Bande</name>
+    <desc>Route de Ligni&#232;res 7, 6951 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1827997595027" lon="5.38150197820664">
+    <src>https://eaupotable.info/fr/216-robinet-du-cimetiere-de-charneux</src>
+    <name>Robinet du cimeti&#232;re de Charneux</name>
+    <desc>Rue de Roy 13-23, 6950 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1565057821443" lon="5.38209206418992">
+    <src>https://eaupotable.info/fr/217-robinet-du-cimetiere-de-grune</src>
+    <name>Robinet du cimeti&#232;re de Grune</name>
+    <desc>Rue de l'Eglise, 6952 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1753794685217" lon="5.35131371574403">
+    <src>https://eaupotable.info/fr/218-robinet-du-cimetiere-d-harsin-chavanne</src>
+    <name>Robinet du cimeti&#232;re d'Harsin-Chavanne</name>
+    <desc>Rue des Ecoles, 6950 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1310811085199" lon="5.33916867332459">
+    <src>https://eaupotable.info/fr/219-la-pepinette</src>
+    <name>La p&#233;pinette</name>
+    <desc>Rue de la P&#233;pinette 5, 6950 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1319304774175" lon="5.33816820936204">
+    <src>https://eaupotable.info/fr/220-robinet-du-cimetiere-de-nassogne</src>
+    <name>Robinet du cimeti&#232;re de Nassogne</name>
+    <desc>Rue de la P&#233;pinette 5, 6950 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1318960903056" lon="5.33721602516175">
+    <src>https://eaupotable.info/fr/221-robinet-du-cimetiere-de-nassogne</src>
+    <name>Robinet du cimeti&#232;re de Nassogne</name>
+    <desc>Rue Richard Heintz 3-37, 6953 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.0926787102" lon="5.32229757862">
+    <src>https://eaupotable.info/fr/222-eau-du-reservoir-de-mormont</src>
+    <name>Eau du r&#233;servoir de Mormont</name>
+    <desc>Rue L&#233;on Herman 8, 6953 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1123120557457" lon="5.31260675745011">
+    <src>https://eaupotable.info/fr/223-robinet-du-cimetiere-de-masboug</src>
+    <name>Robinet du cimeti&#232;re de Masboug</name>
+    <desc>Rue des Roches, 6953 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1120454457385" lon="5.28381860809327">
+    <src>https://eaupotable.info/fr/224-robinet-du-cimetiere-de-lesterny</src>
+    <name>Robinet du cimeti&#232;re de Lesterny</name>
+    <desc>Rue du Point-d'Arr&#234;t 43, 6953 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1321711865091" lon="5.27751273469926">
+    <src>https://eaupotable.info/fr/225-robinet-du-cimetiere-de-forrieres</src>
+    <name>Robinet du cimeti&#232;re de Forri&#232;res</name>
+    <desc>Au Fosset, 6953 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="50.1405402325" lon="5.31239486294">
+    <src>https://eaupotable.info/fr/226-robinet-du-cimetiere-d-ambly</src>
+    <name>Robinet du cimeti&#232;re d'Ambly</name>
+    <desc>Rue du Cimeti&#232;re, 6953 Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="47.8236934991" lon="1.69781823777">
+    <src>https://eaupotable.info/fr/227-fontaine-d-eau-potable-de-meung-sur-loire</src>
+    <name>Fontaine d'eau potable de Meung-sur-Loire</name>
+    <desc>10 Chemin des Gr&#232;ves, 45130 Meung-sur-Loire, France</desc>
+  </wpt>
+  <wpt lat="47.8291433151" lon="7.18469415946">
+    <src>https://eaupotable.info/fr/228-source-de-wattwiller</src>
+    <name>Source de Wattwiller</name>
+    <desc>9 Rue de Guebwiller, 68700 Wattwiller, France</desc>
+  </wpt>
+  <wpt lat="50.173368465" lon="4.55815548676">
+    <src>https://eaupotable.info/fr/230-source-de-sautour</src>
+    <name>Source de Sautour</name>
+    <desc>Sautour, Belgique</desc>
+  </wpt>
+  <wpt lat="43.1002437266" lon="6.06132638454">
+    <src>https://eaupotable.info/fr/231-piste-cyclable-stade-tassy</src>
+    <name>Piste Cyclable - Stade Tassy</name>
+    <desc>Carqueiranne, France</desc>
+  </wpt>
+  <wpt lat="49.25727" lon="3.246663">
+    <src>https://eaupotable.info/fr/232-fontaine-de-louatre</src>
+    <name>Fontaine de Lou&#226;tre</name>
+    <desc>Lou&#226;tre, France</desc>
+  </wpt>
+  <wpt lat="45.7662978795596" lon="4.88017967141946">
+    <src>https://eaupotable.info/fr/234-borne-de-la-place-lazare-goujon</src>
+    <name>Borne de la place Lazare Goujon</name>
+    <desc>Villeurbanne, France</desc>
+  </wpt>
+  <wpt lat="44.5014932212" lon="4.23772691003">
+    <src>https://eaupotable.info/fr/235-source-entre-deux-maison-a-rosieres</src>
+    <name>Source entre deux maison &#224; Rosi&#232;res</name>
+    <desc>Joyeuse, France</desc>
+  </wpt>
+  <wpt lat="45.1949010375133" lon="5.72853926689527">
+    <src>https://eaupotable.info/fr/236-fontaine-borne-du-lion-terrassant-le-serpent</src>
+    <name>Fontaine-borne du Lion terrassant le Serpent</name>
+    <desc>Grenoble, France</desc>
+  </wpt>
+  <wpt lat="45.1977966668946" lon="5.73195103676221">
+    <src>https://eaupotable.info/fr/237-fontaine-borne-de-la-casemate</src>
+    <name>Fontaine-borne de la Casemate</name>
+    <desc>Grenoble, France</desc>
+  </wpt>
+  <wpt lat="45.3420097602775" lon="5.81574855952454">
+    <src>https://eaupotable.info/fr/238-fontaine-de-st-pierre-de-chartreuse</src>
+    <name>Fontaine de St-Pierre-de-Chartreuse</name>
+    <desc>Saint-Pierre-de-Chartreuse, France</desc>
+  </wpt>
+  <wpt lat="43.8350251357" lon="5.69331810912">
+    <src>https://eaupotable.info/fr/239-fontaine-de-monfuron</src>
+    <name>Fontaine de Monfuron</name>
+    <desc>Montfuron, France</desc>
+  </wpt>
+  <wpt lat="43.3544361474683" lon="5.98390600583502">
+    <src>https://eaupotable.info/fr/240-source-des-orris</src>
+    <name>Source des Orris</name>
+    <desc>Les Orris, La Roquebrussanne, France</desc>
+  </wpt>
+  <wpt lat="44.0544129219008" lon="5.71267937301639">
+    <src>https://eaupotable.info/fr/243-source-de-lardiers</src>
+    <name>Source de Lardiers</name>
+    <desc>Lardiers, France</desc>
+  </wpt>
+  <wpt lat="48.7701238973426" lon="2.12353583890081">
+    <src>https://eaupotable.info/fr/244-borne-du-parc-du-chateau-de-buc</src>
+    <name>Borne du parc du Ch&#226;teau de Buc</name>
+    <desc>78000 Buc, France</desc>
+  </wpt>
+  <wpt lat="43.5829137386" lon="1.34633242691">
+    <src>https://eaupotable.info/fr/245-fontaine-de-la-mairie</src>
+    <name>Fontaine de la Mairie</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="43.5843338669283" lon="1.35640412176508">
+    <src>https://eaupotable.info/fr/246-fontaine-le-long-du-gr</src>
+    <name>Fontaine le long du GR</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="43.5834120977" lon="1.346179541">
+    <src>https://eaupotable.info/fr/247-fontaine-du-square-bernard-audige</src>
+    <name>Fontaine du square Bernard Audig&#233;</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="43.5960508338858" lon="1.37101679647822">
+    <src>https://eaupotable.info/fr/248-fontaine-pres-du-touch</src>
+    <name>Fontaine pr&#232;s du Touch</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="43.5801508596762" lon="1.34969859922785">
+    <src>https://eaupotable.info/fr/249-robinet-de-l-etang</src>
+    <name>Robinet de l'&#233;tang</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="43.5753611100666" lon="1.27656283138276">
+    <src>https://eaupotable.info/fr/250-fontaine-du-skate-parc</src>
+    <name>Fontaine du Skate Parc</name>
+    <desc>La Salvetat-Saint-Gilles, France</desc>
+  </wpt>
+  <wpt lat="43.4609270100208" lon="1.32382476945872">
+    <src>https://eaupotable.info/fr/251-fontaine-du-parc-municipal</src>
+    <name>Fontaine du Parc Municipal</name>
+    <desc>Muret, France</desc>
+  </wpt>
+  <wpt lat="43.4636481591417" lon="1.32854813953395">
+    <src>https://eaupotable.info/fr/252-fontaine-du-parc-jean-jaures</src>
+    <name>Fontaine du Parc Jean Jaur&#232;s</name>
+    <desc>Muret, France</desc>
+  </wpt>
+  <wpt lat="43.9170862689" lon="7.24753144659">
+    <src>https://eaupotable.info/fr/253-source-st-joseph</src>
+    <name>Source St Joseph</name>
+    <desc>Utelle, Francia</desc>
+  </wpt>
+  <wpt lat="43.6084716000074" lon="1.38214990973972">
+    <src>https://eaupotable.info/fr/254-fontaine-du-square-de-saint-martin</src>
+    <name>Fontaine du Square de Saint Martin</name>
+    <desc>Saint - Martin - du - Touch, Toulouse, France</desc>
+  </wpt>
+  <wpt lat="43.5859887856" lon="1.33262499774">
+    <src>https://eaupotable.info/fr/255-fontaine-de-la-paderne-sud</src>
+    <name>Fontaine de la Paderne - Sud</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="43.5866373317" lon="1.33170030619">
+    <src>https://eaupotable.info/fr/256-fontaine-de-la-paderne-nord</src>
+    <name>Fontaine de la Paderne - Nord</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="43.6009831124" lon="1.23210509902">
+    <src>https://eaupotable.info/fr/257-robinets-du-parc-de-leguevin</src>
+    <name>Robinets du parc de Leguevin</name>
+    <desc>L&#233;guevin, France</desc>
+  </wpt>
+  <wpt lat="43.6563263683" lon="6.87395783796">
+    <src>https://eaupotable.info/fr/258-fontaine-de-la-place</src>
+    <name>Fontaine de la place</name>
+    <desc>Cabris, France</desc>
+  </wpt>
+  <wpt lat="43.6558412261" lon="6.87463375463">
+    <src>https://eaupotable.info/fr/259-fontaine-de-la-rue-du-four</src>
+    <name>Fontaine de la rue du Four</name>
+    <desc>Cabris, France</desc>
+  </wpt>
+  <wpt lat="43.6551930701" lon="6.87620821132">
+    <src>https://eaupotable.info/fr/260-fontaine-du-vieux-chateau</src>
+    <name>Fontaine du Vieux Ch&#226;teau</name>
+    <desc>Cabris, France</desc>
+  </wpt>
+  <wpt lat="43.6578438352" lon="6.92257061042">
+    <src>https://eaupotable.info/fr/261-fontaine-des-dominicains</src>
+    <name>Fontaine des Dominicains</name>
+    <desc>Grasse, France</desc>
+  </wpt>
+  <wpt lat="43.6583765034" lon="6.92438646592">
+    <src>https://eaupotable.info/fr/262-fontaine-de-la-place-de-la-poissonnerie</src>
+    <name>Fontaine de la place de la Poissonnerie</name>
+    <desc>Grasse, France</desc>
+  </wpt>
+  <wpt lat="43.6596834123" lon="6.92416920699">
+    <src>https://eaupotable.info/fr/263-la-fontette</src>
+    <name>La Fontette</name>
+    <desc>Grasse, France</desc>
+  </wpt>
+  <wpt lat="43.4005961106" lon="1.71590887564">
+    <src>https://eaupotable.info/fr/267-robinet-de-la-place-de-la-poste</src>
+    <name>Robinet de la place de la Poste</name>
+    <desc>Villefranche-de-Lauragais, France</desc>
+  </wpt>
+  <wpt lat="43.3978131518" lon="1.71887673992">
+    <src>https://eaupotable.info/fr/268-robinet-de-la-rue-edgar-quinet</src>
+    <name>Robinet de la rue Edgar Quinet</name>
+    <desc>Villefranche-de-Lauragais, France</desc>
+  </wpt>
+  <wpt lat="43.6466982306" lon="1.43091597212">
+    <src>https://eaupotable.info/fr/269-fontaine-du-cimetiere-de-lalande</src>
+    <name>Fontaine du cimeti&#232;re de Lalande</name>
+    <desc>Toulouse, France</desc>
+  </wpt>
+  <wpt lat="45.6713595" lon="-74.2634974">
+    <src>https://eaupotable.info/fr/270-source-publique-de-lachute</src>
+    <name>Source publique de Lachute</name>
+    <desc>2005 chemin de la rici&#232;re du nord,Lachute, Canada, J8H 3W7</desc>
+  </wpt>
+  <wpt lat="50.860577" lon="4.391098">
+    <src>https://eaupotable.info/fr/280-auguste-orts</src>
+    <name>Auguste Orts</name>
+    <desc>Josaphatpark, 1030 Schaarbeek, Belgium</desc>
+  </wpt>
+  <wpt lat="50.899697" lon="4.331671">
+    <src>https://eaupotable.info/fr/281-rue-des-genevriers</src>
+    <name>Rue des Gen&#233;vriers</name>
+    <desc>Rue des Gen&#233;vriers 42, 1020 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.811657" lon="4.371228">
+    <src>https://eaupotable.info/fr/282-chemin-du-croquet</src>
+    <name>Chemin du Croquet</name>
+    <desc>Croquetweg 1, 1000 Brussel, Belgium</desc>
+  </wpt>
+  <wpt lat="50.850824" lon="4.401741">
+    <src>https://eaupotable.info/fr/283-montserrat</src>
+    <name>Montserrat</name>
+    <desc>Auguste Reyerslaan 80, 1030 Schaarbeek, Belgium</desc>
+  </wpt>
+  <wpt lat="50.854834" lon="4.368782">
+    <src>https://eaupotable.info/fr/284-la-balancoire</src>
+    <name>La Balan&#231;oire</name>
+    <desc>Rue du M&#233;ridien 57, 1210 Saint-Josse-ten-Noode, Belgium</desc>
+  </wpt>
+  <wpt lat="50.866211" lon="4.345436">
+    <src>https://eaupotable.info/fr/285-skate-park-marie-popelin</src>
+    <name>Skate Park "Marie Popelin"</name>
+    <desc>Rue du Laekenveld 89, 1080 Molenbeek-Saint-Jean, Belgium</desc>
+  </wpt>
+  <wpt lat="50.852558" lon="4.373589">
+    <src>https://eaupotable.info/fr/286-rue-du-lombard</src>
+    <name>Rue du Lombard</name>
+    <desc>Rue de la Commune 68, 1210 Saint-Josse-ten-Noode, Belgium</desc>
+  </wpt>
+  <wpt lat="50.829686" lon="4.331703">
+    <src>https://eaupotable.info/fr/287-plaine-des-escargots</src>
+    <name>Plaine des Escargots</name>
+    <desc>Belgradostraat 100, 1060 Sint-Gillis, Belgium</desc>
+  </wpt>
+  <wpt lat="50.835866" lon="4.301834">
+    <src>https://eaupotable.info/fr/288-le-singe</src>
+    <name>Le Singe</name>
+    <desc>Rue Saint-Guidon 79, 1070 Anderlecht, Belgium</desc>
+  </wpt>
+  <wpt lat="50.870545" lon="4.503021">
+    <src>https://eaupotable.info/fr/289-parc-porte-de-hal</src>
+    <name>Parc Porte de Hal</name>
+    <desc>Mercuriusstraat 27, 1930 Zaventem, Belgium</desc>
+  </wpt>
+  <wpt lat="50.847587" lon="4.351514">
+    <src>https://eaupotable.info/fr/290-les-aveugles</src>
+    <name>Les Aveugles</name>
+    <desc>Rue au Beurre 23, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.851194" lon="4.342411">
+    <src>https://eaupotable.info/fr/291-rue-du-houblon</src>
+    <name>Rue du Houblon</name>
+    <desc>Rue du Houblon 39-41, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.885259" lon="4.348113">
+    <src>https://eaupotable.info/fr/292-les-jardins-du-fleuriste</src>
+    <name>Les jardins du Fleuriste</name>
+    <desc>Avenue des Robiniers, 1020 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.912125" lon="4.268875">
+    <src>https://eaupotable.info/fr/293-simone-de-beauvoir-parc-fontainas</src>
+    <name>"Simone de Beauvoir" Parc Fontainas</name>
+    <desc>Lindestraat 147, 1785 Merchtem, Belgium</desc>
+  </wpt>
+  <wpt lat="50.84322" lon="4.362817">
+    <src>https://eaupotable.info/fr/294-la-fille-a-la-coquille</src>
+    <name>La Fille &#224; la Coquille</name>
+    <desc>La Fillette A la Coquille, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.83796" lon="4.355628">
+    <src>https://eaupotable.info/fr/295-parc-d-egmont</src>
+    <name>Parc d'Egmont</name>
+    <desc>La Fontaine Marguerite Yourcenar (Eau Potable), 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.85394" lon="4.357061">
+    <src>https://eaupotable.info/fr/296-eglise-du-finistere</src>
+    <name>Eglise du Finist&#232;re</name>
+    <desc>Empedocle (Fontaine d'Eau Potable), 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.896169" lon="4.419106">
+    <src>https://eaupotable.info/fr/297-rue-de-beemdgracht</src>
+    <name>Rue de Beemdgracht</name>
+    <desc>Rue du Beemdgracht 48, 1130 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.853341" lon="4.350033">
+    <src>https://eaupotable.info/fr/298-les-musiciens</src>
+    <name>Les Musiciens</name>
+    <desc>Rue du Grand Hospice 7, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.859494" lon="4.286041">
+    <src>https://eaupotable.info/fr/299-boulevard-de-limperatrice</src>
+    <name>Boulevard de l&#8217;Imp&#233;ratrice</name>
+    <desc>'t Hof te Overbeke 26, 1082 Berchem-Sainte-Agathe, Belgium</desc>
+  </wpt>
+  <wpt lat="50.883976" lon="4.465942">
+    <src>https://eaupotable.info/fr/300-quai-au-foin</src>
+    <name>Quai au Foin</name>
+    <desc>Papierfabrieksstraat 13, 1930 Zaventem, Belgium</desc>
+  </wpt>
+  <wpt lat="50.801738" lon="4.383953">
+    <src>https://eaupotable.info/fr/301-avenue-des-genets</src>
+    <name>Avenue des G&#234;nets</name>
+    <desc>Bremlaan, 1000 Brussel, Belgium</desc>
+  </wpt>
+  <wpt lat="50.82459" lon="4.448776">
+    <src>https://eaupotable.info/fr/302-parc-de-bruxelles</src>
+    <name>Parc de Bruxelles</name>
+    <desc>Val des B&#233;casses 1, 1150 Woluwe-Saint-Pierre, Belgium</desc>
+  </wpt>
+  <wpt lat="50.845839" lon="4.321918">
+    <src>https://eaupotable.info/fr/303-carnaval</src>
+    <name>Carnaval</name>
+    <desc>Birminghamstraat 131, 1070 Anderlecht, Belgium</desc>
+  </wpt>
+  <wpt lat="50.928141" lon="4.271622">
+    <src>https://eaupotable.info/fr/304-square-marguerite</src>
+    <name>Square Marguerite</name>
+    <desc>Romeinsebaan 31-51, 1785 Merchtem, Belgium</desc>
+  </wpt>
+  <wpt lat="50.828385" lon="4.363117">
+    <src>https://eaupotable.info/fr/305-commeres-a-la-fontaine</src>
+    <name>Comm&#232;res &#224; la Fontaine</name>
+    <desc>Avenue Louise 166, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.851041" lon="4.364834">
+    <src>https://eaupotable.info/fr/306-jardin-des-olives</src>
+    <name>Jardin des Olives</name>
+    <desc>Rue Royale 101, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.899355" lon="4.380769">
+    <src>https://eaupotable.info/fr/307-parc-du-val-maria</src>
+    <name>Parc du Val Maria</name>
+    <desc>Val Maria 36, 1120 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.85906" lon="4.351273">
+    <src>https://eaupotable.info/fr/308-skate-park-ursulines</src>
+    <name>Skate Park "Ursulines"</name>
+    <desc>Quai du Batelage 1, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.858952" lon="4.37479">
+    <src>https://eaupotable.info/fr/309-rue-de-malines</src>
+    <name>Rue de Malines</name>
+    <desc>Rue Josaphat 126, 1030 Schaerbeek, Belgium</desc>
+  </wpt>
+  <wpt lat="50.885303" lon="4.349304">
+    <src>https://eaupotable.info/fr/310-les-jardins-du-fleuriste</src>
+    <name>Les jardins du Fleuriste</name>
+    <desc>Rue M&#233;dori 68, 1020 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.801378" lon="4.292564">
+    <src>https://eaupotable.info/fr/311-la-galanterie</src>
+    <name>La Galanterie</name>
+    <desc>Eug&#232;ne Ghijsstraat 76, 1600 Sint-Pieters-Leeuw, Belgium</desc>
+  </wpt>
+  <wpt lat="50.801873" lon="4.382515">
+    <src>https://eaupotable.info/fr/312-avenue-des-genets</src>
+    <name>Avenue des G&#234;nets</name>
+    <desc>Sentier des Canoers, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.839335" lon="4.351959">
+    <src>https://eaupotable.info/fr/313-jeanne-emile-vandervelde</src>
+    <name>Jeanne Emile Vandervelde</name>
+    <desc>Rue du Temple 19, 1000 Bruxelles, Belgium</desc>
+  </wpt>
+  <wpt lat="50.969671" lon="4.367409">
+    <src>https://eaupotable.info/fr/314-rue-botanique</src>
+    <name>Rue Botanique</name>
+    <desc>Molenstraat 211, 1851 Grimbergen, Belgium</desc>
+  </wpt>
+  <wpt lat="50.869461" lon="4.374447">
+    <src>https://eaupotable.info/fr/315-parc-maximilienpark</src>
+    <name>Parc MaximilienPark</name>
+    <desc>Avenue Mar&#233;chal Foch 43, 1030 Schaerbeek, Belgium</desc>
+  </wpt>
+  <wpt lat="50.884138" lon="4.341842">
+    <src>https://eaupotable.info/fr/316-square-prince-leopold</src>
+    <name>Square Prince L&#233;opold</name>
+    <desc>Prins Leopoldsquare 50, 1020 Brussel, Belgium</desc>
+  </wpt>
+  <wpt lat="43.3965580501292" lon="1.71791516798407">
+    <src>https://eaupotable.info/fr/317-lavabos-et-toilettes-de-la-rue-voltaire</src>
+    <name>Lavabos et toilettes de la rue Voltaire</name>
+    <desc>Villefranche-de-Lauragais, France</desc>
+  </wpt>
+  <wpt lat="43.4008572500672" lon="1.71891831415564">
+    <src>https://eaupotable.info/fr/318-toilettes-et-lavabos-de-la-rue-jules-ferry</src>
+    <name>Toilettes et lavabos de la rue Jules Ferry</name>
+    <desc>Villefranche-de-Lauragais, France</desc>
+  </wpt>
+  <wpt lat="43.3669636425978" lon="1.7891787050628">
+    <src>https://eaupotable.info/fr/319-robinet-du-parvis-de-l-eglise</src>
+    <name>Robinet du parvis de l'Eglise</name>
+    <desc>Avignonet-Lauragais, France</desc>
+  </wpt>
+  <wpt lat="50.7948436425" lon="4.66256159503">
+    <src>https://eaupotable.info/fr/320-source-des-cerfs-hertebron</src>
+    <name>Source Des Cerfs (Hertebron)</name>
+    <desc>Meerdaalbos, Brabant Flamand, Belgique</desc>
+  </wpt>
+  <wpt lat="43.5748482993" lon="-0.137822998889">
+    <src>https://eaupotable.info/fr/321-fontaine-sainte-quitterie</src>
+    <name>Fontaine Sainte Quitterie</name>
+    <desc>Aubous, France</desc>
+  </wpt>
+  <wpt lat="43.6348425571" lon="1.40227505973">
+    <src>https://eaupotable.info/fr/322-fontaine-proche-de-la-garonne</src>
+    <name>Fontaine proche de la Garonne</name>
+    <desc>Blagnac, France</desc>
+  </wpt>
+  <wpt lat="43.6346746599" lon="1.40038276127">
+    <src>https://eaupotable.info/fr/323-lavabo-du-parc-du-ramier</src>
+    <name>Lavabo du parc du Ramier</name>
+    <desc>Blagnac, France</desc>
+  </wpt>
+  <wpt lat="43.9336233157724" lon="0.627005947776752">
+    <src>https://eaupotable.info/fr/324-toilettes-et-lavabos-du-cours-gambetta</src>
+    <name>Toilettes et lavabos du cours Gambetta</name>
+    <desc>Lectoure, France</desc>
+  </wpt>
+  <wpt lat="43.6116075457" lon="1.33994785452">
+    <src>https://eaupotable.info/fr/325-fontaine-du-parc-duroch</src>
+    <name>Fontaine du parc Duroch</name>
+    <desc>Colomiers, France</desc>
+  </wpt>
+  <wpt lat="43.898626" lon="4.6208159">
+    <src>https://eaupotable.info/fr/326-lavoir-de-theziers</src>
+    <name>Lavoir de Th&#233;ziers</name>
+    <desc>Th&#233;ziers, France</desc>
+  </wpt>
+  <wpt lat="43.4354939907" lon="1.66245183213">
+    <src>https://eaupotable.info/fr/327-toilettes-et-lavabos-de-la-rue-de-l-autan</src>
+    <name>Toilettes et lavabos de la rue de l'Autan</name>
+    <desc>31290 Villenouvelle, France</desc>
+  </wpt>
+  <wpt lat="43.4364580861" lon="1.66082775457">
+    <src>https://eaupotable.info/fr/328-fontaine-de-la-mairie</src>
+    <name>Fontaine de la Mairie</name>
+    <desc>31290 Villenouvelle, France</desc>
+  </wpt>
+  <wpt lat="50.0362591707" lon="4.51725505292">
+    <src>https://eaupotable.info/fr/329-source-rue-de-la-platinerie-a-couvin</src>
+    <name>Source rue de la Platinerie &#224; Couvin</name>
+    <desc>Rue de la Platinerie, Couvin, Belgique</desc>
+  </wpt>
+  <wpt lat="43.5850961401" lon="1.34703784789">
+    <src>https://eaupotable.info/fr/330-fontaine-du-square-camy</src>
+    <name>Fontaine du square Camy</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="43.5619155373" lon="1.41427554739">
+    <src>https://eaupotable.info/fr/331-fontaine-du-parc-de-gironis</src>
+    <name>Fontaine du parc de Gironis</name>
+    <desc>Toulouse, France</desc>
+  </wpt>
+  <wpt lat="43.5641422535" lon="1.34774595107">
+    <src>https://eaupotable.info/fr/332-fontaine-a-la-ramee</src>
+    <name>Fontaine &#224; la Ram&#233;e</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="48.1989472155893" lon="5.95269111250309">
+    <src>https://eaupotable.info/fr/333-fontaine-d-eau-vittel</src>
+    <name>Fontaine d'eau Vittel </name>
+    <desc>Vittel, France</desc>
+  </wpt>
+  <wpt lat="43.4848576751" lon="-1.55828535946">
+    <src>https://eaupotable.info/fr/334-fontaine-sur-la-grande-plage-de-biarritz-1</src>
+    <name>Fontaine sur la Grande Plage de Biarritz 1</name>
+    <desc>Biarritz, France</desc>
+  </wpt>
+  <wpt lat="43.4859406664" lon="-1.55729696543">
+    <src>https://eaupotable.info/fr/335-fontaine-sur-la-grande-plage-de-biarritz-2</src>
+    <name>Fontaine sur la Grande Plage de Biarritz 2</name>
+    <desc>Biarritz, France</desc>
+  </wpt>
+  <wpt lat="43.4040402047" lon="-1.64983439177">
+    <src>https://eaupotable.info/fr/336-fontaine-du-jardin-botanique</src>
+    <name>Fontaine du Jardin Botanique</name>
+    <desc>Saint-Jean-de-Luz, France</desc>
+  </wpt>
+  <wpt lat="43.4071249106" lon="-1.64088654249">
+    <src>https://eaupotable.info/fr/337-robinet-de-la-plage-d-erromardie</src>
+    <name>Robinet de la plage d'Erromardie</name>
+    <desc>Saint-Jean-de-Luz, France</desc>
+  </wpt>
+  <wpt lat="45.314836627914" lon="5.2058071249146">
+    <src>https://eaupotable.info/fr/338-eau-de-la-source-de-sainte-baudille</src>
+    <name>Eau de la Source de Sainte Baudille</name>
+    <desc>38980 Viriville, France</desc>
+  </wpt>
+  <wpt lat="48.7187461479154" lon="7.31493800265503">
+    <src>https://eaupotable.info/fr/339-station-de-neutralisation-baerenbach</src>
+    <name>Station de neutralisation Baerenbach</name>
+    <desc>67700 Stambach, Haegen, France</desc>
+  </wpt>
+  <wpt lat="50.3954083" lon="5.6091288">
+    <src>https://eaupotable.info/fr/340-source-rue-de-la-fontaine-a-ferrieres</src>
+    <name>Source rue de la fontaine &#224; Ferri&#232;res</name>
+    <desc>Rue de la Fontaine, Ferri&#232;res, Belgique</desc>
+  </wpt>
+  <wpt lat="43.3899650934" lon="-1.6629061374">
+    <src>https://eaupotable.info/fr/341-fontaine-de-la-plage</src>
+    <name>Fontaine de la plage</name>
+    <desc>Saint-Jean-de-Luz, France</desc>
+  </wpt>
+  <wpt lat="43.3865354707236" lon="-1.66332322090147">
+    <src>https://eaupotable.info/fr/342-fontaine-du-port</src>
+    <name>Fontaine du Port</name>
+    <desc>Saint-Jean-de-Luz, France</desc>
+  </wpt>
+  <wpt lat="50.45653" lon="4.238825">
+    <src>https://eaupotable.info/fr/343-source-de-la-malaise</src>
+    <name>Source de la malaise</name>
+    <desc>Rue de la Malaise 21 7140 Morlanwelz, Belgium</desc>
+  </wpt>
+  <wpt lat="43.5378584824418" lon="1.34468386375431">
+    <src>https://eaupotable.info/fr/344-toilettes-publiques-de-l-avenue-de-toulouse</src>
+    <name>Toilettes publiques de l'Avenue de Toulouse</name>
+    <desc>Cugnaux, France</desc>
+  </wpt>
+  <wpt lat="43.5663843871" lon="1.34453534687">
+    <src>https://eaupotable.info/fr/345-fontaine-du-parc-de-jeux-d-enfants</src>
+    <name>Fontaine du parc de jeux d'enfants</name>
+    <desc>Tournefeuille, France</desc>
+  </wpt>
+  <wpt lat="45.54151" lon="3.248128">
+    <src>https://eaupotable.info/fr/346-fontaine-du-chancelier</src>
+    <name>Fontaine du chancelier</name>
+    <desc>Issoire, France</desc>
+  </wpt>
+  <wpt lat="44.1905967825" lon="3.20853086774">
+    <src>https://eaupotable.info/fr/358-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Le Rozier, France</desc>
+  </wpt>
+  <wpt lat="44.1529467062398" lon="3.25776160216901">
+    <src>https://eaupotable.info/fr/359-distribution-saint-andre-de-vezines</src>
+    <name>Distribution Saint-Andr&#233;-De-V&#233;zines</name>
+    <desc>Saint-Andr&#233;-de-V&#233;zines, France</desc>
+  </wpt>
+  <wpt lat="44.226173503105" lon="3.27270287598799">
+    <src>https://eaupotable.info/fr/360-eau-de-distribution-saint-pierre-des-tripiers</src>
+    <name>Eau de distribution Saint Pierre des Tripiers</name>
+    <desc>Saint-Pierre-des-Tripiers, France</desc>
+  </wpt>
+  <wpt lat="44.124343296809" lon="3.22279913359068">
+    <src>https://eaupotable.info/fr/361-fontaine-roque-sainte-marguerite</src>
+    <name>Fontaine Roque Sainte Marguerite</name>
+    <desc>La Roque-Sainte-Marguerite, France</desc>
+  </wpt>
+  <wpt lat="44.1726621772342" lon="3.24671626544568">
+    <src>https://eaupotable.info/fr/362-eau-de-distribution-saint-jean-des-balmes</src>
+    <name>Eau de distribution Saint Jean Des Balmes</name>
+    <desc>Saint-Andr&#233;-de-V&#233;zines, France</desc>
+  </wpt>
+  <wpt lat="49.0462035445569" lon="1.82624553436278">
+    <src>https://eaupotable.info/fr/363-fontaine-naturelle</src>
+    <name>Fontaine naturelle</name>
+    <desc>Montalet-le-Bois, France</desc>
+  </wpt>
+  <wpt lat="43.6011873521335" lon="1.43123515499497">
+    <src>https://eaupotable.info/fr/364-fontaine-du-jardin-raymond-vi</src>
+    <name>Fontaine du jardin Raymond VI</name>
+    <desc>Toulouse, France</desc>
+  </wpt>
+  <wpt lat="43.5952134351426" lon="1.45182379139328">
+    <src>https://eaupotable.info/fr/365-fontaine-du-grand-rond</src>
+    <name>Fontaine du Grand Rond</name>
+    <desc>Toulouse, France</desc>
+  </wpt>
+  <wpt lat="43.5924535584062" lon="1.45085014952087">
+    <src>https://eaupotable.info/fr/366-fontaine-du-jardin-des-plantes</src>
+    <name>Fontaine du Jardin des Plantes</name>
+    <desc>Toulouse, France</desc>
+  </wpt>
+  <wpt lat="43.33258" lon="3.2245">
+    <src>https://eaupotable.info/fr/367-fontaine-eau-potable-piste-cyclable-qui-longe-le-canal-du-midi</src>
+    <name>Fontaine eau potable - piste cyclable qui longe le Canal du Midi</name>
+    <desc>Canal du Midi, B&#233;ziers, France</desc>
+  </wpt>
+  <wpt lat="43.31703" lon="3.281778">
+    <src>https://eaupotable.info/fr/368-piste-cyclable-canal-du-midi</src>
+    <name>Piste cyclable Canal du Midi</name>
+    <desc>Villeneuve-l&#232;s-B&#233;ziers, France</desc>
+  </wpt>
+  <wpt lat="43.30414" lon="3.329889">
+    <src>https://eaupotable.info/fr/369-piste-cyclable-canal-du-midi</src>
+    <name>Piste cyclable Canal du Midi</name>
+    <desc>Portiragnes, France</desc>
+  </wpt>
+  <wpt lat="43.3442440599518" lon="3.20773482322738">
+    <src>https://eaupotable.info/fr/371-fontaine-eau-potable-jardin-de-la-plantade</src>
+    <name>Fontaine eau potable Jardin de la Plantade</name>
+    <desc>Jardin de la Plantade, B&#233;ziers, 34500</desc>
+  </wpt>
+  <wpt lat="43.3385245797657" lon="3.22128534317062">
+    <src>https://eaupotable.info/fr/372-fontaine-eau-potable-ndeg2-parc-plateau-des-poetes</src>
+    <name>Fontaine eau potable n&#176;2 -  Parc Plateau des Po&#232;tes</name>
+    <desc>parc des po&#232;tes b&#233;ziers 34500</desc>
+  </wpt>
+  <wpt lat="43.3391956517252" lon="3.21905642747925">
+    <src>https://eaupotable.info/fr/373-fontaine-eau-potable-ndeg1-parc-plateau-des-poetes</src>
+    <name>Fontaine eau potable n&#176;1 - Parc Plateau des Po&#232;tes</name>
+    <desc>parc plateau des po&#232;tes b&#233;ziers 34500</desc>
+  </wpt>
+  <wpt lat="43.3424775995827" lon="3.21744917235264">
+    <src>https://eaupotable.info/fr/374-fontaine-eau-potable-allees-paul-riquet</src>
+    <name>Fontaine eau potable All&#233;es Paul Riquet</name>
+    <desc>All&#233;es Paul Riquet, B&#233;ziers, France</desc>
+  </wpt>
+  <wpt lat="43.6437088652609" lon="1.22600672708131">
+    <src>https://eaupotable.info/fr/375-robinet-dans-la-foret-de-bouconne</src>
+    <name>Robinet dans la for&#234;t de Bouconne</name>
+    <desc>Pibrac, France</desc>
+  </wpt>
+  <wpt lat="48.9791672900592" lon="2.05865405938562">
+    <src>https://eaupotable.info/fr/376-fontaine-boulevard-noel-marc</src>
+    <name>Fontaine boulevard Noel Marc</name>
+    <desc>Boulevard No&#235;l Marc, Andr&#233;sy, France</desc>
+  </wpt>
+  <wpt lat="46.7917714209068" lon="6.51860617987063">
+    <src>https://eaupotable.info/fr/377-fontaine-a-eau-potable-ndeg1-commune-de-baulmes</src>
+    <name>Fontaine &#224; eau potable n&#176;1 - commune de Baulmes</name>
+    <desc>Baulmes, Suisse</desc>
+  </wpt>
+  <wpt lat="46.7905557241" lon="6.52222716204">
+    <src>https://eaupotable.info/fr/378-fontaine-a-eau-potable-ndeg2-commune-de-baulmes</src>
+    <name>Fontaine &#224; eau potable n&#176;2 - commune de Baulmes</name>
+    <desc>Baulmes, Suisse</desc>
+  </wpt>
+  <wpt lat="46.7903886096" lon="6.52250074736">
+    <src>https://eaupotable.info/fr/379-fontaine-eau-potable-ndeg3-baulmes-suisse</src>
+    <name>Fontaine eau potable n&#176;3 - Baulmes - Suisse</name>
+    <desc>Baulmes, Suisse</desc>
+  </wpt>
+  <wpt lat="46.7891269699" lon="6.5212025582">
+    <src>https://eaupotable.info/fr/380-fontaine-eau-potable-ndeg4-baulmes-suisse</src>
+    <name>Fontaine eau potable n&#176;4 - Baulmes - Suisse</name>
+    <desc>Rue de l'H&#244;tel de Ville 1446, Baulmes, Suisse</desc>
+  </wpt>
+  <wpt lat="43.2474819372426" lon="3.29548906627042">
+    <src>https://eaupotable.info/fr/381-fontaine-publique-eau-potable-valras-plage</src>
+    <name>Fontaine publique eau potable Valras Plage</name>
+    <desc>Rue du Lieutenant Panis, 34350 Valras-Plage, France</desc>
+  </wpt>
+  <wpt lat="46.1213676331" lon="7.0842919633">
+    <src>https://eaupotable.info/fr/384-fontaine-d-eau-potable</src>
+    <name>Fontaine d'eau potable</name>
+    <desc>1920 Martigny, Suisse</desc>
+  </wpt>
+  <wpt lat="43.4608095740847" lon="3.4257492959091">
+    <src>https://eaupotable.info/fr/385-fontaine-eau-potable-pezenas</src>
+    <name>Fontaine eau potable - P&#233;zenas</name>
+    <desc>Avenue Fran&#231;ois Hue, P&#233;zenas, France</desc>
+  </wpt>
+  <wpt lat="43.4603754943538" lon="3.42480009021301">
+    <src>https://eaupotable.info/fr/386-fontaine-eau-potable-pezenas</src>
+    <name>Fontaine eau potable - P&#233;zenas</name>
+    <desc>Place du March&#233; des Trois Six, P&#233;zenas, France</desc>
+  </wpt>
+  <wpt lat="43.4610361730093" lon="3.42299455889543">
+    <src>https://eaupotable.info/fr/387-fontaine-eau-potable-pezenas</src>
+    <name>Fontaine eau potable - P&#233;zenas</name>
+    <desc>Place Gambetta, P&#233;zenas, France</desc>
+  </wpt>
+  <wpt lat="43.4617112112528" lon="3.41979492170412">
+    <src>https://eaupotable.info/fr/388-fontaine-publique-eau-potable-pezenas</src>
+    <name>Fontaine publique eau potable / P&#233;zenas</name>
+    <desc>Rue Paul Henri Vergnes, P&#233;zenas, France</desc>
+  </wpt>
+  <wpt lat="43.6108380522" lon="3.87066368952">
+    <src>https://eaupotable.info/fr/389-fontaine-eau-potable-ndeg1-promenade-du-peyrou</src>
+    <name>Fontaine eau potable n&#176;1 - Promenade du Peyrou</name>
+    <desc>Promenade du Peyrou, 34000 Montpellier, France</desc>
+  </wpt>
+  <wpt lat="43.6116595254" lon="3.8706583251">
+    <src>https://eaupotable.info/fr/390-fontaine-eau-potable-ndeg2-promenade-du-peyrou</src>
+    <name>Fontaine eau potable n&#176;2 - Promenade du Peyrou</name>
+    <desc>Promenade du Peyrou, Montpellier, France</desc>
+  </wpt>
+  <wpt lat="43.6139441725784" lon="3.87308337201864">
+    <src>https://eaupotable.info/fr/391-fontaine-eau-potable-jardin-des-plantes</src>
+    <name>Fontaine eau potable - Jardin des Plantes</name>
+    <desc>Jardin des Plantes, Montpellier, France</desc>
+  </wpt>
+  <wpt lat="43.6139722176" lon="3.87383230021">
+    <src>https://eaupotable.info/fr/392-fontaine-eau-potable-square-de-la-tour-des-pins</src>
+    <name>Fontaine eau potable Square de la Tour des Pins</name>
+    <desc>Square de la Tour des Pins, 34000 Montpellier, France</desc>
+  </wpt>
+  <wpt lat="43.6102289893" lon="3.88083492262">
+    <src>https://eaupotable.info/fr/393-fontaine-eau-potable-esplanade-charles-de-gaulle</src>
+    <name>Fontaine eau potable Esplanade Charles de Gaulle</name>
+    <desc>Esplanade Charles de Gaulle, Montpellier, France</desc>
+  </wpt>
+  <wpt lat="43.610667891" lon="3.88125871164">
+    <src>https://eaupotable.info/fr/394-fontaine-eau-potable-ndeg2-esplanade-charles-de-gaulle</src>
+    <name>Fontaine eau potable n&#176;2 Esplanade Charles de Gaulle</name>
+    <desc>Esplanade Charles de Gaulle, Montpellier, France</desc>
+  </wpt>
+  <wpt lat="47.1642889707" lon="-2.16859833334">
+    <src>https://eaupotable.info/fr/395-source-eau-potable-tharon-plage</src>
+    <name>Source Eau Potable THARON-PLAGE</name>
+    <desc>Rue de la Source, Saint-Michel-Chef-Chef, France</desc>
+  </wpt>
+  <wpt lat="46.2394586931" lon="7.41743384583">
+    <src>https://eaupotable.info/fr/396-fontaine-d-eau-potable</src>
+    <name>Fontaine d'eau potable</name>
+    <desc>Saint-L&#233;onard, Suisse</desc>
+  </wpt>
+  <wpt lat="43.2750337775262" lon="3.35674164544685">
+    <src>https://eaupotable.info/fr/397-fontaine-eau-potable-portiragnes-plage</src>
+    <name>Fontaine eau potable - Portiragnes Plage</name>
+    <desc>Portiragnes Plage, Portiragnes, France</desc>
+  </wpt>
+  <wpt lat="46.1866957308546" lon="7.02801305055686">
+    <src>https://eaupotable.info/fr/398-fontaine-d-eau-potable</src>
+    <name>Fontaine d'eau potable</name>
+    <desc>Evionnaz</desc>
+  </wpt>
+  <wpt lat="41.1166714000953" lon="-7.56922547574084">
+    <src>https://eaupotable.info/fr/399-source-tabuaco</src>
+    <name>Source Tabua&#231;o</name>
+    <desc>Tabua&#231;o, Portugal</desc>
+  </wpt>
+  <wpt lat="45.6299489" lon="-75.9328169">
+    <src>https://eaupotable.info/fr/400-source-de-wakefield-la-peche-qc</src>
+    <name>Source de Wakefield (La P&#234;che, Qc)</name>
+    <desc>La source - Wakefield Spring, La P&#234;che, QC, Canada</desc>
+  </wpt>
+  <wpt lat="43.3721930737023" lon="3.17350265179823">
+    <src>https://eaupotable.info/fr/401-fontaine-eau-potable-parc-sportif-de-tabarka</src>
+    <name>Fontaine eau potable Parc sportif de Tabarka</name>
+    <desc>Lignan-sur-Orb, France</desc>
+  </wpt>
+  <wpt lat="46.3847426673433" lon="6.87213245024986">
+    <src>https://eaupotable.info/fr/402-fontaine-d-eau-potable</src>
+    <name>Fontaine d'eau potable</name>
+    <desc>Port-Valais, Suisse</desc>
+  </wpt>
+  <wpt lat="46.1292348508" lon="7.10274422455">
+    <src>https://eaupotable.info/fr/403-fontaine-d-eau-potable</src>
+    <name>Fontaine d'eau potable</name>
+    <desc>Fully, Suisse</desc>
+  </wpt>
+  <wpt lat="43.3660618129626" lon="1.78788051589959">
+    <src>https://eaupotable.info/fr/404-robinet-de-la-tour-poivriere</src>
+    <name>Robinet de la Tour Poivri&#232;re</name>
+    <desc>Avignonet-Lauragais, France</desc>
+  </wpt>
+  <wpt lat="43.3654914597318" lon="1.78924576028817">
+    <src>https://eaupotable.info/fr/405-robinet-des-halles</src>
+    <name>Robinet des Halles</name>
+    <desc>Avignonet-Lauragais, France</desc>
+  </wpt>
+  <wpt lat="46.3345416437" lon="6.19453929846">
+    <src>https://eaupotable.info/fr/406-fontaine-de-founex</src>
+    <name>Fontaine de Founex</name>
+    <desc>Founex, Switzerland</desc>
+  </wpt>
+  <wpt lat="45.7697562786389" lon="2.98411905635066">
+    <src>https://eaupotable.info/fr/407-toilettes-parking-panoramique-des-domes</src>
+    <name>Toilettes Parking Panoramique des D&#244;mes</name>
+    <desc>Royat, France</desc>
+  </wpt>
+  <wpt lat="45.7839619847287" lon="2.96590530683511">
+    <src>https://eaupotable.info/fr/408-fontaine-de-distribution</src>
+    <name>Fontaine de distribution</name>
+    <desc>Puy-de-D&#244;me, France</desc>
+  </wpt>
+  <wpt lat="45.7841537086712" lon="2.93100976755136">
+    <src>https://eaupotable.info/fr/409-fontaine-de-distribution-bac-de-cessat</src>
+    <name>Fontaine de distribution Bac de Cess&#226;t</name>
+    <desc>Puy-de-D&#244;me, France</desc>
+  </wpt>
+  <wpt lat="45.8210641110628" lon="2.94852246522908">
+    <src>https://eaupotable.info/fr/410-fontaine-des-peres</src>
+    <name>Fontaine des P&#232;res</name>
+    <desc>Puys Chopine et des Gouttes, Saint-Ours, France</desc>
+  </wpt>
+  <wpt lat="45.8715205747783" lon="2.99262738553625">
+    <src>https://eaupotable.info/fr/411-fontaine-de-distribution</src>
+    <name>Fontaine de distribution</name>
+    <desc>Moulet-Marcenat, Volvic, France</desc>
+  </wpt>
+  <wpt lat="45.8708982673614" lon="3.02820694188495">
+    <src>https://eaupotable.info/fr/412-fontaine-de-distribution</src>
+    <name>Fontaine de distribution</name>
+    <desc>Volvic, France</desc>
+  </wpt>
+  <wpt lat="45.8703789292476" lon="3.03622942904849">
+    <src>https://eaupotable.info/fr/413-fontaine-de-distribution</src>
+    <name>Fontaine de distribution</name>
+    <desc>Volvic, France</desc>
+  </wpt>
+  <wpt lat="45.8703422118" lon="3.03637426834">
+    <src>https://eaupotable.info/fr/414-fontaine-de-distribution</src>
+    <name>Fontaine de distribution</name>
+    <desc>Volvic, France</desc>
+  </wpt>
+  <wpt lat="45.8724334482181" lon="3.0376188133182">
+    <src>https://eaupotable.info/fr/415-fontaine-de-distribution</src>
+    <name>Fontaine de distribution</name>
+    <desc>Volvic, France</desc>
+  </wpt>
+  <wpt lat="45.8850005188" lon="3.0394011412086">
+    <src>https://eaupotable.info/fr/416-distribution-d-eau</src>
+    <name>Distribution d'eau</name>
+    <desc>Volvic, France</desc>
+  </wpt>
+  <wpt lat="45.7642604724302" lon="2.95626276542657">
+    <src>https://eaupotable.info/fr/417-toilettes-parking-col-de-ceyssat</src>
+    <name>Toilettes Parking Col de Ceyssat</name>
+    <desc>Puy-de-D&#244;me, France</desc>
+  </wpt>
+  <wpt lat="45.7709297315383" lon="2.96327668031347">
+    <src>https://eaupotable.info/fr/418-fontaine-de-distribution-du-puy-de-dome</src>
+    <name>Fontaine de distribution du Puy de D&#244;me</name>
+    <desc>Col de Ceyssat, Orcines, France</desc>
+  </wpt>
+  <wpt lat="45.8003503833401" lon="2.99209523521802">
+    <src>https://eaupotable.info/fr/419-fontaine-de-la-ville-de-fontaine-du-berger</src>
+    <name>Fontaine de la ville de Fontaine du Berger</name>
+    <desc>Puy des Goules, Orcines, France</desc>
+  </wpt>
+  <wpt lat="48.5180743358569" lon="-2.23051978567503">
+    <src>https://eaupotable.info/fr/420-source-plancoet</src>
+    <name>Source Planco&#235;t</name>
+    <desc>Planco&#235;t, France</desc>
+  </wpt>
+  <wpt lat="45.4534736937" lon="6.29514555952">
+    <src>https://eaupotable.info/fr/421-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Epierre, France</desc>
+  </wpt>
+  <wpt lat="48.884229" lon="2.20316">
+    <src>https://eaupotable.info/fr/422-parc-paul-vaillant-couturier</src>
+    <name>Parc Paul Vaillant Couturier</name>
+    <desc>Nanterre, France</desc>
+  </wpt>
+  <wpt lat="48.8705694" lon="2.21431580000001">
+    <src>https://eaupotable.info/fr/423-fontaine-de-distribution</src>
+    <name>Fontaine De Distribution </name>
+    <desc>Place de l'Abb&#233; Franz Stock, Suresnes, France</desc>
+  </wpt>
+  <wpt lat="43.0650516" lon="0.144670399999995">
+    <src>https://eaupotable.info/fr/424-fontaine-saint-blaise</src>
+    <name>Fontaine Saint Blaise</name>
+    <desc>17 Rue Saint-Blaise, Bagn&#232;res-de-Bigorre, France</desc>
+  </wpt>
+  <wpt lat="43.737963698373" lon="3.19410393121348">
+    <src>https://eaupotable.info/fr/425-wc-et-point-d-eau</src>
+    <name>WC et point d'eau</name>
+    <desc>Joncels, France</desc>
+  </wpt>
+  <wpt lat="43.7074153167456" lon="3.19357460713195">
+    <src>https://eaupotable.info/fr/426-wc-et-point-d-eau</src>
+    <name>WC et point d'eau</name>
+    <desc>Lunas, France</desc>
+  </wpt>
+  <wpt lat="43.428511483561" lon="5.05146102155163">
+    <src>https://eaupotable.info/fr/427-parc-du-gour</src>
+    <name>Parc du gour</name>
+    <desc>13500 France</desc>
+  </wpt>
+  <wpt lat="43.6913721153392" lon="3.26504077873233">
+    <src>https://eaupotable.info/fr/429-robinet-eau-potable-hameau-de-lavalette</src>
+    <name>Robinet eau potable Hameau de Lavalette</name>
+    <desc>Rue du Ruisseau, 34700 Lavalette</desc>
+  </wpt>
+  <wpt lat="43.3329323747223" lon="5.07005626110447">
+    <src>https://eaupotable.info/fr/430-robinet-et-douche-exterieur</src>
+    <name>Robinet et douche ext&#233;rieur</name>
+    <desc>Plage de sainte croix</desc>
+  </wpt>
+  <wpt lat="55.8463881135734" lon="-3.85120318416136">
+    <src>https://eaupotable.info/fr/431-kate-s-well</src>
+    <name>Kate's Well</name>
+    <desc>Kirk O'Shotts Manse, Salsburgh, Royaume-Uni</desc>
+  </wpt>
+  <wpt lat="37.238793744" lon="-8.16996102905">
+    <src>https://eaupotable.info/fr/432-alte-natural-water-spring</src>
+    <name>Alte natural water spring</name>
+    <desc>Alte, Loul&#233;, Portugal</desc>
+  </wpt>
+  <wpt lat="36.7978079248704" lon="-3.84841494130524">
+    <src>https://eaupotable.info/fr/433-fuente-de-espinosa-natural-water-source</src>
+    <name>Fuente de espinosa - natural water source</name>
+    <desc>Maro, Spain</desc>
+  </wpt>
+  <wpt lat="46.8710273719607" lon="-1.01251896427914">
+    <src>https://eaupotable.info/fr/434-fontaine-publique-de-la-rue-nationale</src>
+    <name>Fontaine publique de la rue Nationale</name>
+    <desc>Les Herbiers, France</desc>
+  </wpt>
+  <wpt lat="50.1331097484" lon="5.28090247057">
+    <src>https://eaupotable.info/fr/435-fontaine-publique</src>
+    <name>Fontaine publique</name>
+    <desc>Forri&#232;res, Nassogne, Belgique</desc>
+  </wpt>
+  <wpt lat="43.235481717136" lon="6.40300359367063">
+    <src>https://eaupotable.info/fr/436-source-du-monastere-chartreuse-de-la-verne</src>
+    <name>Source du monast&#232;re Chartreuse de la Verne</name>
+    <desc>La Verne, Collobri&#232;res, France</desc>
+  </wpt>
+  <wpt lat="50.6583843934116" lon="2.15252029895737">
+    <src>https://eaupotable.info/fr/437-la-source-de-martine</src>
+    <name>La source de Martine</name>
+    <desc>devant chez Martine</desc>
+  </wpt>
+  <wpt lat="43.5998689570808" lon="-1.47309263494867">
+    <src>https://eaupotable.info/fr/438-point-d-eau-potable-labenne-plage</src>
+    <name>Point d'eau potable Labenne plage</name>
+    <desc>Labenne-Oc&#233;an, Labenne, France</desc>
+  </wpt>
+  <wpt lat="42.9368772" lon="2.3616203">
+    <src>https://eaupotable.info/fr/439-eau-de-source-a-bugarach</src>
+    <name>Eau de source &#224; Bugarach</name>
+    <desc>11190 Bugarach, France</desc>
+  </wpt>
+  <wpt lat="42.995035" lon="2.25741389999996">
+    <src>https://eaupotable.info/fr/440-fontaines-et-lavoirs</src>
+    <name>Fontaines et lavoirs</name>
+    <desc>Alet-les-Bains, France</desc>
+  </wpt>
+  <wpt lat="43.9585017425012" lon="3.85806489926154">
+    <src>https://eaupotable.info/fr/441-fontaine</src>
+    <name>Fontaine</name>
+    <desc>30170 Saint-Hippolyte-du-Fort, France</desc>
+  </wpt>
+  <wpt lat="44.842793" lon="-0.397310000000061">
+    <src>https://eaupotable.info/fr/442-sur-la-d132-en-direction-de-la-d936</src>
+    <name>Sur la D132 en direction de la D936</name>
+    <desc>Salleb&#339;uf, France</desc>
+  </wpt>
+  <wpt lat="41.3899340735987" lon="2.18264500940086">
+    <src>https://eaupotable.info/fr/443-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Passeig de Llu&#237;s Companys, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.4047771855901" lon="2.16876053034548">
+    <src>https://eaupotable.info/fr/444-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Carrer de Sic&#237;lia, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.4046947393733" lon="2.17522926983645">
+    <src>https://eaupotable.info/fr/445-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Pla&#231;a de Gaudi, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.4045659834489" lon="2.17583008465579">
+    <src>https://eaupotable.info/fr/446-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Pla&#231;a de Gaudi, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.4118274477038" lon="2.15276953729551">
+    <src>https://eaupotable.info/fr/447-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Rambla de Mercedes, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.4122418336077" lon="2.15386387857359">
+    <src>https://eaupotable.info/fr/448-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Rambla de Mercedes, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="45.3149624775463" lon="5.20262610283282">
+    <src>https://eaupotable.info/fr/449-les-sources-du-chateau</src>
+    <name>Les sources du Chateau</name>
+    <desc>Viriville, France</desc>
+  </wpt>
+  <wpt lat="45.8302449623139" lon="4.94552290674596">
+    <src>https://eaupotable.info/fr/450-point-d-eau-potable-le-mas-rillier-commune-de-miribel</src>
+    <name>Point d'eau potable Le Mas Rillier Commune de Miribel</name>
+    <desc>Le Mas Rillier, Miribel, France</desc>
+  </wpt>
+  <wpt lat="41.3812042411032" lon="2.17351403247153">
+    <src>https://eaupotable.info/fr/451-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>La Rambla, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.3783695436273" lon="2.17865142876667">
+    <src>https://eaupotable.info/fr/452-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Pla&#231;a del Duc de Medinaceli, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.3874063111949" lon="2.17022776452632">
+    <src>https://eaupotable.info/fr/453-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Pla&#231;a de  Catalunya, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.4104164020489" lon="2.1584330573944">
+    <src>https://eaupotable.info/fr/454-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Carrer de l'Escorial, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.4122408278198" lon="2.15388801845472">
+    <src>https://eaupotable.info/fr/455-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Rambla de Mercedes, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="41.4118274477038" lon="2.15280172380369">
+    <src>https://eaupotable.info/fr/456-fontaine-d-eau-potable-eau-de-distribution</src>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <desc>Rambla de Mercedes, Barcelone, Espagne</desc>
+  </wpt>
+  <wpt lat="45.9328336416452" lon="4.95216205221902">
+    <src>https://eaupotable.info/fr/457-robinet-a-saint-andre-de-corcy</src>
+    <name>Robinet &#224; Saint Andr&#233; de Corcy</name>
+    <desc>Place du Vieux Marseille, Saint-Andr&#233;-de-Corcy, France</desc>
+  </wpt>
+  <wpt lat="48.98060144" lon="2.20355477858">
+    <src>https://eaupotable.info/fr/458-fontaine-du-parc-shlumberger</src>
+    <name>Fontaine du Parc Shlumberger</name>
+    <desc>Cormeilles-en-Parisis, France</desc>
+  </wpt>
+  <wpt lat="48.9881249383" lon="2.3016353684">
+    <src>https://eaupotable.info/fr/459-fontaine-wallace-rue-blanche</src>
+    <name>Fontaine Wallace rue Blanche</name>
+    <desc>Soisy-sous-Montmorency, France</desc>
+  </wpt>
+  <wpt lat="48.9735321" lon="2.3243068">
+    <src>https://eaupotable.info/fr/460-fontaine-wallace-rue-v-labarriere</src>
+    <name>Fontaine Wallace Rue V. Labarri&#232;re</name>
+    <desc>3 Rue Victor Labarri&#232;re, Deuil-la-Barre, France</desc>
+  </wpt>
+  <wpt lat="48.8809792" lon="2.2369871">
+    <src>https://eaupotable.info/fr/461-fontaine-wallace-rue-e-eichenberger</src>
+    <name>Fontaine Wallace rue E. Eichenberger</name>
+    <desc>30 Rue Eug&#232;ne Eichenberger, Puteaux, France</desc>
+  </wpt>
+  <wpt lat="47.9419164785" lon="7.14381586289">
+    <src>https://eaupotable.info/fr/462-fontaine-rue-du-wasen</src>
+    <name>Fontaine rue du Wasen</name>
+    <desc>Lautenbach-Zell, France</desc>
+  </wpt>
+  <wpt lat="47.9487544465" lon="7.12766038277">
+    <src>https://eaupotable.info/fr/463-fontaine-de-la-mairie</src>
+    <name>Fontaine de la Mairie</name>
+    <desc>Linthal, France</desc>
+  </wpt>
+  <wpt lat="48.9899635411" lon="2.08450719026">
+    <src>https://eaupotable.info/fr/464-fontaine-de-la-promenade-f-mitterand</src>
+    <name>Fontaine de la Promenade F. Mitterand</name>
+    <desc>Conflans-Sainte-Honorine, France</desc>
+  </wpt>
+  <wpt lat="48.9437542714" lon="2.24995522275">
+    <src>https://eaupotable.info/fr/466-fontaine-wallace-rue-p-v-couturier</src>
+    <name>Fontaine Wallace rue P.V. Couturier</name>
+    <desc>83 Rue Paul Vaillant Couturier, Argenteuil, &#206;le-de-France, France</desc>
+  </wpt>
+  <wpt lat="48.9536160735297" lon="2.18701057810017">
+    <src>https://eaupotable.info/fr/467-fontaine-du-cimetiere-paysager</src>
+    <name>Fontaine du cimeti&#232;re paysager</name>
+    <desc>Cormeilles-en-Parisis, France</desc>
+  </wpt>
+  <wpt lat="48.9598424628" lon="2.18986310739">
+    <src>https://eaupotable.info/fr/468-fontaine-du-gymnase-leo-tavarez</src>
+    <name>Fontaine du gymnase L&#233;o Tavarez</name>
+    <desc>Cormeilles-en-Parisis, France</desc>
+  </wpt>
+  <wpt lat="48.8684246511" lon="2.35024333193">
+    <src>https://eaupotable.info/fr/469-fontaine-wallace-rue-sainte-foy</src>
+    <name>Fontaine Wallace Rue Sainte-Foy</name>
+    <desc>3 Rue Sainte-Foy, Paris, &#206;le-de-France, France</desc>
+  </wpt>
+  <wpt lat="48.867611399" lon="2.35861915211">
+    <src>https://eaupotable.info/fr/470-fontaine-wallace-rue-nd-de-nazareth</src>
+    <name>Fontaine Wallace Rue ND de Nazareth</name>
+    <desc>38 Rue Notre Dame de Nazareth, Paris, &#206;le-de-France, France</desc>
+  </wpt>
+  <wpt lat="48.9961009638" lon="2.2692607293">
+    <src>https://eaupotable.info/fr/471-fontaine-du-cimetiere-d-eaubonne</src>
+    <name>Fontaine du cimeti&#232;re d'Eaubonne</name>
+    <desc>Eaubonne, France</desc>
+  </wpt>
+  <wpt lat="48.9728977884" lon="2.30417981779">
+    <src>https://eaupotable.info/fr/472-fontaine-av-de-la-ceinture</src>
+    <name>Fontaine av. de la Ceinture</name>
+    <desc>33 Avenue de Ceinture, Enghien-les-Bains, &#206;le-de-France, France</desc>
+  </wpt>
+  <wpt lat="48.9690031952" lon="2.29665396693">
+    <src>https://eaupotable.info/fr/473-fontaine-boulevard-du-lac</src>
+    <name>Fontaine Boulevard du Lac</name>
+    <desc>59 Boulevard du Lac, Enghien-les-Bains, &#206;le-de-France, France</desc>
+  </wpt>
+  <wpt lat="49.025066215236" lon="2.32441927272134">
+    <src>https://eaupotable.info/fr/474-fontaine-rue-pasteur</src>
+    <name>Fontaine Rue Pasteur</name>
+    <desc>Domont, France</desc>
+  </wpt>
+  <wpt lat="49.0162502262" lon="2.26510602268">
+    <src>https://eaupotable.info/fr/475-fontaine-saint-andre</src>
+    <name>Fontaine Saint Andr&#233;</name>
+    <desc>82 Rue Auguste Rey, Saint-Prix, &#206;le-de-France, France</desc>
+  </wpt>
+  <wpt lat="49.0159445438" lon="2.26700583998">
+    <src>https://eaupotable.info/fr/476-fontaine-aux-pelerins</src>
+    <name>Fontaine aux P&#233;lerins</name>
+    <desc>Saint-Prix, France</desc>
+  </wpt>
+  <wpt lat="43.6284911366798" lon="3.81223309157099">
+    <src>https://eaupotable.info/fr/477-source-de-fontcaude</src>
+    <name>Source de Fontcaude</name>
+    <desc>All&#233;e des Thermes, Juvignac, France</desc>
+  </wpt>
+  <wpt lat="48.92601" lon="2.189325">
+    <src>https://eaupotable.info/fr/478-fontaine-wallace-place-des-arts</src>
+    <name>Fontaine Wallace Place des Arts</name>
+    <desc>Place des Arts, Houilles, France</desc>
+  </wpt>
+  <wpt lat="49.0082892081" lon="2.27835790599">
+    <src>https://eaupotable.info/fr/479-fontaine-du-cimetiere</src>
+    <name>Fontaine du cimeti&#232;re</name>
+    <desc>Montlignon, France</desc>
+  </wpt>
+  <wpt lat="49.0289661779665" lon="2.05699369640354">
+    <src>https://eaupotable.info/fr/480-fontaine-du-centre-multi-sports-du-parc-de-loisirs</src>
+    <name>Fontaine du centre multi-sports du parc de loisirs</name>
+    <desc>Cergy, France</desc>
+  </wpt>
+  <wpt lat="47.9417396769" lon="7.14549863425">
+    <src>https://eaupotable.info/fr/481-fontaine-grand-rue-2</src>
+    <name>Fontaine Grand rue 2</name>
+    <desc>Grand Rue, Lautenbach-Zell, France</desc>
+  </wpt>
+  <wpt lat="47.9409721235" lon="7.148348485">
+    <src>https://eaupotable.info/fr/482-fontaine-grand-rue-1</src>
+    <name>Fontaine Grand rue 1</name>
+    <desc>47 Grand Rue, Lautenbach-Zell, France</desc>
+  </wpt>
+  <wpt lat="47.9410397968" lon="7.15859218161">
+    <src>https://eaupotable.info/fr/483-fontaine-de-l-eglise</src>
+    <name>Fontaine de l'&#233;glise</name>
+    <desc>2 Rue Edmond Gerrer, Lautenbach, Grand Est, France</desc>
+  </wpt>
+  <wpt lat="47.9401097190864" lon="7.16067424411085">
+    <src>https://eaupotable.info/fr/484-fontaine-rue-de-la-paix</src>
+    <name>Fontaine rue de la Paix</name>
+    <desc>1 Rue de la Paix, Lautenbach, Grand Est, France</desc>
+  </wpt>
+  <wpt lat="47.9412043495" lon="7.16086743684">
+    <src>https://eaupotable.info/fr/485-fontaine-rue-principale</src>
+    <name>Fontaine rue Principale</name>
+    <desc>Rue des Pierres, Lautenbach, Grand Est, France</desc>
+  </wpt>
+  <wpt lat="44.568212" lon="1.58129199999996">
+    <src>https://eaupotable.info/fr/486-wc-publics-a-la-salle-des-fetes-et-cimetiere</src>
+    <name>WC PUBLICS  A LA SALLE DES FETES  ET CIMETIERE</name>
+    <desc>Lauz&#232;s, France</desc>
+  </wpt>
+  <wpt lat="44.5611067" lon="1.34692470000005">
+    <src>https://eaupotable.info/fr/487-sanitaires-aire-communale-de-layrolle</src>
+    <name>Sanitaires aire communale de Layrolle</name>
+    <desc>46150 Boissi&#232;res, France</desc>
+  </wpt>
+  <wpt lat="44.57576" lon="1.19582700000001">
+    <src>https://eaupotable.info/fr/488-wc-publics</src>
+    <name>WC publics</name>
+    <desc>Goujounac, France</desc>
+  </wpt>
+  <wpt lat="48.6295415081671" lon="7.26175654516601">
+    <src>https://eaupotable.info/fr/489-col-de-la-schleif</src>
+    <name>Col de la Schleif</name>
+    <desc>Dabo, France</desc>
+  </wpt>
+  <wpt lat="44.5538781910427" lon="1.77212809790035">
+    <src>https://eaupotable.info/fr/490-wc-publics-place-des-platanes</src>
+    <name>WC publics "Place des Platanes"</name>
+    <desc>Le Bourg, 46160 Marcilhac-sur-C&#233;l&#233;, France</desc>
+  </wpt>
+  <wpt lat="47.9458098496" lon="7.13036807277">
+    <src>https://eaupotable.info/fr/491-fontaine-du-monument-aux-morts</src>
+    <name>Fontaine du Monument aux Morts</name>
+    <desc>Linthal, France</desc>
+  </wpt>
+  <wpt lat="47.9530905577" lon="7.12430234139">
+    <src>https://eaupotable.info/fr/492-fontaine-rue-des-pres</src>
+    <name>Fontaine rue des Pr&#233;s</name>
+    <desc>Rue des Pr&#233;s, Linthal, France</desc>
+  </wpt>
+  <wpt lat="50.445505" lon="1.83429899999999">
+    <src>https://eaupotable.info/fr/493-source</src>
+    <name>Source</name>
+    <desc>Brimeux, France</desc>
+  </wpt>
+  <wpt lat="47.9530569573" lon="7.14403124549">
+    <src>https://eaupotable.info/fr/494-fontaine-de-la-route-forestiere-du-boenlesgrab</src>
+    <name>Fontaine de la Route Foresti&#232;re du Boenlesgrab</name>
+    <desc>Linthal, France</desc>
+  </wpt>
+  <wpt lat="47.9450157319" lon="7.13369132974">
+    <src>https://eaupotable.info/fr/495-fontaine-du-cimetiere</src>
+    <name>Fontaine du cimeti&#232;re</name>
+    <desc>Linthal, France</desc>
+  </wpt>
+  <wpt lat="47.9606411967658" lon="7.23952980200863">
+    <src>https://eaupotable.info/fr/496-fontaine-rue-des-boulangers</src>
+    <name>Fontaine rue des Boulangers</name>
+    <desc>Rue des Boulangers, Soultzmatt, France</desc>
+  </wpt>
+  <wpt lat="47.9308046065384" lon="7.23312418388366">
+    <src>https://eaupotable.info/fr/497-fontaine-rue-du-bois</src>
+    <name>Fontaine rue du Bois</name>
+    <desc>Rue du Bois, Bergholtz&#8722;Zell, France</desc>
+  </wpt>
+  <wpt lat="47.9406027710373" lon="7.1495464969978">
+    <src>https://eaupotable.info/fr/498-fontaine-de-la-mairie</src>
+    <name>Fontaine de la Mairie</name>
+    <desc>Rue des Fleurs, Lautenbach-Zell, France</desc>
+  </wpt>
+  <wpt lat="49.012807921218" lon="5.67858484313047">
+    <src>https://eaupotable.info/fr/499-fontaine-publique-d-eau-de-source-toute-proche-tres-legerement-traitee-tres-bonne-eau</src>
+    <name>Fontaine publique d'eau de source toute proche, tr&#232;s l&#233;g&#232;rement trait&#233;e. Tr&#232;s bonne eau.</name>
+    <desc>Rue de l'&#201;glise, Saint-Maurice-sous-les-C&#244;tes, France</desc>
+  </wpt>
+  <wpt lat="44.7407937765366" lon="1.4384253630044">
+    <src>https://eaupotable.info/fr/500-wc-publics-le-vigan-lot</src>
+    <name>WC PUBLICS LE VIGAN LOT</name>
+    <desc>46300 Le Vigan, France</desc>
+  </wpt>
+  <wpt lat="44.7407613886545" lon="1.44480633825071">
+    <src>https://eaupotable.info/fr/501-cimetiere-le-vigan-lot</src>
+    <name>CIMETIERE LE VIGAN LOT</name>
+    <desc>46300 Le Vigan, France</desc>
+  </wpt>
+  <wpt lat="44.7411633781421" lon="1.43931853860636">
+    <src>https://eaupotable.info/fr/502-fontaine-le-vigan-lot</src>
+    <name>FONTAINE LE VIGAN LOT</name>
+    <desc>46300 Le Vigan, France</desc>
+  </wpt>
+  <wpt lat="43.8455366762506" lon="3.51931001852415">
+    <src>https://eaupotable.info/fr/503-fontaine-de-distribution-parking</src>
+    <name>Fontaine de distribution Parking</name>
+    <desc>Saint-Maurice-Navacelles, France</desc>
+  </wpt>
+  <wpt lat="43.8468404716772" lon="3.5181298465576">
+    <src>https://eaupotable.info/fr/504-eau-de-distribution-centre-du-village</src>
+    <name>Eau de distribution Centre du Village</name>
+    <desc>Saint-Maurice-Navacelles, France</desc>
+  </wpt>
+  <wpt lat="47.9114898164416" lon="7.20883308580972">
+    <src>https://eaupotable.info/fr/505-fontaine-de-l-eglise</src>
+    <name>Fontaine de l'&#233;glise</name>
+    <desc>Guebwiller, France</desc>
+  </wpt>
+  <wpt lat="47.829145867461" lon="7.18468529817392">
+    <src>https://eaupotable.info/fr/506-source-de-wattwiller</src>
+    <name>Source de Wattwiller</name>
+    <desc>Wattwiller, France</desc>
+  </wpt>
+  <wpt lat="38.7964722076431" lon="-9.38767777702947">
+    <src>https://eaupotable.info/fr/507-source</src>
+    <name>Source</name>
+    <desc>Sintra, Portugal</desc>
+  </wpt>
+  <wpt lat="38.7531787216766" lon="-9.44884388381411">
+    <src>https://eaupotable.info/fr/508-calcada-do-chafariz</src>
+    <name>Cal&#231;ada do Chafariz</name>
+    <desc>Malveira da Serra, Az&#243;ia, Portugal</desc>
+  </wpt>
+  <wpt lat="49.06510826671" lon="2.18686113526542">
+    <src>https://eaupotable.info/fr/509-fontaine-du-chateau-de-mery-sur-oise</src>
+    <name>Fontaine du Chateau de Mery-sur-Oise</name>
+    <desc>M&#233;ry-sur-Oise, France</desc>
+  </wpt>
+  <wpt lat="49.0419185832563" lon="2.29332515597537">
+    <src>https://eaupotable.info/fr/510-fontaine-du-cimetiere</src>
+    <name>Fontaine du cimeti&#232;re</name>
+    <desc>Bouff&#233;mont, France</desc>
+  </wpt>
+  <wpt lat="49.0069371573498" lon="2.01430826620106">
+    <src>https://eaupotable.info/fr/511-fontaine-place-des-tilleuils</src>
+    <name>Fontaine place des Tilleuils</name>
+    <desc>Place des Tilleuls, Jouy-le-Moutier, France</desc>
+  </wpt>
+  <wpt lat="50.6757195521" lon="5.21079329102">
+    <src>https://eaupotable.info/fr/512-source-rue-du-centre-a-hollogne-sur-geer</src>
+    <name>Source rue du centre &#224; Hollogne-sur-Geer</name>
+    <desc>Rue du Centre, Geer, Belgique</desc>
+  </wpt>
+  <wpt lat="42.5004289" lon="2.11379023082736">
+    <src>https://eaupotable.info/fr/513-fontaine-de-l-eglise</src>
+    <name>Fontaine de l'Eglise</name>
+    <desc>La Cabanasse, France</desc>
+  </wpt>
+  <wpt lat="42.4412700390748" lon="2.03238696826179">
+    <src>https://eaupotable.info/fr/514-fontaine-du-cimetiere</src>
+    <name>Fontaine du cimetiere</name>
+    <desc>Err, France</desc>
+  </wpt>
+  <wpt lat="43.81806" lon="3.53600700000004">
+    <src>https://eaupotable.info/fr/515-fontaine-de-distribution</src>
+    <name>Fontaine de distribution</name>
+    <desc>Le Coulet, Saint-Maurice-Navacelles, France</desc>
+  </wpt>
+  <wpt lat="43.8989090776832" lon="3.45987067990109">
+    <src>https://eaupotable.info/fr/516-eau-de-distribution-parking</src>
+    <name>Eau de distribution Parking</name>
+    <desc>Vissec, France</desc>
+  </wpt>
+  <wpt lat="43.8942594009119" lon="3.51098655952455">
+    <src>https://eaupotable.info/fr/517-fontaine-de-distribution</src>
+    <name>Fontaine de distribution</name>
+    <desc>Navacelles, Saint-Maurice-Navacelles, France</desc>
+  </wpt>
+  <wpt lat="43.8944952087575" lon="3.5120218922043">
+    <src>https://eaupotable.info/fr/518-eau-de-distribution-parking</src>
+    <name>Eau de distribution Parking</name>
+    <desc>Navacelles, Saint-Maurice-Navacelles, France</desc>
+  </wpt>
+  <wpt lat="43.9010819910772" lon="3.51620508073427">
+    <src>https://eaupotable.info/fr/519-eau-de-distribution-parking-nord</src>
+    <name>Eau de distribution Parking nord</name>
+    <desc>Cirque de Navacelles, Saint-Maurice-Navacelles, France</desc>
+  </wpt>
+  <wpt lat="47.8473573" lon="1.93775900000003">
+    <src>https://eaupotable.info/fr/520-eau-de-la-source</src>
+    <name>Eau de la source</name>
+    <desc>Avenue du Parc Floral, Orl&#233;ans, France</desc>
+  </wpt>
+  <wpt lat="48.5265983047801" lon="7.32201640209962">
+    <src>https://eaupotable.info/fr/521-fontaine-a-urmatt-92-rue-du-general-de-gaulle</src>
+    <name>Fontaine &#224; URMATT, 92 rue du G&#233;n&#233;ral de Gaulle</name>
+    <desc>Urmatt, France</desc>
+  </wpt>
+  <wpt lat="48.526839" lon="7.32424800000001">
+    <src>https://eaupotable.info/fr/522-fontaine-a-urmatt-56-rue-du-general-de-gaulle</src>
+    <name>Fontaine &#224; URMATT, 56 rue du G&#233;n&#233;ral de Gaulle</name>
+    <desc>Urmatt, France</desc>
+  </wpt>
+  <wpt lat="45.7870103885416" lon="6.23388849414823">
+    <src>https://eaupotable.info/fr/523-lavoir-de-verthier</src>
+    <name>Lavoir de Verthier</name>
+    <desc>Doussard, France</desc>
+  </wpt>
+  <wpt lat="44.9759182412753" lon="1.03443129158779">
+    <src>https://eaupotable.info/fr/524-site-de-la-madeleine</src>
+    <name>Site de la Madeleine</name>
+    <desc>Tursac, France</desc>
+  </wpt>
+  <wpt lat="45.7606117427875" lon="4.82597729199597">
+    <src>https://eaupotable.info/fr/525-fontaine-d-eau-potable-place-de-la-cathedrale-saint-jean-lyon</src>
+    <name>Fontaine d'eau potable Place de la Cath&#233;drale Saint-Jean, Lyon</name>
+    <desc>3 Place Saint-Jean, Lyon, France</desc>
+  </wpt>
+  <wpt lat="45.7771889425726" lon="4.8515928809162">
+    <src>https://eaupotable.info/fr/526-fontaine-d-eau-potable-parc-de-la-tete-d-or-lyon</src>
+    <name>Fontaine d'eau potable, Parc de la T&#234;te d'Or, Lyon</name>
+    <desc>Parc de la T&#234;te d'Or, Lyon, France</desc>
+  </wpt>
+  <wpt lat="45.7768754232" lon="4.85403387221">
+    <src>https://eaupotable.info/fr/527-fontaine-d-eau-potable-parc-de-la-tete-d-or-lyon</src>
+    <name>Fontaine d'eau potable Parc de la T&#234;te d'Or, Lyon</name>
+    <desc>All&#233;e de la Voli&#232;re, Parc de la T&#234;t d'Or, Lyon, France</desc>
+  </wpt>
+  <wpt lat="45.7737542170228" lon="4.85202069325408">
+    <src>https://eaupotable.info/fr/528-parc-de-la-tete-d-or-porte-du-lycee-lyon</src>
+    <name>Parc de la T&#234;te d'Or, Porte du Lyc&#233;e, Lyon</name>
+    <desc>Parc de la T&#234;te d'Or, Porte du Lyc&#233;e, Lyon, France</desc>
+  </wpt>
+  <wpt lat="45.7623540039198" lon="4.82364236176295">
+    <src>https://eaupotable.info/fr/529-fontaine-d-eau-potable-parc-du-rosaire-lyon</src>
+    <name>Fontaine d'eau potable Parc du Rosaire, Lyon</name>
+    <desc>Parc du Rosaire, Lyon, France</desc>
+  </wpt>
+  <wpt lat="46.387104" lon="6.54281600000002">
+    <src>https://eaupotable.info/fr/530-source-de-publier</src>
+    <name>Source de Publier</name>
+    <desc>Publier, France</desc>
+  </wpt>
+  <wpt lat="48.5201568472" lon="0.545167340823">
+    <src>https://eaupotable.info/fr/531-fontaine-du-parc-de-la-mairie</src>
+    <name>Fontaine du parc de la Mairie</name>
+    <desc>Mortagne-au-Perche, France</desc>
+  </wpt>
+  <wpt lat="46.6668697473" lon="-73.9631515445">
+    <src>https://eaupotable.info/fr/532-source-naturelle-en-allant-vers-les-terres-de-la-courronne</src>
+    <name>Source naturelle en allant vers les "terres de la courronne"</name>
+    <desc>Saint-Michel-des-Saints, QC, Canada</desc>
+  </wpt>
+  <wpt lat="43.2830063846945" lon="3.28180917851728">
+    <src>https://eaupotable.info/fr/533-fontaine-eau-potable-serignan</src>
+    <name>Fontaine eau potable S&#233;rignan</name>
+    <desc>Avenue de B&#233;ziers, S&#233;rignan, France</desc>
+  </wpt>
+  <wpt lat="43.8931984" lon="7.26163700000006">
+    <src>https://eaupotable.info/fr/534-fontaine-de-duranus</src>
+    <name>Fontaine de Duranus</name>
+    <desc>7 Route D&#233;partementale 19, Duranus, France</desc>
+  </wpt>
+  <wpt lat="46.424899" lon="0.868048000000044">
+    <src>https://eaupotable.info/fr/535-source-naturelle-la-font-de-saza</src>
+    <name>Source naturelle "La Font de Saza"</name>
+    <desc>Montmorillon, France</desc>
+  </wpt>
+  <wpt lat="43.7909275450075" lon="3.73245583565142">
+    <src>https://eaupotable.info/fr/536-fontaine-de-saint-martin-de-londres</src>
+    <name>Fontaine de Saint Martin de Londres</name>
+    <desc>Saint-Martin-de-Londres, France</desc>
+  </wpt>
+  <wpt lat="46.805351" lon="4.42779999999993">
+    <src>https://eaupotable.info/fr/538-source-a-le-creusot</src>
+    <name>Source &#224; Le Creusot</name>
+    <desc>Le Creusot, France</desc>
+  </wpt>
+  <wpt lat="43.2301596897383" lon="5.43705865033189">
+    <src>https://eaupotable.info/fr/539-luminy</src>
+    <name>Luminy</name>
+    <desc>Luminy, Marseille, France</desc>
+  </wpt>
+  <wpt lat="44.6412830413333" lon="-1.15298996193042">
+    <src>https://eaupotable.info/fr/540-puits-artesien-des-anciens-abattoirs-avenue-du-marechal-leclerc</src>
+    <name>Puits art&#233;sien des anciens abattoirs, avenue du Mar&#233;chal Leclerc</name>
+    <desc>La Teste-de-Buch, France</desc>
+  </wpt>
+  <wpt lat="50.1611129578074" lon="4.94250285250098">
+    <src>https://eaupotable.info/fr/541-robinet-du-cimetiere-de-finnevaux</src>
+    <name>Robinet du cimeti&#232;re de Finnevaux</name>
+    <desc>Finnevaux, Houyet, Belgique</desc>
+  </wpt>
+  <wpt lat="43.6624147674777" lon="3.45977372209018">
+    <src>https://eaupotable.info/fr/544-source-avenue-cardinal-de-fleury-a-saint-felix-de-lodez</src>
+    <name>Source Avenue Cardinal de Fleury &#224; Saint-F&#233;lix-de-Lodez</name>
+    <desc>34725 Rue du Fournil, Saint-F&#233;lix-de-Lodez, France</desc>
+  </wpt>
+  <wpt lat="47.1229583818858" lon="5.56096869709779">
+    <src>https://eaupotable.info/fr/545-toilette-publique</src>
+    <name>Toilette publique</name>
+    <desc>Rochefort-sur-Nenon, France</desc>
+  </wpt>
+  <wpt lat="47.1276667978596" lon="5.56608098748018">
+    <src>https://eaupotable.info/fr/546-toilette-publique</src>
+    <name>Toilette publique</name>
+    <desc>Rochefort-sur-Nenon, France</desc>
+  </wpt>
+  <wpt lat="50.323602" lon="2.70584299999996">
+    <src>https://eaupotable.info/fr/547-source-sainte-bertille</src>
+    <name>Source sainte bertille</name>
+    <desc>Mar&#339;uil, France</desc>
+  </wpt>
+  <wpt lat="49.5455481852692" lon="0.513687600524918">
+    <src>https://eaupotable.info/fr/548-source-auger</src>
+    <name>Source AUGER</name>
+    <desc>200 Route de la Fontaine Mur&#233;e, Gruchet-le-Valasse, France</desc>
+  </wpt>
+  <wpt lat="42.4765370958087" lon="9.42829519972224">
+    <src>https://eaupotable.info/fr/549-fontaine-de-loreto-di-casinca</src>
+    <name>Fontaine de Loreto-di-Casinca</name>
+    <desc>Loreto-Di-Casinca, France</desc>
+  </wpt>
+  <wpt lat="43.6017921955539" lon="3.89705682261501">
+    <src>https://eaupotable.info/fr/550-fontaine-fructidor</src>
+    <name>Fontaine Fructidor</name>
+    <desc>Rue Fructidor, Montpellier, France</desc>
+  </wpt>
+  <wpt lat="50.3592729964882" lon="5.82614603488764">
+    <src>https://eaupotable.info/fr/551-fontaine-de-l-ecole</src>
+    <name>Fontaine de l'&#233;cole</name>
+    <desc>Basse-Bodeux, Trois-Ponts, Belgique</desc>
+  </wpt>
+  <wpt lat="50.00168620776" lon="4.45943103173829">
+    <src>https://eaupotable.info/fr/552-fontaine-saint-meen</src>
+    <name>Fontaine Saint Meen</name>
+    <desc>BRULY-DE-PESCHE Eglise, Couvin, B&#233;lgica</desc>
+  </wpt>
+  <wpt lat="43.453312030704" lon="5.01332826780617">
+    <src>https://eaupotable.info/fr/555-fontaine-de-la-place</src>
+    <name>Fontaine de la place</name>
+    <desc>Rue Bellefont, Saint-Mitre-les-Remparts, France</desc>
+  </wpt>
+  <wpt lat="44.8546651898641" lon="1.33349066010987">
+    <src>https://eaupotable.info/fr/556-fontaine-a-eau-publique</src>
+    <name>Fontaine &#224; eau publique</name>
+    <desc>LIEU DIT LE BOURG</desc>
+  </wpt>
+  <wpt lat="44.8544862822243" lon="1.33376482692393">
+    <src>https://eaupotable.info/fr/557-wc-publics</src>
+    <name>WC publics</name>
+    <desc>LIEU DIT LE BOURG</desc>
+  </wpt>
+  <wpt lat="48.8949849" lon="2.47828670000001">
+    <src>https://eaupotable.info/fr/558-fontaine-wallace</src>
+    <name>Fontaine Wallace</name>
+    <desc>4 Rue de la Libert&#233;, 93140 Bondy, France</desc>
+  </wpt>
+  <wpt lat="48.8214244" lon="2.41711770000006">
+    <src>https://eaupotable.info/fr/559-fontaine-wallace</src>
+    <name>Fontaine Wallace</name>
+    <desc>94220 Place Henri IV, Charenton-le-Pont, France</desc>
+  </wpt>
+  <wpt lat="48.9070477" lon="2.24586009999996">
+    <src>https://eaupotable.info/fr/560-fontaine-wallace</src>
+    <name>Fontaine Wallace</name>
+    <desc>62 Boulevard de la R&#233;publique, La Garenne-Colombes, France</desc>
+  </wpt>
+  <wpt lat="43.4005045166823" lon="1.71586059587867">
+    <src>https://eaupotable.info/fr/561-lavabo-du-parc-de-la-rue-carnot</src>
+    <name>Lavabo du parc de la rue Carnot</name>
+    <desc>Villefranche-de-Lauragais, France</desc>
+  </wpt>
+  <wpt lat="45.6941568652277" lon="2.17744636535645">
+    <src>https://eaupotable.info/fr/562-fontaine-de-beaune-c-etait-la-seule-source-d-eau-potable-du-village-jusque-dans-les-annees-1960</src>
+    <name>FONTAINE DE BEAUNE c'&#233;tait la seule source d'eau potable du village  jusque dans les ann&#233;es 1960</name>
+    <desc>19290</desc>
+  </wpt>
+  <wpt lat="50.4013181104287" lon="4.20357504487038">
+    <src>https://eaupotable.info/fr/563-robinet-du-cimetiere-d-epinois</src>
+    <name>Robinet du cimeti&#232;re d'&#201;pinois</name>
+    <desc>&#233;pinois</desc>
+  </wpt>
+  <wpt lat="50.1838791306934" lon="5.15361299738765">
+    <src>https://eaupotable.info/fr/564-robinet-du-cimetiere-de-laloux</src>
+    <name>Robinet du cimetiere de Laloux </name>
+    <desc>Rue sa</desc>
+  </wpt>
+  <wpt lat="50.0743771190557" lon="4.61028441271969">
+    <src>https://eaupotable.info/fr/566-point-d-eau-du-cimetiere</src>
+    <name>Point d'eau du cimetiere</name>
+    <desc>Olloy-sur-Viroin, Viroinval, Belgique</desc>
+  </wpt>
+  <wpt lat="46.0512299767693" lon="12.4641292611756">
+    <src>https://eaupotable.info/fr/567-sorgenta</src>
+    <name>Sorgenta</name>
+    <desc>Via Polcenigo, Pordenone, Italie</desc>
+  </wpt>
+  <wpt lat="41.71271915265728" lon="9.21031483489378">
+    <src>https://eaupotable.info/fr/582-fontaine-dillarata</src>
+    <name>Fontaine d'Illarata</name>
+    <desc>D368</desc>
+  </wpt>
+  <wpt lat="44.438953090061645" lon="0.6210562820091354">
+    <src>https://eaupotable.info/fr/584-source-du-mayne</src>
+    <name>Source du Mayne</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.39612779969451" lon="0.5989478927249365">
+    <src>https://eaupotable.info/fr/585-source-de-gamot</src>
+    <name>Source de Gamot</name>
+    <desc>Rue de la Source de Gamot 32</desc>
+  </wpt>
+  <wpt lat="48.937613" lon="2.740468">
+    <src>https://eaupotable.info/fr/588-eau-de-sources</src>
+    <name>Eau de sources</name>
+    <desc>15 rue de l'ancienne briqueterie</desc>
+  </wpt>
+  <wpt lat="48.56572079026779" lon="7.477107523803723">
+    <src>https://eaupotable.info/fr/589-holzbrunnen</src>
+    <name>Holzbrunnen</name>
+    <desc>Rue du Fort</desc>
+  </wpt>
+  <wpt lat="49.2664339" lon="-0.055352">
+    <src>https://eaupotable.info/fr/590-eau-de-source</src>
+    <name>Eau de source</name>
+    <desc>devant d'&#233;glise</desc>
+  </wpt>
+  <wpt lat="49.9335237834612" lon="4.67268998968506">
+    <src>https://eaupotable.info/fr/591-eau-de-source</src>
+    <name>Eau de source</name>
+    <desc>Route de Laifour</desc>
+  </wpt>
+  <wpt lat="36.8812379" lon="-5.4031177">
+    <src>https://eaupotable.info/fr/592-fontaine-publique</src>
+    <name>Fontaine publique</name>
+    <desc>Av. de Andalucia, 77</desc>
+  </wpt>
+  <wpt lat="49.7897275907108" lon="5.627448195994931">
+    <src>https://eaupotable.info/fr/593-source-du-pierroy</src>
+    <name>Source du Pierroy</name>
+    <desc>Rue du Pierroy 17</desc>
+  </wpt>
+  <wpt lat="-22.2511067916647" lon="166.608562553705">
+    <src>https://eaupotable.info/fr/595-source-du-mont-dore</src>
+    <name>Source du mont Dore</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.8343004510184" lon="2.34253059451216">
+    <src>https://eaupotable.info/fr/596-fontaine-eau-de-paris-square-henri-cadiou-75013</src>
+    <name>Fontaine Eau de Paris Square Henri Cadiou 75013</name>
+    <desc>Rue L&#233;on-Maurice Nordmann 142</desc>
+  </wpt>
+  <wpt lat="49.6473772327893" lon="5.498159015954571">
+    <src>https://eaupotable.info/fr/597-fontaine-lahage-1</src>
+    <name>Fontaine Lahage 1</name>
+    <desc>Rue Saint-Hubert 128</desc>
+  </wpt>
+  <wpt lat="49.64530009116244" lon="5.501101399243908">
+    <src>https://eaupotable.info/fr/598-fontaine-lahage-2</src>
+    <name>Fontaine Lahage 2</name>
+    <desc>Rue Saint-Hubert 55</desc>
+  </wpt>
+  <wpt lat="42.96837461142027" lon="0.7980623449134638">
+    <src>https://eaupotable.info/fr/599-fontaine-razecueille</src>
+    <name>Fontaine Razecueill&#233;</name>
+    <desc>Razecueille 74</desc>
+  </wpt>
+  <wpt lat="48.974666552254554" lon="3.1786624439369016">
+    <src>https://eaupotable.info/fr/601-nouveau-cimetiere-de-luzancy</src>
+    <name>Nouveau cimeti&#232;re de Luzancy</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.11413794001321" lon="3.1046629794250302">
+    <src>https://eaupotable.info/fr/602-cimetiere-de-montigny-lallier-robinet</src>
+    <name>Cimeti&#232;re de Montigny-l'Allier - Robinet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.32206667373265" lon="4.828549915205387">
+    <src>https://eaupotable.info/fr/603-source-sainte-adele</src>
+    <name>Source Sainte Ad&#232;le</name>
+    <desc>Rue du Fond 70</desc>
+  </wpt>
+  <wpt lat="48.8368965811663" lon="2.48549164354705">
+    <src>https://eaupotable.info/fr/606-petite-fontaine-deau-potable</src>
+    <name>Petite fontaine d'eau potable</name>
+    <desc>Rue Charles VII 2</desc>
+  </wpt>
+  <wpt lat="48.839048609749" lon="2.49100626528167">
+    <src>https://eaupotable.info/fr/607-petite-fontaine-deau-potable</src>
+    <name>Petite fontaine d'eau potable</name>
+    <desc>Rue du Mar&#233;chal Vaillant 5</desc>
+  </wpt>
+  <wpt lat="48.8317738868894" lon="2.4860602718582">
+    <src>https://eaupotable.info/fr/608-petite-fontaine-deau-potable</src>
+    <name>Petite fontaine d'eau potable</name>
+    <desc>Promenade Yvette Horner-&#206;le de Beaut&#233; 7</desc>
+  </wpt>
+  <wpt lat="48.8362822032939" lon="2.46975512325667">
+    <src>https://eaupotable.info/fr/609-petite-fontaine-deau-potable</src>
+    <name>Petite fontaine d'eau potable</name>
+    <desc>Avenue Georges Clemenceau 2</desc>
+  </wpt>
+  <wpt lat="50.8473624" lon="4.3571982">
+    <src>https://eaupotable.info/fr/611-vivaqua</src>
+    <name>Vivaqua</name>
+    <desc>Keizerinlaan 1</desc>
+  </wpt>
+  <wpt lat="43.538685" lon="5.292962000000001">
+    <src>https://eaupotable.info/fr/612-fontanii</src>
+    <name>Fontanii</name>
+    <desc>la pinette</desc>
+  </wpt>
+  <wpt lat="43.274308" lon="6.521865000000001">
+    <src>https://eaupotable.info/fr/613-fontaine-deau-potable</src>
+    <name>Fontaine d'eau potable</name>
+    <desc>Place Vieille</desc>
+  </wpt>
+  <wpt lat="50.2786564670615" lon="4.79391230740968">
+    <src>https://eaupotable.info/fr/614-robinet-devant-leglise-de-falaen</src>
+    <name>Robinet devant l'&#233;glise de Fala&#235;n</name>
+    <desc>Try des Bruy&#232;res 2</desc>
+  </wpt>
+  <wpt lat="49.8315757312937" lon="5.05645116532897">
+    <src>https://eaupotable.info/fr/615-fontaine-a-ucimont</src>
+    <name>Fontaine &#224; Ucimont</name>
+    <desc>Rue du Ch&#226;teau-le-Duc 25</desc>
+  </wpt>
+  <wpt lat="47.8950989" lon="1.6348353">
+    <src>https://eaupotable.info/fr/616-baccon</src>
+    <name>Baccon</name>
+    <desc>Rue de la Planche</desc>
+  </wpt>
+  <wpt lat="43.51603363484386" lon="6.638106074400265">
+    <src>https://eaupotable.info/fr/617-eau-de-source</src>
+    <name>Eau de source</name>
+    <desc>D47</desc>
+  </wpt>
+  <wpt lat="50.6277416183494" lon="5.5760492411434015">
+    <src>https://eaupotable.info/fr/618-borne-a-boire-la-boverie-plaine-de-jeux</src>
+    <name>Borne &#224; boire - La Boverie (plaine de jeux)</name>
+    <desc>Parc de la Boverie 3</desc>
+  </wpt>
+  <wpt lat="50.628865429929995" lon="5.5754873183547815">
+    <src>https://eaupotable.info/fr/619-borne-a-boire-la-boverie-voliere</src>
+    <name>Borne &#224; boire - La Boverie (voli&#232;re)</name>
+    <desc>All&#233;e Fr&#233;d&#233;ric Chopin 1</desc>
+  </wpt>
+  <wpt lat="50.647130818261644" lon="5.573892286647029">
+    <src>https://eaupotable.info/fr/620-borne-a-boire-citadelle</src>
+    <name>Borne &#224; boire - Citadelle</name>
+    <desc>Rue Pierreuse 38</desc>
+  </wpt>
+  <wpt lat="50.6547508" lon="5.603133499999999">
+    <src>https://eaupotable.info/fr/621-borne-a-boire-morinval</src>
+    <name>Borne &#224; boire - Morinval</name>
+    <desc>Rue Morinval 72</desc>
+  </wpt>
+  <wpt lat="50.65062282045756" lon="5.591597116532916">
+    <src>https://eaupotable.info/fr/622-borne-a-boire-vieille-montagne</src>
+    <name>Borne &#224; boire - Vieille montagne</name>
+    <desc>Rue Mosselman 31</desc>
+  </wpt>
+  <wpt lat="50.652529034283944" lon="5.5892229214610945">
+    <src>https://eaupotable.info/fr/623-borne-a-boire-vivegnis</src>
+    <name>Borne &#224; boire - Vivegnis</name>
+    <desc>Place Vivegnis 26</desc>
+  </wpt>
+  <wpt lat="50.64077474896423" lon="5.557942310975643">
+    <src>https://eaupotable.info/fr/624-borne-a-boire-saint-laurent</src>
+    <name>Borne &#224; boire - Saint-Laurent</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.64399318702794" lon="5.559591253581222">
+    <src>https://eaupotable.info/fr/625-borne-a-boire-sainte-agathe</src>
+    <name>Borne &#224; boire - Sainte-Agathe</name>
+    <desc>Rue Hullos 51</desc>
+  </wpt>
+  <wpt lat="50.64842067016085" lon="5.585424392590328">
+    <src>https://eaupotable.info/fr/626-borne-a-boire-saint-leonard</src>
+    <name>Borne &#224; boire - Saint-L&#233;onard</name>
+    <desc>Rue Mathieu Laensberg 6</desc>
+  </wpt>
+  <wpt lat="42.52023393086943" lon="2.933706098043425">
+    <src>https://eaupotable.info/fr/627-font-des-ocells-fontaine-aux-oiseaux</src>
+    <name>Font des ocells (Fontaine aux oiseaux)</name>
+    <desc>Rue de l'&#201;glise 4</desc>
+  </wpt>
+  <wpt lat="42.59614492827085" lon="2.416062939811723">
+    <src>https://eaupotable.info/fr/628-eau-de-source-abbaye-de-saint-michel-de-cuxa</src>
+    <name>Eau de source Abbaye de Saint Michel de Cuxa</name>
+    <desc>D27</desc>
+  </wpt>
+  <wpt lat="49.956849" lon="3.607777">
+    <src>https://eaupotable.info/fr/629-la-source-de-tupigny</src>
+    <name>La source de Tupigny</name>
+    <desc/>
+  </wpt>
+  <wpt lat="40.72540480000001" lon="-6.9055942">
+    <src>https://eaupotable.info/fr/630-fuente-medieval</src>
+    <name>Fuente medieval</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.78568909910237" lon="2.86043959101562">
+    <src>https://eaupotable.info/fr/631-fontaine-de-mazayes-hautes</src>
+    <name>Fontaine de Mazayes Hautes</name>
+    <desc>Mazaye Hautes 6</desc>
+  </wpt>
+  <wpt lat="43.998802449937" lon="5.05728450160523">
+    <src>https://eaupotable.info/fr/632-fontaine</src>
+    <name>fontaine</name>
+    <desc>Rue Barb&#232;s 50</desc>
+  </wpt>
+  <wpt lat="43.8748809299838" lon="4.90202208465576">
+    <src>https://eaupotable.info/fr/633-fontaine-potable</src>
+    <name>fontaine potable</name>
+    <desc>Route de Moll&#233;g&#232;s Cd 74 14</desc>
+  </wpt>
+  <wpt lat="44.6568977953098" lon="-1.14781579893724">
+    <src>https://eaupotable.info/fr/634-robinet</src>
+    <name>Robinet</name>
+    <desc>Boulevard de la Plage 7</desc>
+  </wpt>
+  <wpt lat="45.439611555024996" lon="5.921293581307965">
+    <src>https://eaupotable.info/fr/635-refuge-du-col-de-lalpette</src>
+    <name>Refuge du col de l'Alpette</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.40352677986692" lon="5.901443893493252">
+    <src>https://eaupotable.info/fr/636-fontaine-de-rigne-baton</src>
+    <name>Fontaine de Rigne B&#226;ton</name>
+    <desc>Unnamed Road</desc>
+  </wpt>
+  <wpt lat="44.765102" lon="-1.139335">
+    <src>https://eaupotable.info/fr/637-association-les-amis-des-puits</src>
+    <name>association les amis des puits</name>
+    <desc>71 All&#233;e de la Pin&#232;de</desc>
+  </wpt>
+  <wpt lat="49.10974400198869" lon="4.183841025161739">
+    <src>https://eaupotable.info/fr/638-eau-de-robinet-cimetiere-de-trepail</src>
+    <name>Eau de robinet cimeti&#232;re de Tr&#233;pail</name>
+    <desc>Rue du Calvaire 10</desc>
+  </wpt>
+  <wpt lat="50.1724541" lon="4.7191537">
+    <src>https://eaupotable.info/fr/639-notre-dame-de-bonne-fontaine-chapelle-de-soulmes</src>
+    <name>Notre-Dame de Bonne Fontaine, Chapelle de Soulmes</name>
+    <desc>Moulin Bayot</desc>
+  </wpt>
+  <wpt lat="43.465779" lon="2.101233">
+    <src>https://eaupotable.info/fr/640-fontaines-de-st-amancet-village-aux-trois-fontaines</src>
+    <name>fontaines de st amancet village aux trois fontaines</name>
+    <desc>4 PLACE DE L Egalit&#233;</desc>
+  </wpt>
+  <wpt lat="36.734473" lon="-3.6890198">
+    <src>https://eaupotable.info/fr/641-mevrouw</src>
+    <name>Mevrouw</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.0743286069646" lon="5.30595806123809">
+    <src>https://eaupotable.info/fr/642-une-des-7-fontaines-dawenne</src>
+    <name>Une des 7 fontaines d'Awenne</name>
+    <desc>Rue du Tombois 1</desc>
+  </wpt>
+  <wpt lat="50.0731631889145" lon="5.30612435819701">
+    <src>https://eaupotable.info/fr/643-une-des-7-fontaines-dawenne</src>
+    <name>Une des 7 fontaines d'Awenne</name>
+    <desc>Rue du Souvenir 14</desc>
+  </wpt>
+  <wpt lat="50.342422903373" lon="5.96191354285277">
+    <src>https://eaupotable.info/fr/644-fontaine-au-bord-du-petit-parc</src>
+    <name>Fontaine au bord du petit parc</name>
+    <desc>Logbierm&#233; 23</desc>
+  </wpt>
+  <wpt lat="50.3422654193213" lon="5.96248753558196">
+    <src>https://eaupotable.info/fr/645-abreuvoirs</src>
+    <name>Abreuvoirs</name>
+    <desc>Logbierm&#233; 23</desc>
+  </wpt>
+  <wpt lat="49.609916195686" lon="5.65659161904907">
+    <src>https://eaupotable.info/fr/646-ancien-lavoir</src>
+    <name>Ancien lavoir</name>
+    <desc>Rue de Conchibois 8</desc>
+  </wpt>
+  <wpt lat="50.393395801160814" lon="5.869836966934199">
+    <src>https://eaupotable.info/fr/647-fontaine-grand-coo</src>
+    <name>Fontaine Grand Coo</name>
+    <desc>Grand Coo 8</desc>
+  </wpt>
+  <wpt lat="50.39749699999999" lon="5.986661900000001">
+    <src>https://eaupotable.info/fr/648-point-deau-chevofosse</src>
+    <name>Point d'eau Chevofosse</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.9846150804985" lon="-2.26626161709594">
+    <src>https://eaupotable.info/fr/649-fontaine-ste-appoline</src>
+    <name>Fontaine Ste Appoline</name>
+    <desc>Le Lidrio</desc>
+  </wpt>
+  <wpt lat="50.7826889" lon="5.4680692">
+    <src>https://eaupotable.info/fr/650-pumpkeskal</src>
+    <name>Pumpkeskal</name>
+    <desc>Maastrichterstraat 100</desc>
+  </wpt>
+  <wpt lat="47.31470418686154" lon="8.525994474066149">
+    <src>https://eaupotable.info/fr/651-soodstrasse</src>
+    <name>Soodstrasse</name>
+    <desc>Soodstrasse 17</desc>
+  </wpt>
+  <wpt lat="48.03910058476963" lon="-2.246690801422111">
+    <src>https://eaupotable.info/fr/652-fontaine-de-baranton</src>
+    <name>Fontaine de Baranton</name>
+    <desc>Unnamed Road</desc>
+  </wpt>
+  <wpt lat="48.00788128213735" lon="-2.287458863754268">
+    <src>https://eaupotable.info/fr/653-robinet-cimetiere-de-trehorenteuc</src>
+    <name>Robinet cimeti&#232;re de Tr&#233;horenteuc</name>
+    <desc>Rue du Patis 1</desc>
+  </wpt>
+  <wpt lat="49.4405531142217" lon="4.59984792394257">
+    <src>https://eaupotable.info/fr/654-point-deau-potable-dun-particulier-a-disposition-sur-lacces-public</src>
+    <name>Point d'eau potable d'un particulier &#224; disposition sur l'acc&#232;s public</name>
+    <desc>Hameau de Marqueny 7</desc>
+  </wpt>
+  <wpt lat="48.00761749379291" lon="-2.28640743782043">
+    <src>https://eaupotable.info/fr/655-toilettes-publiques</src>
+    <name>Toilettes publiques</name>
+    <desc>Rue de Broc&#233;liande 30</desc>
+  </wpt>
+  <wpt lat="48.001635492751724" lon="-2.2478321176605287">
+    <src>https://eaupotable.info/fr/656-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Beauvais</desc>
+  </wpt>
+  <wpt lat="50.09508913422766" lon="5.036159184590527">
+    <src>https://eaupotable.info/fr/657-source-de-mossiat</src>
+    <name>Source de Mossiat</name>
+    <desc>Rue de Mossiat 59</desc>
+  </wpt>
+  <wpt lat="47.99901482912471" lon="-2.1870337233398396">
+    <src>https://eaupotable.info/fr/659-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Saint-Barth&#233;l&#233;my</desc>
+  </wpt>
+  <wpt lat="48.01476702868508" lon="-2.1721911825256313">
+    <src>https://eaupotable.info/fr/660-toilettes-publiques</src>
+    <name>Toilettes publiques</name>
+    <desc>Rue de la Fontaine de Barenton 2</desc>
+  </wpt>
+  <wpt lat="48.01900124789193" lon="-2.1735644735412563">
+    <src>https://eaupotable.info/fr/661-toilettes-publiques</src>
+    <name>Toilettes publiques</name>
+    <desc>Place du Roi Saint-Judicael 11</desc>
+  </wpt>
+  <wpt lat="47.571101044298636" lon="-2.9476566322937003">
+    <src>https://eaupotable.info/fr/662-robinet-cimetiere-de-locmariaquer</src>
+    <name>Robinet cimeti&#232;re de Locmariaquer</name>
+    <desc>Route d'Auray 10</desc>
+  </wpt>
+  <wpt lat="45.0411418409354" lon="-0.9372087751159586">
+    <src>https://eaupotable.info/fr/663-fontaine-de-brach</src>
+    <name>Fontaine de Brach</name>
+    <desc>Route de Castelnau 1</desc>
+  </wpt>
+  <wpt lat="44.648554389705254" lon="-0.21001894973755597">
+    <src>https://eaupotable.info/fr/664-fontaine-de-mourens</src>
+    <name>Fontaine de Mourens</name>
+    <desc>Le Bourg 10</desc>
+  </wpt>
+  <wpt lat="48.228696903094004" lon="6.432213654100383">
+    <src>https://eaupotable.info/fr/665-eau-non-surveillee</src>
+    <name>Eau non surveill&#233;e</name>
+    <desc>Rue de la Foug&#232;re 5</desc>
+  </wpt>
+  <wpt lat="44.585113109817875" lon="-0.04058943914795332">
+    <src>https://eaupotable.info/fr/666-robinet-la-reole</src>
+    <name>Robinet La R&#233;ole</name>
+    <desc>Chemin de Peyreffite 8</desc>
+  </wpt>
+  <wpt lat="43.07713398555747" lon="5.804149752712244">
+    <src>https://eaupotable.info/fr/667-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Quai Saint-Pierre 19</desc>
+  </wpt>
+  <wpt lat="43.07888548294943" lon="5.89666455139541">
+    <src>https://eaupotable.info/fr/668-lavabos</src>
+    <name>Lavabos</name>
+    <desc>All&#233;e Danielle Mitterrand 263</desc>
+  </wpt>
+  <wpt lat="43.07856908375462" lon="5.898373118537896">
+    <src>https://eaupotable.info/fr/669-lavabos</src>
+    <name>Lavabos</name>
+    <desc>Rue Georges Lahaye 61</desc>
+  </wpt>
+  <wpt lat="43.151619417225525" lon="5.839007240345007">
+    <src>https://eaupotable.info/fr/670-source</src>
+    <name>Source</name>
+    <desc>Route du Gros Cerveau 3500</desc>
+  </wpt>
+  <wpt lat="45.76421714766899" lon="2.955682361901837">
+    <src>https://eaupotable.info/fr/671-fontaine-du-col-de-ceyssay</src>
+    <name>Fontaine du Col de Ceyssay</name>
+    <desc>Puy du Grand Sol</desc>
+  </wpt>
+  <wpt lat="45.69419250341328" lon="2.9517985232482724">
+    <src>https://eaupotable.info/fr/672-toilettes-publiques-maison-du-parc-des-volcans</src>
+    <name>Toilettes publiques - Maison du Parc des Volcans</name>
+    <desc>Ch&#226;teau de Montlosier</desc>
+  </wpt>
+  <wpt lat="45.74307671152067" lon="2.9687071688781552">
+    <src>https://eaupotable.info/fr/673-robinet-cimetiere-de-laschamps</src>
+    <name>Robinet - Cimeti&#232;re de Laschamps</name>
+    <desc>Chemin de la Vialle 23</desc>
+  </wpt>
+  <wpt lat="44.840177958898025" lon="-0.39726976686476956">
+    <src>https://eaupotable.info/fr/674-source-salleboeuf</src>
+    <name>Source Salleboeuf</name>
+    <desc>Avenue de la Source 6</desc>
+  </wpt>
+  <wpt lat="45.77827982166411" lon="3.08360160368784">
+    <src>https://eaupotable.info/fr/675-fontaine-rue-des-petits-gras-a-clermont-ferrand</src>
+    <name>Fontaine rue des Petits Gras &#224; Clermont-Ferrand</name>
+    <desc>Rue des Petits Gras 12</desc>
+  </wpt>
+  <wpt lat="45.77947236189092" lon="3.084606761516171">
+    <src>https://eaupotable.info/fr/676-fontaine-place-mazet-a-clermont-ferrand</src>
+    <name>Fontaine Place Mazet &#224; Clermont-Ferrand</name>
+    <desc>Place March&#233; aux Poissons 7</desc>
+  </wpt>
+  <wpt lat="45.779580858402674" lon="3.0861020930419736">
+    <src>https://eaupotable.info/fr/677-fontaine-n01-rue-philippe-marcombes-a-clermont-ferrand</src>
+    <name>Fontaine N&#176;1 rue Philippe Marcombes &#224; Clermont-Ferrand</name>
+    <desc>Rue Philippe Marcombes 11</desc>
+  </wpt>
+  <wpt lat="45.78045911118711" lon="3.088230425895291">
+    <src>https://eaupotable.info/fr/678-fontaine-rue-barnier-a-clermont-ferrand</src>
+    <name>Fontaine rue Barnier &#224; Clermont-Ferrand</name>
+    <desc>Rue Barnier 1</desc>
+  </wpt>
+  <wpt lat="45.780360904693744" lon="3.0897794016013913">
+    <src>https://eaupotable.info/fr/679-fontaine-rue-du-port-a-clermont-ferrand</src>
+    <name>Fontaine rue du Port &#224; Clermont-Ferrand</name>
+    <desc>Rue du Port 59</desc>
+  </wpt>
+  <wpt lat="45.77847343581181" lon="3.0875246696482472">
+    <src>https://eaupotable.info/fr/680-fontaine-place-du-terrail-a-clermont-ferrand</src>
+    <name>Fontaine Place du Terrail &#224; Clermont-Ferrand</name>
+    <desc>Rue Blaise Pascal 2</desc>
+  </wpt>
+  <wpt lat="45.773781611002995" lon="3.0849353321204953">
+    <src>https://eaupotable.info/fr/681-fontaine-rue-georges-clemenceau-a-clermont-ferrand</src>
+    <name>Fontaine rue Georges Cl&#233;menceau &#224; Clermont-Ferrand</name>
+    <desc>Rue Georges Clemenceau 51</desc>
+  </wpt>
+  <wpt lat="45.793383446645514" lon="3.1097068734775357">
+    <src>https://eaupotable.info/fr/682-fontaine-des-quatre-saisonsa-clermont-ferrand</src>
+    <name>Fontaine des Quatre-Saisons&#224; Clermont-Ferrand</name>
+    <desc>Rue de la Gravi&#232;re 48</desc>
+  </wpt>
+  <wpt lat="45.77119233291213" lon="2.9630047925124936">
+    <src>https://eaupotable.info/fr/683-fontaine-du-puy-du-dome</src>
+    <name>Fontaine du Puy du D&#244;me</name>
+    <desc>Sommet du Puy de D&#244;me</desc>
+  </wpt>
+  <wpt lat="47.912129030492125" lon="7.204434077384949">
+    <src>https://eaupotable.info/fr/684-borne-eau</src>
+    <name>Borne Eau</name>
+    <desc>Rue de la Breilmatt 10</desc>
+  </wpt>
+  <wpt lat="37.4413839407679" lon="-5.3548526857624">
+    <src>https://eaupotable.info/fr/686-merendero-via-verde-junto-a-fuentes-de-andalucia</src>
+    <name>Merendero v&#237;a verde junto a Fuentes de Andaluc&#237;a</name>
+    <desc>Vias Verdes de la Campina tramo Cordoba Ecija Marchena</desc>
+  </wpt>
+  <wpt lat="37.3927851201609" lon="-5.3880410409256">
+    <src>https://eaupotable.info/fr/687-merendero-arroyo-salado</src>
+    <name>Merendero Arroyo Salado</name>
+    <desc>Vias Verdes de la Campina tramo Cordoba Ecija Marchena</desc>
+  </wpt>
+  <wpt lat="49.81690144938682" lon="5.3267410820007255">
+    <src>https://eaupotable.info/fr/688-cimetiere-de-saint-medard</src>
+    <name>Cimeti&#232;re de Saint-M&#233;dard</name>
+    <desc>Les Pelli&#232;res 2</desc>
+  </wpt>
+  <wpt lat="44.74337913747018" lon="0.07557481960868362">
+    <src>https://eaupotable.info/fr/690-robinet-pellegrue-place-de-la-mairie</src>
+    <name>Robinet Pellegrue place de la mairie</name>
+    <desc>Rue de la R&#233;publique 17</desc>
+  </wpt>
+  <wpt lat="44.85145212021402" lon="-0.43747992359542964">
+    <src>https://eaupotable.info/fr/691-robinet-cimeterre-pompignac</src>
+    <name>Robinet cimeterre Pompignac</name>
+    <desc>Route de l'&#201;glise 12</desc>
+  </wpt>
+  <wpt lat="43.163665320186446" lon="-1.2346606792068537">
+    <src>https://eaupotable.info/fr/692-fontaine-saint-pied-de-port-rue-de-la-citadelle</src>
+    <name>Fontaine Saint Pied de Port - Rue de la Citadelle</name>
+    <desc>Rue de la Citadelle 55</desc>
+  </wpt>
+  <wpt lat="50.0202615" lon="5.1182212">
+    <src>https://eaupotable.info/fr/693-eau-potable</src>
+    <name>Eau potable</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.78531821609424" lon="-0.08798484921265226">
+    <src>https://eaupotable.info/fr/694-robinet-cimeterre-merignas</src>
+    <name>Robinet cimeterre M&#233;rignas</name>
+    <desc>Gabiran 1</desc>
+  </wpt>
+  <wpt lat="43.7666635627698" lon="1.99176487039184">
+    <src>https://eaupotable.info/fr/695-robinet-deau-potable</src>
+    <name>Robinet d'eau potable</name>
+    <desc>Chemin des Vo&#251;tes 4</desc>
+  </wpt>
+  <wpt lat="43.575691089866545" lon="3.0680536531358493">
+    <src>https://eaupotable.info/fr/696-source</src>
+    <name>Source</name>
+    <desc>Route de Gatini&#233; 1051</desc>
+  </wpt>
+  <wpt lat="47.98480014666084" lon="-0.4160765013843948">
+    <src>https://eaupotable.info/fr/697-source-naturelle-oratoire-de-saint-cenere</src>
+    <name>Source naturelle Oratoire de Saint-C&#233;ner&#233;</name>
+    <desc>Montguyon, 53340 Saulges</desc>
+  </wpt>
+  <wpt lat="43.90786426545435" lon="5.200306296684789">
+    <src>https://eaupotable.info/fr/699-lavoir</src>
+    <name>Lavoir</name>
+    <desc/>
+  </wpt>
+  <wpt lat="41.426006" lon="-8.6728939">
+    <src>https://eaupotable.info/fr/701-a-fonte-de-s-pedro</src>
+    <name>A fonte de S. Pedro</name>
+    <desc>KIRIL</desc>
+  </wpt>
+  <wpt lat="47.406636132479576" lon="7.54733041058961">
+    <src>https://eaupotable.info/fr/702-st-christian-paerkli</src>
+    <name>St Christian Paerkli</name>
+    <desc>G&#228;ssliackerweg 3</desc>
+  </wpt>
+  <wpt lat="47.40802138091828" lon="7.544062690213003">
+    <src>https://eaupotable.info/fr/703-water-fountain-at-the-roundabout</src>
+    <name>Water fountain at the roundabout</name>
+    <desc>Passwangstrasse 3</desc>
+  </wpt>
+  <wpt lat="47.4068959161264" lon="7.547517375424184">
+    <src>https://eaupotable.info/fr/704-water-fountain-closed-in-winter-months</src>
+    <name>Water fountain (closed in winter months)</name>
+    <desc>Fehrenstrasse 39</desc>
+  </wpt>
+  <wpt lat="43.5298984" lon="5.4523502">
+    <src>https://eaupotable.info/fr/705-fontaine-publique</src>
+    <name>fontaine publique</name>
+    <desc>Rue Chastel 17</desc>
+  </wpt>
+  <wpt lat="49.2664339" lon="-0.055352">
+    <src>https://eaupotable.info/fr/706-source-deau-potable-au-pied-de-leglise-de-grangues</src>
+    <name>Source d'eau potable au pied de l'&#233;glise de Grangues</name>
+    <desc>16bis Route d'Aumale</desc>
+  </wpt>
+  <wpt lat="43.78204997534366" lon="2.2668481715331845">
+    <src>https://eaupotable.info/fr/707-lac-de-la-bancalie</src>
+    <name>Lac de la Bancali&#233;</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.9665873" lon="0.3766402">
+    <src>https://eaupotable.info/fr/708-fontaine-sainte-genevieve</src>
+    <name>fontaine Sainte-Genevi&#232;ve</name>
+    <desc>Place du Vivier</desc>
+  </wpt>
+  <wpt lat="49.9099734129871" lon="5.56519874892425">
+    <src>https://eaupotable.info/fr/709-salle-le-vauxhall</src>
+    <name>Salle le Vauxhall</name>
+    <desc>Chauss&#233;e de Neufch&#226;teau 45</desc>
+  </wpt>
+  <wpt lat="44.77653728673816" lon="0.9892542868959042">
+    <src>https://eaupotable.info/fr/710-la-fontaine-de-capelou</src>
+    <name>La fontaine de Capelou</name>
+    <desc>D54</desc>
+  </wpt>
+  <wpt lat="43.44114323569957" lon="6.744160624831812">
+    <src>https://eaupotable.info/fr/711-parc-aurelien</src>
+    <name>Parc Aur&#233;lien</name>
+    <desc>Avenue du G&#233;n&#233;ral d'arm&#233;e jean Calli&#232;s</desc>
+  </wpt>
+  <wpt lat="42.880457" lon="1.893772">
+    <src>https://eaupotable.info/fr/712-fontaine-du-village</src>
+    <name>Fontaine du village</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.8324798702177" lon="4.14366674489134">
+    <src>https://eaupotable.info/fr/713-bron-eizeringen</src>
+    <name>Bron Eizeringen</name>
+    <desc>Frans Baetensstraat 1</desc>
+  </wpt>
+  <wpt lat="43.5149824433669" lon="3.69349226123811">
+    <src>https://eaupotable.info/fr/714-eau-communal</src>
+    <name>Eau communal</name>
+    <desc>Place du Jeu de Ballons 9</desc>
+  </wpt>
+  <wpt lat="47.339882600831054" lon="0.6588985940956071">
+    <src>https://eaupotable.info/fr/715-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Rue Jean Monnet 16</desc>
+  </wpt>
+  <wpt lat="49.75150384790977" lon="5.305433875109622">
+    <src>https://eaupotable.info/fr/716-source-des-epioux</src>
+    <name>Source des Epioux</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.7966812867071" lon="5.38086632812024">
+    <src>https://eaupotable.info/fr/717-robinet-du-cimetiere-autour-de-leglise</src>
+    <name>Robinet du cimeti&#232;re autour de l'&#233;glise</name>
+    <desc>Rue du Horlai 14</desc>
+  </wpt>
+  <wpt lat="44.65744706582978" lon="5.282995447174081">
+    <src>https://eaupotable.info/fr/718-source-de-saint-benoit</src>
+    <name>Source de Saint Benoit</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.2787110363193" lon="-0.432955402160637">
+    <src>https://eaupotable.info/fr/719-source-du-bois-du-tay</src>
+    <name>Source du Bois du Tay</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.6601151200411" lon="5.193713917999285">
+    <src>https://eaupotable.info/fr/720-source-des-fonds-du-faux</src>
+    <name>Source des Fonds du Faux</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.800349" lon="2.529581">
+    <src>https://eaupotable.info/fr/721-clue-de-la-fou</src>
+    <name>Clue de la Fou</name>
+    <desc>Clue de la Fou, 42.80078621578625, 2.4982723011934143</desc>
+  </wpt>
+  <wpt lat="46.33229348016534" lon="5.5398637617384106">
+    <src>https://eaupotable.info/fr/722-source-un-peu-cachee</src>
+    <name>source un peu cach&#233;e</name>
+    <desc>32 rue Billon</desc>
+  </wpt>
+  <wpt lat="42.7402299" lon="2.610735">
+    <src>https://eaupotable.info/fr/723-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Centre village</desc>
+  </wpt>
+  <wpt lat="50.1377516918873" lon="5.78830970080263">
+    <src>https://eaupotable.info/fr/729-cimetiere-de-houffalize</src>
+    <name>Cimeti&#232;re de Houffalize</name>
+    <desc>Rue de Li&#232;ge Houffalize</desc>
+  </wpt>
+  <wpt lat="44.955705382028576" lon="-0.4692786089767642">
+    <src>https://eaupotable.info/fr/730-robinet-du-cimetiere-de-saint-vincent-de-paul</src>
+    <name>Robinet du Cimeti&#232;re de Saint Vincent de Paul</name>
+    <desc>Avenue Paul Princeteau 14</desc>
+  </wpt>
+  <wpt lat="43.719923" lon="6.979338">
+    <src>https://eaupotable.info/fr/732-source-naturelle</src>
+    <name>source naturelle</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.1069432900936" lon="6.20574303704833">
+    <src>https://eaupotable.info/fr/733-fontaine-de-courbons</src>
+    <name>Fontaine de Courbons</name>
+    <desc>La Crau 9926</desc>
+  </wpt>
+  <wpt lat="44.59025187019139" lon="4.706875005310063">
+    <src>https://eaupotable.info/fr/734-eau-de-rochemaure</src>
+    <name>Eau de Rochemaure</name>
+    <desc>Rue des Fontaines 33-29</desc>
+  </wpt>
+  <wpt lat="50.1200848887034" lon="8.255813206018047">
+    <src>https://eaupotable.info/fr/736-well-known-place</src>
+    <name>Well known place</name>
+    <desc>Goldsteintal 60</desc>
+  </wpt>
+  <wpt lat="50.9304019" lon="3.6586503">
+    <src>https://eaupotable.info/fr/738-sint-christiana-bron</src>
+    <name>Sint Christiana bron</name>
+    <desc>Sint Christianastraat</desc>
+  </wpt>
+  <wpt lat="49.70296086930299" lon="-1.8442574920654398">
+    <src>https://eaupotable.info/fr/740-toilettes-publiques-de-leglise-domonville-la-rogue</src>
+    <name>Toilettes publiques de l'&#233;glise d'Omonville la Rogue</name>
+    <desc>Rue des Beuriers 1</desc>
+  </wpt>
+  <wpt lat="46.272113848588845" lon="7.027802264198746">
+    <src>https://eaupotable.info/fr/742-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Chemin du Champ-de-la-Blanche 3</desc>
+  </wpt>
+  <wpt lat="50.250000352993354" lon="5.121009040336615">
+    <src>https://eaupotable.info/fr/744-fontaine-d-ychippe</src>
+    <name>Fontaine d'Ychippe</name>
+    <desc>Rue d'Ychippe 30</desc>
+  </wpt>
+  <wpt lat="49.681730013454704" lon="-1.8183995980377188">
+    <src>https://eaupotable.info/fr/745-robinet-du-cimetiere-deculleville</src>
+    <name>Robinet du cimeti&#232;re d'Eculleville</name>
+    <desc>Le Presbyt&#232;re 9</desc>
+  </wpt>
+  <wpt lat="49.68789750958076" lon="-1.8371321457977285">
+    <src>https://eaupotable.info/fr/746-robinet-dans-salle-de-pique-nique-au-manoir-du-tourp</src>
+    <name>Robinet dans salle de pique nique au Manoir du Tourp</name>
+    <desc>Le Tourp 1</desc>
+  </wpt>
+  <wpt lat="41.4872007" lon="2.271952">
+    <src>https://eaupotable.info/fr/747-fuente-de-agua-junto-a-la-ermita-de-la-alegria</src>
+    <name>Fuente de agua junto a la Ermita de la Alegr&#237;a</name>
+    <desc>Cam&#237; de l'Alegria, Tiana, Espa&#241;a</desc>
+  </wpt>
+  <wpt lat="46.9919118640543" lon="3.16434211772158">
+    <src>https://eaupotable.info/fr/748-eglise-saint-etienne</src>
+    <name>Eglise Saint-Etienne</name>
+    <desc>Rue du Charnier 6</desc>
+  </wpt>
+  <wpt lat="44.8266958627882" lon="4.79649706913378">
+    <src>https://eaupotable.info/fr/749-croisement-grand-rue-rue-des-terras</src>
+    <name>Croisement Grand Rue - Rue des Terras</name>
+    <desc>Rue des Terras 5</desc>
+  </wpt>
+  <wpt lat="44.8262695958866" lon="4.76421092071057">
+    <src>https://eaupotable.info/fr/750-chateau-du-bousquet-saint-laurent-du-pape-07800</src>
+    <name>Chateau du Bousquet - Saint Laurent du Pape 07800</name>
+    <desc>D266 453</desc>
+  </wpt>
+  <wpt lat="44.8215449052987" lon="4.77318474131926">
+    <src>https://eaupotable.info/fr/751-fontaine-eau-de-ville-au-parking-de-la-dolce-via</src>
+    <name>Fontaine eau de ville au parking de la Dolce Via</name>
+    <desc>Chemin de la Gare 190</desc>
+  </wpt>
+  <wpt lat="45.950918" lon="1.497615">
+    <src>https://eaupotable.info/fr/752-fontaine</src>
+    <name>fontaine</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.992134" lon="6.46209">
+    <src>https://eaupotable.info/fr/753-fontaine-montbenoit</src>
+    <name>fontaine montbenoit</name>
+    <desc>place de l'abbaye</desc>
+  </wpt>
+  <wpt lat="44.057516835906625" lon="7.451549729587543">
+    <src>https://eaupotable.info/fr/754-fontaine-du-refuge-de-la-vallee-des-merveilles</src>
+    <name>Fontaine du refuge de la Vall&#233;e des Merveilles</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.086015522682615" lon="7.481098285200107">
+    <src>https://eaupotable.info/fr/755-fontaine-du-refuge-de-fontanalba</src>
+    <name>Fontaine du refuge de Fontanalba</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.11016848236349" lon="7.497090956451404">
+    <src>https://eaupotable.info/fr/756-eau-de-montagne-mont-paracouerte</src>
+    <name>Eau de montagne Mont Paracouerte</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.1081448781403" lon="7.446817642333019">
+    <src>https://eaupotable.info/fr/757-fontaine-du-refuge-de-valmasque</src>
+    <name>Fontaine du refuge de Valmasque</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.59777036029342" lon="2.025561966934184">
+    <src>https://eaupotable.info/fr/758-robinet-deau-potable-ancien-canal-de-la-sauldre</src>
+    <name>Robinet d'eau potable Ancien Canal de la Sauldre</name>
+    <desc>Chemin de Maisonfort 18</desc>
+  </wpt>
+  <wpt lat="45.0678428738878" lon="-0.383460912689206">
+    <src>https://eaupotable.info/fr/759-robinet-cimetiere-marsas</src>
+    <name>Robinet cimeti&#232;re Marsas</name>
+    <desc>Rue de la Fontaine 5</desc>
+  </wpt>
+  <wpt lat="46.083504442814686" lon="0.13503909867786046">
+    <src>https://eaupotable.info/fr/760-robinet-pour-camping-car</src>
+    <name>Robinet pour camping-car</name>
+    <desc>D181 18</desc>
+  </wpt>
+</gpx>

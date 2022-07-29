@@ -1,0 +1,4706 @@
+<kml version="1.1">
+  <Placemark>
+    <Point>
+      <coordinates>50.350712,5.583408</coordinates>
+    </Point>
+    <name>Source de Ninane</name>
+    <description>https://eaupotable.info/fr/1-source-de-ninane</description>
+    <address>Route des Roches</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.864891,2.275152</coordinates>
+    </Point>
+    <name>Eau de l'Albien: Fontaine du square Lamartine</name>
+    <description>https://eaupotable.info/fr/2-eau-de-l-albien-fontaine-du-square-lamartine</description>
+    <address>Square Lamartine</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.89304,2.361283</coordinates>
+    </Point>
+    <name>Eau de l'Albien: Fontaine de la Madone</name>
+    <description>https://eaupotable.info/fr/3-eau-de-l-albien-fontaine-de-la-madone</description>
+    <address>Square de la Madone</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8276881699896,2.35270824669647</coordinates>
+    </Point>
+    <name>Eau de l'Albien: Fontaine Place Paul Verlaine</name>
+    <description>https://eaupotable.info/fr/4-eau-de-l-albien-fontaine-place-paul-verlaine</description>
+    <address>Place Paul Verlaine</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.366764,5.624828</coordinates>
+    </Point>
+    <name>Pouhon de Fays</name>
+    <description>https://eaupotable.info/fr/5-pouhon-de-fays</description>
+    <address>rue du Pouhon</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.369144,5.847701</coordinates>
+    </Point>
+    <name>Pouhon de Trois-Ponts</name>
+    <description>https://eaupotable.info/fr/6-pouhon-de-trois-ponts</description>
+    <address>Henri Moulin</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.074459,-73.766953</coordinates>
+    </Point>
+    <name>Saratoga Springs: Big Red Spring</name>
+    <description>https://eaupotable.info/fr/7-saratoga-springs-big-red-spring</description>
+    <address>267 Union Avenue</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.055717,-73.80426</coordinates>
+    </Point>
+    <name>Saratoga Springs: Charlie Spring</name>
+    <description>https://eaupotable.info/fr/8-saratoga-springs-charlie-spring</description>
+    <address>Saratoga Performing Arts Center</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.078159,-73.78537</coordinates>
+    </Point>
+    <name>Saratoga Springs: Congress Spring</name>
+    <description>https://eaupotable.info/fr/9-saratoga-springs-congress-spring</description>
+    <address>Congress Park</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.078312,-73.784508</coordinates>
+    </Point>
+    <name>Saratoga Springs: Deer Park Spring</name>
+    <description>https://eaupotable.info/fr/10-saratoga-springs-deer-park-spring</description>
+    <address>Congress Park</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.090523,-73.766602</coordinates>
+    </Point>
+    <name>Saratoga Springs: Empire Spring</name>
+    <description>https://eaupotable.info/fr/11-saratoga-springs-empire-spring</description>
+    <address>Excelsior Avenue</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.051643,-73.805511</coordinates>
+    </Point>
+    <name>Saratoga Springs: Geyser Island Spouter</name>
+    <description>https://eaupotable.info/fr/12-saratoga-springs-geyser-island-spouter</description>
+    <address>Spa State Park</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.088936,-73.776169</coordinates>
+    </Point>
+    <name>Saratoga Springs: Old Red Spring</name>
+    <description>https://eaupotable.info/fr/13-saratoga-springs-old-red-spring</description>
+    <address>High Rock Avenue</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.079735,-73.784134</coordinates>
+    </Point>
+    <name>Saratoga Springs: Hathorn #1</name>
+    <description>https://eaupotable.info/fr/14-saratoga-springs-hathorn-1</description>
+    <address>Putnam Street</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.048862,-73.812248</coordinates>
+    </Point>
+    <name>Saratoga Springs: Hathorn #3</name>
+    <description>https://eaupotable.info/fr/15-saratoga-springs-hathorn-3</description>
+    <address>East West Road</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.086933,-73.780113</coordinates>
+    </Point>
+    <name>Saratoga Springs: High Rock Spring</name>
+    <description>https://eaupotable.info/fr/16-saratoga-springs-high-rock-spring</description>
+    <address>High Rock Avenue</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.086479,-73.780403</coordinates>
+    </Point>
+    <name>Saratoga Springs: Governor &amp; Peerless Spring</name>
+    <description>https://eaupotable.info/fr/17-saratoga-springs-governor-peerless-spring</description>
+    <address>High Rock Avenue</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.057938,-73.803864</coordinates>
+    </Point>
+    <name>Saratoga Springs: State Seal</name>
+    <description>https://eaupotable.info/fr/18-saratoga-springs-state-seal</description>
+    <address>Avenue of Pines</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.484768,5.898386</coordinates>
+    </Point>
+    <name>Sources de la Sauveni&#232;re et de Groesbeeck</name>
+    <description>https://eaupotable.info/fr/19-sources-de-la-sauveniere-et-de-groesbeeck</description>
+    <address>Route de la Sauveni&#232;re</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.4709288,5.8770828</coordinates>
+    </Point>
+    <name>Pouhon Pia</name>
+    <description>https://eaupotable.info/fr/20-pouhon-pia</description>
+    <address>Chemin des Fontaines</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.4921,5.885292</coordinates>
+    </Point>
+    <name>Source du Tonnelet</name>
+    <description>https://eaupotable.info/fr/21-source-du-tonnelet</description>
+    <address>Route du Tonnelet</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>51.143501,-2.705961</coordinates>
+    </Point>
+    <name>The White Spring</name>
+    <description>https://eaupotable.info/fr/22-the-white-spring</description>
+    <address>Well House Lane</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.857548,18.42762</coordinates>
+    </Point>
+    <name>Sarajevo Bascarsija Sebilj</name>
+    <description>https://eaupotable.info/fr/23-sarajevo-bascarsija-sebilj</description>
+    <address>Ba&#353;&#269;ar&#353;ija</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>34.945435,-83.08963</coordinates>
+    </Point>
+    <name>Moody Spring</name>
+    <description>https://eaupotable.info/fr/24-moody-spring</description>
+    <address>Road 107</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.858685,-104.911621</coordinates>
+    </Point>
+    <name>Manitou Springs: Seven Minute Spring</name>
+    <description>https://eaupotable.info/fr/25-manitou-springs-seven-minute-spring</description>
+    <address>Washington Avenue</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.859501,-104.918213</coordinates>
+    </Point>
+    <name>Manitou Springs: Wheeler Spring</name>
+    <description>https://eaupotable.info/fr/26-manitou-springs-wheeler-spring</description>
+    <address>Park Avenue</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.857487,-104.916878</coordinates>
+    </Point>
+    <name>Manitou Springs: Navajo Geyser</name>
+    <description>https://eaupotable.info/fr/27-manitou-springs-navajo-geyser</description>
+    <address>Manitou Springs</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.858002,-104.917328</coordinates>
+    </Point>
+    <name>Manitou Springs: Shoshone Spring</name>
+    <description>https://eaupotable.info/fr/28-manitou-springs-shoshone-spring</description>
+    <address>Manitou Springs</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.858864,-104.918411</coordinates>
+    </Point>
+    <name>Manitou Springs: Cheyenne Spring</name>
+    <description>https://eaupotable.info/fr/29-manitou-springs-cheyenne-spring</description>
+    <address>Manitou Springs</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.858814,-104.919624</coordinates>
+    </Point>
+    <name>Manitou Springs: Stratton Spring</name>
+    <description>https://eaupotable.info/fr/30-manitou-springs-stratton-spring</description>
+    <address>Manitou Springs</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.858257,-104.921616</coordinates>
+    </Point>
+    <name>Manitou Springs: Twin Spring</name>
+    <description>https://eaupotable.info/fr/31-manitou-springs-twin-spring</description>
+    <address>Manitou Springs</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.863304,-104.922485</coordinates>
+    </Point>
+    <name>Manitou Springs: Ute Chief Spring</name>
+    <description>https://eaupotable.info/fr/32-manitou-springs-ute-chief-spring</description>
+    <address>Manitou Springs</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.856503,-104.92852</coordinates>
+    </Point>
+    <name>Manitou Springs: Iron Spring</name>
+    <description>https://eaupotable.info/fr/33-manitou-springs-iron-spring</description>
+    <address>Manitou Springs</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>40.048176,-80.387627</coordinates>
+    </Point>
+    <name>Jesus Said</name>
+    <description>https://eaupotable.info/fr/34-jesus-said</description>
+    <address>Claysville</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.477448,5.873095</coordinates>
+    </Point>
+    <name>Source de la G&#233;ronst&#232;re</name>
+    <description>https://eaupotable.info/fr/35-source-de-la-geronstere</description>
+    <address>Route de la G&#233;ronst&#232;re, 4900 Spa, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.5846604971,5.64378113226</coordinates>
+    </Point>
+    <name>Les Belles Fontaines</name>
+    <description>https://eaupotable.info/fr/37-les-belles-fontaines</description>
+    <address>Rue des Belles Fontaines 24, 4050 Chaudfontaine, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.297142,5.65148</coordinates>
+    </Point>
+    <name>Le pouhon de Grandmenil</name>
+    <description>https://eaupotable.info/fr/38-le-pouhon-de-grandmenil</description>
+    <address>Route de Bomal, 6960 Manhay, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.363686,-3.746753</coordinates>
+    </Point>
+    <name>Eau de source Huelgoat Finist&#232;re</name>
+    <description>https://eaupotable.info/fr/40-eau-de-source-huelgoat-finistere</description>
+    <address>Huelgoat</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.353237,-0.081012</coordinates>
+    </Point>
+    <name>Source d'eau ferrugineuse de Saint-L&#233;onard-des-Bois</name>
+    <description>https://eaupotable.info/fr/42-source-d-eau-ferrugineuse-de-saint-leonard-des-bois</description>
+    <address>Saint-L&#233;onard-des-Bois</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.514153,14.984479</coordinates>
+    </Point>
+    <name>Ravne na Koro&#353;kem - Kotlje</name>
+    <description>https://eaupotable.info/fr/43-ravne-na-koroskem-kotlje</description>
+    <address>Kotlje 28, 2394 Ravne na Koro&#353;kem, Slov&#233;nie</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.031582,25.823286</coordinates>
+    </Point>
+    <name>Malnas Bai</name>
+    <description>https://eaupotable.info/fr/44-malnas-bai</description>
+    <address>Malna&#537; B&#259;i</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.508266,3.591007</coordinates>
+    </Point>
+    <name>Le lavoir Dubuisson-Copin</name>
+    <description>https://eaupotable.info/fr/45-le-lavoir-dubuisson-copin</description>
+    <address>Rue Albert 1er 13-41, 7600 P&#233;ruwelz, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.5103554036556,3.60341936364591</coordinates>
+    </Point>
+    <name>La fontaine Jaunay-Clan</name>
+    <description>https://eaupotable.info/fr/46-la-fontaine-jaunay-clan</description>
+    <address>Rue Castiau 7, P&#233;ruwelz, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.309013,16.624727</coordinates>
+    </Point>
+    <name>Stud&#225;nka - Zdr&#225;vas Maria</name>
+    <description>https://eaupotable.info/fr/48-studanka-zdravas-maria</description>
+    <address>Vranov 182, 664 32 Vranov, R&#233;publique Tch&#232;que</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>31.094353,-87.832687</coordinates>
+    </Point>
+    <name>Red Hill Spring</name>
+    <description>https://eaupotable.info/fr/49-red-hill-spring</description>
+    <address>59578-59818 State Highway 59, Stockton, Alabama 36579, &#201;tats-Unis</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>34.616962,-82.479439</coordinates>
+    </Point>
+    <name>Williamston Mineral Springs Park</name>
+    <description>https://eaupotable.info/fr/50-williamston-mineral-springs-park</description>
+    <address>Center St, Williamston, Caroline du Sud 29697, &#201;tats-Unis</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>40.367657,-78.960777</coordinates>
+    </Point>
+    <name>Heffley springs</name>
+    <description>https://eaupotable.info/fr/51-heffley-springs</description>
+    <address>Haws Pike, Johnstown, Pennsylvanie 15906, &#201;tats-Unis</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.098228,-78.651703</coordinates>
+    </Point>
+    <name>Maple Lake natural spring</name>
+    <description>https://eaupotable.info/fr/52-maple-lake-natural-spring</description>
+    <address>State Highway 118, Haliburton, ON K0M 1S0, Canada</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>37.859112,-121.935287</coordinates>
+    </Point>
+    <name>Mount Diablo State Park</name>
+    <description>https://eaupotable.info/fr/53-mount-diablo-state-park</description>
+    <address>S Gate Rd, Alamo, Californie 94507, &#201;tats-Unis</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.2034367342772,5.38662779629522</coordinates>
+    </Point>
+    <name>Source du Bois de Nolaumont</name>
+    <description>https://eaupotable.info/fr/54-source-du-bois-de-nolaumont</description>
+    <address>Rue de La Roche, 6900 Marche-en-Famenne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.521641,2.944226</coordinates>
+    </Point>
+    <name>Source d'eau piquante ferrugineuse &#224; Laroque-des-Alb&#232;res</name>
+    <description>https://eaupotable.info/fr/56-source-d-eau-piquante-ferrugineuse-a-laroque-des-alberes</description>
+    <address>Les Alb&#232;res, 66740 Laroque-des-Alb&#232;res, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.927135,5.784739</coordinates>
+    </Point>
+    <name>Fontaine &#224; Montigny-l&#232;s-Arsures</name>
+    <description>https://eaupotable.info/fr/57-fontaine-a-montigny-les-arsures</description>
+    <address>Rue de la Bouti&#232;re, 39600 Montigny-l&#232;s-Arsures, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.822948,4.663429</coordinates>
+    </Point>
+    <name>Oud-Heverlee - Zoet water</name>
+    <description>https://eaupotable.info/fr/58-oud-heverlee-zoet-water</description>
+    <address>Kapellendreef, 3050 Oud-Heverlee, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.687515,7.142206</coordinates>
+    </Point>
+    <name>Sauerbrunnen - Oberhambach</name>
+    <description>https://eaupotable.info/fr/59-sauerbrunnen-oberhambach</description>
+    <address>L174, 55765 Oberhambach, Allemagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.285435,5.480814</coordinates>
+    </Point>
+    <name>Fontaines de Ny (Hotton)</name>
+    <description>https://eaupotable.info/fr/60-fontaines-de-ny-hotton</description>
+    <address>Rue des Fontaines, 6990 Hotton, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.665901,5.86547</coordinates>
+    </Point>
+    <name>Source Saint-Bernard</name>
+    <description>https://eaupotable.info/fr/62-source-saint-bernard</description>
+    <address>Rue du Clo&#238;tre 41-69, 6700 Arlon, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.3992,3.956865</coordinates>
+    </Point>
+    <name>Source de Qu&#233;vy</name>
+    <description>https://eaupotable.info/fr/63-source-de-quevy</description>
+    <address>Rue des Montrys 24 - 36, 7040 Qu&#233;vy, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.485321,4.063169</coordinates>
+    </Point>
+    <name>Source Notre Dame de Creuse</name>
+    <description>https://eaupotable.info/fr/64-source-notre-dame-de-creuse</description>
+    <address>Sentier du Chien, 7070 Le Roeulx, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.996143,7.149346</coordinates>
+    </Point>
+    <name>Fontaine de Clans</name>
+    <description>https://eaupotable.info/fr/65-fontaine-de-clans</description>
+    <address>Rue Droite, 06420 Clans, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.291374,5.663109</coordinates>
+    </Point>
+    <name>Source de St Pons</name>
+    <description>https://eaupotable.info/fr/66-source-de-st-pons</description>
+    <address>D2, 13420 G&#233;menos, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.058353,6.319903</coordinates>
+    </Point>
+    <name>La B&#233;nite Fontaine</name>
+    <description>https://eaupotable.info/fr/67-la-benite-fontaine</description>
+    <address>1200 Avenue de la B&#233;nite Fontaine, 74800 La Roche-sur-Foron, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.60046,2.702604</coordinates>
+    </Point>
+    <name>Source de la Salvetat sur Ago&#251;t</name>
+    <description>https://eaupotable.info/fr/68-source-de-la-salvetat-sur-agout</description>
+    <address>La Salvetat-sur-Agout, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.982174,2.956752</coordinates>
+    </Point>
+    <name>Source Marie-Laure</name>
+    <description>https://eaupotable.info/fr/70-source-marie-laure</description>
+    <address>Montoute, 63410 Saint-Angel, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.417885,4.633315</coordinates>
+    </Point>
+    <name>Source de la baume</name>
+    <description>https://eaupotable.info/fr/72-source-de-la-baume</description>
+    <address>Rue de la Montagne 53-69, 5060 Sambreville, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6927678426759,5.24166026175885</coordinates>
+    </Point>
+    <name>Fontaine Saint-Michel</name>
+    <description>https://eaupotable.info/fr/74-fontaine-saint-michel</description>
+    <address>waremme rue de berloz</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.062588,3.794151</coordinates>
+    </Point>
+    <name>Fontaine de Beaurepaire sur Sambre</name>
+    <description>https://eaupotable.info/fr/90-fontaine-de-beaurepaire-sur-sambre</description>
+    <address>Beaurepaire-sur-Sambre, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.413475,-0.0327</coordinates>
+    </Point>
+    <name>La Ferri&#232;re-Bochard</name>
+    <description>https://eaupotable.info/fr/100-la-ferriere-bochard</description>
+    <address>Le Bourg, 61420 La Ferri&#232;re-Bochard, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.748661,6.198336</coordinates>
+    </Point>
+    <name>Fontaine de Lay-Saint-Christophe en Lorraine</name>
+    <description>https://eaupotable.info/fr/102-fontaine-de-lay-saint-christophe-en-lorraine</description>
+    <address>6 D32, 54690 Lay-Saint-Christophe, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.588696,4.315004</coordinates>
+    </Point>
+    <name>La source Badoit</name>
+    <description>https://eaupotable.info/fr/144-la-source-badoit</description>
+    <address>Avenue de la Coise, 42330 Saint-Galmier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.8879849671,-0.229022135443</coordinates>
+    </Point>
+    <name>Fulking spring</name>
+    <description>https://eaupotable.info/fr/145-fulking-spring</description>
+    <address>Edburton Road, South Downs National Park, Henfield, West Sussex BN5, Royaume-Uni</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.1454947513,1.85969921646</coordinates>
+    </Point>
+    <name>Font Gran de Cercs</name>
+    <description>https://eaupotable.info/fr/146-font-gran-de-cercs</description>
+    <address>Carrer del Campet, 5, 08698 Cercs, Province de Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6799956133,11.2722389226</coordinates>
+    </Point>
+    <name>Antonius Quelle</name>
+    <description>https://eaupotable.info/fr/148-antonius-quelle</description>
+    <address>Wirbacher Stra&#223;e 7, 07422 Bad Blankenburg, Allemagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.8836912,12.1438161999999</coordinates>
+    </Point>
+    <name>St. Leonhardsquelle</name>
+    <description>https://eaupotable.info/fr/149-st-leonhardsquelle</description>
+    <address>M&#252;hlthalweg 48, 83071 Stephanskirchen, Allemagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.0664928219,12.7882007391</coordinates>
+    </Point>
+    <name>Gr&#252;nsk&#225; kyselka</name>
+    <description>https://eaupotable.info/fr/150-grunska-kyselka</description>
+    <address>21020, Nov&#225; Ves, R&#233;publique tch&#232;que</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6914902078,4.80893579102</coordinates>
+    </Point>
+    <name>La fontaine Sainte-Ragenufle</name>
+    <description>https://eaupotable.info/fr/151-la-fontaine-sainte-ragenufle</description>
+    <address>Rue Sainte-Ragenufle 1-9, 1315 Jodoigne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.4922890235,5.86739772031</coordinates>
+    </Point>
+    <name>Pouhon "Aux Armes d'Autriche"</name>
+    <description>https://eaupotable.info/fr/152-pouhon-aux-armes-d-autriche</description>
+    <address>Rue du March&#233; 20, 4900 Spa, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6308204246,15.781857192</coordinates>
+    </Point>
+    <name>Jansk&#233; L&#225;zn&#283; - Pramen&#237;k</name>
+    <description>https://eaupotable.info/fr/153-janske-lazne-pramenik</description>
+    <address>Horn&#237; promen&#225;da, 542 25 Jansk&#233; L&#225;zn&#283;, R&#233;publique tch&#232;que</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.656220144,-70.9793658368</coordinates>
+    </Point>
+    <name>Source de St-Ans&#232;lme</name>
+    <description>https://eaupotable.info/fr/154-source-de-st-anselme</description>
+    <address>213-305 Rang de la Montagne, Saint-Anselme, QC G0R 2N0, Canada</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.4140482496,-70.8817867275</coordinates>
+    </Point>
+    <name>Source de Saints-Anges</name>
+    <description>https://eaupotable.info/fr/156-source-de-saints-anges</description>
+    <address>Route des &#201;rables, Saints-Anges, QC G0S 3E0, Canada</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.4809536939,-70.6177231981</coordinates>
+    </Point>
+    <name>Source de Saint-L&#233;on-de-Standon</name>
+    <description>https://eaupotable.info/fr/157-source-de-saint-leon-de-standon</description>
+    <address>501-517 Rang le Grand, STANDON, QC G0R 4L0, Canada</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>52.066568584,-2.34226845586</coordinates>
+    </Point>
+    <name>Evendine spring</name>
+    <description>https://eaupotable.info/fr/158-evendine-spring</description>
+    <address>Evendine Lane, Malvern, Herefordshire WR13, Royaume-Uni</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.5864918226,6.70819840182</coordinates>
+    </Point>
+    <name>Fontaine de Froideville</name>
+    <description>https://eaupotable.info/fr/159-fontaine-de-froideville</description>
+    <address>Route des Paysans, 1000 Froideville, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>40.3505263323,-7.09014034841</coordinates>
+    </Point>
+    <name>Fontaine de Sabugal</name>
+    <description>https://eaupotable.info/fr/160-fontaine-de-sabugal</description>
+    <address>Largo 25 de Abril 10, 6320-330 Sabugal, Portugal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.0998929127,-8.73380421111</coordinates>
+    </Point>
+    <name>Fontaine de Gondomar</name>
+    <description>https://eaupotable.info/fr/161-fontaine-de-gondomar</description>
+    <address>Peroleira, 16G, 36389 Gondomar, Pontevedra, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>40.3746576,-7.4677339</coordinates>
+    </Point>
+    <name>Fontaine de Verdelhos</name>
+    <description>https://eaupotable.info/fr/162-fontaine-de-verdelhos</description>
+    <address>Rua da Amoreira 27, 6200 Verdelhos, Portugal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>40.4410104105,-7.27556018895</coordinates>
+    </Point>
+    <name>Fontaine publique de Benespera</name>
+    <description>https://eaupotable.info/fr/163-fontaine-publique-de-benespera</description>
+    <address>Largo Padre Doutor M. C. Amarelo, 6300, Portugal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>40.7517084941,-111.877122225</coordinates>
+    </Point>
+    <name>Artesian Well Spring</name>
+    <description>https://eaupotable.info/fr/164-artesian-well-spring</description>
+    <address>808 South 500 East, Salt Lake City, Utah 84102, &#201;tats-Unis</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.8519742714,-122.284404264</coordinates>
+    </Point>
+    <name>164th Street Artesian Well</name>
+    <description>https://eaupotable.info/fr/165-164th-street-artesian-well</description>
+    <address>3711 164th Street Southwest, Lynnwood, &#201;tat de Washington 98087, &#201;tats-Unis</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.166783,5.149443</coordinates>
+    </Point>
+    <name>Source du Groseau &#224; Malauc&#232;ne (84)</name>
+    <description>https://eaupotable.info/fr/166-source-du-groseau-a-malaucene-84</description>
+    <address>Le Groseau</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1842909,4.6050291</coordinates>
+    </Point>
+    <name>Source de Villers-le-Gambon</name>
+    <description>https://eaupotable.info/fr/176-source-de-villers-le-gambon</description>
+    <address>Avenue de la Source, 5600 Philippeville, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6782125735,3.50662966138</coordinates>
+    </Point>
+    <name>Source "Les Bains"</name>
+    <description>https://eaupotable.info/fr/177-source-les-bains</description>
+    <address>D141E2, 34150 Montpeyroux, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.153971839,6.0773763653</coordinates>
+    </Point>
+    <name>Chapelle Saint Joseph</name>
+    <description>https://eaupotable.info/fr/178-chapelle-saint-joseph</description>
+    <address>5 Simon, 04380 Thoard, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.2451873406,6.05331158602</coordinates>
+    </Point>
+    <name>Village de Saint Geniez</name>
+    <description>https://eaupotable.info/fr/180-village-de-saint-geniez</description>
+    <address>Le Village, 04200 Saint-Geniez, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.2818001471,6.17849586132</coordinates>
+    </Point>
+    <name>Lac des Monges</name>
+    <description>https://eaupotable.info/fr/181-lac-des-monges</description>
+    <address>Baudinard, 04250 Bayons, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.0259150717,5.93558224369</coordinates>
+    </Point>
+    <name>Peyruis</name>
+    <description>https://eaupotable.info/fr/182-peyruis</description>
+    <address>Rue du Crouton, 04310 Peyruis, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.7050025522,5.81348586243</coordinates>
+    </Point>
+    <name>Fontaine de Saint-Jean-Sart</name>
+    <description>https://eaupotable.info/fr/186-fontaine-de-saint-jean-sart</description>
+    <address>Rue de Lammerschot 9, 4880 Aubel, Belgi&#235;</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.1123193443,5.98858014345</coordinates>
+    </Point>
+    <name>Stade du Pouverel</name>
+    <description>https://eaupotable.info/fr/188-stade-du-pouverel</description>
+    <address>Piste Cyclable du Littoral, 83130 La Garde, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.5641974,4.2532955</coordinates>
+    </Point>
+    <name>Source de la Coule Coulette</name>
+    <description>https://eaupotable.info/fr/189-source-de-la-coule-coulette</description>
+    <address>Rue de la Coulette, 7181 Seneffe, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.4776043933,4.71076731045</coordinates>
+    </Point>
+    <name>Source de la Sauveni&#232;re</name>
+    <description>https://eaupotable.info/fr/190-source-de-la-sauveniere</description>
+    <address>Rue de la Sauveni&#232;re 26-30, 5190 Jemeppe-sur-Sambre, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6972038798,7.12164903743</coordinates>
+    </Point>
+    <name>Saint-Paul-de-Vence</name>
+    <description>https://eaupotable.info/fr/191-saint-paul-de-vence</description>
+    <address>13-19 Rue Grande, 06570 Saint-Paul-de-Vence, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8176101421,-0.251373357147</coordinates>
+    </Point>
+    <name>Fontaine de Brie-sous-Matha</name>
+    <description>https://eaupotable.info/fr/193-fontaine-de-brie-sous-matha</description>
+    <address>8 Rue de la Fontaine, 17160 Brie-sous-Matha, Frankrijk</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.3992199715,3.83497561797</coordinates>
+    </Point>
+    <name>Source du Rossignol</name>
+    <description>https://eaupotable.info/fr/194-source-du-rossignol</description>
+    <address>Rue du Rossignol, 7340 Colfontaine, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.9521186314,-87.843973827</coordinates>
+    </Point>
+    <name>Schiller Park water pump</name>
+    <description>https://eaupotable.info/fr/195-schiller-park-water-pump</description>
+    <address>8352 West Irving Park Road, Chicago, Illinois 60634, &#201;tats-Unis</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.1822837355,5.89434054285</coordinates>
+    </Point>
+    <name>Source thermale de Contrex&#233;ville</name>
+    <description>https://eaupotable.info/fr/196-source-thermale-de-contrexeville</description>
+    <address>306-334 D164, 88140 Contrex&#233;ville, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.3693993388,6.47465462144</coordinates>
+    </Point>
+    <name>Source de la Versoie - Eaux de Thonon</name>
+    <description>https://eaupotable.info/fr/199-source-de-la-versoie-eaux-de-thonon</description>
+    <address>20-22 Avenue du G&#233;n&#233;ral de Gaulle, 74200 Thonon-les-Bains, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.635569,0.574064</coordinates>
+    </Point>
+    <name>Source Saint-Bernard</name>
+    <description>https://eaupotable.info/fr/200-source-saint-bernard</description>
+    <address>Soligny-la-Trappe, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-33.8844229815,151.192754652</coordinates>
+    </Point>
+    <name>Municipal Jubilee of the Clebe fountain</name>
+    <description>https://eaupotable.info/fr/201-municipal-jubilee-of-the-clebe-fountain</description>
+    <address>2 Glebe Point Road, Glebe Nouvelle Galles du Sud 2037, Australie</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6960578469,5.70026779175</coordinates>
+    </Point>
+    <name>Eglise de Saint-Remy</name>
+    <description>https://eaupotable.info/fr/202-eglise-de-saint-remy</description>
+    <address>Voie Marion 2, 4672 Bl&#233;gny, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.5663469621,5.71886086464</coordinates>
+    </Point>
+    <name>Cimeti&#232;re Fraipont</name>
+    <description>https://eaupotable.info/fr/203-cimetiere-fraipont</description>
+    <address>Rue de Li&#232;ge 12, 4877 Trooz, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.3847970319,1.47761064907</coordinates>
+    </Point>
+    <name>Fontaine publique rue de la Barri&#232;re &#224; Ver-l&#232;s-Chartres</name>
+    <description>https://eaupotable.info/fr/204-fontaine-publique-rue-de-la-barriere-a-ver-les-chartres</description>
+    <address>2-4 Rue de la Barri&#232;re, 28630 Ver-l&#232;s-Chartres, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.1534959298,-0.937497486755</coordinates>
+    </Point>
+    <name>Fontaine de l'abbaye de B&#233;grolles-en-Mauges</name>
+    <description>https://eaupotable.info/fr/205-fontaine-de-l-abbaye-de-begrolles-en-mauges</description>
+    <address>Belle Fontaine, 49122 B&#233;grolles-en-Mauges, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.9080536890091,6.22114743862301</coordinates>
+    </Point>
+    <name>Source de la Route du Chef-Lieu &#224; Dingy-Saint-Clair</name>
+    <description>https://eaupotable.info/fr/206-source-de-la-route-du-chef-lieu-a-dingy-saint-clair</description>
+    <address>248 Route du Chef-Lieu, 74230 Dingy-Saint-Clair, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.3225563263,4.96777580397</coordinates>
+    </Point>
+    <name>Source de Chansin</name>
+    <description>https://eaupotable.info/fr/207-source-de-chansin</description>
+    <address>Chansin 10, 5530 Yvoir, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.2110753309,0.893968570778</coordinates>
+    </Point>
+    <name>Source potable de Saint-Maurin</name>
+    <description>https://eaupotable.info/fr/208-source-potable-de-saint-maurin</description>
+    <address>35-38 Gr Grande Rue, 47270 Saint-Maurin, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.5310334,0.7663166</coordinates>
+    </Point>
+    <name>Source les canelles</name>
+    <description>https://eaupotable.info/fr/209-source-les-canelles</description>
+    <address>Place des Cannelles, 47150 Monflanquin, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6165219,4.5083049</coordinates>
+    </Point>
+    <name>Fontaine de la place de Bousval</name>
+    <description>https://eaupotable.info/fr/210-fontaine-de-la-place-de-bousval</description>
+    <address>Place Communale, 1470 Genappe, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.2832251823,2.99872721898</coordinates>
+    </Point>
+    <name>Fontaine publique de Bonneuil-en-Valois</name>
+    <description>https://eaupotable.info/fr/212-fontaine-publique-de-bonneuil-en-valois</description>
+    <address>540 Rue de Villers, 60123 Bonneuil-en-Valois, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.4344290331,5.53353959325</coordinates>
+    </Point>
+    <name>Source de Hamoir</name>
+    <description>https://eaupotable.info/fr/214-source-de-hamoir</description>
+    <address>Place Del Cour 21, 4180 Hamoir, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1705505074112,5.41360533790589</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Bande</name>
+    <description>https://eaupotable.info/fr/215-robinet-du-cimetiere-de-bande</description>
+    <address>Route de Ligni&#232;res 7, 6951 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1827997595027,5.38150197820664</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Charneux</name>
+    <description>https://eaupotable.info/fr/216-robinet-du-cimetiere-de-charneux</description>
+    <address>Rue de Roy 13-23, 6950 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1565057821443,5.38209206418992</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Grune</name>
+    <description>https://eaupotable.info/fr/217-robinet-du-cimetiere-de-grune</description>
+    <address>Rue de l'Eglise, 6952 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1753794685217,5.35131371574403</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re d'Harsin-Chavanne</name>
+    <description>https://eaupotable.info/fr/218-robinet-du-cimetiere-d-harsin-chavanne</description>
+    <address>Rue des Ecoles, 6950 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1310811085199,5.33916867332459</coordinates>
+    </Point>
+    <name>La p&#233;pinette</name>
+    <description>https://eaupotable.info/fr/219-la-pepinette</description>
+    <address>Rue de la P&#233;pinette 5, 6950 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1319304774175,5.33816820936204</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Nassogne</name>
+    <description>https://eaupotable.info/fr/220-robinet-du-cimetiere-de-nassogne</description>
+    <address>Rue de la P&#233;pinette 5, 6950 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1318960903056,5.33721602516175</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Nassogne</name>
+    <description>https://eaupotable.info/fr/221-robinet-du-cimetiere-de-nassogne</description>
+    <address>Rue Richard Heintz 3-37, 6953 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.0926787102,5.32229757862</coordinates>
+    </Point>
+    <name>Eau du r&#233;servoir de Mormont</name>
+    <description>https://eaupotable.info/fr/222-eau-du-reservoir-de-mormont</description>
+    <address>Rue L&#233;on Herman 8, 6953 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1123120557457,5.31260675745011</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Masboug</name>
+    <description>https://eaupotable.info/fr/223-robinet-du-cimetiere-de-masboug</description>
+    <address>Rue des Roches, 6953 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1120454457385,5.28381860809327</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Lesterny</name>
+    <description>https://eaupotable.info/fr/224-robinet-du-cimetiere-de-lesterny</description>
+    <address>Rue du Point-d'Arr&#234;t 43, 6953 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1321711865091,5.27751273469926</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Forri&#232;res</name>
+    <description>https://eaupotable.info/fr/225-robinet-du-cimetiere-de-forrieres</description>
+    <address>Au Fosset, 6953 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1405402325,5.31239486294</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re d'Ambly</name>
+    <description>https://eaupotable.info/fr/226-robinet-du-cimetiere-d-ambly</description>
+    <address>Rue du Cimeti&#232;re, 6953 Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.8236934991,1.69781823777</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable de Meung-sur-Loire</name>
+    <description>https://eaupotable.info/fr/227-fontaine-d-eau-potable-de-meung-sur-loire</description>
+    <address>10 Chemin des Gr&#232;ves, 45130 Meung-sur-Loire, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.8291433151,7.18469415946</coordinates>
+    </Point>
+    <name>Source de Wattwiller</name>
+    <description>https://eaupotable.info/fr/228-source-de-wattwiller</description>
+    <address>9 Rue de Guebwiller, 68700 Wattwiller, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.173368465,4.55815548676</coordinates>
+    </Point>
+    <name>Source de Sautour</name>
+    <description>https://eaupotable.info/fr/230-source-de-sautour</description>
+    <address>Sautour, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.1002437266,6.06132638454</coordinates>
+    </Point>
+    <name>Piste Cyclable - Stade Tassy</name>
+    <description>https://eaupotable.info/fr/231-piste-cyclable-stade-tassy</description>
+    <address>Carqueiranne, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.25727,3.246663</coordinates>
+    </Point>
+    <name>Fontaine de Lou&#226;tre</name>
+    <description>https://eaupotable.info/fr/232-fontaine-de-louatre</description>
+    <address>Lou&#226;tre, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7662978795596,4.88017967141946</coordinates>
+    </Point>
+    <name>Borne de la place Lazare Goujon</name>
+    <description>https://eaupotable.info/fr/234-borne-de-la-place-lazare-goujon</description>
+    <address>Villeurbanne, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.5014932212,4.23772691003</coordinates>
+    </Point>
+    <name>Source entre deux maison &#224; Rosi&#232;res</name>
+    <description>https://eaupotable.info/fr/235-source-entre-deux-maison-a-rosieres</description>
+    <address>Joyeuse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.1949010375133,5.72853926689527</coordinates>
+    </Point>
+    <name>Fontaine-borne du Lion terrassant le Serpent</name>
+    <description>https://eaupotable.info/fr/236-fontaine-borne-du-lion-terrassant-le-serpent</description>
+    <address>Grenoble, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.1977966668946,5.73195103676221</coordinates>
+    </Point>
+    <name>Fontaine-borne de la Casemate</name>
+    <description>https://eaupotable.info/fr/237-fontaine-borne-de-la-casemate</description>
+    <address>Grenoble, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.3420097602775,5.81574855952454</coordinates>
+    </Point>
+    <name>Fontaine de St-Pierre-de-Chartreuse</name>
+    <description>https://eaupotable.info/fr/238-fontaine-de-st-pierre-de-chartreuse</description>
+    <address>Saint-Pierre-de-Chartreuse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.8350251357,5.69331810912</coordinates>
+    </Point>
+    <name>Fontaine de Monfuron</name>
+    <description>https://eaupotable.info/fr/239-fontaine-de-monfuron</description>
+    <address>Montfuron, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3544361474683,5.98390600583502</coordinates>
+    </Point>
+    <name>Source des Orris</name>
+    <description>https://eaupotable.info/fr/240-source-des-orris</description>
+    <address>Les Orris, La Roquebrussanne, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.0544129219008,5.71267937301639</coordinates>
+    </Point>
+    <name>Source de Lardiers</name>
+    <description>https://eaupotable.info/fr/243-source-de-lardiers</description>
+    <address>Lardiers, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.7701238973426,2.12353583890081</coordinates>
+    </Point>
+    <name>Borne du parc du Ch&#226;teau de Buc</name>
+    <description>https://eaupotable.info/fr/244-borne-du-parc-du-chateau-de-buc</description>
+    <address>78000 Buc, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5829137386,1.34633242691</coordinates>
+    </Point>
+    <name>Fontaine de la Mairie</name>
+    <description>https://eaupotable.info/fr/245-fontaine-de-la-mairie</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5843338669283,1.35640412176508</coordinates>
+    </Point>
+    <name>Fontaine le long du GR</name>
+    <description>https://eaupotable.info/fr/246-fontaine-le-long-du-gr</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5834120977,1.346179541</coordinates>
+    </Point>
+    <name>Fontaine du square Bernard Audig&#233;</name>
+    <description>https://eaupotable.info/fr/247-fontaine-du-square-bernard-audige</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5960508338858,1.37101679647822</coordinates>
+    </Point>
+    <name>Fontaine pr&#232;s du Touch</name>
+    <description>https://eaupotable.info/fr/248-fontaine-pres-du-touch</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5801508596762,1.34969859922785</coordinates>
+    </Point>
+    <name>Robinet de l'&#233;tang</name>
+    <description>https://eaupotable.info/fr/249-robinet-de-l-etang</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5753611100666,1.27656283138276</coordinates>
+    </Point>
+    <name>Fontaine du Skate Parc</name>
+    <description>https://eaupotable.info/fr/250-fontaine-du-skate-parc</description>
+    <address>La Salvetat-Saint-Gilles, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4609270100208,1.32382476945872</coordinates>
+    </Point>
+    <name>Fontaine du Parc Municipal</name>
+    <description>https://eaupotable.info/fr/251-fontaine-du-parc-municipal</description>
+    <address>Muret, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4636481591417,1.32854813953395</coordinates>
+    </Point>
+    <name>Fontaine du Parc Jean Jaur&#232;s</name>
+    <description>https://eaupotable.info/fr/252-fontaine-du-parc-jean-jaures</description>
+    <address>Muret, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.9170862689,7.24753144659</coordinates>
+    </Point>
+    <name>Source St Joseph</name>
+    <description>https://eaupotable.info/fr/253-source-st-joseph</description>
+    <address>Utelle, Francia</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6084716000074,1.38214990973972</coordinates>
+    </Point>
+    <name>Fontaine du Square de Saint Martin</name>
+    <description>https://eaupotable.info/fr/254-fontaine-du-square-de-saint-martin</description>
+    <address>Saint - Martin - du - Touch, Toulouse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5859887856,1.33262499774</coordinates>
+    </Point>
+    <name>Fontaine de la Paderne - Sud</name>
+    <description>https://eaupotable.info/fr/255-fontaine-de-la-paderne-sud</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5866373317,1.33170030619</coordinates>
+    </Point>
+    <name>Fontaine de la Paderne - Nord</name>
+    <description>https://eaupotable.info/fr/256-fontaine-de-la-paderne-nord</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6009831124,1.23210509902</coordinates>
+    </Point>
+    <name>Robinets du parc de Leguevin</name>
+    <description>https://eaupotable.info/fr/257-robinets-du-parc-de-leguevin</description>
+    <address>L&#233;guevin, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6563263683,6.87395783796</coordinates>
+    </Point>
+    <name>Fontaine de la place</name>
+    <description>https://eaupotable.info/fr/258-fontaine-de-la-place</description>
+    <address>Cabris, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6558412261,6.87463375463</coordinates>
+    </Point>
+    <name>Fontaine de la rue du Four</name>
+    <description>https://eaupotable.info/fr/259-fontaine-de-la-rue-du-four</description>
+    <address>Cabris, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6551930701,6.87620821132</coordinates>
+    </Point>
+    <name>Fontaine du Vieux Ch&#226;teau</name>
+    <description>https://eaupotable.info/fr/260-fontaine-du-vieux-chateau</description>
+    <address>Cabris, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6578438352,6.92257061042</coordinates>
+    </Point>
+    <name>Fontaine des Dominicains</name>
+    <description>https://eaupotable.info/fr/261-fontaine-des-dominicains</description>
+    <address>Grasse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6583765034,6.92438646592</coordinates>
+    </Point>
+    <name>Fontaine de la place de la Poissonnerie</name>
+    <description>https://eaupotable.info/fr/262-fontaine-de-la-place-de-la-poissonnerie</description>
+    <address>Grasse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6596834123,6.92416920699</coordinates>
+    </Point>
+    <name>La Fontette</name>
+    <description>https://eaupotable.info/fr/263-la-fontette</description>
+    <address>Grasse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4005961106,1.71590887564</coordinates>
+    </Point>
+    <name>Robinet de la place de la Poste</name>
+    <description>https://eaupotable.info/fr/267-robinet-de-la-place-de-la-poste</description>
+    <address>Villefranche-de-Lauragais, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3978131518,1.71887673992</coordinates>
+    </Point>
+    <name>Robinet de la rue Edgar Quinet</name>
+    <description>https://eaupotable.info/fr/268-robinet-de-la-rue-edgar-quinet</description>
+    <address>Villefranche-de-Lauragais, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6466982306,1.43091597212</coordinates>
+    </Point>
+    <name>Fontaine du cimeti&#232;re de Lalande</name>
+    <description>https://eaupotable.info/fr/269-fontaine-du-cimetiere-de-lalande</description>
+    <address>Toulouse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.6713595,-74.2634974</coordinates>
+    </Point>
+    <name>Source publique de Lachute</name>
+    <description>https://eaupotable.info/fr/270-source-publique-de-lachute</description>
+    <address>2005 chemin de la rici&#232;re du nord,Lachute, Canada, J8H 3W7</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.860577,4.391098</coordinates>
+    </Point>
+    <name>Auguste Orts</name>
+    <description>https://eaupotable.info/fr/280-auguste-orts</description>
+    <address>Josaphatpark, 1030 Schaarbeek, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.899697,4.331671</coordinates>
+    </Point>
+    <name>Rue des Gen&#233;vriers</name>
+    <description>https://eaupotable.info/fr/281-rue-des-genevriers</description>
+    <address>Rue des Gen&#233;vriers 42, 1020 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.811657,4.371228</coordinates>
+    </Point>
+    <name>Chemin du Croquet</name>
+    <description>https://eaupotable.info/fr/282-chemin-du-croquet</description>
+    <address>Croquetweg 1, 1000 Brussel, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.850824,4.401741</coordinates>
+    </Point>
+    <name>Montserrat</name>
+    <description>https://eaupotable.info/fr/283-montserrat</description>
+    <address>Auguste Reyerslaan 80, 1030 Schaarbeek, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.854834,4.368782</coordinates>
+    </Point>
+    <name>La Balan&#231;oire</name>
+    <description>https://eaupotable.info/fr/284-la-balancoire</description>
+    <address>Rue du M&#233;ridien 57, 1210 Saint-Josse-ten-Noode, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.866211,4.345436</coordinates>
+    </Point>
+    <name>Skate Park "Marie Popelin"</name>
+    <description>https://eaupotable.info/fr/285-skate-park-marie-popelin</description>
+    <address>Rue du Laekenveld 89, 1080 Molenbeek-Saint-Jean, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.852558,4.373589</coordinates>
+    </Point>
+    <name>Rue du Lombard</name>
+    <description>https://eaupotable.info/fr/286-rue-du-lombard</description>
+    <address>Rue de la Commune 68, 1210 Saint-Josse-ten-Noode, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.829686,4.331703</coordinates>
+    </Point>
+    <name>Plaine des Escargots</name>
+    <description>https://eaupotable.info/fr/287-plaine-des-escargots</description>
+    <address>Belgradostraat 100, 1060 Sint-Gillis, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.835866,4.301834</coordinates>
+    </Point>
+    <name>Le Singe</name>
+    <description>https://eaupotable.info/fr/288-le-singe</description>
+    <address>Rue Saint-Guidon 79, 1070 Anderlecht, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.870545,4.503021</coordinates>
+    </Point>
+    <name>Parc Porte de Hal</name>
+    <description>https://eaupotable.info/fr/289-parc-porte-de-hal</description>
+    <address>Mercuriusstraat 27, 1930 Zaventem, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.847587,4.351514</coordinates>
+    </Point>
+    <name>Les Aveugles</name>
+    <description>https://eaupotable.info/fr/290-les-aveugles</description>
+    <address>Rue au Beurre 23, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.851194,4.342411</coordinates>
+    </Point>
+    <name>Rue du Houblon</name>
+    <description>https://eaupotable.info/fr/291-rue-du-houblon</description>
+    <address>Rue du Houblon 39-41, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.885259,4.348113</coordinates>
+    </Point>
+    <name>Les jardins du Fleuriste</name>
+    <description>https://eaupotable.info/fr/292-les-jardins-du-fleuriste</description>
+    <address>Avenue des Robiniers, 1020 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.912125,4.268875</coordinates>
+    </Point>
+    <name>"Simone de Beauvoir" Parc Fontainas</name>
+    <description>https://eaupotable.info/fr/293-simone-de-beauvoir-parc-fontainas</description>
+    <address>Lindestraat 147, 1785 Merchtem, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.84322,4.362817</coordinates>
+    </Point>
+    <name>La Fille &#224; la Coquille</name>
+    <description>https://eaupotable.info/fr/294-la-fille-a-la-coquille</description>
+    <address>La Fillette A la Coquille, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.83796,4.355628</coordinates>
+    </Point>
+    <name>Parc d'Egmont</name>
+    <description>https://eaupotable.info/fr/295-parc-d-egmont</description>
+    <address>La Fontaine Marguerite Yourcenar (Eau Potable), 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.85394,4.357061</coordinates>
+    </Point>
+    <name>Eglise du Finist&#232;re</name>
+    <description>https://eaupotable.info/fr/296-eglise-du-finistere</description>
+    <address>Empedocle (Fontaine d'Eau Potable), 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.896169,4.419106</coordinates>
+    </Point>
+    <name>Rue de Beemdgracht</name>
+    <description>https://eaupotable.info/fr/297-rue-de-beemdgracht</description>
+    <address>Rue du Beemdgracht 48, 1130 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.853341,4.350033</coordinates>
+    </Point>
+    <name>Les Musiciens</name>
+    <description>https://eaupotable.info/fr/298-les-musiciens</description>
+    <address>Rue du Grand Hospice 7, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.859494,4.286041</coordinates>
+    </Point>
+    <name>Boulevard de l&#8217;Imp&#233;ratrice</name>
+    <description>https://eaupotable.info/fr/299-boulevard-de-limperatrice</description>
+    <address>'t Hof te Overbeke 26, 1082 Berchem-Sainte-Agathe, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.883976,4.465942</coordinates>
+    </Point>
+    <name>Quai au Foin</name>
+    <description>https://eaupotable.info/fr/300-quai-au-foin</description>
+    <address>Papierfabrieksstraat 13, 1930 Zaventem, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.801738,4.383953</coordinates>
+    </Point>
+    <name>Avenue des G&#234;nets</name>
+    <description>https://eaupotable.info/fr/301-avenue-des-genets</description>
+    <address>Bremlaan, 1000 Brussel, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.82459,4.448776</coordinates>
+    </Point>
+    <name>Parc de Bruxelles</name>
+    <description>https://eaupotable.info/fr/302-parc-de-bruxelles</description>
+    <address>Val des B&#233;casses 1, 1150 Woluwe-Saint-Pierre, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.845839,4.321918</coordinates>
+    </Point>
+    <name>Carnaval</name>
+    <description>https://eaupotable.info/fr/303-carnaval</description>
+    <address>Birminghamstraat 131, 1070 Anderlecht, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.928141,4.271622</coordinates>
+    </Point>
+    <name>Square Marguerite</name>
+    <description>https://eaupotable.info/fr/304-square-marguerite</description>
+    <address>Romeinsebaan 31-51, 1785 Merchtem, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.828385,4.363117</coordinates>
+    </Point>
+    <name>Comm&#232;res &#224; la Fontaine</name>
+    <description>https://eaupotable.info/fr/305-commeres-a-la-fontaine</description>
+    <address>Avenue Louise 166, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.851041,4.364834</coordinates>
+    </Point>
+    <name>Jardin des Olives</name>
+    <description>https://eaupotable.info/fr/306-jardin-des-olives</description>
+    <address>Rue Royale 101, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.899355,4.380769</coordinates>
+    </Point>
+    <name>Parc du Val Maria</name>
+    <description>https://eaupotable.info/fr/307-parc-du-val-maria</description>
+    <address>Val Maria 36, 1120 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.85906,4.351273</coordinates>
+    </Point>
+    <name>Skate Park "Ursulines"</name>
+    <description>https://eaupotable.info/fr/308-skate-park-ursulines</description>
+    <address>Quai du Batelage 1, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.858952,4.37479</coordinates>
+    </Point>
+    <name>Rue de Malines</name>
+    <description>https://eaupotable.info/fr/309-rue-de-malines</description>
+    <address>Rue Josaphat 126, 1030 Schaerbeek, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.885303,4.349304</coordinates>
+    </Point>
+    <name>Les jardins du Fleuriste</name>
+    <description>https://eaupotable.info/fr/310-les-jardins-du-fleuriste</description>
+    <address>Rue M&#233;dori 68, 1020 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.801378,4.292564</coordinates>
+    </Point>
+    <name>La Galanterie</name>
+    <description>https://eaupotable.info/fr/311-la-galanterie</description>
+    <address>Eug&#232;ne Ghijsstraat 76, 1600 Sint-Pieters-Leeuw, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.801873,4.382515</coordinates>
+    </Point>
+    <name>Avenue des G&#234;nets</name>
+    <description>https://eaupotable.info/fr/312-avenue-des-genets</description>
+    <address>Sentier des Canoers, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.839335,4.351959</coordinates>
+    </Point>
+    <name>Jeanne Emile Vandervelde</name>
+    <description>https://eaupotable.info/fr/313-jeanne-emile-vandervelde</description>
+    <address>Rue du Temple 19, 1000 Bruxelles, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.969671,4.367409</coordinates>
+    </Point>
+    <name>Rue Botanique</name>
+    <description>https://eaupotable.info/fr/314-rue-botanique</description>
+    <address>Molenstraat 211, 1851 Grimbergen, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.869461,4.374447</coordinates>
+    </Point>
+    <name>Parc MaximilienPark</name>
+    <description>https://eaupotable.info/fr/315-parc-maximilienpark</description>
+    <address>Avenue Mar&#233;chal Foch 43, 1030 Schaerbeek, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.884138,4.341842</coordinates>
+    </Point>
+    <name>Square Prince L&#233;opold</name>
+    <description>https://eaupotable.info/fr/316-square-prince-leopold</description>
+    <address>Prins Leopoldsquare 50, 1020 Brussel, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3965580501292,1.71791516798407</coordinates>
+    </Point>
+    <name>Lavabos et toilettes de la rue Voltaire</name>
+    <description>https://eaupotable.info/fr/317-lavabos-et-toilettes-de-la-rue-voltaire</description>
+    <address>Villefranche-de-Lauragais, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4008572500672,1.71891831415564</coordinates>
+    </Point>
+    <name>Toilettes et lavabos de la rue Jules Ferry</name>
+    <description>https://eaupotable.info/fr/318-toilettes-et-lavabos-de-la-rue-jules-ferry</description>
+    <address>Villefranche-de-Lauragais, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3669636425978,1.7891787050628</coordinates>
+    </Point>
+    <name>Robinet du parvis de l'Eglise</name>
+    <description>https://eaupotable.info/fr/319-robinet-du-parvis-de-l-eglise</description>
+    <address>Avignonet-Lauragais, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.7948436425,4.66256159503</coordinates>
+    </Point>
+    <name>Source Des Cerfs (Hertebron)</name>
+    <description>https://eaupotable.info/fr/320-source-des-cerfs-hertebron</description>
+    <address>Meerdaalbos, Brabant Flamand, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5748482993,-0.137822998889</coordinates>
+    </Point>
+    <name>Fontaine Sainte Quitterie</name>
+    <description>https://eaupotable.info/fr/321-fontaine-sainte-quitterie</description>
+    <address>Aubous, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6348425571,1.40227505973</coordinates>
+    </Point>
+    <name>Fontaine proche de la Garonne</name>
+    <description>https://eaupotable.info/fr/322-fontaine-proche-de-la-garonne</description>
+    <address>Blagnac, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6346746599,1.40038276127</coordinates>
+    </Point>
+    <name>Lavabo du parc du Ramier</name>
+    <description>https://eaupotable.info/fr/323-lavabo-du-parc-du-ramier</description>
+    <address>Blagnac, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.9336233157724,0.627005947776752</coordinates>
+    </Point>
+    <name>Toilettes et lavabos du cours Gambetta</name>
+    <description>https://eaupotable.info/fr/324-toilettes-et-lavabos-du-cours-gambetta</description>
+    <address>Lectoure, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6116075457,1.33994785452</coordinates>
+    </Point>
+    <name>Fontaine du parc Duroch</name>
+    <description>https://eaupotable.info/fr/325-fontaine-du-parc-duroch</description>
+    <address>Colomiers, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.898626,4.6208159</coordinates>
+    </Point>
+    <name>Lavoir de Th&#233;ziers</name>
+    <description>https://eaupotable.info/fr/326-lavoir-de-theziers</description>
+    <address>Th&#233;ziers, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4354939907,1.66245183213</coordinates>
+    </Point>
+    <name>Toilettes et lavabos de la rue de l'Autan</name>
+    <description>https://eaupotable.info/fr/327-toilettes-et-lavabos-de-la-rue-de-l-autan</description>
+    <address>31290 Villenouvelle, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4364580861,1.66082775457</coordinates>
+    </Point>
+    <name>Fontaine de la Mairie</name>
+    <description>https://eaupotable.info/fr/328-fontaine-de-la-mairie</description>
+    <address>31290 Villenouvelle, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.0362591707,4.51725505292</coordinates>
+    </Point>
+    <name>Source rue de la Platinerie &#224; Couvin</name>
+    <description>https://eaupotable.info/fr/329-source-rue-de-la-platinerie-a-couvin</description>
+    <address>Rue de la Platinerie, Couvin, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5850961401,1.34703784789</coordinates>
+    </Point>
+    <name>Fontaine du square Camy</name>
+    <description>https://eaupotable.info/fr/330-fontaine-du-square-camy</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5619155373,1.41427554739</coordinates>
+    </Point>
+    <name>Fontaine du parc de Gironis</name>
+    <description>https://eaupotable.info/fr/331-fontaine-du-parc-de-gironis</description>
+    <address>Toulouse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5641422535,1.34774595107</coordinates>
+    </Point>
+    <name>Fontaine &#224; la Ram&#233;e</name>
+    <description>https://eaupotable.info/fr/332-fontaine-a-la-ramee</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.1989472155893,5.95269111250309</coordinates>
+    </Point>
+    <name>Fontaine d'eau Vittel </name>
+    <description>https://eaupotable.info/fr/333-fontaine-d-eau-vittel</description>
+    <address>Vittel, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4848576751,-1.55828535946</coordinates>
+    </Point>
+    <name>Fontaine sur la Grande Plage de Biarritz 1</name>
+    <description>https://eaupotable.info/fr/334-fontaine-sur-la-grande-plage-de-biarritz-1</description>
+    <address>Biarritz, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4859406664,-1.55729696543</coordinates>
+    </Point>
+    <name>Fontaine sur la Grande Plage de Biarritz 2</name>
+    <description>https://eaupotable.info/fr/335-fontaine-sur-la-grande-plage-de-biarritz-2</description>
+    <address>Biarritz, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4040402047,-1.64983439177</coordinates>
+    </Point>
+    <name>Fontaine du Jardin Botanique</name>
+    <description>https://eaupotable.info/fr/336-fontaine-du-jardin-botanique</description>
+    <address>Saint-Jean-de-Luz, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4071249106,-1.64088654249</coordinates>
+    </Point>
+    <name>Robinet de la plage d'Erromardie</name>
+    <description>https://eaupotable.info/fr/337-robinet-de-la-plage-d-erromardie</description>
+    <address>Saint-Jean-de-Luz, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.314836627914,5.2058071249146</coordinates>
+    </Point>
+    <name>Eau de la Source de Sainte Baudille</name>
+    <description>https://eaupotable.info/fr/338-eau-de-la-source-de-sainte-baudille</description>
+    <address>38980 Viriville, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.7187461479154,7.31493800265503</coordinates>
+    </Point>
+    <name>Station de neutralisation Baerenbach</name>
+    <description>https://eaupotable.info/fr/339-station-de-neutralisation-baerenbach</description>
+    <address>67700 Stambach, Haegen, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.3954083,5.6091288</coordinates>
+    </Point>
+    <name>Source rue de la fontaine &#224; Ferri&#232;res</name>
+    <description>https://eaupotable.info/fr/340-source-rue-de-la-fontaine-a-ferrieres</description>
+    <address>Rue de la Fontaine, Ferri&#232;res, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3899650934,-1.6629061374</coordinates>
+    </Point>
+    <name>Fontaine de la plage</name>
+    <description>https://eaupotable.info/fr/341-fontaine-de-la-plage</description>
+    <address>Saint-Jean-de-Luz, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3865354707236,-1.66332322090147</coordinates>
+    </Point>
+    <name>Fontaine du Port</name>
+    <description>https://eaupotable.info/fr/342-fontaine-du-port</description>
+    <address>Saint-Jean-de-Luz, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.45653,4.238825</coordinates>
+    </Point>
+    <name>Source de la malaise</name>
+    <description>https://eaupotable.info/fr/343-source-de-la-malaise</description>
+    <address>Rue de la Malaise 21 7140 Morlanwelz, Belgium</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5378584824418,1.34468386375431</coordinates>
+    </Point>
+    <name>Toilettes publiques de l'Avenue de Toulouse</name>
+    <description>https://eaupotable.info/fr/344-toilettes-publiques-de-l-avenue-de-toulouse</description>
+    <address>Cugnaux, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5663843871,1.34453534687</coordinates>
+    </Point>
+    <name>Fontaine du parc de jeux d'enfants</name>
+    <description>https://eaupotable.info/fr/345-fontaine-du-parc-de-jeux-d-enfants</description>
+    <address>Tournefeuille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.54151,3.248128</coordinates>
+    </Point>
+    <name>Fontaine du chancelier</name>
+    <description>https://eaupotable.info/fr/346-fontaine-du-chancelier</description>
+    <address>Issoire, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.1905967825,3.20853086774</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/358-fontaine</description>
+    <address>Le Rozier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.1529467062398,3.25776160216901</coordinates>
+    </Point>
+    <name>Distribution Saint-Andr&#233;-De-V&#233;zines</name>
+    <description>https://eaupotable.info/fr/359-distribution-saint-andre-de-vezines</description>
+    <address>Saint-Andr&#233;-de-V&#233;zines, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.226173503105,3.27270287598799</coordinates>
+    </Point>
+    <name>Eau de distribution Saint Pierre des Tripiers</name>
+    <description>https://eaupotable.info/fr/360-eau-de-distribution-saint-pierre-des-tripiers</description>
+    <address>Saint-Pierre-des-Tripiers, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.124343296809,3.22279913359068</coordinates>
+    </Point>
+    <name>Fontaine Roque Sainte Marguerite</name>
+    <description>https://eaupotable.info/fr/361-fontaine-roque-sainte-marguerite</description>
+    <address>La Roque-Sainte-Marguerite, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.1726621772342,3.24671626544568</coordinates>
+    </Point>
+    <name>Eau de distribution Saint Jean Des Balmes</name>
+    <description>https://eaupotable.info/fr/362-eau-de-distribution-saint-jean-des-balmes</description>
+    <address>Saint-Andr&#233;-de-V&#233;zines, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0462035445569,1.82624553436278</coordinates>
+    </Point>
+    <name>Fontaine naturelle</name>
+    <description>https://eaupotable.info/fr/363-fontaine-naturelle</description>
+    <address>Montalet-le-Bois, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6011873521335,1.43123515499497</coordinates>
+    </Point>
+    <name>Fontaine du jardin Raymond VI</name>
+    <description>https://eaupotable.info/fr/364-fontaine-du-jardin-raymond-vi</description>
+    <address>Toulouse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5952134351426,1.45182379139328</coordinates>
+    </Point>
+    <name>Fontaine du Grand Rond</name>
+    <description>https://eaupotable.info/fr/365-fontaine-du-grand-rond</description>
+    <address>Toulouse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5924535584062,1.45085014952087</coordinates>
+    </Point>
+    <name>Fontaine du Jardin des Plantes</name>
+    <description>https://eaupotable.info/fr/366-fontaine-du-jardin-des-plantes</description>
+    <address>Toulouse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.33258,3.2245</coordinates>
+    </Point>
+    <name>Fontaine eau potable - piste cyclable qui longe le Canal du Midi</name>
+    <description>https://eaupotable.info/fr/367-fontaine-eau-potable-piste-cyclable-qui-longe-le-canal-du-midi</description>
+    <address>Canal du Midi, B&#233;ziers, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.31703,3.281778</coordinates>
+    </Point>
+    <name>Piste cyclable Canal du Midi</name>
+    <description>https://eaupotable.info/fr/368-piste-cyclable-canal-du-midi</description>
+    <address>Villeneuve-l&#232;s-B&#233;ziers, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.30414,3.329889</coordinates>
+    </Point>
+    <name>Piste cyclable Canal du Midi</name>
+    <description>https://eaupotable.info/fr/369-piste-cyclable-canal-du-midi</description>
+    <address>Portiragnes, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3442440599518,3.20773482322738</coordinates>
+    </Point>
+    <name>Fontaine eau potable Jardin de la Plantade</name>
+    <description>https://eaupotable.info/fr/371-fontaine-eau-potable-jardin-de-la-plantade</description>
+    <address>Jardin de la Plantade, B&#233;ziers, 34500</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3385245797657,3.22128534317062</coordinates>
+    </Point>
+    <name>Fontaine eau potable n&#176;2 -  Parc Plateau des Po&#232;tes</name>
+    <description>https://eaupotable.info/fr/372-fontaine-eau-potable-ndeg2-parc-plateau-des-poetes</description>
+    <address>parc des po&#232;tes b&#233;ziers 34500</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3391956517252,3.21905642747925</coordinates>
+    </Point>
+    <name>Fontaine eau potable n&#176;1 - Parc Plateau des Po&#232;tes</name>
+    <description>https://eaupotable.info/fr/373-fontaine-eau-potable-ndeg1-parc-plateau-des-poetes</description>
+    <address>parc plateau des po&#232;tes b&#233;ziers 34500</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3424775995827,3.21744917235264</coordinates>
+    </Point>
+    <name>Fontaine eau potable All&#233;es Paul Riquet</name>
+    <description>https://eaupotable.info/fr/374-fontaine-eau-potable-allees-paul-riquet</description>
+    <address>All&#233;es Paul Riquet, B&#233;ziers, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6437088652609,1.22600672708131</coordinates>
+    </Point>
+    <name>Robinet dans la for&#234;t de Bouconne</name>
+    <description>https://eaupotable.info/fr/375-robinet-dans-la-foret-de-bouconne</description>
+    <address>Pibrac, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9791672900592,2.05865405938562</coordinates>
+    </Point>
+    <name>Fontaine boulevard Noel Marc</name>
+    <description>https://eaupotable.info/fr/376-fontaine-boulevard-noel-marc</description>
+    <address>Boulevard No&#235;l Marc, Andr&#233;sy, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.7917714209068,6.51860617987063</coordinates>
+    </Point>
+    <name>Fontaine &#224; eau potable n&#176;1 - commune de Baulmes</name>
+    <description>https://eaupotable.info/fr/377-fontaine-a-eau-potable-ndeg1-commune-de-baulmes</description>
+    <address>Baulmes, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.7905557241,6.52222716204</coordinates>
+    </Point>
+    <name>Fontaine &#224; eau potable n&#176;2 - commune de Baulmes</name>
+    <description>https://eaupotable.info/fr/378-fontaine-a-eau-potable-ndeg2-commune-de-baulmes</description>
+    <address>Baulmes, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.7903886096,6.52250074736</coordinates>
+    </Point>
+    <name>Fontaine eau potable n&#176;3 - Baulmes - Suisse</name>
+    <description>https://eaupotable.info/fr/379-fontaine-eau-potable-ndeg3-baulmes-suisse</description>
+    <address>Baulmes, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.7891269699,6.5212025582</coordinates>
+    </Point>
+    <name>Fontaine eau potable n&#176;4 - Baulmes - Suisse</name>
+    <description>https://eaupotable.info/fr/380-fontaine-eau-potable-ndeg4-baulmes-suisse</description>
+    <address>Rue de l'H&#244;tel de Ville 1446, Baulmes, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.2474819372426,3.29548906627042</coordinates>
+    </Point>
+    <name>Fontaine publique eau potable Valras Plage</name>
+    <description>https://eaupotable.info/fr/381-fontaine-publique-eau-potable-valras-plage</description>
+    <address>Rue du Lieutenant Panis, 34350 Valras-Plage, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.1213676331,7.0842919633</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/384-fontaine-d-eau-potable</description>
+    <address>1920 Martigny, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4608095740847,3.4257492959091</coordinates>
+    </Point>
+    <name>Fontaine eau potable - P&#233;zenas</name>
+    <description>https://eaupotable.info/fr/385-fontaine-eau-potable-pezenas</description>
+    <address>Avenue Fran&#231;ois Hue, P&#233;zenas, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4603754943538,3.42480009021301</coordinates>
+    </Point>
+    <name>Fontaine eau potable - P&#233;zenas</name>
+    <description>https://eaupotable.info/fr/386-fontaine-eau-potable-pezenas</description>
+    <address>Place du March&#233; des Trois Six, P&#233;zenas, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4610361730093,3.42299455889543</coordinates>
+    </Point>
+    <name>Fontaine eau potable - P&#233;zenas</name>
+    <description>https://eaupotable.info/fr/387-fontaine-eau-potable-pezenas</description>
+    <address>Place Gambetta, P&#233;zenas, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4617112112528,3.41979492170412</coordinates>
+    </Point>
+    <name>Fontaine publique eau potable / P&#233;zenas</name>
+    <description>https://eaupotable.info/fr/388-fontaine-publique-eau-potable-pezenas</description>
+    <address>Rue Paul Henri Vergnes, P&#233;zenas, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6108380522,3.87066368952</coordinates>
+    </Point>
+    <name>Fontaine eau potable n&#176;1 - Promenade du Peyrou</name>
+    <description>https://eaupotable.info/fr/389-fontaine-eau-potable-ndeg1-promenade-du-peyrou</description>
+    <address>Promenade du Peyrou, 34000 Montpellier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6116595254,3.8706583251</coordinates>
+    </Point>
+    <name>Fontaine eau potable n&#176;2 - Promenade du Peyrou</name>
+    <description>https://eaupotable.info/fr/390-fontaine-eau-potable-ndeg2-promenade-du-peyrou</description>
+    <address>Promenade du Peyrou, Montpellier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6139441725784,3.87308337201864</coordinates>
+    </Point>
+    <name>Fontaine eau potable - Jardin des Plantes</name>
+    <description>https://eaupotable.info/fr/391-fontaine-eau-potable-jardin-des-plantes</description>
+    <address>Jardin des Plantes, Montpellier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6139722176,3.87383230021</coordinates>
+    </Point>
+    <name>Fontaine eau potable Square de la Tour des Pins</name>
+    <description>https://eaupotable.info/fr/392-fontaine-eau-potable-square-de-la-tour-des-pins</description>
+    <address>Square de la Tour des Pins, 34000 Montpellier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6102289893,3.88083492262</coordinates>
+    </Point>
+    <name>Fontaine eau potable Esplanade Charles de Gaulle</name>
+    <description>https://eaupotable.info/fr/393-fontaine-eau-potable-esplanade-charles-de-gaulle</description>
+    <address>Esplanade Charles de Gaulle, Montpellier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.610667891,3.88125871164</coordinates>
+    </Point>
+    <name>Fontaine eau potable n&#176;2 Esplanade Charles de Gaulle</name>
+    <description>https://eaupotable.info/fr/394-fontaine-eau-potable-ndeg2-esplanade-charles-de-gaulle</description>
+    <address>Esplanade Charles de Gaulle, Montpellier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.1642889707,-2.16859833334</coordinates>
+    </Point>
+    <name>Source Eau Potable THARON-PLAGE</name>
+    <description>https://eaupotable.info/fr/395-source-eau-potable-tharon-plage</description>
+    <address>Rue de la Source, Saint-Michel-Chef-Chef, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.2394586931,7.41743384583</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/396-fontaine-d-eau-potable</description>
+    <address>Saint-L&#233;onard, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.2750337775262,3.35674164544685</coordinates>
+    </Point>
+    <name>Fontaine eau potable - Portiragnes Plage</name>
+    <description>https://eaupotable.info/fr/397-fontaine-eau-potable-portiragnes-plage</description>
+    <address>Portiragnes Plage, Portiragnes, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.1866957308546,7.02801305055686</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/398-fontaine-d-eau-potable</description>
+    <address>Evionnaz</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.1166714000953,-7.56922547574084</coordinates>
+    </Point>
+    <name>Source Tabua&#231;o</name>
+    <description>https://eaupotable.info/fr/399-source-tabuaco</description>
+    <address>Tabua&#231;o, Portugal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.6299489,-75.9328169</coordinates>
+    </Point>
+    <name>Source de Wakefield (La P&#234;che, Qc)</name>
+    <description>https://eaupotable.info/fr/400-source-de-wakefield-la-peche-qc</description>
+    <address>La source - Wakefield Spring, La P&#234;che, QC, Canada</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3721930737023,3.17350265179823</coordinates>
+    </Point>
+    <name>Fontaine eau potable Parc sportif de Tabarka</name>
+    <description>https://eaupotable.info/fr/401-fontaine-eau-potable-parc-sportif-de-tabarka</description>
+    <address>Lignan-sur-Orb, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.3847426673433,6.87213245024986</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/402-fontaine-d-eau-potable</description>
+    <address>Port-Valais, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.1292348508,7.10274422455</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/403-fontaine-d-eau-potable</description>
+    <address>Fully, Suisse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3660618129626,1.78788051589959</coordinates>
+    </Point>
+    <name>Robinet de la Tour Poivri&#232;re</name>
+    <description>https://eaupotable.info/fr/404-robinet-de-la-tour-poivriere</description>
+    <address>Avignonet-Lauragais, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3654914597318,1.78924576028817</coordinates>
+    </Point>
+    <name>Robinet des Halles</name>
+    <description>https://eaupotable.info/fr/405-robinet-des-halles</description>
+    <address>Avignonet-Lauragais, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.3345416437,6.19453929846</coordinates>
+    </Point>
+    <name>Fontaine de Founex</name>
+    <description>https://eaupotable.info/fr/406-fontaine-de-founex</description>
+    <address>Founex, Switzerland</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7697562786389,2.98411905635066</coordinates>
+    </Point>
+    <name>Toilettes Parking Panoramique des D&#244;mes</name>
+    <description>https://eaupotable.info/fr/407-toilettes-parking-panoramique-des-domes</description>
+    <address>Royat, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7839619847287,2.96590530683511</coordinates>
+    </Point>
+    <name>Fontaine de distribution</name>
+    <description>https://eaupotable.info/fr/408-fontaine-de-distribution</description>
+    <address>Puy-de-D&#244;me, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7841537086712,2.93100976755136</coordinates>
+    </Point>
+    <name>Fontaine de distribution Bac de Cess&#226;t</name>
+    <description>https://eaupotable.info/fr/409-fontaine-de-distribution-bac-de-cessat</description>
+    <address>Puy-de-D&#244;me, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8210641110628,2.94852246522908</coordinates>
+    </Point>
+    <name>Fontaine des P&#232;res</name>
+    <description>https://eaupotable.info/fr/410-fontaine-des-peres</description>
+    <address>Puys Chopine et des Gouttes, Saint-Ours, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8715205747783,2.99262738553625</coordinates>
+    </Point>
+    <name>Fontaine de distribution</name>
+    <description>https://eaupotable.info/fr/411-fontaine-de-distribution</description>
+    <address>Moulet-Marcenat, Volvic, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8708982673614,3.02820694188495</coordinates>
+    </Point>
+    <name>Fontaine de distribution</name>
+    <description>https://eaupotable.info/fr/412-fontaine-de-distribution</description>
+    <address>Volvic, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8703789292476,3.03622942904849</coordinates>
+    </Point>
+    <name>Fontaine de distribution</name>
+    <description>https://eaupotable.info/fr/413-fontaine-de-distribution</description>
+    <address>Volvic, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8703422118,3.03637426834</coordinates>
+    </Point>
+    <name>Fontaine de distribution</name>
+    <description>https://eaupotable.info/fr/414-fontaine-de-distribution</description>
+    <address>Volvic, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8724334482181,3.0376188133182</coordinates>
+    </Point>
+    <name>Fontaine de distribution</name>
+    <description>https://eaupotable.info/fr/415-fontaine-de-distribution</description>
+    <address>Volvic, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8850005188,3.0394011412086</coordinates>
+    </Point>
+    <name>Distribution d'eau</name>
+    <description>https://eaupotable.info/fr/416-distribution-d-eau</description>
+    <address>Volvic, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7642604724302,2.95626276542657</coordinates>
+    </Point>
+    <name>Toilettes Parking Col de Ceyssat</name>
+    <description>https://eaupotable.info/fr/417-toilettes-parking-col-de-ceyssat</description>
+    <address>Puy-de-D&#244;me, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7709297315383,2.96327668031347</coordinates>
+    </Point>
+    <name>Fontaine de distribution du Puy de D&#244;me</name>
+    <description>https://eaupotable.info/fr/418-fontaine-de-distribution-du-puy-de-dome</description>
+    <address>Col de Ceyssat, Orcines, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8003503833401,2.99209523521802</coordinates>
+    </Point>
+    <name>Fontaine de la ville de Fontaine du Berger</name>
+    <description>https://eaupotable.info/fr/419-fontaine-de-la-ville-de-fontaine-du-berger</description>
+    <address>Puy des Goules, Orcines, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.5180743358569,-2.23051978567503</coordinates>
+    </Point>
+    <name>Source Planco&#235;t</name>
+    <description>https://eaupotable.info/fr/420-source-plancoet</description>
+    <address>Planco&#235;t, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.4534736937,6.29514555952</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/421-fontaine</description>
+    <address>Epierre, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.884229,2.20316</coordinates>
+    </Point>
+    <name>Parc Paul Vaillant Couturier</name>
+    <description>https://eaupotable.info/fr/422-parc-paul-vaillant-couturier</description>
+    <address>Nanterre, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8705694,2.21431580000001</coordinates>
+    </Point>
+    <name>Fontaine De Distribution </name>
+    <description>https://eaupotable.info/fr/423-fontaine-de-distribution</description>
+    <address>Place de l'Abb&#233; Franz Stock, Suresnes, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.0650516,0.144670399999995</coordinates>
+    </Point>
+    <name>Fontaine Saint Blaise</name>
+    <description>https://eaupotable.info/fr/424-fontaine-saint-blaise</description>
+    <address>17 Rue Saint-Blaise, Bagn&#232;res-de-Bigorre, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.737963698373,3.19410393121348</coordinates>
+    </Point>
+    <name>WC et point d'eau</name>
+    <description>https://eaupotable.info/fr/425-wc-et-point-d-eau</description>
+    <address>Joncels, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.7074153167456,3.19357460713195</coordinates>
+    </Point>
+    <name>WC et point d'eau</name>
+    <description>https://eaupotable.info/fr/426-wc-et-point-d-eau</description>
+    <address>Lunas, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.428511483561,5.05146102155163</coordinates>
+    </Point>
+    <name>Parc du gour</name>
+    <description>https://eaupotable.info/fr/427-parc-du-gour</description>
+    <address>13500 France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6913721153392,3.26504077873233</coordinates>
+    </Point>
+    <name>Robinet eau potable Hameau de Lavalette</name>
+    <description>https://eaupotable.info/fr/429-robinet-eau-potable-hameau-de-lavalette</description>
+    <address>Rue du Ruisseau, 34700 Lavalette</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.3329323747223,5.07005626110447</coordinates>
+    </Point>
+    <name>Robinet et douche ext&#233;rieur</name>
+    <description>https://eaupotable.info/fr/430-robinet-et-douche-exterieur</description>
+    <address>Plage de sainte croix</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>55.8463881135734,-3.85120318416136</coordinates>
+    </Point>
+    <name>Kate's Well</name>
+    <description>https://eaupotable.info/fr/431-kate-s-well</description>
+    <address>Kirk O'Shotts Manse, Salsburgh, Royaume-Uni</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>37.238793744,-8.16996102905</coordinates>
+    </Point>
+    <name>Alte natural water spring</name>
+    <description>https://eaupotable.info/fr/432-alte-natural-water-spring</description>
+    <address>Alte, Loul&#233;, Portugal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>36.7978079248704,-3.84841494130524</coordinates>
+    </Point>
+    <name>Fuente de espinosa - natural water source</name>
+    <description>https://eaupotable.info/fr/433-fuente-de-espinosa-natural-water-source</description>
+    <address>Maro, Spain</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.8710273719607,-1.01251896427914</coordinates>
+    </Point>
+    <name>Fontaine publique de la rue Nationale</name>
+    <description>https://eaupotable.info/fr/434-fontaine-publique-de-la-rue-nationale</description>
+    <address>Les Herbiers, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1331097484,5.28090247057</coordinates>
+    </Point>
+    <name>Fontaine publique</name>
+    <description>https://eaupotable.info/fr/435-fontaine-publique</description>
+    <address>Forri&#232;res, Nassogne, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.235481717136,6.40300359367063</coordinates>
+    </Point>
+    <name>Source du monast&#232;re Chartreuse de la Verne</name>
+    <description>https://eaupotable.info/fr/436-source-du-monastere-chartreuse-de-la-verne</description>
+    <address>La Verne, Collobri&#232;res, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6583843934116,2.15252029895737</coordinates>
+    </Point>
+    <name>La source de Martine</name>
+    <description>https://eaupotable.info/fr/437-la-source-de-martine</description>
+    <address>devant chez Martine</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5998689570808,-1.47309263494867</coordinates>
+    </Point>
+    <name>Point d'eau potable Labenne plage</name>
+    <description>https://eaupotable.info/fr/438-point-d-eau-potable-labenne-plage</description>
+    <address>Labenne-Oc&#233;an, Labenne, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.9368772,2.3616203</coordinates>
+    </Point>
+    <name>Eau de source &#224; Bugarach</name>
+    <description>https://eaupotable.info/fr/439-eau-de-source-a-bugarach</description>
+    <address>11190 Bugarach, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.995035,2.25741389999996</coordinates>
+    </Point>
+    <name>Fontaines et lavoirs</name>
+    <description>https://eaupotable.info/fr/440-fontaines-et-lavoirs</description>
+    <address>Alet-les-Bains, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.9585017425012,3.85806489926154</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/441-fontaine</description>
+    <address>30170 Saint-Hippolyte-du-Fort, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.842793,-0.397310000000061</coordinates>
+    </Point>
+    <name>Sur la D132 en direction de la D936</name>
+    <description>https://eaupotable.info/fr/442-sur-la-d132-en-direction-de-la-d936</description>
+    <address>Salleb&#339;uf, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.3899340735987,2.18264500940086</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/443-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Passeig de Llu&#237;s Companys, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4047771855901,2.16876053034548</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/444-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Carrer de Sic&#237;lia, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4046947393733,2.17522926983645</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/445-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Pla&#231;a de Gaudi, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4045659834489,2.17583008465579</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/446-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Pla&#231;a de Gaudi, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4118274477038,2.15276953729551</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/447-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Rambla de Mercedes, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4122418336077,2.15386387857359</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/448-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Rambla de Mercedes, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.3149624775463,5.20262610283282</coordinates>
+    </Point>
+    <name>Les sources du Chateau</name>
+    <description>https://eaupotable.info/fr/449-les-sources-du-chateau</description>
+    <address>Viriville, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.8302449623139,4.94552290674596</coordinates>
+    </Point>
+    <name>Point d'eau potable Le Mas Rillier Commune de Miribel</name>
+    <description>https://eaupotable.info/fr/450-point-d-eau-potable-le-mas-rillier-commune-de-miribel</description>
+    <address>Le Mas Rillier, Miribel, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.3812042411032,2.17351403247153</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/451-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>La Rambla, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.3783695436273,2.17865142876667</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/452-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Pla&#231;a del Duc de Medinaceli, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.3874063111949,2.17022776452632</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/453-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Pla&#231;a de  Catalunya, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4104164020489,2.1584330573944</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/454-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Carrer de l'Escorial, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4122408278198,2.15388801845472</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/455-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Rambla de Mercedes, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4118274477038,2.15280172380369</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable - eau de distribution</name>
+    <description>https://eaupotable.info/fr/456-fontaine-d-eau-potable-eau-de-distribution</description>
+    <address>Rambla de Mercedes, Barcelone, Espagne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.9328336416452,4.95216205221902</coordinates>
+    </Point>
+    <name>Robinet &#224; Saint Andr&#233; de Corcy</name>
+    <description>https://eaupotable.info/fr/457-robinet-a-saint-andre-de-corcy</description>
+    <address>Place du Vieux Marseille, Saint-Andr&#233;-de-Corcy, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.98060144,2.20355477858</coordinates>
+    </Point>
+    <name>Fontaine du Parc Shlumberger</name>
+    <description>https://eaupotable.info/fr/458-fontaine-du-parc-shlumberger</description>
+    <address>Cormeilles-en-Parisis, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9881249383,2.3016353684</coordinates>
+    </Point>
+    <name>Fontaine Wallace rue Blanche</name>
+    <description>https://eaupotable.info/fr/459-fontaine-wallace-rue-blanche</description>
+    <address>Soisy-sous-Montmorency, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9735321,2.3243068</coordinates>
+    </Point>
+    <name>Fontaine Wallace Rue V. Labarri&#232;re</name>
+    <description>https://eaupotable.info/fr/460-fontaine-wallace-rue-v-labarriere</description>
+    <address>3 Rue Victor Labarri&#232;re, Deuil-la-Barre, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8809792,2.2369871</coordinates>
+    </Point>
+    <name>Fontaine Wallace rue E. Eichenberger</name>
+    <description>https://eaupotable.info/fr/461-fontaine-wallace-rue-e-eichenberger</description>
+    <address>30 Rue Eug&#232;ne Eichenberger, Puteaux, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9419164785,7.14381586289</coordinates>
+    </Point>
+    <name>Fontaine rue du Wasen</name>
+    <description>https://eaupotable.info/fr/462-fontaine-rue-du-wasen</description>
+    <address>Lautenbach-Zell, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9487544465,7.12766038277</coordinates>
+    </Point>
+    <name>Fontaine de la Mairie</name>
+    <description>https://eaupotable.info/fr/463-fontaine-de-la-mairie</description>
+    <address>Linthal, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9899635411,2.08450719026</coordinates>
+    </Point>
+    <name>Fontaine de la Promenade F. Mitterand</name>
+    <description>https://eaupotable.info/fr/464-fontaine-de-la-promenade-f-mitterand</description>
+    <address>Conflans-Sainte-Honorine, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9437542714,2.24995522275</coordinates>
+    </Point>
+    <name>Fontaine Wallace rue P.V. Couturier</name>
+    <description>https://eaupotable.info/fr/466-fontaine-wallace-rue-p-v-couturier</description>
+    <address>83 Rue Paul Vaillant Couturier, Argenteuil, &#206;le-de-France, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9536160735297,2.18701057810017</coordinates>
+    </Point>
+    <name>Fontaine du cimeti&#232;re paysager</name>
+    <description>https://eaupotable.info/fr/467-fontaine-du-cimetiere-paysager</description>
+    <address>Cormeilles-en-Parisis, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9598424628,2.18986310739</coordinates>
+    </Point>
+    <name>Fontaine du gymnase L&#233;o Tavarez</name>
+    <description>https://eaupotable.info/fr/468-fontaine-du-gymnase-leo-tavarez</description>
+    <address>Cormeilles-en-Parisis, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8684246511,2.35024333193</coordinates>
+    </Point>
+    <name>Fontaine Wallace Rue Sainte-Foy</name>
+    <description>https://eaupotable.info/fr/469-fontaine-wallace-rue-sainte-foy</description>
+    <address>3 Rue Sainte-Foy, Paris, &#206;le-de-France, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.867611399,2.35861915211</coordinates>
+    </Point>
+    <name>Fontaine Wallace Rue ND de Nazareth</name>
+    <description>https://eaupotable.info/fr/470-fontaine-wallace-rue-nd-de-nazareth</description>
+    <address>38 Rue Notre Dame de Nazareth, Paris, &#206;le-de-France, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9961009638,2.2692607293</coordinates>
+    </Point>
+    <name>Fontaine du cimeti&#232;re d'Eaubonne</name>
+    <description>https://eaupotable.info/fr/471-fontaine-du-cimetiere-d-eaubonne</description>
+    <address>Eaubonne, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9728977884,2.30417981779</coordinates>
+    </Point>
+    <name>Fontaine av. de la Ceinture</name>
+    <description>https://eaupotable.info/fr/472-fontaine-av-de-la-ceinture</description>
+    <address>33 Avenue de Ceinture, Enghien-les-Bains, &#206;le-de-France, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9690031952,2.29665396693</coordinates>
+    </Point>
+    <name>Fontaine Boulevard du Lac</name>
+    <description>https://eaupotable.info/fr/473-fontaine-boulevard-du-lac</description>
+    <address>59 Boulevard du Lac, Enghien-les-Bains, &#206;le-de-France, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.025066215236,2.32441927272134</coordinates>
+    </Point>
+    <name>Fontaine Rue Pasteur</name>
+    <description>https://eaupotable.info/fr/474-fontaine-rue-pasteur</description>
+    <address>Domont, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0162502262,2.26510602268</coordinates>
+    </Point>
+    <name>Fontaine Saint Andr&#233;</name>
+    <description>https://eaupotable.info/fr/475-fontaine-saint-andre</description>
+    <address>82 Rue Auguste Rey, Saint-Prix, &#206;le-de-France, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0159445438,2.26700583998</coordinates>
+    </Point>
+    <name>Fontaine aux P&#233;lerins</name>
+    <description>https://eaupotable.info/fr/476-fontaine-aux-pelerins</description>
+    <address>Saint-Prix, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6284911366798,3.81223309157099</coordinates>
+    </Point>
+    <name>Source de Fontcaude</name>
+    <description>https://eaupotable.info/fr/477-source-de-fontcaude</description>
+    <address>All&#233;e des Thermes, Juvignac, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.92601,2.189325</coordinates>
+    </Point>
+    <name>Fontaine Wallace Place des Arts</name>
+    <description>https://eaupotable.info/fr/478-fontaine-wallace-place-des-arts</description>
+    <address>Place des Arts, Houilles, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0082892081,2.27835790599</coordinates>
+    </Point>
+    <name>Fontaine du cimeti&#232;re</name>
+    <description>https://eaupotable.info/fr/479-fontaine-du-cimetiere</description>
+    <address>Montlignon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0289661779665,2.05699369640354</coordinates>
+    </Point>
+    <name>Fontaine du centre multi-sports du parc de loisirs</name>
+    <description>https://eaupotable.info/fr/480-fontaine-du-centre-multi-sports-du-parc-de-loisirs</description>
+    <address>Cergy, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9417396769,7.14549863425</coordinates>
+    </Point>
+    <name>Fontaine Grand rue 2</name>
+    <description>https://eaupotable.info/fr/481-fontaine-grand-rue-2</description>
+    <address>Grand Rue, Lautenbach-Zell, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9409721235,7.148348485</coordinates>
+    </Point>
+    <name>Fontaine Grand rue 1</name>
+    <description>https://eaupotable.info/fr/482-fontaine-grand-rue-1</description>
+    <address>47 Grand Rue, Lautenbach-Zell, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9410397968,7.15859218161</coordinates>
+    </Point>
+    <name>Fontaine de l'&#233;glise</name>
+    <description>https://eaupotable.info/fr/483-fontaine-de-l-eglise</description>
+    <address>2 Rue Edmond Gerrer, Lautenbach, Grand Est, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9401097190864,7.16067424411085</coordinates>
+    </Point>
+    <name>Fontaine rue de la Paix</name>
+    <description>https://eaupotable.info/fr/484-fontaine-rue-de-la-paix</description>
+    <address>1 Rue de la Paix, Lautenbach, Grand Est, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9412043495,7.16086743684</coordinates>
+    </Point>
+    <name>Fontaine rue Principale</name>
+    <description>https://eaupotable.info/fr/485-fontaine-rue-principale</description>
+    <address>Rue des Pierres, Lautenbach, Grand Est, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.568212,1.58129199999996</coordinates>
+    </Point>
+    <name>WC PUBLICS  A LA SALLE DES FETES  ET CIMETIERE</name>
+    <description>https://eaupotable.info/fr/486-wc-publics-a-la-salle-des-fetes-et-cimetiere</description>
+    <address>Lauz&#232;s, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.5611067,1.34692470000005</coordinates>
+    </Point>
+    <name>Sanitaires aire communale de Layrolle</name>
+    <description>https://eaupotable.info/fr/487-sanitaires-aire-communale-de-layrolle</description>
+    <address>46150 Boissi&#232;res, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.57576,1.19582700000001</coordinates>
+    </Point>
+    <name>WC publics</name>
+    <description>https://eaupotable.info/fr/488-wc-publics</description>
+    <address>Goujounac, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.6295415081671,7.26175654516601</coordinates>
+    </Point>
+    <name>Col de la Schleif</name>
+    <description>https://eaupotable.info/fr/489-col-de-la-schleif</description>
+    <address>Dabo, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.5538781910427,1.77212809790035</coordinates>
+    </Point>
+    <name>WC publics "Place des Platanes"</name>
+    <description>https://eaupotable.info/fr/490-wc-publics-place-des-platanes</description>
+    <address>Le Bourg, 46160 Marcilhac-sur-C&#233;l&#233;, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9458098496,7.13036807277</coordinates>
+    </Point>
+    <name>Fontaine du Monument aux Morts</name>
+    <description>https://eaupotable.info/fr/491-fontaine-du-monument-aux-morts</description>
+    <address>Linthal, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9530905577,7.12430234139</coordinates>
+    </Point>
+    <name>Fontaine rue des Pr&#233;s</name>
+    <description>https://eaupotable.info/fr/492-fontaine-rue-des-pres</description>
+    <address>Rue des Pr&#233;s, Linthal, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.445505,1.83429899999999</coordinates>
+    </Point>
+    <name>Source</name>
+    <description>https://eaupotable.info/fr/493-source</description>
+    <address>Brimeux, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9530569573,7.14403124549</coordinates>
+    </Point>
+    <name>Fontaine de la Route Foresti&#232;re du Boenlesgrab</name>
+    <description>https://eaupotable.info/fr/494-fontaine-de-la-route-forestiere-du-boenlesgrab</description>
+    <address>Linthal, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9450157319,7.13369132974</coordinates>
+    </Point>
+    <name>Fontaine du cimeti&#232;re</name>
+    <description>https://eaupotable.info/fr/495-fontaine-du-cimetiere</description>
+    <address>Linthal, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9606411967658,7.23952980200863</coordinates>
+    </Point>
+    <name>Fontaine rue des Boulangers</name>
+    <description>https://eaupotable.info/fr/496-fontaine-rue-des-boulangers</description>
+    <address>Rue des Boulangers, Soultzmatt, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9308046065384,7.23312418388366</coordinates>
+    </Point>
+    <name>Fontaine rue du Bois</name>
+    <description>https://eaupotable.info/fr/497-fontaine-rue-du-bois</description>
+    <address>Rue du Bois, Bergholtz&#8722;Zell, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9406027710373,7.1495464969978</coordinates>
+    </Point>
+    <name>Fontaine de la Mairie</name>
+    <description>https://eaupotable.info/fr/498-fontaine-de-la-mairie</description>
+    <address>Rue des Fleurs, Lautenbach-Zell, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.012807921218,5.67858484313047</coordinates>
+    </Point>
+    <name>Fontaine publique d'eau de source toute proche, tr&#232;s l&#233;g&#232;rement trait&#233;e. Tr&#232;s bonne eau.</name>
+    <description>https://eaupotable.info/fr/499-fontaine-publique-d-eau-de-source-toute-proche-tres-legerement-traitee-tres-bonne-eau</description>
+    <address>Rue de l'&#201;glise, Saint-Maurice-sous-les-C&#244;tes, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.7407937765366,1.4384253630044</coordinates>
+    </Point>
+    <name>WC PUBLICS LE VIGAN LOT</name>
+    <description>https://eaupotable.info/fr/500-wc-publics-le-vigan-lot</description>
+    <address>46300 Le Vigan, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.7407613886545,1.44480633825071</coordinates>
+    </Point>
+    <name>CIMETIERE LE VIGAN LOT</name>
+    <description>https://eaupotable.info/fr/501-cimetiere-le-vigan-lot</description>
+    <address>46300 Le Vigan, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.7411633781421,1.43931853860636</coordinates>
+    </Point>
+    <name>FONTAINE LE VIGAN LOT</name>
+    <description>https://eaupotable.info/fr/502-fontaine-le-vigan-lot</description>
+    <address>46300 Le Vigan, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.8455366762506,3.51931001852415</coordinates>
+    </Point>
+    <name>Fontaine de distribution Parking</name>
+    <description>https://eaupotable.info/fr/503-fontaine-de-distribution-parking</description>
+    <address>Saint-Maurice-Navacelles, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.8468404716772,3.5181298465576</coordinates>
+    </Point>
+    <name>Eau de distribution Centre du Village</name>
+    <description>https://eaupotable.info/fr/504-eau-de-distribution-centre-du-village</description>
+    <address>Saint-Maurice-Navacelles, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9114898164416,7.20883308580972</coordinates>
+    </Point>
+    <name>Fontaine de l'&#233;glise</name>
+    <description>https://eaupotable.info/fr/505-fontaine-de-l-eglise</description>
+    <address>Guebwiller, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.829145867461,7.18468529817392</coordinates>
+    </Point>
+    <name>Source de Wattwiller</name>
+    <description>https://eaupotable.info/fr/506-source-de-wattwiller</description>
+    <address>Wattwiller, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.7964722076431,-9.38767777702947</coordinates>
+    </Point>
+    <name>Source</name>
+    <description>https://eaupotable.info/fr/507-source</description>
+    <address>Sintra, Portugal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>38.7531787216766,-9.44884388381411</coordinates>
+    </Point>
+    <name>Cal&#231;ada do Chafariz</name>
+    <description>https://eaupotable.info/fr/508-calcada-do-chafariz</description>
+    <address>Malveira da Serra, Az&#243;ia, Portugal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.06510826671,2.18686113526542</coordinates>
+    </Point>
+    <name>Fontaine du Chateau de Mery-sur-Oise</name>
+    <description>https://eaupotable.info/fr/509-fontaine-du-chateau-de-mery-sur-oise</description>
+    <address>M&#233;ry-sur-Oise, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0419185832563,2.29332515597537</coordinates>
+    </Point>
+    <name>Fontaine du cimeti&#232;re</name>
+    <description>https://eaupotable.info/fr/510-fontaine-du-cimetiere</description>
+    <address>Bouff&#233;mont, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.0069371573498,2.01430826620106</coordinates>
+    </Point>
+    <name>Fontaine place des Tilleuils</name>
+    <description>https://eaupotable.info/fr/511-fontaine-place-des-tilleuils</description>
+    <address>Place des Tilleuls, Jouy-le-Moutier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6757195521,5.21079329102</coordinates>
+    </Point>
+    <name>Source rue du centre &#224; Hollogne-sur-Geer</name>
+    <description>https://eaupotable.info/fr/512-source-rue-du-centre-a-hollogne-sur-geer</description>
+    <address>Rue du Centre, Geer, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.5004289,2.11379023082736</coordinates>
+    </Point>
+    <name>Fontaine de l'Eglise</name>
+    <description>https://eaupotable.info/fr/513-fontaine-de-l-eglise</description>
+    <address>La Cabanasse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.4412700390748,2.03238696826179</coordinates>
+    </Point>
+    <name>Fontaine du cimetiere</name>
+    <description>https://eaupotable.info/fr/514-fontaine-du-cimetiere</description>
+    <address>Err, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.81806,3.53600700000004</coordinates>
+    </Point>
+    <name>Fontaine de distribution</name>
+    <description>https://eaupotable.info/fr/515-fontaine-de-distribution</description>
+    <address>Le Coulet, Saint-Maurice-Navacelles, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.8989090776832,3.45987067990109</coordinates>
+    </Point>
+    <name>Eau de distribution Parking</name>
+    <description>https://eaupotable.info/fr/516-eau-de-distribution-parking</description>
+    <address>Vissec, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.8942594009119,3.51098655952455</coordinates>
+    </Point>
+    <name>Fontaine de distribution</name>
+    <description>https://eaupotable.info/fr/517-fontaine-de-distribution</description>
+    <address>Navacelles, Saint-Maurice-Navacelles, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.8944952087575,3.5120218922043</coordinates>
+    </Point>
+    <name>Eau de distribution Parking</name>
+    <description>https://eaupotable.info/fr/518-eau-de-distribution-parking</description>
+    <address>Navacelles, Saint-Maurice-Navacelles, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.9010819910772,3.51620508073427</coordinates>
+    </Point>
+    <name>Eau de distribution Parking nord</name>
+    <description>https://eaupotable.info/fr/519-eau-de-distribution-parking-nord</description>
+    <address>Cirque de Navacelles, Saint-Maurice-Navacelles, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.8473573,1.93775900000003</coordinates>
+    </Point>
+    <name>Eau de la source</name>
+    <description>https://eaupotable.info/fr/520-eau-de-la-source</description>
+    <address>Avenue du Parc Floral, Orl&#233;ans, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.5265983047801,7.32201640209962</coordinates>
+    </Point>
+    <name>Fontaine &#224; URMATT, 92 rue du G&#233;n&#233;ral de Gaulle</name>
+    <description>https://eaupotable.info/fr/521-fontaine-a-urmatt-92-rue-du-general-de-gaulle</description>
+    <address>Urmatt, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.526839,7.32424800000001</coordinates>
+    </Point>
+    <name>Fontaine &#224; URMATT, 56 rue du G&#233;n&#233;ral de Gaulle</name>
+    <description>https://eaupotable.info/fr/522-fontaine-a-urmatt-56-rue-du-general-de-gaulle</description>
+    <address>Urmatt, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7870103885416,6.23388849414823</coordinates>
+    </Point>
+    <name>Lavoir de Verthier</name>
+    <description>https://eaupotable.info/fr/523-lavoir-de-verthier</description>
+    <address>Doussard, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.9759182412753,1.03443129158779</coordinates>
+    </Point>
+    <name>Site de la Madeleine</name>
+    <description>https://eaupotable.info/fr/524-site-de-la-madeleine</description>
+    <address>Tursac, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7606117427875,4.82597729199597</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable Place de la Cath&#233;drale Saint-Jean, Lyon</name>
+    <description>https://eaupotable.info/fr/525-fontaine-d-eau-potable-place-de-la-cathedrale-saint-jean-lyon</description>
+    <address>3 Place Saint-Jean, Lyon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7771889425726,4.8515928809162</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable, Parc de la T&#234;te d'Or, Lyon</name>
+    <description>https://eaupotable.info/fr/526-fontaine-d-eau-potable-parc-de-la-tete-d-or-lyon</description>
+    <address>Parc de la T&#234;te d'Or, Lyon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7768754232,4.85403387221</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable Parc de la T&#234;te d'Or, Lyon</name>
+    <description>https://eaupotable.info/fr/527-fontaine-d-eau-potable-parc-de-la-tete-d-or-lyon</description>
+    <address>All&#233;e de la Voli&#232;re, Parc de la T&#234;t d'Or, Lyon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7737542170228,4.85202069325408</coordinates>
+    </Point>
+    <name>Parc de la T&#234;te d'Or, Porte du Lyc&#233;e, Lyon</name>
+    <description>https://eaupotable.info/fr/528-parc-de-la-tete-d-or-porte-du-lycee-lyon</description>
+    <address>Parc de la T&#234;te d'Or, Porte du Lyc&#233;e, Lyon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.7623540039198,4.82364236176295</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable Parc du Rosaire, Lyon</name>
+    <description>https://eaupotable.info/fr/529-fontaine-d-eau-potable-parc-du-rosaire-lyon</description>
+    <address>Parc du Rosaire, Lyon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.387104,6.54281600000002</coordinates>
+    </Point>
+    <name>Source de Publier</name>
+    <description>https://eaupotable.info/fr/530-source-de-publier</description>
+    <address>Publier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.5201568472,0.545167340823</coordinates>
+    </Point>
+    <name>Fontaine du parc de la Mairie</name>
+    <description>https://eaupotable.info/fr/531-fontaine-du-parc-de-la-mairie</description>
+    <address>Mortagne-au-Perche, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.6668697473,-73.9631515445</coordinates>
+    </Point>
+    <name>Source naturelle en allant vers les "terres de la courronne"</name>
+    <description>https://eaupotable.info/fr/532-source-naturelle-en-allant-vers-les-terres-de-la-courronne</description>
+    <address>Saint-Michel-des-Saints, QC, Canada</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.2830063846945,3.28180917851728</coordinates>
+    </Point>
+    <name>Fontaine eau potable S&#233;rignan</name>
+    <description>https://eaupotable.info/fr/533-fontaine-eau-potable-serignan</description>
+    <address>Avenue de B&#233;ziers, S&#233;rignan, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.8931984,7.26163700000006</coordinates>
+    </Point>
+    <name>Fontaine de Duranus</name>
+    <description>https://eaupotable.info/fr/534-fontaine-de-duranus</description>
+    <address>7 Route D&#233;partementale 19, Duranus, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.424899,0.868048000000044</coordinates>
+    </Point>
+    <name>Source naturelle "La Font de Saza"</name>
+    <description>https://eaupotable.info/fr/535-source-naturelle-la-font-de-saza</description>
+    <address>Montmorillon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.7909275450075,3.73245583565142</coordinates>
+    </Point>
+    <name>Fontaine de Saint Martin de Londres</name>
+    <description>https://eaupotable.info/fr/536-fontaine-de-saint-martin-de-londres</description>
+    <address>Saint-Martin-de-Londres, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.805351,4.42779999999993</coordinates>
+    </Point>
+    <name>Source &#224; Le Creusot</name>
+    <description>https://eaupotable.info/fr/538-source-a-le-creusot</description>
+    <address>Le Creusot, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.2301596897383,5.43705865033189</coordinates>
+    </Point>
+    <name>Luminy</name>
+    <description>https://eaupotable.info/fr/539-luminy</description>
+    <address>Luminy, Marseille, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.6412830413333,-1.15298996193042</coordinates>
+    </Point>
+    <name>Puits art&#233;sien des anciens abattoirs, avenue du Mar&#233;chal Leclerc</name>
+    <description>https://eaupotable.info/fr/540-puits-artesien-des-anciens-abattoirs-avenue-du-marechal-leclerc</description>
+    <address>La Teste-de-Buch, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1611129578074,4.94250285250098</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Finnevaux</name>
+    <description>https://eaupotable.info/fr/541-robinet-du-cimetiere-de-finnevaux</description>
+    <address>Finnevaux, Houyet, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6624147674777,3.45977372209018</coordinates>
+    </Point>
+    <name>Source Avenue Cardinal de Fleury &#224; Saint-F&#233;lix-de-Lodez</name>
+    <description>https://eaupotable.info/fr/544-source-avenue-cardinal-de-fleury-a-saint-felix-de-lodez</description>
+    <address>34725 Rue du Fournil, Saint-F&#233;lix-de-Lodez, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.1229583818858,5.56096869709779</coordinates>
+    </Point>
+    <name>Toilette publique</name>
+    <description>https://eaupotable.info/fr/545-toilette-publique</description>
+    <address>Rochefort-sur-Nenon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.1276667978596,5.56608098748018</coordinates>
+    </Point>
+    <name>Toilette publique</name>
+    <description>https://eaupotable.info/fr/546-toilette-publique</description>
+    <address>Rochefort-sur-Nenon, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.323602,2.70584299999996</coordinates>
+    </Point>
+    <name>Source sainte bertille</name>
+    <description>https://eaupotable.info/fr/547-source-sainte-bertille</description>
+    <address>Mar&#339;uil, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.5455481852692,0.513687600524918</coordinates>
+    </Point>
+    <name>Source AUGER</name>
+    <description>https://eaupotable.info/fr/548-source-auger</description>
+    <address>200 Route de la Fontaine Mur&#233;e, Gruchet-le-Valasse, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.4765370958087,9.42829519972224</coordinates>
+    </Point>
+    <name>Fontaine de Loreto-di-Casinca</name>
+    <description>https://eaupotable.info/fr/549-fontaine-de-loreto-di-casinca</description>
+    <address>Loreto-Di-Casinca, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.6017921955539,3.89705682261501</coordinates>
+    </Point>
+    <name>Fontaine Fructidor</name>
+    <description>https://eaupotable.info/fr/550-fontaine-fructidor</description>
+    <address>Rue Fructidor, Montpellier, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.3592729964882,5.82614603488764</coordinates>
+    </Point>
+    <name>Fontaine de l'&#233;cole</name>
+    <description>https://eaupotable.info/fr/551-fontaine-de-l-ecole</description>
+    <address>Basse-Bodeux, Trois-Ponts, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.00168620776,4.45943103173829</coordinates>
+    </Point>
+    <name>Fontaine Saint Meen</name>
+    <description>https://eaupotable.info/fr/552-fontaine-saint-meen</description>
+    <address>BRULY-DE-PESCHE Eglise, Couvin, B&#233;lgica</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.453312030704,5.01332826780617</coordinates>
+    </Point>
+    <name>Fontaine de la place</name>
+    <description>https://eaupotable.info/fr/555-fontaine-de-la-place</description>
+    <address>Rue Bellefont, Saint-Mitre-les-Remparts, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.8546651898641,1.33349066010987</coordinates>
+    </Point>
+    <name>Fontaine &#224; eau publique</name>
+    <description>https://eaupotable.info/fr/556-fontaine-a-eau-publique</description>
+    <address>LIEU DIT LE BOURG</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.8544862822243,1.33376482692393</coordinates>
+    </Point>
+    <name>WC publics</name>
+    <description>https://eaupotable.info/fr/557-wc-publics</description>
+    <address>LIEU DIT LE BOURG</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8949849,2.47828670000001</coordinates>
+    </Point>
+    <name>Fontaine Wallace</name>
+    <description>https://eaupotable.info/fr/558-fontaine-wallace</description>
+    <address>4 Rue de la Libert&#233;, 93140 Bondy, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8214244,2.41711770000006</coordinates>
+    </Point>
+    <name>Fontaine Wallace</name>
+    <description>https://eaupotable.info/fr/559-fontaine-wallace</description>
+    <address>94220 Place Henri IV, Charenton-le-Pont, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.9070477,2.24586009999996</coordinates>
+    </Point>
+    <name>Fontaine Wallace</name>
+    <description>https://eaupotable.info/fr/560-fontaine-wallace</description>
+    <address>62 Boulevard de la R&#233;publique, La Garenne-Colombes, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.4005045166823,1.71586059587867</coordinates>
+    </Point>
+    <name>Lavabo du parc de la rue Carnot</name>
+    <description>https://eaupotable.info/fr/561-lavabo-du-parc-de-la-rue-carnot</description>
+    <address>Villefranche-de-Lauragais, France</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.6941568652277,2.17744636535645</coordinates>
+    </Point>
+    <name>FONTAINE DE BEAUNE c'&#233;tait la seule source d'eau potable du village  jusque dans les ann&#233;es 1960</name>
+    <description>https://eaupotable.info/fr/562-fontaine-de-beaune-c-etait-la-seule-source-d-eau-potable-du-village-jusque-dans-les-annees-1960</description>
+    <address>19290</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.4013181104287,4.20357504487038</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re d'&#201;pinois</name>
+    <description>https://eaupotable.info/fr/563-robinet-du-cimetiere-d-epinois</description>
+    <address>&#233;pinois</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1838791306934,5.15361299738765</coordinates>
+    </Point>
+    <name>Robinet du cimetiere de Laloux </name>
+    <description>https://eaupotable.info/fr/564-robinet-du-cimetiere-de-laloux</description>
+    <address>Rue sa</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.0743771190557,4.61028441271969</coordinates>
+    </Point>
+    <name>Point d'eau du cimetiere</name>
+    <description>https://eaupotable.info/fr/566-point-d-eau-du-cimetiere</description>
+    <address>Olloy-sur-Viroin, Viroinval, Belgique</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.0512299767693,12.4641292611756</coordinates>
+    </Point>
+    <name>Sorgenta</name>
+    <description>https://eaupotable.info/fr/567-sorgenta</description>
+    <address>Via Polcenigo, Pordenone, Italie</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.71271915265728,9.21031483489378</coordinates>
+    </Point>
+    <name>Fontaine d'Illarata</name>
+    <description>https://eaupotable.info/fr/582-fontaine-dillarata</description>
+    <address>D368</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.438953090061645,0.6210562820091354</coordinates>
+    </Point>
+    <name>Source du Mayne</name>
+    <description>https://eaupotable.info/fr/584-source-du-mayne</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.39612779969451,0.5989478927249365</coordinates>
+    </Point>
+    <name>Source de Gamot</name>
+    <description>https://eaupotable.info/fr/585-source-de-gamot</description>
+    <address>Rue de la Source de Gamot 32</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.937613,2.740468</coordinates>
+    </Point>
+    <name>Eau de sources</name>
+    <description>https://eaupotable.info/fr/588-eau-de-sources</description>
+    <address>15 rue de l'ancienne briqueterie</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.56572079026779,7.477107523803723</coordinates>
+    </Point>
+    <name>Holzbrunnen</name>
+    <description>https://eaupotable.info/fr/589-holzbrunnen</description>
+    <address>Rue du Fort</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.2664339,-0.055352</coordinates>
+    </Point>
+    <name>Eau de source</name>
+    <description>https://eaupotable.info/fr/590-eau-de-source</description>
+    <address>devant d'&#233;glise</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.9335237834612,4.67268998968506</coordinates>
+    </Point>
+    <name>Eau de source</name>
+    <description>https://eaupotable.info/fr/591-eau-de-source</description>
+    <address>Route de Laifour</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>36.8812379,-5.4031177</coordinates>
+    </Point>
+    <name>Fontaine publique</name>
+    <description>https://eaupotable.info/fr/592-fontaine-publique</description>
+    <address>Av. de Andalucia, 77</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.7897275907108,5.627448195994931</coordinates>
+    </Point>
+    <name>Source du Pierroy</name>
+    <description>https://eaupotable.info/fr/593-source-du-pierroy</description>
+    <address>Rue du Pierroy 17</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-22.2511067916647,166.608562553705</coordinates>
+    </Point>
+    <name>Source du mont Dore</name>
+    <description>https://eaupotable.info/fr/595-source-du-mont-dore</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8343004510184,2.34253059451216</coordinates>
+    </Point>
+    <name>Fontaine Eau de Paris Square Henri Cadiou 75013</name>
+    <description>https://eaupotable.info/fr/596-fontaine-eau-de-paris-square-henri-cadiou-75013</description>
+    <address>Rue L&#233;on-Maurice Nordmann 142</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.6473772327893,5.498159015954571</coordinates>
+    </Point>
+    <name>Fontaine Lahage 1</name>
+    <description>https://eaupotable.info/fr/597-fontaine-lahage-1</description>
+    <address>Rue Saint-Hubert 128</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.64530009116244,5.501101399243908</coordinates>
+    </Point>
+    <name>Fontaine Lahage 2</name>
+    <description>https://eaupotable.info/fr/598-fontaine-lahage-2</description>
+    <address>Rue Saint-Hubert 55</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.96837461142027,0.7980623449134638</coordinates>
+    </Point>
+    <name>Fontaine Razecueill&#233;</name>
+    <description>https://eaupotable.info/fr/599-fontaine-razecueille</description>
+    <address>Razecueille 74</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.974666552254554,3.1786624439369016</coordinates>
+    </Point>
+    <name>Nouveau cimeti&#232;re de Luzancy</name>
+    <description>https://eaupotable.info/fr/601-nouveau-cimetiere-de-luzancy</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.11413794001321,3.1046629794250302</coordinates>
+    </Point>
+    <name>Cimeti&#232;re de Montigny-l'Allier - Robinet</name>
+    <description>https://eaupotable.info/fr/602-cimetiere-de-montigny-lallier-robinet</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.32206667373265,4.828549915205387</coordinates>
+    </Point>
+    <name>Source Sainte Ad&#232;le</name>
+    <description>https://eaupotable.info/fr/603-source-sainte-adele</description>
+    <address>Rue du Fond 70</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8368965811663,2.48549164354705</coordinates>
+    </Point>
+    <name>Petite fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/606-petite-fontaine-deau-potable</description>
+    <address>Rue Charles VII 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.839048609749,2.49100626528167</coordinates>
+    </Point>
+    <name>Petite fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/607-petite-fontaine-deau-potable</description>
+    <address>Rue du Mar&#233;chal Vaillant 5</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8317738868894,2.4860602718582</coordinates>
+    </Point>
+    <name>Petite fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/608-petite-fontaine-deau-potable</description>
+    <address>Promenade Yvette Horner-&#206;le de Beaut&#233; 7</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.8362822032939,2.46975512325667</coordinates>
+    </Point>
+    <name>Petite fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/609-petite-fontaine-deau-potable</description>
+    <address>Avenue Georges Clemenceau 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.8473624,4.3571982</coordinates>
+    </Point>
+    <name>Vivaqua</name>
+    <description>https://eaupotable.info/fr/611-vivaqua</description>
+    <address>Keizerinlaan 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.538685,5.292962000000001</coordinates>
+    </Point>
+    <name>Fontanii</name>
+    <description>https://eaupotable.info/fr/612-fontanii</description>
+    <address>la pinette</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.274308,6.521865000000001</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/613-fontaine-deau-potable</description>
+    <address>Place Vieille</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.2786564670615,4.79391230740968</coordinates>
+    </Point>
+    <name>Robinet devant l'&#233;glise de Fala&#235;n</name>
+    <description>https://eaupotable.info/fr/614-robinet-devant-leglise-de-falaen</description>
+    <address>Try des Bruy&#232;res 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.8315757312937,5.05645116532897</coordinates>
+    </Point>
+    <name>Fontaine &#224; Ucimont</name>
+    <description>https://eaupotable.info/fr/615-fontaine-a-ucimont</description>
+    <address>Rue du Ch&#226;teau-le-Duc 25</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.8950989,1.6348353</coordinates>
+    </Point>
+    <name>Baccon</name>
+    <description>https://eaupotable.info/fr/616-baccon</description>
+    <address>Rue de la Planche</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.51603363484386,6.638106074400265</coordinates>
+    </Point>
+    <name>Eau de source</name>
+    <description>https://eaupotable.info/fr/617-eau-de-source</description>
+    <address>D47</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6277416183494,5.5760492411434015</coordinates>
+    </Point>
+    <name>Borne &#224; boire - La Boverie (plaine de jeux)</name>
+    <description>https://eaupotable.info/fr/618-borne-a-boire-la-boverie-plaine-de-jeux</description>
+    <address>Parc de la Boverie 3</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.628865429929995,5.5754873183547815</coordinates>
+    </Point>
+    <name>Borne &#224; boire - La Boverie (voli&#232;re)</name>
+    <description>https://eaupotable.info/fr/619-borne-a-boire-la-boverie-voliere</description>
+    <address>All&#233;e Fr&#233;d&#233;ric Chopin 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.647130818261644,5.573892286647029</coordinates>
+    </Point>
+    <name>Borne &#224; boire - Citadelle</name>
+    <description>https://eaupotable.info/fr/620-borne-a-boire-citadelle</description>
+    <address>Rue Pierreuse 38</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.6547508,5.603133499999999</coordinates>
+    </Point>
+    <name>Borne &#224; boire - Morinval</name>
+    <description>https://eaupotable.info/fr/621-borne-a-boire-morinval</description>
+    <address>Rue Morinval 72</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.65062282045756,5.591597116532916</coordinates>
+    </Point>
+    <name>Borne &#224; boire - Vieille montagne</name>
+    <description>https://eaupotable.info/fr/622-borne-a-boire-vieille-montagne</description>
+    <address>Rue Mosselman 31</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.652529034283944,5.5892229214610945</coordinates>
+    </Point>
+    <name>Borne &#224; boire - Vivegnis</name>
+    <description>https://eaupotable.info/fr/623-borne-a-boire-vivegnis</description>
+    <address>Place Vivegnis 26</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.64077474896423,5.557942310975643</coordinates>
+    </Point>
+    <name>Borne &#224; boire - Saint-Laurent</name>
+    <description>https://eaupotable.info/fr/624-borne-a-boire-saint-laurent</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.64399318702794,5.559591253581222</coordinates>
+    </Point>
+    <name>Borne &#224; boire - Sainte-Agathe</name>
+    <description>https://eaupotable.info/fr/625-borne-a-boire-sainte-agathe</description>
+    <address>Rue Hullos 51</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.64842067016085,5.585424392590328</coordinates>
+    </Point>
+    <name>Borne &#224; boire - Saint-L&#233;onard</name>
+    <description>https://eaupotable.info/fr/626-borne-a-boire-saint-leonard</description>
+    <address>Rue Mathieu Laensberg 6</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.52023393086943,2.933706098043425</coordinates>
+    </Point>
+    <name>Font des ocells (Fontaine aux oiseaux)</name>
+    <description>https://eaupotable.info/fr/627-font-des-ocells-fontaine-aux-oiseaux</description>
+    <address>Rue de l'&#201;glise 4</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.59614492827085,2.416062939811723</coordinates>
+    </Point>
+    <name>Eau de source Abbaye de Saint Michel de Cuxa</name>
+    <description>https://eaupotable.info/fr/628-eau-de-source-abbaye-de-saint-michel-de-cuxa</description>
+    <address>D27</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.956849,3.607777</coordinates>
+    </Point>
+    <name>La source de Tupigny</name>
+    <description>https://eaupotable.info/fr/629-la-source-de-tupigny</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>40.72540480000001,-6.9055942</coordinates>
+    </Point>
+    <name>Fuente medieval</name>
+    <description>https://eaupotable.info/fr/630-fuente-medieval</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.78568909910237,2.86043959101562</coordinates>
+    </Point>
+    <name>Fontaine de Mazayes Hautes</name>
+    <description>https://eaupotable.info/fr/631-fontaine-de-mazayes-hautes</description>
+    <address>Mazaye Hautes 6</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.998802449937,5.05728450160523</coordinates>
+    </Point>
+    <name>fontaine</name>
+    <description>https://eaupotable.info/fr/632-fontaine</description>
+    <address>Rue Barb&#232;s 50</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.8748809299838,4.90202208465576</coordinates>
+    </Point>
+    <name>fontaine potable</name>
+    <description>https://eaupotable.info/fr/633-fontaine-potable</description>
+    <address>Route de Moll&#233;g&#232;s Cd 74 14</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.6568977953098,-1.14781579893724</coordinates>
+    </Point>
+    <name>Robinet</name>
+    <description>https://eaupotable.info/fr/634-robinet</description>
+    <address>Boulevard de la Plage 7</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.439611555024996,5.921293581307965</coordinates>
+    </Point>
+    <name>Refuge du col de l'Alpette</name>
+    <description>https://eaupotable.info/fr/635-refuge-du-col-de-lalpette</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.40352677986692,5.901443893493252</coordinates>
+    </Point>
+    <name>Fontaine de Rigne B&#226;ton</name>
+    <description>https://eaupotable.info/fr/636-fontaine-de-rigne-baton</description>
+    <address>Unnamed Road</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.765102,-1.139335</coordinates>
+    </Point>
+    <name>association les amis des puits</name>
+    <description>https://eaupotable.info/fr/637-association-les-amis-des-puits</description>
+    <address>71 All&#233;e de la Pin&#232;de</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.10974400198869,4.183841025161739</coordinates>
+    </Point>
+    <name>Eau de robinet cimeti&#232;re de Tr&#233;pail</name>
+    <description>https://eaupotable.info/fr/638-eau-de-robinet-cimetiere-de-trepail</description>
+    <address>Rue du Calvaire 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1724541,4.7191537</coordinates>
+    </Point>
+    <name>Notre-Dame de Bonne Fontaine, Chapelle de Soulmes</name>
+    <description>https://eaupotable.info/fr/639-notre-dame-de-bonne-fontaine-chapelle-de-soulmes</description>
+    <address>Moulin Bayot</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.465779,2.101233</coordinates>
+    </Point>
+    <name>fontaines de st amancet village aux trois fontaines</name>
+    <description>https://eaupotable.info/fr/640-fontaines-de-st-amancet-village-aux-trois-fontaines</description>
+    <address>4 PLACE DE L Egalit&#233;</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>36.734473,-3.6890198</coordinates>
+    </Point>
+    <name>Mevrouw</name>
+    <description>https://eaupotable.info/fr/641-mevrouw</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.0743286069646,5.30595806123809</coordinates>
+    </Point>
+    <name>Une des 7 fontaines d'Awenne</name>
+    <description>https://eaupotable.info/fr/642-une-des-7-fontaines-dawenne</description>
+    <address>Rue du Tombois 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.0731631889145,5.30612435819701</coordinates>
+    </Point>
+    <name>Une des 7 fontaines d'Awenne</name>
+    <description>https://eaupotable.info/fr/643-une-des-7-fontaines-dawenne</description>
+    <address>Rue du Souvenir 14</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.342422903373,5.96191354285277</coordinates>
+    </Point>
+    <name>Fontaine au bord du petit parc</name>
+    <description>https://eaupotable.info/fr/644-fontaine-au-bord-du-petit-parc</description>
+    <address>Logbierm&#233; 23</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.3422654193213,5.96248753558196</coordinates>
+    </Point>
+    <name>Abreuvoirs</name>
+    <description>https://eaupotable.info/fr/645-abreuvoirs</description>
+    <address>Logbierm&#233; 23</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.609916195686,5.65659161904907</coordinates>
+    </Point>
+    <name>Ancien lavoir</name>
+    <description>https://eaupotable.info/fr/646-ancien-lavoir</description>
+    <address>Rue de Conchibois 8</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.393395801160814,5.869836966934199</coordinates>
+    </Point>
+    <name>Fontaine Grand Coo</name>
+    <description>https://eaupotable.info/fr/647-fontaine-grand-coo</description>
+    <address>Grand Coo 8</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.39749699999999,5.986661900000001</coordinates>
+    </Point>
+    <name>Point d'eau Chevofosse</name>
+    <description>https://eaupotable.info/fr/648-point-deau-chevofosse</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.9846150804985,-2.26626161709594</coordinates>
+    </Point>
+    <name>Fontaine Ste Appoline</name>
+    <description>https://eaupotable.info/fr/649-fontaine-ste-appoline</description>
+    <address>Le Lidrio</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.7826889,5.4680692</coordinates>
+    </Point>
+    <name>Pumpkeskal</name>
+    <description>https://eaupotable.info/fr/650-pumpkeskal</description>
+    <address>Maastrichterstraat 100</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.31470418686154,8.525994474066149</coordinates>
+    </Point>
+    <name>Soodstrasse</name>
+    <description>https://eaupotable.info/fr/651-soodstrasse</description>
+    <address>Soodstrasse 17</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.03910058476963,-2.246690801422111</coordinates>
+    </Point>
+    <name>Fontaine de Baranton</name>
+    <description>https://eaupotable.info/fr/652-fontaine-de-baranton</description>
+    <address>Unnamed Road</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.00788128213735,-2.287458863754268</coordinates>
+    </Point>
+    <name>Robinet cimeti&#232;re de Tr&#233;horenteuc</name>
+    <description>https://eaupotable.info/fr/653-robinet-cimetiere-de-trehorenteuc</description>
+    <address>Rue du Patis 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.4405531142217,4.59984792394257</coordinates>
+    </Point>
+    <name>Point d'eau potable d'un particulier &#224; disposition sur l'acc&#232;s public</name>
+    <description>https://eaupotable.info/fr/654-point-deau-potable-dun-particulier-a-disposition-sur-lacces-public</description>
+    <address>Hameau de Marqueny 7</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.00761749379291,-2.28640743782043</coordinates>
+    </Point>
+    <name>Toilettes publiques</name>
+    <description>https://eaupotable.info/fr/655-toilettes-publiques</description>
+    <address>Rue de Broc&#233;liande 30</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.001635492751724,-2.2478321176605287</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/656-fontaine</description>
+    <address>Beauvais</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.09508913422766,5.036159184590527</coordinates>
+    </Point>
+    <name>Source de Mossiat</name>
+    <description>https://eaupotable.info/fr/657-source-de-mossiat</description>
+    <address>Rue de Mossiat 59</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.99901482912471,-2.1870337233398396</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/659-fontaine</description>
+    <address>Saint-Barth&#233;l&#233;my</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.01476702868508,-2.1721911825256313</coordinates>
+    </Point>
+    <name>Toilettes publiques</name>
+    <description>https://eaupotable.info/fr/660-toilettes-publiques</description>
+    <address>Rue de la Fontaine de Barenton 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.01900124789193,-2.1735644735412563</coordinates>
+    </Point>
+    <name>Toilettes publiques</name>
+    <description>https://eaupotable.info/fr/661-toilettes-publiques</description>
+    <address>Place du Roi Saint-Judicael 11</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.571101044298636,-2.9476566322937003</coordinates>
+    </Point>
+    <name>Robinet cimeti&#232;re de Locmariaquer</name>
+    <description>https://eaupotable.info/fr/662-robinet-cimetiere-de-locmariaquer</description>
+    <address>Route d'Auray 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.0411418409354,-0.9372087751159586</coordinates>
+    </Point>
+    <name>Fontaine de Brach</name>
+    <description>https://eaupotable.info/fr/663-fontaine-de-brach</description>
+    <address>Route de Castelnau 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.648554389705254,-0.21001894973755597</coordinates>
+    </Point>
+    <name>Fontaine de Mourens</name>
+    <description>https://eaupotable.info/fr/664-fontaine-de-mourens</description>
+    <address>Le Bourg 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.228696903094004,6.432213654100383</coordinates>
+    </Point>
+    <name>Eau non surveill&#233;e</name>
+    <description>https://eaupotable.info/fr/665-eau-non-surveillee</description>
+    <address>Rue de la Foug&#232;re 5</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.585113109817875,-0.04058943914795332</coordinates>
+    </Point>
+    <name>Robinet La R&#233;ole</name>
+    <description>https://eaupotable.info/fr/666-robinet-la-reole</description>
+    <address>Chemin de Peyreffite 8</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.07713398555747,5.804149752712244</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/667-fontaine</description>
+    <address>Quai Saint-Pierre 19</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.07888548294943,5.89666455139541</coordinates>
+    </Point>
+    <name>Lavabos</name>
+    <description>https://eaupotable.info/fr/668-lavabos</description>
+    <address>All&#233;e Danielle Mitterrand 263</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.07856908375462,5.898373118537896</coordinates>
+    </Point>
+    <name>Lavabos</name>
+    <description>https://eaupotable.info/fr/669-lavabos</description>
+    <address>Rue Georges Lahaye 61</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.151619417225525,5.839007240345007</coordinates>
+    </Point>
+    <name>Source</name>
+    <description>https://eaupotable.info/fr/670-source</description>
+    <address>Route du Gros Cerveau 3500</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.76421714766899,2.955682361901837</coordinates>
+    </Point>
+    <name>Fontaine du Col de Ceyssay</name>
+    <description>https://eaupotable.info/fr/671-fontaine-du-col-de-ceyssay</description>
+    <address>Puy du Grand Sol</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.69419250341328,2.9517985232482724</coordinates>
+    </Point>
+    <name>Toilettes publiques - Maison du Parc des Volcans</name>
+    <description>https://eaupotable.info/fr/672-toilettes-publiques-maison-du-parc-des-volcans</description>
+    <address>Ch&#226;teau de Montlosier</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.74307671152067,2.9687071688781552</coordinates>
+    </Point>
+    <name>Robinet - Cimeti&#232;re de Laschamps</name>
+    <description>https://eaupotable.info/fr/673-robinet-cimetiere-de-laschamps</description>
+    <address>Chemin de la Vialle 23</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.840177958898025,-0.39726976686476956</coordinates>
+    </Point>
+    <name>Source Salleboeuf</name>
+    <description>https://eaupotable.info/fr/674-source-salleboeuf</description>
+    <address>Avenue de la Source 6</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.77827982166411,3.08360160368784</coordinates>
+    </Point>
+    <name>Fontaine rue des Petits Gras &#224; Clermont-Ferrand</name>
+    <description>https://eaupotable.info/fr/675-fontaine-rue-des-petits-gras-a-clermont-ferrand</description>
+    <address>Rue des Petits Gras 12</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.77947236189092,3.084606761516171</coordinates>
+    </Point>
+    <name>Fontaine Place Mazet &#224; Clermont-Ferrand</name>
+    <description>https://eaupotable.info/fr/676-fontaine-place-mazet-a-clermont-ferrand</description>
+    <address>Place March&#233; aux Poissons 7</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.779580858402674,3.0861020930419736</coordinates>
+    </Point>
+    <name>Fontaine N&#176;1 rue Philippe Marcombes &#224; Clermont-Ferrand</name>
+    <description>https://eaupotable.info/fr/677-fontaine-n01-rue-philippe-marcombes-a-clermont-ferrand</description>
+    <address>Rue Philippe Marcombes 11</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.78045911118711,3.088230425895291</coordinates>
+    </Point>
+    <name>Fontaine rue Barnier &#224; Clermont-Ferrand</name>
+    <description>https://eaupotable.info/fr/678-fontaine-rue-barnier-a-clermont-ferrand</description>
+    <address>Rue Barnier 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.780360904693744,3.0897794016013913</coordinates>
+    </Point>
+    <name>Fontaine rue du Port &#224; Clermont-Ferrand</name>
+    <description>https://eaupotable.info/fr/679-fontaine-rue-du-port-a-clermont-ferrand</description>
+    <address>Rue du Port 59</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.77847343581181,3.0875246696482472</coordinates>
+    </Point>
+    <name>Fontaine Place du Terrail &#224; Clermont-Ferrand</name>
+    <description>https://eaupotable.info/fr/680-fontaine-place-du-terrail-a-clermont-ferrand</description>
+    <address>Rue Blaise Pascal 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.773781611002995,3.0849353321204953</coordinates>
+    </Point>
+    <name>Fontaine rue Georges Cl&#233;menceau &#224; Clermont-Ferrand</name>
+    <description>https://eaupotable.info/fr/681-fontaine-rue-georges-clemenceau-a-clermont-ferrand</description>
+    <address>Rue Georges Clemenceau 51</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.793383446645514,3.1097068734775357</coordinates>
+    </Point>
+    <name>Fontaine des Quatre-Saisons&#224; Clermont-Ferrand</name>
+    <description>https://eaupotable.info/fr/682-fontaine-des-quatre-saisonsa-clermont-ferrand</description>
+    <address>Rue de la Gravi&#232;re 48</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.77119233291213,2.9630047925124936</coordinates>
+    </Point>
+    <name>Fontaine du Puy du D&#244;me</name>
+    <description>https://eaupotable.info/fr/683-fontaine-du-puy-du-dome</description>
+    <address>Sommet du Puy de D&#244;me</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.912129030492125,7.204434077384949</coordinates>
+    </Point>
+    <name>Borne Eau</name>
+    <description>https://eaupotable.info/fr/684-borne-eau</description>
+    <address>Rue de la Breilmatt 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>37.4413839407679,-5.3548526857624</coordinates>
+    </Point>
+    <name>Merendero v&#237;a verde junto a Fuentes de Andaluc&#237;a</name>
+    <description>https://eaupotable.info/fr/686-merendero-via-verde-junto-a-fuentes-de-andalucia</description>
+    <address>Vias Verdes de la Campina tramo Cordoba Ecija Marchena</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>37.3927851201609,-5.3880410409256</coordinates>
+    </Point>
+    <name>Merendero Arroyo Salado</name>
+    <description>https://eaupotable.info/fr/687-merendero-arroyo-salado</description>
+    <address>Vias Verdes de la Campina tramo Cordoba Ecija Marchena</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.81690144938682,5.3267410820007255</coordinates>
+    </Point>
+    <name>Cimeti&#232;re de Saint-M&#233;dard</name>
+    <description>https://eaupotable.info/fr/688-cimetiere-de-saint-medard</description>
+    <address>Les Pelli&#232;res 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.74337913747018,0.07557481960868362</coordinates>
+    </Point>
+    <name>Robinet Pellegrue place de la mairie</name>
+    <description>https://eaupotable.info/fr/690-robinet-pellegrue-place-de-la-mairie</description>
+    <address>Rue de la R&#233;publique 17</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.85145212021402,-0.43747992359542964</coordinates>
+    </Point>
+    <name>Robinet cimeterre Pompignac</name>
+    <description>https://eaupotable.info/fr/691-robinet-cimeterre-pompignac</description>
+    <address>Route de l'&#201;glise 12</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.163665320186446,-1.2346606792068537</coordinates>
+    </Point>
+    <name>Fontaine Saint Pied de Port - Rue de la Citadelle</name>
+    <description>https://eaupotable.info/fr/692-fontaine-saint-pied-de-port-rue-de-la-citadelle</description>
+    <address>Rue de la Citadelle 55</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.0202615,5.1182212</coordinates>
+    </Point>
+    <name>Eau potable</name>
+    <description>https://eaupotable.info/fr/693-eau-potable</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.78531821609424,-0.08798484921265226</coordinates>
+    </Point>
+    <name>Robinet cimeterre M&#233;rignas</name>
+    <description>https://eaupotable.info/fr/694-robinet-cimeterre-merignas</description>
+    <address>Gabiran 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.7666635627698,1.99176487039184</coordinates>
+    </Point>
+    <name>Robinet d'eau potable</name>
+    <description>https://eaupotable.info/fr/695-robinet-deau-potable</description>
+    <address>Chemin des Vo&#251;tes 4</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.575691089866545,3.0680536531358493</coordinates>
+    </Point>
+    <name>Source</name>
+    <description>https://eaupotable.info/fr/696-source</description>
+    <address>Route de Gatini&#233; 1051</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.98480014666084,-0.4160765013843948</coordinates>
+    </Point>
+    <name>Source naturelle Oratoire de Saint-C&#233;ner&#233;</name>
+    <description>https://eaupotable.info/fr/697-source-naturelle-oratoire-de-saint-cenere</description>
+    <address>Montguyon, 53340 Saulges</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.90786426545435,5.200306296684789</coordinates>
+    </Point>
+    <name>Lavoir</name>
+    <description>https://eaupotable.info/fr/699-lavoir</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.426006,-8.6728939</coordinates>
+    </Point>
+    <name>A fonte de S. Pedro</name>
+    <description>https://eaupotable.info/fr/701-a-fonte-de-s-pedro</description>
+    <address>KIRIL</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.406636132479576,7.54733041058961</coordinates>
+    </Point>
+    <name>St Christian Paerkli</name>
+    <description>https://eaupotable.info/fr/702-st-christian-paerkli</description>
+    <address>G&#228;ssliackerweg 3</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.40802138091828,7.544062690213003</coordinates>
+    </Point>
+    <name>Water fountain at the roundabout</name>
+    <description>https://eaupotable.info/fr/703-water-fountain-at-the-roundabout</description>
+    <address>Passwangstrasse 3</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.4068959161264,7.547517375424184</coordinates>
+    </Point>
+    <name>Water fountain (closed in winter months)</name>
+    <description>https://eaupotable.info/fr/704-water-fountain-closed-in-winter-months</description>
+    <address>Fehrenstrasse 39</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5298984,5.4523502</coordinates>
+    </Point>
+    <name>fontaine publique</name>
+    <description>https://eaupotable.info/fr/705-fontaine-publique</description>
+    <address>Rue Chastel 17</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.2664339,-0.055352</coordinates>
+    </Point>
+    <name>Source d'eau potable au pied de l'&#233;glise de Grangues</name>
+    <description>https://eaupotable.info/fr/706-source-deau-potable-au-pied-de-leglise-de-grangues</description>
+    <address>16bis Route d'Aumale</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.78204997534366,2.2668481715331845</coordinates>
+    </Point>
+    <name>Lac de la Bancali&#233;</name>
+    <description>https://eaupotable.info/fr/707-lac-de-la-bancalie</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.9665873,0.3766402</coordinates>
+    </Point>
+    <name>fontaine Sainte-Genevi&#232;ve</name>
+    <description>https://eaupotable.info/fr/708-fontaine-sainte-genevieve</description>
+    <address>Place du Vivier</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.9099734129871,5.56519874892425</coordinates>
+    </Point>
+    <name>Salle le Vauxhall</name>
+    <description>https://eaupotable.info/fr/709-salle-le-vauxhall</description>
+    <address>Chauss&#233;e de Neufch&#226;teau 45</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.77653728673816,0.9892542868959042</coordinates>
+    </Point>
+    <name>La fontaine de Capelou</name>
+    <description>https://eaupotable.info/fr/710-la-fontaine-de-capelou</description>
+    <address>D54</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.44114323569957,6.744160624831812</coordinates>
+    </Point>
+    <name>Parc Aur&#233;lien</name>
+    <description>https://eaupotable.info/fr/711-parc-aurelien</description>
+    <address>Avenue du G&#233;n&#233;ral d'arm&#233;e jean Calli&#232;s</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.880457,1.893772</coordinates>
+    </Point>
+    <name>Fontaine du village</name>
+    <description>https://eaupotable.info/fr/712-fontaine-du-village</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.8324798702177,4.14366674489134</coordinates>
+    </Point>
+    <name>Bron Eizeringen</name>
+    <description>https://eaupotable.info/fr/713-bron-eizeringen</description>
+    <address>Frans Baetensstraat 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.5149824433669,3.69349226123811</coordinates>
+    </Point>
+    <name>Eau communal</name>
+    <description>https://eaupotable.info/fr/714-eau-communal</description>
+    <address>Place du Jeu de Ballons 9</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.339882600831054,0.6588985940956071</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/715-fontaine</description>
+    <address>Rue Jean Monnet 16</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.75150384790977,5.305433875109622</coordinates>
+    </Point>
+    <name>Source des Epioux</name>
+    <description>https://eaupotable.info/fr/716-source-des-epioux</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.7966812867071,5.38086632812024</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re autour de l'&#233;glise</name>
+    <description>https://eaupotable.info/fr/717-robinet-du-cimetiere-autour-de-leglise</description>
+    <address>Rue du Horlai 14</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.65744706582978,5.282995447174081</coordinates>
+    </Point>
+    <name>Source de Saint Benoit</name>
+    <description>https://eaupotable.info/fr/718-source-de-saint-benoit</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>48.2787110363193,-0.432955402160637</coordinates>
+    </Point>
+    <name>Source du Bois du Tay</name>
+    <description>https://eaupotable.info/fr/719-source-du-bois-du-tay</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.6601151200411,5.193713917999285</coordinates>
+    </Point>
+    <name>Source des Fonds du Faux</name>
+    <description>https://eaupotable.info/fr/720-source-des-fonds-du-faux</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.800349,2.529581</coordinates>
+    </Point>
+    <name>Clue de la Fou</name>
+    <description>https://eaupotable.info/fr/721-clue-de-la-fou</description>
+    <address>Clue de la Fou, 42.80078621578625, 2.4982723011934143</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.33229348016534,5.5398637617384106</coordinates>
+    </Point>
+    <name>source un peu cach&#233;e</name>
+    <description>https://eaupotable.info/fr/722-source-un-peu-cachee</description>
+    <address>32 rue Billon</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>42.7402299,2.610735</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/723-fontaine</description>
+    <address>Centre village</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1377516918873,5.78830970080263</coordinates>
+    </Point>
+    <name>Cimeti&#232;re de Houffalize</name>
+    <description>https://eaupotable.info/fr/729-cimetiere-de-houffalize</description>
+    <address>Rue de Li&#232;ge Houffalize</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.955705382028576,-0.4692786089767642</coordinates>
+    </Point>
+    <name>Robinet du Cimeti&#232;re de Saint Vincent de Paul</name>
+    <description>https://eaupotable.info/fr/730-robinet-du-cimetiere-de-saint-vincent-de-paul</description>
+    <address>Avenue Paul Princeteau 14</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>43.719923,6.979338</coordinates>
+    </Point>
+    <name>source naturelle</name>
+    <description>https://eaupotable.info/fr/732-source-naturelle</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.1069432900936,6.20574303704833</coordinates>
+    </Point>
+    <name>Fontaine de Courbons</name>
+    <description>https://eaupotable.info/fr/733-fontaine-de-courbons</description>
+    <address>La Crau 9926</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.59025187019139,4.706875005310063</coordinates>
+    </Point>
+    <name>Eau de Rochemaure</name>
+    <description>https://eaupotable.info/fr/734-eau-de-rochemaure</description>
+    <address>Rue des Fontaines 33-29</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.1200848887034,8.255813206018047</coordinates>
+    </Point>
+    <name>Well known place</name>
+    <description>https://eaupotable.info/fr/736-well-known-place</description>
+    <address>Goldsteintal 60</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.9304019,3.6586503</coordinates>
+    </Point>
+    <name>Sint Christiana bron</name>
+    <description>https://eaupotable.info/fr/738-sint-christiana-bron</description>
+    <address>Sint Christianastraat</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.70296086930299,-1.8442574920654398</coordinates>
+    </Point>
+    <name>Toilettes publiques de l'&#233;glise d'Omonville la Rogue</name>
+    <description>https://eaupotable.info/fr/740-toilettes-publiques-de-leglise-domonville-la-rogue</description>
+    <address>Rue des Beuriers 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.272113848588845,7.027802264198746</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/742-fontaine</description>
+    <address>Chemin du Champ-de-la-Blanche 3</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>50.250000352993354,5.121009040336615</coordinates>
+    </Point>
+    <name>Fontaine d'Ychippe</name>
+    <description>https://eaupotable.info/fr/744-fontaine-d-ychippe</description>
+    <address>Rue d'Ychippe 30</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.681730013454704,-1.8183995980377188</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re d'Eculleville</name>
+    <description>https://eaupotable.info/fr/745-robinet-du-cimetiere-deculleville</description>
+    <address>Le Presbyt&#232;re 9</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>49.68789750958076,-1.8371321457977285</coordinates>
+    </Point>
+    <name>Robinet dans salle de pique nique au Manoir du Tourp</name>
+    <description>https://eaupotable.info/fr/746-robinet-dans-salle-de-pique-nique-au-manoir-du-tourp</description>
+    <address>Le Tourp 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>41.4872007,2.271952</coordinates>
+    </Point>
+    <name>Fuente de agua junto a la Ermita de la Alegr&#237;a</name>
+    <description>https://eaupotable.info/fr/747-fuente-de-agua-junto-a-la-ermita-de-la-alegria</description>
+    <address>Cam&#237; de l'Alegria, Tiana, Espa&#241;a</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.9919118640543,3.16434211772158</coordinates>
+    </Point>
+    <name>Eglise Saint-Etienne</name>
+    <description>https://eaupotable.info/fr/748-eglise-saint-etienne</description>
+    <address>Rue du Charnier 6</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.8266958627882,4.79649706913378</coordinates>
+    </Point>
+    <name>Croisement Grand Rue - Rue des Terras</name>
+    <description>https://eaupotable.info/fr/749-croisement-grand-rue-rue-des-terras</description>
+    <address>Rue des Terras 5</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.8262695958866,4.76421092071057</coordinates>
+    </Point>
+    <name>Chateau du Bousquet - Saint Laurent du Pape 07800</name>
+    <description>https://eaupotable.info/fr/750-chateau-du-bousquet-saint-laurent-du-pape-07800</description>
+    <address>D266 453</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.8215449052987,4.77318474131926</coordinates>
+    </Point>
+    <name>Fontaine eau de ville au parking de la Dolce Via</name>
+    <description>https://eaupotable.info/fr/751-fontaine-eau-de-ville-au-parking-de-la-dolce-via</description>
+    <address>Chemin de la Gare 190</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.950918,1.497615</coordinates>
+    </Point>
+    <name>fontaine</name>
+    <description>https://eaupotable.info/fr/752-fontaine</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.992134,6.46209</coordinates>
+    </Point>
+    <name>fontaine montbenoit</name>
+    <description>https://eaupotable.info/fr/753-fontaine-montbenoit</description>
+    <address>place de l'abbaye</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.057516835906625,7.451549729587543</coordinates>
+    </Point>
+    <name>Fontaine du refuge de la Vall&#233;e des Merveilles</name>
+    <description>https://eaupotable.info/fr/754-fontaine-du-refuge-de-la-vallee-des-merveilles</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.086015522682615,7.481098285200107</coordinates>
+    </Point>
+    <name>Fontaine du refuge de Fontanalba</name>
+    <description>https://eaupotable.info/fr/755-fontaine-du-refuge-de-fontanalba</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.11016848236349,7.497090956451404</coordinates>
+    </Point>
+    <name>Eau de montagne Mont Paracouerte</name>
+    <description>https://eaupotable.info/fr/756-eau-de-montagne-mont-paracouerte</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>44.1081448781403,7.446817642333019</coordinates>
+    </Point>
+    <name>Fontaine du refuge de Valmasque</name>
+    <description>https://eaupotable.info/fr/757-fontaine-du-refuge-de-valmasque</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>47.59777036029342,2.025561966934184</coordinates>
+    </Point>
+    <name>Robinet d'eau potable Ancien Canal de la Sauldre</name>
+    <description>https://eaupotable.info/fr/758-robinet-deau-potable-ancien-canal-de-la-sauldre</description>
+    <address>Chemin de Maisonfort 18</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.0678428738878,-0.383460912689206</coordinates>
+    </Point>
+    <name>Robinet cimeti&#232;re Marsas</name>
+    <description>https://eaupotable.info/fr/759-robinet-cimetiere-marsas</description>
+    <address>Rue de la Fontaine 5</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>46.083504442814686,0.13503909867786046</coordinates>
+    </Point>
+    <name>Robinet pour camping-car</name>
+    <description>https://eaupotable.info/fr/760-robinet-pour-camping-car</description>
+    <address>D181 18</address>
+  </Placemark>
+</kml>
