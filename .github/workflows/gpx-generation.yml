@@ -1,4 +1,4 @@
-name: Push commit
+name: Update GPS file
 on:
   push:
   schedule:
@@ -9,14 +9,25 @@ jobs:
     steps:
         # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: Create report file
+      - name: Create FreeTaps file
         run:  |
           pip install lxml
-          python freeTaps_gpx_convert.py
-      - name: Commit report
+          python freeTaps_export.py
+      - name: Commit FreeTaps
         run: |
           git config --global user.name 'Github Action'
           git config --global user.email 'varlorg@users.noreply.github.com'
           git add --update
-          git diff-index --quiet HEAD || git commit -m "Automated FreeTaps GPX generation" 
+          git diff-index --quiet HEAD || git commit -m "Automated FreeTaps GPX export" 
+          git push
+      - name: Create eaupotable file
+        run:  |
+          pip install lxml
+          python eaupotable-info_export.py
+      - name: Commit eaupotable
+        run: |
+          git config --global user.name 'Github Action'
+          git config --global user.email 'varlorg@users.noreply.github.com'
+          git add --update
+          git diff-index --quiet HEAD || git commit -m "Automated eaupotable.info GPX export" 
           git push
