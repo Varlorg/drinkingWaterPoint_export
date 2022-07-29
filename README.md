@@ -1,4 +1,3 @@
-# FreeTaps_gpx_export
+# drikingWaterPoint_export
 
-
-Convert Freetaps point into gpx file
+Export drinking water points (gpx and kml format) from https://freetaps.earth and https://eaupotable.info/
