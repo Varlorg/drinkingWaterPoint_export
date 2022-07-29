@@ -34,7 +34,7 @@ for wp in jsonEauPotable:
 	pm_elem_kml = etree.SubElement(root_elem_kml, 'Placemark')
 	pt_elem_kml = etree.SubElement(pm_elem_kml, 'Point')
 	cdt_elem_kml = etree.SubElement(pt_elem_kml, 'coordinates')
-	cdt_elem_kml.text = str(wp.get('lat')) + "," +  str(wp.get('lng'))
+	cdt_elem_kml.text = str(wp.get('lng')) + "," +  str(wp.get('lat'))
 	name_elem_kml = etree.SubElement(pm_elem_kml, 'name')
 	name_elem_kml.text = wp.get('title')
 	dsc_elem_kml = etree.SubElement(pm_elem_kml, 'description')

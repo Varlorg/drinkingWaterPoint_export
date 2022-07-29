@@ -64,7 +64,7 @@ for wp in jsonFreeTaps.get('waterpoints'):
 	pm_elem_kml = etree.SubElement(root_elem_kml, 'Placemark')
 	pt_elem_kml = etree.SubElement(pm_elem_kml, 'Point')
 	cdt_elem_kml = etree.SubElement(pt_elem_kml, 'coordinates')
-	cdt_elem_kml.text = str(wp.get('location').get('latitude')) + "," +  str(wp.get('location').get('longitude'))
+	cdt_elem_kml.text = str(wp.get('location').get('longitude')) + "," +  str(wp.get('location').get('latitude'))
 	dsc_elem_kml = etree.SubElement(pm_elem_kml, 'description')
 	dsc_elem_kml.text = wp.get('type') + "\n" + wp.get('source')
 	
