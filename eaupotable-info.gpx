@@ -2939,4 +2939,9 @@
     <name>Robinet pour camping-car</name>
     <desc>D181 18</desc>
   </wpt>
+  <wpt lat="43.653387421093804" lon="3.551178616544437">
+    <src>https://eaupotable.info/fr/761-borne-deau-centre-gignac</src>
+    <name>Borne d'eau centre Gignac</name>
+    <desc>19 rue de la Doye</desc>
+  </wpt>
 </gpx>

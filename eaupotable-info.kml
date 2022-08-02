@@ -4703,4 +4703,12 @@
     <description>https://eaupotable.info/fr/760-robinet-pour-camping-car</description>
     <address>D181 18</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.551178616544437,43.653387421093804</coordinates>
+    </Point>
+    <name>Borne d'eau centre Gignac</name>
+    <description>https://eaupotable.info/fr/761-borne-deau-centre-gignac</description>
+    <address>19 rue de la Doye</address>
+  </Placemark>
 </kml>
