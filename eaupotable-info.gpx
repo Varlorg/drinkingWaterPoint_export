@@ -2944,4 +2944,9 @@
     <name>Borne d'eau centre Gignac</name>
     <desc>19 rue de la Doye</desc>
   </wpt>
+  <wpt lat="50.6286575777587" lon="5.54674078259507">
+    <src>https://eaupotable.info/fr/762-parc-canin</src>
+    <name>Parc canin</name>
+    <desc>Boulevard Gustave Kleyer</desc>
+  </wpt>
 </gpx>

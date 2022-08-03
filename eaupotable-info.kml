@@ -4711,4 +4711,12 @@
     <description>https://eaupotable.info/fr/761-borne-deau-centre-gignac</description>
     <address>19 rue de la Doye</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.54674078259507,50.6286575777587</coordinates>
+    </Point>
+    <name>Parc canin</name>
+    <description>https://eaupotable.info/fr/762-parc-canin</description>
+    <address>Boulevard Gustave Kleyer</address>
+  </Placemark>
 </kml>
