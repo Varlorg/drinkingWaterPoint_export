@@ -4719,4 +4719,12 @@
     <description>https://eaupotable.info/fr/762-parc-canin</description>
     <address>Boulevard Gustave Kleyer</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.956229952429831,48.643817224622325</coordinates>
+    </Point>
+    <name>Fontaine sur le quai de la gare</name>
+    <description>https://eaupotable.info/fr/763-fontaine-sur-le-quai-de-la-gare</description>
+    <address>11 Rue Linguet</address>
+  </Placemark>
 </kml>

@@ -2949,4 +2949,9 @@
     <name>Parc canin</name>
     <desc>Boulevard Gustave Kleyer</desc>
   </wpt>
+  <wpt lat="48.643817224622325" lon="4.956229952429831">
+    <src>https://eaupotable.info/fr/763-fontaine-sur-le-quai-de-la-gare</src>
+    <name>Fontaine sur le quai de la gare</name>
+    <desc>11 Rue Linguet</desc>
+  </wpt>
 </gpx>
