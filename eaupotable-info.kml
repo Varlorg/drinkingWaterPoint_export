@@ -4727,4 +4727,60 @@
     <description>https://eaupotable.info/fr/763-fontaine-sur-le-quai-de-la-gare</description>
     <address>11 Rue Linguet</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.3925432,50.6108651</coordinates>
+    </Point>
+    <name>Robinet Mur de l'Etape</name>
+    <description>https://eaupotable.info/fr/764-robinet-mur-de-letape</description>
+    <address>Rue du Sondart 17</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.3940598,50.60599930000001</coordinates>
+    </Point>
+    <name>Mur de la Maison M&#233;dicale le Gu&#233;</name>
+    <description>https://eaupotable.info/fr/765-mur-de-la-maison-medicale-le-gue</description>
+    <address>Rue Madame 32</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.3877619,50.5982843</coordinates>
+    </Point>
+    <name>CPAS de Tournai</name>
+    <description>https://eaupotable.info/fr/766-cpas-de-tournai</description>
+    <address>Rue de la Citadelle 118</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.393050899999981,50.61245553103958</coordinates>
+    </Point>
+    <name>Place Victor Carbonnelle</name>
+    <description>https://eaupotable.info/fr/767-place-victor-carbonnelle</description>
+    <address>Avenue Leray 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.3917539,50.6024737</coordinates>
+    </Point>
+    <name>Square Marie-Louise</name>
+    <description>https://eaupotable.info/fr/768-square-marie-louise</description>
+    <address>Square Marie-Louise</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.3887186790985258,50.60401001326488</coordinates>
+    </Point>
+    <name>Parc Reine Astrid</name>
+    <description>https://eaupotable.info/fr/769-parc-reine-astrid</description>
+    <address>Rue du Parc 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.4004953777710156,50.60952832815304</coordinates>
+    </Point>
+    <name>Jardins Bozi&#232;re du CPAS</name>
+    <description>https://eaupotable.info/fr/770-jardins-boziere-du-cpas</description>
+    <address>Avenue Bozi&#232;re 6</address>
+  </Placemark>
 </kml>

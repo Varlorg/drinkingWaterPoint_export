@@ -2954,4 +2954,39 @@
     <name>Fontaine sur le quai de la gare</name>
     <desc>11 Rue Linguet</desc>
   </wpt>
+  <wpt lat="50.6108651" lon="3.3925432">
+    <src>https://eaupotable.info/fr/764-robinet-mur-de-letape</src>
+    <name>Robinet Mur de l'Etape</name>
+    <desc>Rue du Sondart 17</desc>
+  </wpt>
+  <wpt lat="50.60599930000001" lon="3.3940598">
+    <src>https://eaupotable.info/fr/765-mur-de-la-maison-medicale-le-gue</src>
+    <name>Mur de la Maison M&#233;dicale le Gu&#233;</name>
+    <desc>Rue Madame 32</desc>
+  </wpt>
+  <wpt lat="50.5982843" lon="3.3877619">
+    <src>https://eaupotable.info/fr/766-cpas-de-tournai</src>
+    <name>CPAS de Tournai</name>
+    <desc>Rue de la Citadelle 118</desc>
+  </wpt>
+  <wpt lat="50.61245553103958" lon="3.393050899999981">
+    <src>https://eaupotable.info/fr/767-place-victor-carbonnelle</src>
+    <name>Place Victor Carbonnelle</name>
+    <desc>Avenue Leray 1</desc>
+  </wpt>
+  <wpt lat="50.6024737" lon="3.3917539">
+    <src>https://eaupotable.info/fr/768-square-marie-louise</src>
+    <name>Square Marie-Louise</name>
+    <desc>Square Marie-Louise</desc>
+  </wpt>
+  <wpt lat="50.60401001326488" lon="3.3887186790985258">
+    <src>https://eaupotable.info/fr/769-parc-reine-astrid</src>
+    <name>Parc Reine Astrid</name>
+    <desc>Rue du Parc 1</desc>
+  </wpt>
+  <wpt lat="50.60952832815304" lon="3.4004953777710156">
+    <src>https://eaupotable.info/fr/770-jardins-boziere-du-cpas</src>
+    <name>Jardins Bozi&#232;re du CPAS</name>
+    <desc>Avenue Bozi&#232;re 6</desc>
+  </wpt>
 </gpx>
