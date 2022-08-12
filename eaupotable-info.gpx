@@ -2989,4 +2989,9 @@
     <name>Jardins Bozi&#232;re du CPAS</name>
     <desc>Avenue Bozi&#232;re 6</desc>
   </wpt>
+  <wpt lat="49.453652688829614" lon="2.0606743127305194">
+    <src>https://eaupotable.info/fr/771-borne-fontaineo</src>
+    <name>Borne Fontaineo</name>
+    <desc>Rue de la Mie au Roy 135</desc>
+  </wpt>
 </gpx>

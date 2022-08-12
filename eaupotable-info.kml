@@ -4783,4 +4783,12 @@
     <description>https://eaupotable.info/fr/770-jardins-boziere-du-cpas</description>
     <address>Avenue Bozi&#232;re 6</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.0606743127305194,49.453652688829614</coordinates>
+    </Point>
+    <name>Borne Fontaineo</name>
+    <description>https://eaupotable.info/fr/771-borne-fontaineo</description>
+    <address>Rue de la Mie au Roy 135</address>
+  </Placemark>
 </kml>
