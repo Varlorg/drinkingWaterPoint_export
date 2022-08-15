@@ -4791,4 +4791,12 @@
     <description>https://eaupotable.info/fr/771-borne-fontaineo</description>
     <address>Rue de la Mie au Roy 135</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.532496114086159,43.252493540019245</coordinates>
+    </Point>
+    <name>Fontaine Vieux Congolin</name>
+    <description>https://eaupotable.info/fr/772-fontaine-vieux-congolin</description>
+    <address>Rue Rompecul 2</address>
+  </Placemark>
 </kml>

@@ -2994,4 +2994,9 @@
     <name>Borne Fontaineo</name>
     <desc>Rue de la Mie au Roy 135</desc>
   </wpt>
+  <wpt lat="43.252493540019245" lon="6.532496114086159">
+    <src>https://eaupotable.info/fr/772-fontaine-vieux-congolin</src>
+    <name>Fontaine Vieux Congolin</name>
+    <desc>Rue Rompecul 2</desc>
+  </wpt>
 </gpx>
