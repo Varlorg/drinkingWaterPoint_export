@@ -4799,4 +4799,12 @@
     <description>https://eaupotable.info/fr/772-fontaine-vieux-congolin</description>
     <address>Rue Rompecul 2</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.1459489,48.9105402</coordinates>
+    </Point>
+    <name>Fontaine (2)</name>
+    <description>https://eaupotable.info/fr/773-fontaine-2</description>
+    <address>Rue des Fontaines</address>
+  </Placemark>
 </kml>

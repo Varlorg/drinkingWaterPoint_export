@@ -2999,4 +2999,9 @@
     <name>Fontaine Vieux Congolin</name>
     <desc>Rue Rompecul 2</desc>
   </wpt>
+  <wpt lat="48.9105402" lon="7.1459489">
+    <src>https://eaupotable.info/fr/773-fontaine-2</src>
+    <name>Fontaine (2)</name>
+    <desc>Rue des Fontaines</desc>
+  </wpt>
 </gpx>
