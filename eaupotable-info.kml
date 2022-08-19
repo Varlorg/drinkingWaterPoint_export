@@ -4807,4 +4807,12 @@
     <description>https://eaupotable.info/fr/773-fontaine-2</description>
     <address>Rue des Fontaines</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.1751129695832918,46.02219405642951</coordinates>
+    </Point>
+    <name>Borne d'eau &#224; l'entr&#233;e des sanitaires</name>
+    <description>https://eaupotable.info/fr/774-borne-deau-a-lentree-des-sanitaires</description>
+    <address/>
+  </Placemark>
 </kml>

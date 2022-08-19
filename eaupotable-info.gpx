@@ -3004,4 +3004,9 @@
     <name>Fontaine (2)</name>
     <desc>Rue des Fontaines</desc>
   </wpt>
+  <wpt lat="46.02219405642951" lon="-1.1751129695832918">
+    <src>https://eaupotable.info/fr/774-borne-deau-a-lentree-des-sanitaires</src>
+    <name>Borne d'eau &#224; l'entr&#233;e des sanitaires</name>
+    <desc/>
+  </wpt>
 </gpx>
