@@ -4815,4 +4815,36 @@
     <description>https://eaupotable.info/fr/774-borne-deau-a-lentree-des-sanitaires</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.1756119247941998,46.01330607344787</coordinates>
+    </Point>
+    <name>Halle avec fontaines &#224; eau</name>
+    <description>https://eaupotable.info/fr/775-halle-avec-fontaines-a-eau</description>
+    <address>Rue Coudein 16</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.6792624,48.1113828</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/776-fontaine</description>
+    <address>Place de la Mairie</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.27028540469362,48.9076047928157</coordinates>
+    </Point>
+    <name>Source Frohmuhl</name>
+    <description>https://eaupotable.info/fr/777-source-frohmuhl</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.3964489091758905,48.20325873003306</coordinates>
+    </Point>
+    <name>Les trois fontaines</name>
+    <description>https://eaupotable.info/fr/778-les-trois-fontaines</description>
+    <address>bat 3 apprt 5 rue de la petite champagne</address>
+  </Placemark>
 </kml>

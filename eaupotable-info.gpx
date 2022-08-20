@@ -3009,4 +3009,24 @@
     <name>Borne d'eau &#224; l'entr&#233;e des sanitaires</name>
     <desc/>
   </wpt>
+  <wpt lat="46.01330607344787" lon="-1.1756119247941998">
+    <src>https://eaupotable.info/fr/775-halle-avec-fontaines-a-eau</src>
+    <name>Halle avec fontaines &#224; eau</name>
+    <desc>Rue Coudein 16</desc>
+  </wpt>
+  <wpt lat="48.1113828" lon="-1.6792624">
+    <src>https://eaupotable.info/fr/776-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Place de la Mairie</desc>
+  </wpt>
+  <wpt lat="48.9076047928157" lon="7.27028540469362">
+    <src>https://eaupotable.info/fr/777-source-frohmuhl</src>
+    <name>Source Frohmuhl</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.20325873003306" lon="5.3964489091758905">
+    <src>https://eaupotable.info/fr/778-les-trois-fontaines</src>
+    <name>Les trois fontaines</name>
+    <desc>bat 3 apprt 5 rue de la petite champagne</desc>
+  </wpt>
 </gpx>
