@@ -4847,4 +4847,92 @@
     <description>https://eaupotable.info/fr/778-les-trois-fontaines</description>
     <address>bat 3 apprt 5 rue de la petite champagne</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.8797605249923715,51.05926282171588</coordinates>
+    </Point>
+    <name>Pidpa drinkwaterfontein</name>
+    <description>https://eaupotable.info/fr/779-pidpa-drinkwaterfontein</description>
+    <address>Asbroek 1B</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.44332609186555,48.9897170757768</coordinates>
+    </Point>
+    <name>Source de Mouterhouse</name>
+    <description>https://eaupotable.info/fr/780-source-de-mouterhouse</description>
+    <address>Rue de la Chapelle 39</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.78827336539842,49.0041374622412</coordinates>
+    </Point>
+    <name>Deux Fontaines</name>
+    <description>https://eaupotable.info/fr/781-deux-fontaines</description>
+    <address>Rue du Ch&#226;teau 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.79024329019838,49.0044670969203</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/782-fontaine</description>
+    <address>Rue de Wingen 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.71706833700945,49.0296454801286</coordinates>
+    </Point>
+    <name>Fontaine (eau potable)</name>
+    <description>https://eaupotable.info/fr/783-fontaine-eau-potable</description>
+    <address>Rue Principale 43</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.71325691799929,49.0297175843089</coordinates>
+    </Point>
+    <name>Fontaine (eau potable)</name>
+    <description>https://eaupotable.info/fr/784-fontaine-eau-potable</description>
+    <address>Rue Principale 34</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.71194263558199,49.0301167933672</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/785-fontaine</description>
+    <address>Rue Principale 26</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.69097776755906,49.0356942259297</coordinates>
+    </Point>
+    <name>Fontaine 2 t&#234;tes de Lion</name>
+    <description>https://eaupotable.info/fr/786-fontaine-2-tetes-de-lion</description>
+    <address>Rue Principale 15</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.75569356875611,48.9851312969654</coordinates>
+    </Point>
+    <name>Fontaine &amp; aire de repos</name>
+    <description>https://eaupotable.info/fr/787-fontaine-aire-de-repos</description>
+    <address>Rue Principale 40</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.759094609787,48.9865007236303</coordinates>
+    </Point>
+    <name>Fontaine (centre du village)</name>
+    <description>https://eaupotable.info/fr/788-fontaine-centre-du-village</description>
+    <address>Rue de l'Ancienne Gare 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.034508,43.550669</coordinates>
+    </Point>
+    <name>Mme</name>
+    <description>https://eaupotable.info/fr/789-mme</description>
+    <address>230 chemin journet</address>
+  </Placemark>
 </kml>

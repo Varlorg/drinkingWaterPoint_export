@@ -3029,4 +3029,59 @@
     <name>Les trois fontaines</name>
     <desc>bat 3 apprt 5 rue de la petite champagne</desc>
   </wpt>
+  <wpt lat="51.05926282171588" lon="4.8797605249923715">
+    <src>https://eaupotable.info/fr/779-pidpa-drinkwaterfontein</src>
+    <name>Pidpa drinkwaterfontein</name>
+    <desc>Asbroek 1B</desc>
+  </wpt>
+  <wpt lat="48.9897170757768" lon="7.44332609186555">
+    <src>https://eaupotable.info/fr/780-source-de-mouterhouse</src>
+    <name>Source de Mouterhouse</name>
+    <desc>Rue de la Chapelle 39</desc>
+  </wpt>
+  <wpt lat="49.0041374622412" lon="7.78827336539842">
+    <src>https://eaupotable.info/fr/781-deux-fontaines</src>
+    <name>Deux Fontaines</name>
+    <desc>Rue du Ch&#226;teau 1</desc>
+  </wpt>
+  <wpt lat="49.0044670969203" lon="7.79024329019838">
+    <src>https://eaupotable.info/fr/782-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Rue de Wingen 2</desc>
+  </wpt>
+  <wpt lat="49.0296454801286" lon="7.71706833700945">
+    <src>https://eaupotable.info/fr/783-fontaine-eau-potable</src>
+    <name>Fontaine (eau potable)</name>
+    <desc>Rue Principale 43</desc>
+  </wpt>
+  <wpt lat="49.0297175843089" lon="7.71325691799929">
+    <src>https://eaupotable.info/fr/784-fontaine-eau-potable</src>
+    <name>Fontaine (eau potable)</name>
+    <desc>Rue Principale 34</desc>
+  </wpt>
+  <wpt lat="49.0301167933672" lon="7.71194263558199">
+    <src>https://eaupotable.info/fr/785-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Rue Principale 26</desc>
+  </wpt>
+  <wpt lat="49.0356942259297" lon="7.69097776755906">
+    <src>https://eaupotable.info/fr/786-fontaine-2-tetes-de-lion</src>
+    <name>Fontaine 2 t&#234;tes de Lion</name>
+    <desc>Rue Principale 15</desc>
+  </wpt>
+  <wpt lat="48.9851312969654" lon="7.75569356875611">
+    <src>https://eaupotable.info/fr/787-fontaine-aire-de-repos</src>
+    <name>Fontaine &amp; aire de repos</name>
+    <desc>Rue Principale 40</desc>
+  </wpt>
+  <wpt lat="48.9865007236303" lon="7.759094609787">
+    <src>https://eaupotable.info/fr/788-fontaine-centre-du-village</src>
+    <name>Fontaine (centre du village)</name>
+    <desc>Rue de l'Ancienne Gare 1</desc>
+  </wpt>
+  <wpt lat="43.550669" lon="5.034508">
+    <src>https://eaupotable.info/fr/789-mme</src>
+    <name>Mme</name>
+    <desc>230 chemin journet</desc>
+  </wpt>
 </gpx>
