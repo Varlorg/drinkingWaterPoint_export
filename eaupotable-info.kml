@@ -4825,11 +4825,11 @@
   </Placemark>
   <Placemark>
     <Point>
-      <coordinates>-1.6792624,48.1113828</coordinates>
+      <coordinates>2.1607635,44.0497092</coordinates>
     </Point>
     <name>Fontaine</name>
     <description>https://eaupotable.info/fr/776-fontaine</description>
-    <address>Place de la Mairie</address>
+    <address>Place de la Lib&#233;ration</address>
   </Placemark>
   <Placemark>
     <Point>
@@ -4926,13 +4926,5 @@
     <name>Fontaine (centre du village)</name>
     <description>https://eaupotable.info/fr/788-fontaine-centre-du-village</description>
     <address>Rue de l'Ancienne Gare 1</address>
-  </Placemark>
-  <Placemark>
-    <Point>
-      <coordinates>5.034508,43.550669</coordinates>
-    </Point>
-    <name>Mme</name>
-    <description>https://eaupotable.info/fr/789-mme</description>
-    <address>230 chemin journet</address>
   </Placemark>
 </kml>
