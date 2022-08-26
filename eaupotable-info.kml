@@ -4927,4 +4927,52 @@
     <description>https://eaupotable.info/fr/788-fontaine-centre-du-village</description>
     <address>Rue de l'Ancienne Gare 1</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.17155597502136,46.1386031671017</coordinates>
+    </Point>
+    <name>Fontaine d'eau all&#233;e Stella Maris</name>
+    <description>https://eaupotable.info/fr/790-fontaine-deau-allee-stella-maris</description>
+    <address>All&#233;e Stella Maris</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.17092297369384,46.1408705466248</coordinates>
+    </Point>
+    <name>Fontaine d'eau parvis des Minimes</name>
+    <description>https://eaupotable.info/fr/791-fontaine-deau-parvis-des-minimes</description>
+    <address>Rue de l'Ange Gardien 14</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.16384194189453,46.1416287969758</coordinates>
+    </Point>
+    <name>Fontaine d'eau avenue des Minimes</name>
+    <description>https://eaupotable.info/fr/792-fontaine-deau-avenue-des-minimes</description>
+    <address>All&#233;e du Foc 43</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.14781306082153,46.1431750006258</coordinates>
+    </Point>
+    <name>Fontaine d'eau City Stade</name>
+    <description>https://eaupotable.info/fr/793-fontaine-deau-city-stade</description>
+    <address>Impasse Marie-Claude Memon 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.15883157545471,46.1524810398675</coordinates>
+    </Point>
+    <name>Fontaine d'eau all&#233;e des Tamaris</name>
+    <description>https://eaupotable.info/fr/794-fontaine-deau-allee-des-tamaris</description>
+    <address>All&#233;e des Tamaris 3</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.12161324316406,46.1509573951502</coordinates>
+    </Point>
+    <name>Fontaine d'eau rue Mirabeau</name>
+    <description>https://eaupotable.info/fr/795-fontaine-deau-rue-mirabeau</description>
+    <address>Rue Emile-Victor Duval 4</address>
+  </Placemark>
 </kml>

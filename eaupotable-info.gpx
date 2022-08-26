@@ -3079,4 +3079,34 @@
     <name>Fontaine (centre du village)</name>
     <desc>Rue de l'Ancienne Gare 1</desc>
   </wpt>
+  <wpt lat="46.1386031671017" lon="-1.17155597502136">
+    <src>https://eaupotable.info/fr/790-fontaine-deau-allee-stella-maris</src>
+    <name>Fontaine d'eau all&#233;e Stella Maris</name>
+    <desc>All&#233;e Stella Maris</desc>
+  </wpt>
+  <wpt lat="46.1408705466248" lon="-1.17092297369384">
+    <src>https://eaupotable.info/fr/791-fontaine-deau-parvis-des-minimes</src>
+    <name>Fontaine d'eau parvis des Minimes</name>
+    <desc>Rue de l'Ange Gardien 14</desc>
+  </wpt>
+  <wpt lat="46.1416287969758" lon="-1.16384194189453">
+    <src>https://eaupotable.info/fr/792-fontaine-deau-avenue-des-minimes</src>
+    <name>Fontaine d'eau avenue des Minimes</name>
+    <desc>All&#233;e du Foc 43</desc>
+  </wpt>
+  <wpt lat="46.1431750006258" lon="-1.14781306082153">
+    <src>https://eaupotable.info/fr/793-fontaine-deau-city-stade</src>
+    <name>Fontaine d'eau City Stade</name>
+    <desc>Impasse Marie-Claude Memon 2</desc>
+  </wpt>
+  <wpt lat="46.1524810398675" lon="-1.15883157545471">
+    <src>https://eaupotable.info/fr/794-fontaine-deau-allee-des-tamaris</src>
+    <name>Fontaine d'eau all&#233;e des Tamaris</name>
+    <desc>All&#233;e des Tamaris 3</desc>
+  </wpt>
+  <wpt lat="46.1509573951502" lon="-1.12161324316406">
+    <src>https://eaupotable.info/fr/795-fontaine-deau-rue-mirabeau</src>
+    <name>Fontaine d'eau rue Mirabeau</name>
+    <desc>Rue Emile-Victor Duval 4</desc>
+  </wpt>
 </gpx>
