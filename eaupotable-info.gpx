@@ -3109,4 +3109,9 @@
     <name>Fontaine d'eau rue Mirabeau</name>
     <desc>Rue Emile-Victor Duval 4</desc>
   </wpt>
+  <wpt lat="44.4767236161214" lon="-0.269395130994328">
+    <src>https://eaupotable.info/fr/796-fontaine-sur-la-facade-de-la-mairie</src>
+    <name>Fontaine sur la fa&#231;ade de la mairie</name>
+    <desc>Couh&#233; 3</desc>
+  </wpt>
 </gpx>

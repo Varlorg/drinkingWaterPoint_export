@@ -4975,4 +4975,12 @@
     <description>https://eaupotable.info/fr/795-fontaine-deau-rue-mirabeau</description>
     <address>Rue Emile-Victor Duval 4</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.269395130994328,44.4767236161214</coordinates>
+    </Point>
+    <name>Fontaine sur la fa&#231;ade de la mairie</name>
+    <description>https://eaupotable.info/fr/796-fontaine-sur-la-facade-de-la-mairie</description>
+    <address>Couh&#233; 3</address>
+  </Placemark>
 </kml>
