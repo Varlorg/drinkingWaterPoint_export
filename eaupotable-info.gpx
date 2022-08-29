@@ -3114,4 +3114,9 @@
     <name>Fontaine sur la fa&#231;ade de la mairie</name>
     <desc>Couh&#233; 3</desc>
   </wpt>
+  <wpt lat="46.6183489" lon="6.4134809">
+    <src>https://eaupotable.info/fr/797-les-sources-de-la-venoge</src>
+    <name>Les sources de la Venoge</name>
+    <desc>Les sources de la Venoge</desc>
+  </wpt>
 </gpx>

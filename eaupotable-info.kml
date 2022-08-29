@@ -4983,4 +4983,12 @@
     <description>https://eaupotable.info/fr/796-fontaine-sur-la-facade-de-la-mairie</description>
     <address>Couh&#233; 3</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.4134809,46.6183489</coordinates>
+    </Point>
+    <name>Les sources de la Venoge</name>
+    <description>https://eaupotable.info/fr/797-les-sources-de-la-venoge</description>
+    <address>Les sources de la Venoge</address>
+  </Placemark>
 </kml>
