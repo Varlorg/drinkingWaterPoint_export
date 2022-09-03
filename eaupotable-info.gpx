@@ -3119,4 +3119,9 @@
     <name>Les sources de la Venoge</name>
     <desc>Les sources de la Venoge</desc>
   </wpt>
+  <wpt lat="50.6167034" lon="4.3139405">
+    <src>https://eaupotable.info/fr/798-source-eau</src>
+    <name>Source eau</name>
+    <desc>Rue Delfosse,2B/bt 4</desc>
+  </wpt>
 </gpx>

@@ -4991,4 +4991,12 @@
     <description>https://eaupotable.info/fr/797-les-sources-de-la-venoge</description>
     <address>Les sources de la Venoge</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.3139405,50.6167034</coordinates>
+    </Point>
+    <name>Source eau</name>
+    <description>https://eaupotable.info/fr/798-source-eau</description>
+    <address>Rue Delfosse,2B/bt 4</address>
+  </Placemark>
 </kml>
