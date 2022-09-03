@@ -57847,4 +57847,60 @@
     <src>5143c3ead2f07f6295c243878eb034f4</src>
     <cmt>FOUNTAIN</cmt>
   </wpt>
+  <wpt lat="49.7516519888738" lon="6.46354051306844">
+    <src>af23beff83b9ed303d67fcfb8343cae8</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="45.160572781502" lon="-0.627168025821447">
+    <src>38285a919c711d849c6b7194a52a3cea</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="44.1479221723783" lon="5.88029714454737">
+    <src>4e5104fbd14969c6f16ab46fc7cbcc27</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="46.2977137225568" lon="-0.692393984645605">
+    <src>d58403b76fa739c19db7375d12db590d</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="50.4817073628739" lon="3.19838401593038">
+    <src>8c83231af4738bd3b4d31b1671c295c2</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.1872337256311" lon="5.62600063160062">
+    <src>01981167292a66478e159387cce29315</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.2552921333367" lon="2.94855454936624">
+    <src>daebe0c98c38ee512f85c833f622d784</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="49.8137425414984" lon="6.41964448615909">
+    <src>af23beff83b9ed303d67fcfb8343cae8</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.7358903865473" lon="15.8919936735638">
+    <src>e4511b67017f4fd7d004b9f99e9aa728</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="46.2095304585549" lon="6.25392554327846">
+    <src>42f58ab2bc00b06f77ba668c84bc3a5a</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="42.6163269383243" lon="-1.19604779407382">
+    <src>fd48df8b9f269078e6e62bede12007aa</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="47.9120914155513" lon="0.343283023685217">
+    <src>1fe53903bdf23f7e60e9eacfc14e02a1</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="45.4091296900609" lon="4.25012530758977">
+    <src>df29334abc564d49d30a6db5dced7903</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="46.2263258939285" lon="6.28654288128018">
+    <src>42f58ab2bc00b06f77ba668c84bc3a5a</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
 </gpx>
