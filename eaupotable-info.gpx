@@ -3124,4 +3124,9 @@
     <name>Source eau</name>
     <desc>Rue Delfosse,2B/bt 4</desc>
   </wpt>
+  <wpt lat="44.84032180292033" lon="0.2115674255867006">
+    <src>https://eaupotable.info/fr/799-cimetiere-sainte-foix-la-grande</src>
+    <name>Cimeti&#232;re Sainte Foix La Grande</name>
+    <desc>Avenue Ithier Gorin 5</desc>
+  </wpt>
 </gpx>

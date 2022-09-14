@@ -4999,4 +4999,12 @@
     <description>https://eaupotable.info/fr/798-source-eau</description>
     <address>Rue Delfosse,2B/bt 4</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.2115674255867006,44.84032180292033</coordinates>
+    </Point>
+    <name>Cimeti&#232;re Sainte Foix La Grande</name>
+    <description>https://eaupotable.info/fr/799-cimetiere-sainte-foix-la-grande</description>
+    <address>Avenue Ithier Gorin 5</address>
+  </Placemark>
 </kml>
