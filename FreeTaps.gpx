@@ -59435,4 +59435,44 @@
     <src>de702df741698aceed3050dd7d595746</src>
     <cmt>FOUNTAIN</cmt>
   </wpt>
+  <wpt lat="42.1939683037341" lon="3.0824300657237">
+    <src>e332c60f6f9d532d248832052f946ee4</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="46.2825530943102" lon="6.61335494179626">
+    <src>3a79923d51a994dd7a6b2f6bc1c0652c</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="41.0501553470906" lon="-8.39983927085996">
+    <src>98b557bd76e7b05b1d3d28617dfa17cc</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="47.2242054590506" lon="6.96585724130273">
+    <src>7377a9fe9463abaf70f1046fe587487e</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.0000767223496" lon="6.2019739155871">
+    <src>Les P&#8217;tits Plats </src>
+    <cmt>PRIVATE</cmt>
+  </wpt>
+  <wpt lat="46.3924719586914" lon="-0.963828172534704">
+    <src>4be7b14a753e577b3544e95cdc9fe078</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="46.321713942162" lon="-0.585043933242559">
+    <src>1ba6daaeba3f2b93e66960fdfcc9a2d8</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="45.83638268797" lon="4.61725702509284">
+    <src>3c671ef25c0e5bac200851463f6c7c77</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="45.8353924906992" lon="4.61770998314023">
+    <src>3c671ef25c0e5bac200851463f6c7c77</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.0651135964378" lon="-0.164802465587854">
+    <src>b2d59191bfcc2f86c5e7ecaaae279d7a</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
 </gpx>
