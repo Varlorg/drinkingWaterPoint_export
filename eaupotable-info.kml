@@ -5007,4 +5007,20 @@
     <description>https://eaupotable.info/fr/799-cimetiere-sainte-foix-la-grande</description>
     <address>Avenue Ithier Gorin 5</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.8657567744384593,43.75623469814689</coordinates>
+    </Point>
+    <name>Source de Saint M&#233;en</name>
+    <description>https://eaupotable.info/fr/800-source-de-saint-meen</description>
+    <address>D109</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.4604529,48.703859</coordinates>
+    </Point>
+    <name>Fontaine de la pelouse de Montgeron - c&#244;t&#233; Charles de Gaulle</name>
+    <description>https://eaupotable.info/fr/801-fontaine-de-la-pelouse-de-montgeron-cote-charles-de-gaulle</description>
+    <address>avenue de la grange</address>
+  </Placemark>
 </kml>

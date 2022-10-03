@@ -3129,4 +3129,14 @@
     <name>Cimeti&#232;re Sainte Foix La Grande</name>
     <desc>Avenue Ithier Gorin 5</desc>
   </wpt>
+  <wpt lat="43.75623469814689" lon="2.8657567744384593">
+    <src>https://eaupotable.info/fr/800-source-de-saint-meen</src>
+    <name>Source de Saint M&#233;en</name>
+    <desc>D109</desc>
+  </wpt>
+  <wpt lat="48.703859" lon="2.4604529">
+    <src>https://eaupotable.info/fr/801-fontaine-de-la-pelouse-de-montgeron-cote-charles-de-gaulle</src>
+    <name>Fontaine de la pelouse de Montgeron - c&#244;t&#233; Charles de Gaulle</name>
+    <desc>avenue de la grange</desc>
+  </wpt>
 </gpx>
