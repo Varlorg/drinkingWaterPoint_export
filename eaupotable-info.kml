@@ -5023,4 +5023,12 @@
     <description>https://eaupotable.info/fr/801-fontaine-de-la-pelouse-de-montgeron-cote-charles-de-gaulle</description>
     <address>avenue de la grange</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.828921599999999,47.7389588</coordinates>
+    </Point>
+    <name>Eau de source</name>
+    <description>https://eaupotable.info/fr/802-eau-de-source</description>
+    <address>2 rue de la Gendarmerie</address>
+  </Placemark>
 </kml>

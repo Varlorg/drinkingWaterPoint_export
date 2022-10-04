@@ -3139,4 +3139,9 @@
     <name>Fontaine de la pelouse de Montgeron - c&#244;t&#233; Charles de Gaulle</name>
     <desc>avenue de la grange</desc>
   </wpt>
+  <wpt lat="47.7389588" lon="6.828921599999999">
+    <src>https://eaupotable.info/fr/802-eau-de-source</src>
+    <name>Eau de source</name>
+    <desc>2 rue de la Gendarmerie</desc>
+  </wpt>
 </gpx>
