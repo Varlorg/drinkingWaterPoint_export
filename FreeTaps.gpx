@@ -60091,4 +60091,40 @@
     <src>7d8132b7e17dafbab9319329d2400527</src>
     <cmt>FOUNTAIN</cmt>
   </wpt>
+  <wpt lat="43.5345763402808" lon="-0.409986209124327">
+    <src>efe26eaa198ef5d0b6d3003b4878a805</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.4834626139193" lon="-0.448296200484037">
+    <src>efe26eaa198ef5d0b6d3003b4878a805</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="46.7368553307081" lon="8.35004222129938">
+    <src>2c0883d06812ecde91a4abe1dfa3bd76</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.1819064890116" lon="2.42025023326278">
+    <src>c389a37e521619695060404e23ddc8c4</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.5929236344462" lon="-0.425331126898527">
+    <src>efe26eaa198ef5d0b6d3003b4878a805</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="42.997507791309" lon="1.14595872611282">
+    <src>ac0ea8eca6e3b05cc09989471f140b3a</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.2280504581518" lon="2.28564592078328">
+    <src>c389a37e521619695060404e23ddc8c4</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="41.6528482313453" lon="-0.888490621000528">
+    <src>6117fe9991767d77a9758dffef448399</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="42.508378043364" lon="2.12175926193595">
+    <src>528cb1dd2d0cb18d72a266cb03e6eec0</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
 </gpx>
