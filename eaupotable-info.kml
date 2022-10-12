@@ -5031,4 +5031,20 @@
     <description>https://eaupotable.info/fr/802-eau-de-source</description>
     <address>2 rue de la Gendarmerie</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.045375984383555,43.65762966515215</coordinates>
+    </Point>
+    <name>L'avoir source</name>
+    <description>https://eaupotable.info/fr/803-lavoir-source</description>
+    <address>Varagnes 139</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.1160577334771924,45.13156305804226</coordinates>
+    </Point>
+    <name>Source cartographie</name>
+    <description>https://eaupotable.info/fr/804-source-cartographie</description>
+    <address>Le Courtieux</address>
+  </Placemark>
 </kml>

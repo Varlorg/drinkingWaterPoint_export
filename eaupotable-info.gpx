@@ -3144,4 +3144,14 @@
     <name>Eau de source</name>
     <desc>2 rue de la Gendarmerie</desc>
   </wpt>
+  <wpt lat="43.65762966515215" lon="2.045375984383555">
+    <src>https://eaupotable.info/fr/803-lavoir-source</src>
+    <name>L'avoir source</name>
+    <desc>Varagnes 139</desc>
+  </wpt>
+  <wpt lat="45.13156305804226" lon="2.1160577334771924">
+    <src>https://eaupotable.info/fr/804-source-cartographie</src>
+    <name>Source cartographie</name>
+    <desc>Le Courtieux</desc>
+  </wpt>
 </gpx>
