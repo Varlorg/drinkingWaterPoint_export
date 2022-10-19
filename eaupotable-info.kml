@@ -5047,4 +5047,12 @@
     <description>https://eaupotable.info/fr/804-source-cartographie</description>
     <address>Le Courtieux</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.8141038003918775,43.525941794183886</coordinates>
+    </Point>
+    <name>Robinet</name>
+    <description>https://eaupotable.info/fr/805-robinet</description>
+    <address>Rue Grande 20bis</address>
+  </Placemark>
 </kml>

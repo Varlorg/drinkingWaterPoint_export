@@ -3154,4 +3154,9 @@
     <name>Source cartographie</name>
     <desc>Le Courtieux</desc>
   </wpt>
+  <wpt lat="43.525941794183886" lon="6.8141038003918775">
+    <src>https://eaupotable.info/fr/805-robinet</src>
+    <name>Robinet</name>
+    <desc>Rue Grande 20bis</desc>
+  </wpt>
 </gpx>
