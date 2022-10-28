@@ -5055,4 +5055,12 @@
     <description>https://eaupotable.info/fr/805-robinet</description>
     <address>Rue Grande 20bis</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.792613649403902,43.65056000812396</coordinates>
+    </Point>
+    <name>Robinet</name>
+    <description>https://eaupotable.info/fr/806-robinet</description>
+    <address>Place Maure 16</address>
+  </Placemark>
 </kml>

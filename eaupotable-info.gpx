@@ -3159,4 +3159,9 @@
     <name>Robinet</name>
     <desc>Rue Grande 20bis</desc>
   </wpt>
+  <wpt lat="43.65056000812396" lon="6.792613649403902">
+    <src>https://eaupotable.info/fr/806-robinet</src>
+    <name>Robinet</name>
+    <desc>Place Maure 16</desc>
+  </wpt>
 </gpx>
