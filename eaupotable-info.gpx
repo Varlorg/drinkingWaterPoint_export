@@ -3164,4 +3164,14 @@
     <name>Robinet</name>
     <desc>Place Maure 16</desc>
   </wpt>
+  <wpt lat="46.07854690847393" lon="6.8409805428161485">
+    <src>https://eaupotable.info/fr/807-toilettes-publiques-parking-du-cirque-du-fer-a-cheval</src>
+    <name>Toilettes publiques - Parking du Cirque du Fer &#224; Cheval</name>
+    <desc>Route du Fer a Cheval 6162</desc>
+  </wpt>
+  <wpt lat="48.85606991280176" lon="2.930844211792003">
+    <src>https://eaupotable.info/fr/808-robinet-du-cimetiere-de-libernon</src>
+    <name>Robinet du cimeti&#232;re de Libernon</name>
+    <desc>Chemin du Clos des Gains 7</desc>
+  </wpt>
 </gpx>

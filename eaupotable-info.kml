@@ -5063,4 +5063,20 @@
     <description>https://eaupotable.info/fr/806-robinet</description>
     <address>Place Maure 16</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.8409805428161485,46.07854690847393</coordinates>
+    </Point>
+    <name>Toilettes publiques - Parking du Cirque du Fer &#224; Cheval</name>
+    <description>https://eaupotable.info/fr/807-toilettes-publiques-parking-du-cirque-du-fer-a-cheval</description>
+    <address>Route du Fer a Cheval 6162</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.930844211792003,48.85606991280176</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Libernon</name>
+    <description>https://eaupotable.info/fr/808-robinet-du-cimetiere-de-libernon</description>
+    <address>Chemin du Clos des Gains 7</address>
+  </Placemark>
 </kml>
