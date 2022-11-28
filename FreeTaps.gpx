@@ -62307,4 +62307,28 @@
     <src>Le relais chez les Balu </src>
     <cmt>PRIVATE</cmt>
   </wpt>
+  <wpt lat="44.7755845940389" lon="5.14324592426419">
+    <src>21fb5ff84b65c1fee8070dea73d1ad2c</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="48.3404249108236" lon="-4.61525542661548">
+    <src>e9fb82f678cbfe61e930abd54bc0fd8a</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="43.2298999162885" lon="5.36937669280786">
+    <src>e225b5c4a193a11c310eefe8ebf12cac</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="41.3951573957511" lon="2.16613942757249">
+    <src>34f9af534f17d4ce2d38311082213de5</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="44.5613203930851" lon="-0.0225136242806911">
+    <src>1de6e5f764b1c77ae40cf5ff171e18e7</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="44.5809004037064" lon="-0.030363779515028">
+    <src>1de6e5f764b1c77ae40cf5ff171e18e7</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
 </gpx>

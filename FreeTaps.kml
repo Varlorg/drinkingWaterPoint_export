@@ -109038,4 +109038,46 @@ e9fb82f678cbfe61e930abd54bc0fd8a</description>
     <description>PRIVATE
 Le relais chez les Balu </description>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.14324592426419,44.7755845940389</coordinates>
+    </Point>
+    <description>FOUNTAIN
+21fb5ff84b65c1fee8070dea73d1ad2c</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-4.61525542661548,48.3404249108236</coordinates>
+    </Point>
+    <description>FOUNTAIN
+e9fb82f678cbfe61e930abd54bc0fd8a</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.36937669280786,43.2298999162885</coordinates>
+    </Point>
+    <description>FOUNTAIN
+e225b5c4a193a11c310eefe8ebf12cac</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.16613942757249,41.3951573957511</coordinates>
+    </Point>
+    <description>FOUNTAIN
+34f9af534f17d4ce2d38311082213de5</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0225136242806911,44.5613203930851</coordinates>
+    </Point>
+    <description>FOUNTAIN
+1de6e5f764b1c77ae40cf5ff171e18e7</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.030363779515028,44.5809004037064</coordinates>
+    </Point>
+    <description>FOUNTAIN
+1de6e5f764b1c77ae40cf5ff171e18e7</description>
+  </Placemark>
 </kml>
