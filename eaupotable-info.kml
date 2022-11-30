@@ -5079,4 +5079,12 @@
     <description>https://eaupotable.info/fr/808-robinet-du-cimetiere-de-libernon</description>
     <address>Chemin du Clos des Gains 7</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.303020355078108,46.104256294236535</coordinates>
+    </Point>
+    <name>Fontaine Le Ch&#226;telet en Savoie</name>
+    <description>https://eaupotable.info/fr/809-fontaine-le-chatelet-en-savoie</description>
+    <address>Route du Ch&#226;telet 1296</address>
+  </Placemark>
 </kml>

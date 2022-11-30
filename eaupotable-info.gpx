@@ -3174,4 +3174,9 @@
     <name>Robinet du cimeti&#232;re de Libernon</name>
     <desc>Chemin du Clos des Gains 7</desc>
   </wpt>
+  <wpt lat="46.104256294236535" lon="6.303020355078108">
+    <src>https://eaupotable.info/fr/809-fontaine-le-chatelet-en-savoie</src>
+    <name>Fontaine Le Ch&#226;telet en Savoie</name>
+    <desc>Route du Ch&#226;telet 1296</desc>
+  </wpt>
 </gpx>
