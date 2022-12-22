@@ -109598,4 +109598,11 @@ e1f8148916b21e65c04f553ec8af43c1</description>
     <description>FOUNTAIN
 edaba54105d13b6fc129ee5da2f13de3</description>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.82999353483319,48.8139504825627</coordinates>
+    </Point>
+    <description>FOUNTAIN
+ce14bb25719843b6847a38d7165dcd71</description>
+  </Placemark>
 </kml>
