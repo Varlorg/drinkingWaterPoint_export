@@ -62687,4 +62687,12 @@
     <src>e9a25ba2314fd11497fc722ae4592fc9</src>
     <cmt>FOUNTAIN</cmt>
   </wpt>
+  <wpt lat="43.7606367022769" lon="4.04528701677918">
+    <src>6222fd54961142e106f1454406d46d7c</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
+  <wpt lat="11.2305550295425" lon="-4.19794259592891">
+    <src>Garde de dafinso</src>
+    <cmt>PRIVATE</cmt>
+  </wpt>
 </gpx>

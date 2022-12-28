@@ -109703,4 +109703,18 @@ c57e95d1e8413a20a6201e92a76fb721</description>
     <description>FOUNTAIN
 e9a25ba2314fd11497fc722ae4592fc9</description>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.04528701677918,43.7606367022769</coordinates>
+    </Point>
+    <description>FOUNTAIN
+6222fd54961142e106f1454406d46d7c</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-4.19794259592891,11.2305550295425</coordinates>
+    </Point>
+    <description>PRIVATE
+Garde de dafinso</description>
+  </Placemark>
 </kml>
