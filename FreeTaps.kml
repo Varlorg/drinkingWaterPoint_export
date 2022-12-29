@@ -109717,4 +109717,39 @@ e9a25ba2314fd11497fc722ae4592fc9</description>
     <description>PRIVATE
 Garde de dafinso</description>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.92769498363876,41.7211816056499</coordinates>
+    </Point>
+    <description>FOUNTAIN
+fb65d039b36cb99e03c3d5a35c5bd84e</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.74260838702321,45.8687789045334</coordinates>
+    </Point>
+    <description>FOUNTAIN
+156dc07f03bf997a2a51b56b46f8083c</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.48390765115619,50.8994801876849</coordinates>
+    </Point>
+    <description>FOUNTAIN
+9f968fee78cf86f09381ed45c08d6ab0</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.66624830290675,50.3257244766634</coordinates>
+    </Point>
+    <description>FOUNTAIN
+9493585cd09b0f18aac38b71af56fa52</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.376469995826483,39.4769491829309</coordinates>
+    </Point>
+    <description>FOUNTAIN
+9e5139d513d4598cdf9d9ffa6c8f6eda</description>
+  </Placemark>
 </kml>
