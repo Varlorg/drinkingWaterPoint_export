@@ -109829,4 +109829,18 @@ a27b19b705e152efded5d4b1080075ab</description>
     <description>FOUNTAIN
 a27b19b705e152efded5d4b1080075ab</description>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>45.1098926179111,-12.6956832156895</coordinates>
+    </Point>
+    <description>PRIVATE
+32 rue de foyer</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.88540511205792,45.2767093503157</coordinates>
+    </Point>
+    <description>FOUNTAIN
+54128373c1459a00f602fd8080ba5267</description>
+  </Placemark>
 </kml>

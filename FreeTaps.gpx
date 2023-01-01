@@ -62759,4 +62759,12 @@
     <src>a27b19b705e152efded5d4b1080075ab</src>
     <cmt>FOUNTAIN</cmt>
   </wpt>
+  <wpt lat="-12.6956832156895" lon="45.1098926179111">
+    <src>32 rue de foyer</src>
+    <cmt>PRIVATE</cmt>
+  </wpt>
+  <wpt lat="45.2767093503157" lon="5.88540511205792">
+    <src>54128373c1459a00f602fd8080ba5267</src>
+    <cmt>FOUNTAIN</cmt>
+  </wpt>
 </gpx>
