@@ -5087,4 +5087,12 @@
     <description>https://eaupotable.info/fr/809-fontaine-le-chatelet-en-savoie</description>
     <address>Route du Ch&#226;telet 1296</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.671852037109386,45.5557097844823</coordinates>
+    </Point>
+    <name>Source eau potable Nontron</name>
+    <description>https://eaupotable.info/fr/811-source-eau-potable-nontron</description>
+    <address>Route Ren&#233; Dutin 436</address>
+  </Placemark>
 </kml>

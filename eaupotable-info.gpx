@@ -3179,4 +3179,9 @@
     <name>Fontaine Le Ch&#226;telet en Savoie</name>
     <desc>Route du Ch&#226;telet 1296</desc>
   </wpt>
+  <wpt lat="45.5557097844823" lon="0.671852037109386">
+    <src>https://eaupotable.info/fr/811-source-eau-potable-nontron</src>
+    <name>Source eau potable Nontron</name>
+    <desc>Route Ren&#233; Dutin 436</desc>
+  </wpt>
 </gpx>
