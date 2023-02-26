@@ -5095,4 +5095,12 @@
     <description>https://eaupotable.info/fr/811-source-eau-potable-nontron</description>
     <address>Route Ren&#233; Dutin 436</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.9689375,49.91518749999999</coordinates>
+    </Point>
+    <name>Source Saint Furcy</name>
+    <description>https://eaupotable.info/fr/812-source-saint-furcy</description>
+    <address/>
+  </Placemark>
 </kml>

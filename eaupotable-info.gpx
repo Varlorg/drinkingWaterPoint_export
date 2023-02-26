@@ -3184,4 +3184,9 @@
     <name>Source eau potable Nontron</name>
     <desc>Route Ren&#233; Dutin 436</desc>
   </wpt>
+  <wpt lat="49.91518749999999" lon="4.9689375">
+    <src>https://eaupotable.info/fr/812-source-saint-furcy</src>
+    <name>Source Saint Furcy</name>
+    <desc/>
+  </wpt>
 </gpx>
