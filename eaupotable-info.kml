@@ -5103,4 +5103,28 @@
     <description>https://eaupotable.info/fr/812-source-saint-furcy</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-3.883207581418413,40.4238683000087</coordinates>
+    </Point>
+    <name>Parque Isla de Tarifa</name>
+    <description>https://eaupotable.info/fr/813-parque-isla-de-tarifa</description>
+    <address>Avenida de Valdepastores</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-3.8853835234817446,40.43663797891006</coordinates>
+    </Point>
+    <name>Parque Playa de Am&#233;rica</name>
+    <description>https://eaupotable.info/fr/814-parque-playa-de-america</description>
+    <address>Calle Playa de las Antillas 22</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-3.894424579518694,40.4300442364721</coordinates>
+    </Point>
+    <name>Calle valle del Tena</name>
+    <description>https://eaupotable.info/fr/815-calle-valle-del-tena</description>
+    <address>Calle Valle de Tena 36</address>
+  </Placemark>
 </kml>

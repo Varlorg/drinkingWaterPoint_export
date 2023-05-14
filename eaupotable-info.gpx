@@ -3189,4 +3189,19 @@
     <name>Source Saint Furcy</name>
     <desc/>
   </wpt>
+  <wpt lat="40.4238683000087" lon="-3.883207581418413">
+    <src>https://eaupotable.info/fr/813-parque-isla-de-tarifa</src>
+    <name>Parque Isla de Tarifa</name>
+    <desc>Avenida de Valdepastores</desc>
+  </wpt>
+  <wpt lat="40.43663797891006" lon="-3.8853835234817446">
+    <src>https://eaupotable.info/fr/814-parque-playa-de-america</src>
+    <name>Parque Playa de Am&#233;rica</name>
+    <desc>Calle Playa de las Antillas 22</desc>
+  </wpt>
+  <wpt lat="40.4300442364721" lon="-3.894424579518694">
+    <src>https://eaupotable.info/fr/815-calle-valle-del-tena</src>
+    <name>Calle valle del Tena</name>
+    <desc>Calle Valle de Tena 36</desc>
+  </wpt>
 </gpx>
