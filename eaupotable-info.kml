@@ -5127,4 +5127,84 @@
     <description>https://eaupotable.info/fr/815-calle-valle-del-tena</description>
     <address>Calle Valle de Tena 36</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.07094557678221314,45.02838945221375</coordinates>
+    </Point>
+    <name>Cimetiere Le Pizou</name>
+    <description>https://eaupotable.info/fr/816-cimetiere-le-pizou</description>
+    <address>Route de Montpon 413</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.4013378609866969,45.054722698203804</coordinates>
+    </Point>
+    <name>Robinet Stade Georgette Lacour</name>
+    <description>https://eaupotable.info/fr/817-robinet-stade-georgette-lacour</description>
+    <address>Rue Georgette Lacour 120</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.7962117679412275,50.66166647290421</coordinates>
+    </Point>
+    <name>Petite fontaine d'eau potable Rue Notre Dame 1360</name>
+    <description>https://eaupotable.info/fr/818-petite-fontaine-deau-potable-rue-notre-dame-1360</description>
+    <address>Rue Notre Dame 65</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.885341534936157,50.46008257155263</coordinates>
+    </Point>
+    <name>Robinet</name>
+    <description>https://eaupotable.info/fr/819-robinet</description>
+    <address>Route de Wanne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.871496462250203,50.466099511367126</coordinates>
+    </Point>
+    <name>Source de la G&#233;ronst&#232;re</name>
+    <description>https://eaupotable.info/fr/820-source-de-la-geronstere</description>
+    <address>Route de Wanne</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.684626304783382,50.65354602178124</coordinates>
+    </Point>
+    <name>Robinet ext&#233;rieur</name>
+    <description>https://eaupotable.info/fr/821-robinet-exterieur</description>
+    <address>Chemin de la Julienne 3</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.4414798661621235,50.18649167407753</coordinates>
+    </Point>
+    <name>robinet au Cimeti&#232;re</name>
+    <description>https://eaupotable.info/fr/822-robinet-au-cimetiere</description>
+    <address>Rue de la Tannerie 5630</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.738517955542,50.0991239687994</coordinates>
+    </Point>
+    <name>cimeti&#232;re de Mabompr&#233; , adoss&#233; &#224; l'&#233;glise</name>
+    <description>https://eaupotable.info/fr/823-cimetiere-de-mabompre-adosse-a-leglise</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.450637422753916,50.608296311136144</coordinates>
+    </Point>
+    <name>Borne fontaine publique</name>
+    <description>https://eaupotable.info/fr/824-borne-fontaine-publique</description>
+    <address>Rue de Charleroi 51</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.462088049004382,50.610168393905326</coordinates>
+    </Point>
+    <name>Borne fontaine &#224; eau</name>
+    <description>https://eaupotable.info/fr/825-borne-fontaine-a-eau</description>
+    <address>Place Comte Cornet 5</address>
+  </Placemark>
 </kml>

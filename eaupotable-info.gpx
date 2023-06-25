@@ -3204,4 +3204,54 @@
     <name>Calle valle del Tena</name>
     <desc>Calle Valle de Tena 36</desc>
   </wpt>
+  <wpt lat="45.02838945221375" lon="0.07094557678221314">
+    <src>https://eaupotable.info/fr/816-cimetiere-le-pizou</src>
+    <name>Cimetiere Le Pizou</name>
+    <desc>Route de Montpon 413</desc>
+  </wpt>
+  <wpt lat="45.054722698203804" lon="0.4013378609866969">
+    <src>https://eaupotable.info/fr/817-robinet-stade-georgette-lacour</src>
+    <name>Robinet Stade Georgette Lacour</name>
+    <desc>Rue Georgette Lacour 120</desc>
+  </wpt>
+  <wpt lat="50.66166647290421" lon="4.7962117679412275">
+    <src>https://eaupotable.info/fr/818-petite-fontaine-deau-potable-rue-notre-dame-1360</src>
+    <name>Petite fontaine d'eau potable Rue Notre Dame 1360</name>
+    <desc>Rue Notre Dame 65</desc>
+  </wpt>
+  <wpt lat="50.46008257155263" lon="5.885341534936157">
+    <src>https://eaupotable.info/fr/819-robinet</src>
+    <name>Robinet</name>
+    <desc>Route de Wanne</desc>
+  </wpt>
+  <wpt lat="50.466099511367126" lon="5.871496462250203">
+    <src>https://eaupotable.info/fr/820-source-de-la-geronstere</src>
+    <name>Source de la G&#233;ronst&#232;re</name>
+    <desc>Route de Wanne</desc>
+  </wpt>
+  <wpt lat="50.65354602178124" lon="5.684626304783382">
+    <src>https://eaupotable.info/fr/821-robinet-exterieur</src>
+    <name>Robinet ext&#233;rieur</name>
+    <desc>Chemin de la Julienne 3</desc>
+  </wpt>
+  <wpt lat="50.18649167407753" lon="4.4414798661621235">
+    <src>https://eaupotable.info/fr/822-robinet-au-cimetiere</src>
+    <name>robinet au Cimeti&#232;re</name>
+    <desc>Rue de la Tannerie 5630</desc>
+  </wpt>
+  <wpt lat="50.0991239687994" lon="5.738517955542">
+    <src>https://eaupotable.info/fr/823-cimetiere-de-mabompre-adosse-a-leglise</src>
+    <name>cimeti&#232;re de Mabompr&#233; , adoss&#233; &#224; l'&#233;glise</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.608296311136144" lon="4.450637422753916">
+    <src>https://eaupotable.info/fr/824-borne-fontaine-publique</src>
+    <name>Borne fontaine publique</name>
+    <desc>Rue de Charleroi 51</desc>
+  </wpt>
+  <wpt lat="50.610168393905326" lon="4.462088049004382">
+    <src>https://eaupotable.info/fr/825-borne-fontaine-a-eau</src>
+    <name>Borne fontaine &#224; eau</name>
+    <desc>Place Comte Cornet 5</desc>
+  </wpt>
 </gpx>
