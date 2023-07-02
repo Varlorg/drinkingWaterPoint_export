@@ -3254,4 +3254,59 @@
     <name>Borne fontaine &#224; eau</name>
     <desc>Place Comte Cornet 5</desc>
   </wpt>
+  <wpt lat="50.48760461194048" lon="4.9589640672592905">
+    <src>https://eaupotable.info/fr/826-fontaine-eau-potable</src>
+    <name>Fontaine eau potable</name>
+    <desc>Rue Notre Dame du Vivier 135</desc>
+  </wpt>
+  <wpt lat="50.59208020996494" lon="4.907121843360653">
+    <src>https://eaupotable.info/fr/827-robinet-eau</src>
+    <name>Robinet eau</name>
+    <desc>Route de Gembloux 30</desc>
+  </wpt>
+  <wpt lat="50.237064440465524" lon="4.235156947221386">
+    <src>https://eaupotable.info/fr/829-robinet-publique</src>
+    <name>Robinet publique</name>
+    <desc>rue de la d&#233;portation</desc>
+  </wpt>
+  <wpt lat="50.4487523" lon="4.195024099999999">
+    <src>https://eaupotable.info/fr/830-cimetiere-haine-saint-pierre</src>
+    <name>Cimeti&#232;re Haine saint Pierre</name>
+    <desc>Rue de Binche</desc>
+  </wpt>
+  <wpt lat="50.7308899" lon="5.701603">
+    <src>https://eaupotable.info/fr/831-cimetiere-de-lorette</src>
+    <name>Cimeti&#232;re de Lorette</name>
+    <desc>Rue Porte de Lorette</desc>
+  </wpt>
+  <wpt lat="49.718088214181996" lon="5.559784903318787">
+    <src>https://eaupotable.info/fr/832-rulles-le-bac</src>
+    <name>Rulles - Le Bac</name>
+    <desc>Rue Maurice Grevisse, 23</desc>
+  </wpt>
+  <wpt lat="50.72604383154121" lon="4.9693674037048385">
+    <src>https://eaupotable.info/fr/833-cimetiere-de-noduwez</src>
+    <name>Cimeti&#232;re de Noduwez</name>
+    <desc>Rue Louis Lambert 1350</desc>
+  </wpt>
+  <wpt lat="50.69481886663692" lon="4.929392069450382">
+    <src>https://eaupotable.info/fr/834-cimetiere-de-enines</src>
+    <name>Cimeti&#232;re de Enines</name>
+    <desc>Rue du Ch&#226;teau de Jandrain</desc>
+  </wpt>
+  <wpt lat="50.70055354342723" lon="4.981772137603753">
+    <src>https://eaupotable.info/fr/835-source-sainte-adele-mais-dite-non-potable</src>
+    <name>Source Sainte Ad&#232;le mais dite non potable</name>
+    <desc>Rue du Ch&#226;teau de Jandrain</desc>
+  </wpt>
+  <wpt lat="50.58610866690388" lon="4.911594845824436">
+    <src>https://eaupotable.info/fr/836-station-service-shell-express</src>
+    <name>Station Service Shell Express</name>
+    <desc>Rue du Ch&#226;teau de Jandrain</desc>
+  </wpt>
+  <wpt lat="50.75328017771382" lon="3.69218477088316">
+    <src>https://eaupotable.info/fr/837-source</src>
+    <name>Source</name>
+    <desc>Queneau 56</desc>
+  </wpt>
 </gpx>

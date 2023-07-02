@@ -5207,4 +5207,92 @@
     <description>https://eaupotable.info/fr/825-borne-fontaine-a-eau</description>
     <address>Place Comte Cornet 5</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.9589640672592905,50.48760461194048</coordinates>
+    </Point>
+    <name>Fontaine eau potable</name>
+    <description>https://eaupotable.info/fr/826-fontaine-eau-potable</description>
+    <address>Rue Notre Dame du Vivier 135</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.907121843360653,50.59208020996494</coordinates>
+    </Point>
+    <name>Robinet eau</name>
+    <description>https://eaupotable.info/fr/827-robinet-eau</description>
+    <address>Route de Gembloux 30</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.235156947221386,50.237064440465524</coordinates>
+    </Point>
+    <name>Robinet publique</name>
+    <description>https://eaupotable.info/fr/829-robinet-publique</description>
+    <address>rue de la d&#233;portation</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.195024099999999,50.4487523</coordinates>
+    </Point>
+    <name>Cimeti&#232;re Haine saint Pierre</name>
+    <description>https://eaupotable.info/fr/830-cimetiere-haine-saint-pierre</description>
+    <address>Rue de Binche</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.701603,50.7308899</coordinates>
+    </Point>
+    <name>Cimeti&#232;re de Lorette</name>
+    <description>https://eaupotable.info/fr/831-cimetiere-de-lorette</description>
+    <address>Rue Porte de Lorette</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.559784903318787,49.718088214181996</coordinates>
+    </Point>
+    <name>Rulles - Le Bac</name>
+    <description>https://eaupotable.info/fr/832-rulles-le-bac</description>
+    <address>Rue Maurice Grevisse, 23</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.9693674037048385,50.72604383154121</coordinates>
+    </Point>
+    <name>Cimeti&#232;re de Noduwez</name>
+    <description>https://eaupotable.info/fr/833-cimetiere-de-noduwez</description>
+    <address>Rue Louis Lambert 1350</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.929392069450382,50.69481886663692</coordinates>
+    </Point>
+    <name>Cimeti&#232;re de Enines</name>
+    <description>https://eaupotable.info/fr/834-cimetiere-de-enines</description>
+    <address>Rue du Ch&#226;teau de Jandrain</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.981772137603753,50.70055354342723</coordinates>
+    </Point>
+    <name>Source Sainte Ad&#232;le mais dite non potable</name>
+    <description>https://eaupotable.info/fr/835-source-sainte-adele-mais-dite-non-potable</description>
+    <address>Rue du Ch&#226;teau de Jandrain</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.911594845824436,50.58610866690388</coordinates>
+    </Point>
+    <name>Station Service Shell Express</name>
+    <description>https://eaupotable.info/fr/836-station-service-shell-express</description>
+    <address>Rue du Ch&#226;teau de Jandrain</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.69218477088316,50.75328017771382</coordinates>
+    </Point>
+    <name>Source</name>
+    <description>https://eaupotable.info/fr/837-source</description>
+    <address>Queneau 56</address>
+  </Placemark>
 </kml>
