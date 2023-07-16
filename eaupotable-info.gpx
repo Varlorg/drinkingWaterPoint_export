@@ -3309,4 +3309,24 @@
     <name>Source</name>
     <desc>Queneau 56</desc>
   </wpt>
+  <wpt lat="50.61645892073261" lon="4.5102950956661125">
+    <src>https://eaupotable.info/fr/838-fontaine-salle-omnisport-georges-gossiaux-a-bousval</src>
+    <name>Fontaine salle omnisport Georges gossiaux &#224; Bousval</name>
+    <desc>Avenue des Combattants 94</desc>
+  </wpt>
+  <wpt lat="44.884367746503386" lon="-0.4603356501235911">
+    <src>https://eaupotable.info/fr/839-cimetiere-dyvrac</src>
+    <name>Cimetiere d'Yvrac</name>
+    <desc>Lotissement Mirande 2</desc>
+  </wpt>
+  <wpt lat="48.39315653770738" lon="7.439485946484705">
+    <src>https://eaupotable.info/fr/840-natural-water-source</src>
+    <name>Natural water source</name>
+    <desc>Rue de la Montagne 38</desc>
+  </wpt>
+  <wpt lat="48.80619980398743" lon="7.539777276687483">
+    <src>https://eaupotable.info/fr/841-water-tap-on-camping</src>
+    <name>Water tap on camping</name>
+    <desc>Rue de la Montagne 38</desc>
+  </wpt>
 </gpx>
