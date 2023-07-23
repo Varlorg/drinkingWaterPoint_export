@@ -5327,4 +5327,20 @@
     <description>https://eaupotable.info/fr/841-water-tap-on-camping</description>
     <address>Rue de la Montagne 38</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.18716140146637805,44.865494419417004</coordinates>
+    </Point>
+    <name>Robinet du cimetiere de Fougueyrolles</name>
+    <description>https://eaupotable.info/fr/842-robinet-du-cimetiere-de-fougueyrolles</description>
+    <address>Route des Ecoles Communales 205</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.03374123942565532,44.567552244469304</coordinates>
+    </Point>
+    <name>Robinet du cimetiere de Mongauzy</name>
+    <description>https://eaupotable.info/fr/843-robinet-du-cimetiere-de-mongauzy</description>
+    <address>Route de Blasimon 25</address>
+  </Placemark>
 </kml>
