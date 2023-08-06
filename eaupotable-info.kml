@@ -5343,4 +5343,28 @@
     <description>https://eaupotable.info/fr/843-robinet-du-cimetiere-de-mongauzy</description>
     <address>Route de Blasimon 25</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.948327214479626,46.41607803735236</coordinates>
+    </Point>
+    <name>Auberge de Sonchaux</name>
+    <description>https://eaupotable.info/fr/844-auberge-de-sonchaux</description>
+    <address>Route du Terravet 35</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.39387677246093,44.8428006072192</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de SALLEBOEUF</name>
+    <description>https://eaupotable.info/fr/845-robinet-du-cimetiere-de-salleboeuf</description>
+    <address>Rue des Carbouneires 8</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.015949823525988,50.425660289826915</coordinates>
+    </Point>
+    <name>Source du Pouhon</name>
+    <description>https://eaupotable.info/fr/846-source-du-pouhon</description>
+    <address>chemin du paradis 4</address>
+  </Placemark>
 </kml>

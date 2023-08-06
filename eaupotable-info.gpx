@@ -3339,4 +3339,19 @@
     <name>Robinet du cimetiere de Mongauzy</name>
     <desc>Route de Blasimon 25</desc>
   </wpt>
+  <wpt lat="46.41607803735236" lon="6.948327214479626">
+    <src>https://eaupotable.info/fr/844-auberge-de-sonchaux</src>
+    <name>Auberge de Sonchaux</name>
+    <desc>Route du Terravet 35</desc>
+  </wpt>
+  <wpt lat="44.8428006072192" lon="-0.39387677246093">
+    <src>https://eaupotable.info/fr/845-robinet-du-cimetiere-de-salleboeuf</src>
+    <name>Robinet du cimeti&#232;re de SALLEBOEUF</name>
+    <desc>Rue des Carbouneires 8</desc>
+  </wpt>
+  <wpt lat="50.425660289826915" lon="6.015949823525988">
+    <src>https://eaupotable.info/fr/846-source-du-pouhon</src>
+    <name>Source du Pouhon</name>
+    <desc>chemin du paradis 4</desc>
+  </wpt>
 </gpx>
