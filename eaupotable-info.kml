@@ -5367,4 +5367,36 @@
     <description>https://eaupotable.info/fr/846-source-du-pouhon</description>
     <address>chemin du paradis 4</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.5665617630210775,50.646776562675704</coordinates>
+    </Point>
+    <name>Borne eau potable</name>
+    <description>https://eaupotable.info/fr/847-borne-eau-potable</description>
+    <address>Rue du Werchai 7</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.6557676686477665,50.3492235787292</coordinates>
+    </Point>
+    <name>Fontaine du Ri de Loon</name>
+    <description>https://eaupotable.info/fr/848-fontaine-du-ri-de-loon</description>
+    <address>Place du Ri de Loon</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.821905947256099,50.39237600265449</coordinates>
+    </Point>
+    <name>Fontaine publique eau Monceau</name>
+    <description>https://eaupotable.info/fr/849-fontaine-publique-eau-monceau</description>
+    <address>Buchenweg 27</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.051123619014359356,38.71524186399892</coordinates>
+    </Point>
+    <name>Benissa Water Tap</name>
+    <description>https://eaupotable.info/fr/853-benissa-water-tap</description>
+    <address>Paseo Dolores Piera 5</address>
+  </Placemark>
 </kml>
