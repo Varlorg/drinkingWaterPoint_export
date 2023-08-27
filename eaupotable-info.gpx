@@ -3374,4 +3374,9 @@
     <name>Benissa Water Tap</name>
     <desc>Paseo Dolores Piera 5</desc>
   </wpt>
+  <wpt lat="44.904045281007086" lon="-0.5074857656804843">
+    <src>https://eaupotable.info/fr/854-bouton-poussoir</src>
+    <name>Bouton poussoir</name>
+    <desc>Rue Emile Zola 2</desc>
+  </wpt>
 </gpx>

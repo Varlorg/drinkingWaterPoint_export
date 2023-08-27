@@ -5399,4 +5399,12 @@
     <description>https://eaupotable.info/fr/853-benissa-water-tap</description>
     <address>Paseo Dolores Piera 5</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.5074857656804843,44.904045281007086</coordinates>
+    </Point>
+    <name>Bouton poussoir</name>
+    <description>https://eaupotable.info/fr/854-bouton-poussoir</description>
+    <address>Rue Emile Zola 2</address>
+  </Placemark>
 </kml>
