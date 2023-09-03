@@ -5407,4 +5407,44 @@
     <description>https://eaupotable.info/fr/854-bouton-poussoir</description>
     <address>Rue Emile Zola 2</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.336788345186879,48.97584556993159</coordinates>
+    </Point>
+    <name>Cimeti&#232;re Saint Martin sur le pr&#233;</name>
+    <description>https://eaupotable.info/fr/855-cimetiere-saint-martin-sur-le-pre</description>
+    <address>Ruelle Jeannot 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>1.6490844117956849,43.1022342181966</coordinates>
+    </Point>
+    <name>Parc de loisirs multi-generationnel</name>
+    <description>https://eaupotable.info/fr/856-parc-de-loisirs-multi-generationnel</description>
+    <address>Rue du 8 Mai</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0752945889549217,44.7537980740082</coordinates>
+    </Point>
+    <name>Robinet Abbaye de Blasimon</name>
+    <description>https://eaupotable.info/fr/857-robinet-abbaye-de-blasimon</description>
+    <address>Lieu dit Laula 4</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.0577863730163575,44.9480467251239</coordinates>
+    </Point>
+    <name>Robinet mairie Villefranche-de-Lonchat</name>
+    <description>https://eaupotable.info/fr/858-robinet-mairie-villefranche-de-lonchat</description>
+    <address>Place de la Libert&#233; 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>9.722455824197368,45.041441768734266</coordinates>
+    </Point>
+    <name>Drickfont&#228;n</name>
+    <description>https://eaupotable.info/fr/859-drickfontan</description>
+    <address>Via Giovanni Codagnello</address>
+  </Placemark>
 </kml>

@@ -3379,4 +3379,29 @@
     <name>Bouton poussoir</name>
     <desc>Rue Emile Zola 2</desc>
   </wpt>
+  <wpt lat="48.97584556993159" lon="4.336788345186879">
+    <src>https://eaupotable.info/fr/855-cimetiere-saint-martin-sur-le-pre</src>
+    <name>Cimeti&#232;re Saint Martin sur le pr&#233;</name>
+    <desc>Ruelle Jeannot 2</desc>
+  </wpt>
+  <wpt lat="43.1022342181966" lon="1.6490844117956849">
+    <src>https://eaupotable.info/fr/856-parc-de-loisirs-multi-generationnel</src>
+    <name>Parc de loisirs multi-generationnel</name>
+    <desc>Rue du 8 Mai</desc>
+  </wpt>
+  <wpt lat="44.7537980740082" lon="-0.0752945889549217">
+    <src>https://eaupotable.info/fr/857-robinet-abbaye-de-blasimon</src>
+    <name>Robinet Abbaye de Blasimon</name>
+    <desc>Lieu dit Laula 4</desc>
+  </wpt>
+  <wpt lat="44.9480467251239" lon="0.0577863730163575">
+    <src>https://eaupotable.info/fr/858-robinet-mairie-villefranche-de-lonchat</src>
+    <name>Robinet mairie Villefranche-de-Lonchat</name>
+    <desc>Place de la Libert&#233; 1</desc>
+  </wpt>
+  <wpt lat="45.041441768734266" lon="9.722455824197368">
+    <src>https://eaupotable.info/fr/859-drickfontan</src>
+    <name>Drickfont&#228;n</name>
+    <desc>Via Giovanni Codagnello</desc>
+  </wpt>
 </gpx>
