@@ -3404,4 +3404,19 @@
     <name>Drickfont&#228;n</name>
     <desc>Via Giovanni Codagnello</desc>
   </wpt>
+  <wpt lat="50.5476918" lon="5.186209000000001">
+    <src>https://eaupotable.info/fr/860-source-moha</src>
+    <name>Source moha</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.63255501738558" lon="4.232800931491076">
+    <src>https://eaupotable.info/fr/861-eau-de-source-ittre-pres-du-canal</src>
+    <name>Eau de source - Ittre - pr&#232;s du canal</name>
+    <desc>Rue aux Racines</desc>
+  </wpt>
+  <wpt lat="46.33153919999999" lon="16.743607">
+    <src>https://eaupotable.info/fr/863-public-water-point</src>
+    <name>Public water point</name>
+    <desc>Ul. Mirka Dvorskog 1, 40326, Sveta Marija, Croatia</desc>
+  </wpt>
 </gpx>

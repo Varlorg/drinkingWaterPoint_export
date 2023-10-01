@@ -5447,4 +5447,28 @@
     <description>https://eaupotable.info/fr/859-drickfontan</description>
     <address>Via Giovanni Codagnello</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.186209000000001,50.5476918</coordinates>
+    </Point>
+    <name>Source moha</name>
+    <description>https://eaupotable.info/fr/860-source-moha</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.232800931491076,50.63255501738558</coordinates>
+    </Point>
+    <name>Eau de source - Ittre - pr&#232;s du canal</name>
+    <description>https://eaupotable.info/fr/861-eau-de-source-ittre-pres-du-canal</description>
+    <address>Rue aux Racines</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>16.743607,46.33153919999999</coordinates>
+    </Point>
+    <name>Public water point</name>
+    <description>https://eaupotable.info/fr/863-public-water-point</description>
+    <address>Ul. Mirka Dvorskog 1, 40326, Sveta Marija, Croatia</address>
+  </Placemark>
 </kml>
