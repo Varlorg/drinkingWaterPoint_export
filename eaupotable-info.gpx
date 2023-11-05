@@ -630,8 +630,8 @@
     <desc>Rue L&#233;on Herman 8, 6953 Nassogne, Belgique</desc>
   </wpt>
   <wpt lat="50.1123120557457" lon="5.31260675745011">
-    <src>https://eaupotable.info/fr/223-robinet-du-cimetiere-de-masboug</src>
-    <name>Robinet du cimeti&#232;re de Masboug</name>
+    <src>https://eaupotable.info/fr/223-robinet-du-cimetiere-de-masbourg</src>
+    <name>Robinet du cimeti&#232;re de Masbourg</name>
     <desc>Rue des Roches, 6953 Nassogne, Belgique</desc>
   </wpt>
   <wpt lat="50.1120454457385" lon="5.28381860809327">
@@ -3418,5 +3418,10 @@
     <src>https://eaupotable.info/fr/863-public-water-point</src>
     <name>Public water point</name>
     <desc>Ul. Mirka Dvorskog 1, 40326, Sveta Marija, Croatia</desc>
+  </wpt>
+  <wpt lat="50.0789336" lon="5.156298799999999">
+    <src>https://eaupotable.info/fr/864-robinet-du-cimetiere-de-chanly-eglise-saint-remacle</src>
+    <name>Robinet du cimeti&#232;re de Chanly (&#233;glise Saint-Remacle)</name>
+    <desc>Rue de Grupont 101</desc>
   </wpt>
 </gpx>

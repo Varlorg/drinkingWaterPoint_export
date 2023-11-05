@@ -1011,8 +1011,8 @@
     <Point>
       <coordinates>5.31260675745011,50.1123120557457</coordinates>
     </Point>
-    <name>Robinet du cimeti&#232;re de Masboug</name>
-    <description>https://eaupotable.info/fr/223-robinet-du-cimetiere-de-masboug</description>
+    <name>Robinet du cimeti&#232;re de Masbourg</name>
+    <description>https://eaupotable.info/fr/223-robinet-du-cimetiere-de-masbourg</description>
     <address>Rue des Roches, 6953 Nassogne, Belgique</address>
   </Placemark>
   <Placemark>
@@ -5470,5 +5470,13 @@
     <name>Public water point</name>
     <description>https://eaupotable.info/fr/863-public-water-point</description>
     <address>Ul. Mirka Dvorskog 1, 40326, Sveta Marija, Croatia</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.156298799999999,50.0789336</coordinates>
+    </Point>
+    <name>Robinet du cimeti&#232;re de Chanly (&#233;glise Saint-Remacle)</name>
+    <description>https://eaupotable.info/fr/864-robinet-du-cimetiere-de-chanly-eglise-saint-remacle</description>
+    <address>Rue de Grupont 101</address>
   </Placemark>
 </kml>
