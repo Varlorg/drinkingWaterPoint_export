@@ -15,7 +15,7 @@
     <desc>Square de la Madone</desc>
   </wpt>
   <wpt lat="48.8276881699896" lon="2.35270824669647">
-    <src>https://eaupotable.info/fr/4-eau-de-l-albien-fontaine-place-paul-verlaine</src>
+    <src>https://eaupotable.info/fr/4-eau-de-lalbien-fontaine-place-paul-verlaine</src>
     <name>Eau de l'Albien: Fontaine Place Paul Verlaine</name>
     <desc>Place Paul Verlaine</desc>
   </wpt>
@@ -740,7 +740,7 @@
     <desc>Tournefeuille, France</desc>
   </wpt>
   <wpt lat="43.5801508596762" lon="1.34969859922785">
-    <src>https://eaupotable.info/fr/249-robinet-de-l-etang</src>
+    <src>https://eaupotable.info/fr/249-robinet-de-letang</src>
     <name>Robinet de l'&#233;tang</name>
     <desc>Tournefeuille, France</desc>
   </wpt>
@@ -1030,7 +1030,7 @@
     <desc>Villefranche-de-Lauragais, France</desc>
   </wpt>
   <wpt lat="43.3669636425978" lon="1.7891787050628">
-    <src>https://eaupotable.info/fr/319-robinet-du-parvis-de-l-eglise</src>
+    <src>https://eaupotable.info/fr/319-robinet-du-parvis-de-leglise</src>
     <name>Robinet du parvis de l'Eglise</name>
     <desc>Avignonet-Lauragais, France</desc>
   </wpt>
@@ -1100,7 +1100,7 @@
     <desc>Tournefeuille, France</desc>
   </wpt>
   <wpt lat="48.1989472155893" lon="5.95269111250309">
-    <src>https://eaupotable.info/fr/333-fontaine-d-eau-vittel</src>
+    <src>https://eaupotable.info/fr/333-fontaine-deau-vittel</src>
     <name>Fontaine d'eau Vittel </name>
     <desc>Vittel, France</desc>
   </wpt>
@@ -1120,7 +1120,7 @@
     <desc>Saint-Jean-de-Luz, France</desc>
   </wpt>
   <wpt lat="43.4071249106" lon="-1.64088654249">
-    <src>https://eaupotable.info/fr/337-robinet-de-la-plage-d-erromardie</src>
+    <src>https://eaupotable.info/fr/337-robinet-de-la-plage-derromardie</src>
     <name>Robinet de la plage d'Erromardie</name>
     <desc>Saint-Jean-de-Luz, France</desc>
   </wpt>
@@ -1160,7 +1160,7 @@
     <desc>Cugnaux, France</desc>
   </wpt>
   <wpt lat="43.5663843871" lon="1.34453534687">
-    <src>https://eaupotable.info/fr/345-fontaine-du-parc-de-jeux-d-enfants</src>
+    <src>https://eaupotable.info/fr/345-fontaine-du-parc-de-jeux-denfants</src>
     <name>Fontaine du parc de jeux d'enfants</name>
     <desc>Tournefeuille, France</desc>
   </wpt>
@@ -1235,12 +1235,12 @@
     <desc>Jardin de la Plantade, B&#233;ziers, 34500</desc>
   </wpt>
   <wpt lat="43.3385245797657" lon="3.22128534317062">
-    <src>https://eaupotable.info/fr/372-fontaine-eau-potable-ndeg2-parc-plateau-des-poetes</src>
+    <src>https://eaupotable.info/fr/372-fontaine-eau-potable-n2-parc-plateau-des-poetes</src>
     <name>Fontaine eau potable n&#176;2 -  Parc Plateau des Po&#232;tes</name>
     <desc>parc des po&#232;tes b&#233;ziers 34500</desc>
   </wpt>
   <wpt lat="43.3391956517252" lon="3.21905642747925">
-    <src>https://eaupotable.info/fr/373-fontaine-eau-potable-ndeg1-parc-plateau-des-poetes</src>
+    <src>https://eaupotable.info/fr/373-fontaine-eau-potable-n1-parc-plateau-des-poetes</src>
     <name>Fontaine eau potable n&#176;1 - Parc Plateau des Po&#232;tes</name>
     <desc>parc plateau des po&#232;tes b&#233;ziers 34500</desc>
   </wpt>
@@ -1310,7 +1310,7 @@
     <desc>Rue Paul Henri Vergnes, P&#233;zenas, France</desc>
   </wpt>
   <wpt lat="43.6108380522" lon="3.87066368952">
-    <src>https://eaupotable.info/fr/389-fontaine-eau-potable-ndeg1-promenade-du-peyrou</src>
+    <src>https://eaupotable.info/fr/389-fontaine-eau-potable-n1-promenade-du-peyrou</src>
     <name>Fontaine eau potable n&#176;1 - Promenade du Peyrou</name>
     <desc>Promenade du Peyrou, 34000 Montpellier, France</desc>
   </wpt>
@@ -1335,7 +1335,7 @@
     <desc>Esplanade Charles de Gaulle, Montpellier, France</desc>
   </wpt>
   <wpt lat="43.610667891" lon="3.88125871164">
-    <src>https://eaupotable.info/fr/394-fontaine-eau-potable-ndeg2-esplanade-charles-de-gaulle</src>
+    <src>https://eaupotable.info/fr/394-fontaine-eau-potable-n2-esplanade-charles-de-gaulle</src>
     <name>Fontaine eau potable n&#176;2 Esplanade Charles de Gaulle</name>
     <desc>Esplanade Charles de Gaulle, Montpellier, France</desc>
   </wpt>
@@ -1345,7 +1345,7 @@
     <desc>Rue de la Source, Saint-Michel-Chef-Chef, France</desc>
   </wpt>
   <wpt lat="46.2394586931" lon="7.41743384583">
-    <src>https://eaupotable.info/fr/396-fontaine-d-eau-potable</src>
+    <src>https://eaupotable.info/fr/396-fontaine-deau-potable</src>
     <name>Fontaine d'eau potable</name>
     <desc>Saint-L&#233;onard, Suisse</desc>
   </wpt>
@@ -1490,7 +1490,7 @@
     <desc>17 Rue Saint-Blaise, Bagn&#232;res-de-Bigorre, France</desc>
   </wpt>
   <wpt lat="43.737963698373" lon="3.19410393121348">
-    <src>https://eaupotable.info/fr/425-wc-et-point-d-eau</src>
+    <src>https://eaupotable.info/fr/425-wc-et-point-deau</src>
     <name>WC et point d'eau</name>
     <desc>Joncels, France</desc>
   </wpt>
@@ -1585,7 +1585,7 @@
     <desc>Carrer de Sic&#237;lia, Barcelone, Espagne</desc>
   </wpt>
   <wpt lat="41.4046947393733" lon="2.17522926983645">
-    <src>https://eaupotable.info/fr/445-fontaine-d-eau-potable-eau-de-distribution</src>
+    <src>https://eaupotable.info/fr/445-fontaine-deau-potable-eau-de-distribution</src>
     <name>Fontaine d'eau potable - eau de distribution</name>
     <desc>Pla&#231;a de Gaudi, Barcelone, Espagne</desc>
   </wpt>
@@ -1600,7 +1600,7 @@
     <desc>Rambla de Mercedes, Barcelone, Espagne</desc>
   </wpt>
   <wpt lat="41.4122418336077" lon="2.15386387857359">
-    <src>https://eaupotable.info/fr/448-fontaine-d-eau-potable-eau-de-distribution</src>
+    <src>https://eaupotable.info/fr/448-fontaine-deau-potable-eau-de-distribution</src>
     <name>Fontaine d'eau potable - eau de distribution</name>
     <desc>Rambla de Mercedes, Barcelone, Espagne</desc>
   </wpt>
@@ -1610,7 +1610,7 @@
     <desc>Viriville, France</desc>
   </wpt>
   <wpt lat="45.8302449623139" lon="4.94552290674596">
-    <src>https://eaupotable.info/fr/450-point-d-eau-potable-le-mas-rillier-commune-de-miribel</src>
+    <src>https://eaupotable.info/fr/450-point-deau-potable-le-mas-rillier-commune-de-miribel</src>
     <name>Point d'eau potable Le Mas Rillier Commune de Miribel</name>
     <desc>Le Mas Rillier, Miribel, France</desc>
   </wpt>
@@ -1620,22 +1620,22 @@
     <desc>La Rambla, Barcelone, Espagne</desc>
   </wpt>
   <wpt lat="41.3783695436273" lon="2.17865142876667">
-    <src>https://eaupotable.info/fr/452-fontaine-d-eau-potable-eau-de-distribution</src>
+    <src>https://eaupotable.info/fr/452-fontaine-deau-potable-eau-de-distribution</src>
     <name>Fontaine d'eau potable - eau de distribution</name>
     <desc>Pla&#231;a del Duc de Medinaceli, Barcelone, Espagne</desc>
   </wpt>
   <wpt lat="41.3874063111949" lon="2.17022776452632">
-    <src>https://eaupotable.info/fr/453-fontaine-d-eau-potable-eau-de-distribution</src>
+    <src>https://eaupotable.info/fr/453-fontaine-deau-potable-eau-de-distribution</src>
     <name>Fontaine d'eau potable - eau de distribution</name>
     <desc>Pla&#231;a de  Catalunya, Barcelone, Espagne</desc>
   </wpt>
   <wpt lat="41.4104164020489" lon="2.1584330573944">
-    <src>https://eaupotable.info/fr/454-fontaine-d-eau-potable-eau-de-distribution</src>
+    <src>https://eaupotable.info/fr/454-fontaine-deau-potable-eau-de-distribution</src>
     <name>Fontaine d'eau potable - eau de distribution</name>
     <desc>Carrer de l'Escorial, Barcelone, Espagne</desc>
   </wpt>
   <wpt lat="41.4122408278198" lon="2.15388801845472">
-    <src>https://eaupotable.info/fr/455-fontaine-d-eau-potable-eau-de-distribution</src>
+    <src>https://eaupotable.info/fr/455-fontaine-deau-potable-eau-de-distribution</src>
     <name>Fontaine d'eau potable - eau de distribution</name>
     <desc>Rambla de Mercedes, Barcelone, Espagne</desc>
   </wpt>
@@ -1710,7 +1710,7 @@
     <desc>38 Rue Notre Dame de Nazareth, Paris, &#206;le-de-France, France</desc>
   </wpt>
   <wpt lat="48.9961009638" lon="2.2692607293">
-    <src>https://eaupotable.info/fr/471-fontaine-du-cimetiere-d-eaubonne</src>
+    <src>https://eaupotable.info/fr/471-fontaine-du-cimetiere-deaubonne</src>
     <name>Fontaine du cimeti&#232;re d'Eaubonne</name>
     <desc>Eaubonne, France</desc>
   </wpt>
@@ -1880,7 +1880,7 @@
     <desc>Saint-Maurice-Navacelles, France</desc>
   </wpt>
   <wpt lat="47.9114898164416" lon="7.20883308580972">
-    <src>https://eaupotable.info/fr/505-fontaine-de-l-eglise</src>
+    <src>https://eaupotable.info/fr/505-fontaine-de-leglise</src>
     <name>Fontaine de l'&#233;glise</name>
     <desc>Guebwiller, France</desc>
   </wpt>
@@ -1990,7 +1990,7 @@
     <desc>Parc de la T&#234;te d'Or, Lyon, France</desc>
   </wpt>
   <wpt lat="45.7768754232" lon="4.85403387221">
-    <src>https://eaupotable.info/fr/527-fontaine-d-eau-potable-parc-de-la-tete-d-or-lyon</src>
+    <src>https://eaupotable.info/fr/527-fontaine-deau-potable-parc-de-la-tete-dor-lyon</src>
     <name>Fontaine d'eau potable Parc de la T&#234;te d'Or, Lyon</name>
     <desc>All&#233;e de la Voli&#232;re, Parc de la T&#234;t d'Or, Lyon, France</desc>
   </wpt>
@@ -2595,7 +2595,7 @@
     <desc>Place March&#233; aux Poissons 7</desc>
   </wpt>
   <wpt lat="45.779580858402674" lon="3.0861020930419736">
-    <src>https://eaupotable.info/fr/677-fontaine-n01-rue-philippe-marcombes-a-clermont-ferrand</src>
+    <src>https://eaupotable.info/fr/677-fontaine-n1-rue-philippe-marcombes-a-clermont-ferrand</src>
     <name>Fontaine N&#176;1 rue Philippe Marcombes &#224; Clermont-Ferrand</name>
     <desc>Rue Philippe Marcombes 11</desc>
   </wpt>
@@ -2855,7 +2855,7 @@
     <desc>Chemin du Champ-de-la-Blanche 3</desc>
   </wpt>
   <wpt lat="50.250000352993354" lon="5.121009040336615">
-    <src>https://eaupotable.info/fr/744-fontaine-d-ychippe</src>
+    <src>https://eaupotable.info/fr/744-fontaine-dychippe</src>
     <name>Fontaine d'Ychippe</name>
     <desc>Rue d'Ychippe 30</desc>
   </wpt>

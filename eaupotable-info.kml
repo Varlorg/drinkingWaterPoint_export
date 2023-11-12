@@ -28,7 +28,7 @@
       <coordinates>2.35270824669647,48.8276881699896</coordinates>
     </Point>
     <name>Eau de l'Albien: Fontaine Place Paul Verlaine</name>
-    <description>https://eaupotable.info/fr/4-eau-de-l-albien-fontaine-place-paul-verlaine</description>
+    <description>https://eaupotable.info/fr/4-eau-de-lalbien-fontaine-place-paul-verlaine</description>
     <address>Place Paul Verlaine</address>
   </Placemark>
   <Placemark>
@@ -1188,7 +1188,7 @@
       <coordinates>1.34969859922785,43.5801508596762</coordinates>
     </Point>
     <name>Robinet de l'&#233;tang</name>
-    <description>https://eaupotable.info/fr/249-robinet-de-l-etang</description>
+    <description>https://eaupotable.info/fr/249-robinet-de-letang</description>
     <address>Tournefeuille, France</address>
   </Placemark>
   <Placemark>
@@ -1652,7 +1652,7 @@
       <coordinates>1.7891787050628,43.3669636425978</coordinates>
     </Point>
     <name>Robinet du parvis de l'Eglise</name>
-    <description>https://eaupotable.info/fr/319-robinet-du-parvis-de-l-eglise</description>
+    <description>https://eaupotable.info/fr/319-robinet-du-parvis-de-leglise</description>
     <address>Avignonet-Lauragais, France</address>
   </Placemark>
   <Placemark>
@@ -1764,7 +1764,7 @@
       <coordinates>5.95269111250309,48.1989472155893</coordinates>
     </Point>
     <name>Fontaine d'eau Vittel </name>
-    <description>https://eaupotable.info/fr/333-fontaine-d-eau-vittel</description>
+    <description>https://eaupotable.info/fr/333-fontaine-deau-vittel</description>
     <address>Vittel, France</address>
   </Placemark>
   <Placemark>
@@ -1796,7 +1796,7 @@
       <coordinates>-1.64088654249,43.4071249106</coordinates>
     </Point>
     <name>Robinet de la plage d'Erromardie</name>
-    <description>https://eaupotable.info/fr/337-robinet-de-la-plage-d-erromardie</description>
+    <description>https://eaupotable.info/fr/337-robinet-de-la-plage-derromardie</description>
     <address>Saint-Jean-de-Luz, France</address>
   </Placemark>
   <Placemark>
@@ -1860,7 +1860,7 @@
       <coordinates>1.34453534687,43.5663843871</coordinates>
     </Point>
     <name>Fontaine du parc de jeux d'enfants</name>
-    <description>https://eaupotable.info/fr/345-fontaine-du-parc-de-jeux-d-enfants</description>
+    <description>https://eaupotable.info/fr/345-fontaine-du-parc-de-jeux-denfants</description>
     <address>Tournefeuille, France</address>
   </Placemark>
   <Placemark>
@@ -1980,7 +1980,7 @@
       <coordinates>3.22128534317062,43.3385245797657</coordinates>
     </Point>
     <name>Fontaine eau potable n&#176;2 -  Parc Plateau des Po&#232;tes</name>
-    <description>https://eaupotable.info/fr/372-fontaine-eau-potable-ndeg2-parc-plateau-des-poetes</description>
+    <description>https://eaupotable.info/fr/372-fontaine-eau-potable-n2-parc-plateau-des-poetes</description>
     <address>parc des po&#232;tes b&#233;ziers 34500</address>
   </Placemark>
   <Placemark>
@@ -1988,7 +1988,7 @@
       <coordinates>3.21905642747925,43.3391956517252</coordinates>
     </Point>
     <name>Fontaine eau potable n&#176;1 - Parc Plateau des Po&#232;tes</name>
-    <description>https://eaupotable.info/fr/373-fontaine-eau-potable-ndeg1-parc-plateau-des-poetes</description>
+    <description>https://eaupotable.info/fr/373-fontaine-eau-potable-n1-parc-plateau-des-poetes</description>
     <address>parc plateau des po&#232;tes b&#233;ziers 34500</address>
   </Placemark>
   <Placemark>
@@ -2100,7 +2100,7 @@
       <coordinates>3.87066368952,43.6108380522</coordinates>
     </Point>
     <name>Fontaine eau potable n&#176;1 - Promenade du Peyrou</name>
-    <description>https://eaupotable.info/fr/389-fontaine-eau-potable-ndeg1-promenade-du-peyrou</description>
+    <description>https://eaupotable.info/fr/389-fontaine-eau-potable-n1-promenade-du-peyrou</description>
     <address>Promenade du Peyrou, 34000 Montpellier, France</address>
   </Placemark>
   <Placemark>
@@ -2140,7 +2140,7 @@
       <coordinates>3.88125871164,43.610667891</coordinates>
     </Point>
     <name>Fontaine eau potable n&#176;2 Esplanade Charles de Gaulle</name>
-    <description>https://eaupotable.info/fr/394-fontaine-eau-potable-ndeg2-esplanade-charles-de-gaulle</description>
+    <description>https://eaupotable.info/fr/394-fontaine-eau-potable-n2-esplanade-charles-de-gaulle</description>
     <address>Esplanade Charles de Gaulle, Montpellier, France</address>
   </Placemark>
   <Placemark>
@@ -2156,7 +2156,7 @@
       <coordinates>7.41743384583,46.2394586931</coordinates>
     </Point>
     <name>Fontaine d'eau potable</name>
-    <description>https://eaupotable.info/fr/396-fontaine-d-eau-potable</description>
+    <description>https://eaupotable.info/fr/396-fontaine-deau-potable</description>
     <address>Saint-L&#233;onard, Suisse</address>
   </Placemark>
   <Placemark>
@@ -2388,7 +2388,7 @@
       <coordinates>3.19410393121348,43.737963698373</coordinates>
     </Point>
     <name>WC et point d'eau</name>
-    <description>https://eaupotable.info/fr/425-wc-et-point-d-eau</description>
+    <description>https://eaupotable.info/fr/425-wc-et-point-deau</description>
     <address>Joncels, France</address>
   </Placemark>
   <Placemark>
@@ -2540,7 +2540,7 @@
       <coordinates>2.17522926983645,41.4046947393733</coordinates>
     </Point>
     <name>Fontaine d'eau potable - eau de distribution</name>
-    <description>https://eaupotable.info/fr/445-fontaine-d-eau-potable-eau-de-distribution</description>
+    <description>https://eaupotable.info/fr/445-fontaine-deau-potable-eau-de-distribution</description>
     <address>Pla&#231;a de Gaudi, Barcelone, Espagne</address>
   </Placemark>
   <Placemark>
@@ -2564,7 +2564,7 @@
       <coordinates>2.15386387857359,41.4122418336077</coordinates>
     </Point>
     <name>Fontaine d'eau potable - eau de distribution</name>
-    <description>https://eaupotable.info/fr/448-fontaine-d-eau-potable-eau-de-distribution</description>
+    <description>https://eaupotable.info/fr/448-fontaine-deau-potable-eau-de-distribution</description>
     <address>Rambla de Mercedes, Barcelone, Espagne</address>
   </Placemark>
   <Placemark>
@@ -2580,7 +2580,7 @@
       <coordinates>4.94552290674596,45.8302449623139</coordinates>
     </Point>
     <name>Point d'eau potable Le Mas Rillier Commune de Miribel</name>
-    <description>https://eaupotable.info/fr/450-point-d-eau-potable-le-mas-rillier-commune-de-miribel</description>
+    <description>https://eaupotable.info/fr/450-point-deau-potable-le-mas-rillier-commune-de-miribel</description>
     <address>Le Mas Rillier, Miribel, France</address>
   </Placemark>
   <Placemark>
@@ -2596,7 +2596,7 @@
       <coordinates>2.17865142876667,41.3783695436273</coordinates>
     </Point>
     <name>Fontaine d'eau potable - eau de distribution</name>
-    <description>https://eaupotable.info/fr/452-fontaine-d-eau-potable-eau-de-distribution</description>
+    <description>https://eaupotable.info/fr/452-fontaine-deau-potable-eau-de-distribution</description>
     <address>Pla&#231;a del Duc de Medinaceli, Barcelone, Espagne</address>
   </Placemark>
   <Placemark>
@@ -2604,7 +2604,7 @@
       <coordinates>2.17022776452632,41.3874063111949</coordinates>
     </Point>
     <name>Fontaine d'eau potable - eau de distribution</name>
-    <description>https://eaupotable.info/fr/453-fontaine-d-eau-potable-eau-de-distribution</description>
+    <description>https://eaupotable.info/fr/453-fontaine-deau-potable-eau-de-distribution</description>
     <address>Pla&#231;a de  Catalunya, Barcelone, Espagne</address>
   </Placemark>
   <Placemark>
@@ -2612,7 +2612,7 @@
       <coordinates>2.1584330573944,41.4104164020489</coordinates>
     </Point>
     <name>Fontaine d'eau potable - eau de distribution</name>
-    <description>https://eaupotable.info/fr/454-fontaine-d-eau-potable-eau-de-distribution</description>
+    <description>https://eaupotable.info/fr/454-fontaine-deau-potable-eau-de-distribution</description>
     <address>Carrer de l'Escorial, Barcelone, Espagne</address>
   </Placemark>
   <Placemark>
@@ -2620,7 +2620,7 @@
       <coordinates>2.15388801845472,41.4122408278198</coordinates>
     </Point>
     <name>Fontaine d'eau potable - eau de distribution</name>
-    <description>https://eaupotable.info/fr/455-fontaine-d-eau-potable-eau-de-distribution</description>
+    <description>https://eaupotable.info/fr/455-fontaine-deau-potable-eau-de-distribution</description>
     <address>Rambla de Mercedes, Barcelone, Espagne</address>
   </Placemark>
   <Placemark>
@@ -2740,7 +2740,7 @@
       <coordinates>2.2692607293,48.9961009638</coordinates>
     </Point>
     <name>Fontaine du cimeti&#232;re d'Eaubonne</name>
-    <description>https://eaupotable.info/fr/471-fontaine-du-cimetiere-d-eaubonne</description>
+    <description>https://eaupotable.info/fr/471-fontaine-du-cimetiere-deaubonne</description>
     <address>Eaubonne, France</address>
   </Placemark>
   <Placemark>
@@ -3012,7 +3012,7 @@
       <coordinates>7.20883308580972,47.9114898164416</coordinates>
     </Point>
     <name>Fontaine de l'&#233;glise</name>
-    <description>https://eaupotable.info/fr/505-fontaine-de-l-eglise</description>
+    <description>https://eaupotable.info/fr/505-fontaine-de-leglise</description>
     <address>Guebwiller, France</address>
   </Placemark>
   <Placemark>
@@ -3188,7 +3188,7 @@
       <coordinates>4.85403387221,45.7768754232</coordinates>
     </Point>
     <name>Fontaine d'eau potable Parc de la T&#234;te d'Or, Lyon</name>
-    <description>https://eaupotable.info/fr/527-fontaine-d-eau-potable-parc-de-la-tete-d-or-lyon</description>
+    <description>https://eaupotable.info/fr/527-fontaine-deau-potable-parc-de-la-tete-dor-lyon</description>
     <address>All&#233;e de la Voli&#232;re, Parc de la T&#234;t d'Or, Lyon, France</address>
   </Placemark>
   <Placemark>
@@ -4156,7 +4156,7 @@
       <coordinates>3.0861020930419736,45.779580858402674</coordinates>
     </Point>
     <name>Fontaine N&#176;1 rue Philippe Marcombes &#224; Clermont-Ferrand</name>
-    <description>https://eaupotable.info/fr/677-fontaine-n01-rue-philippe-marcombes-a-clermont-ferrand</description>
+    <description>https://eaupotable.info/fr/677-fontaine-n1-rue-philippe-marcombes-a-clermont-ferrand</description>
     <address>Rue Philippe Marcombes 11</address>
   </Placemark>
   <Placemark>
@@ -4572,7 +4572,7 @@
       <coordinates>5.121009040336615,50.250000352993354</coordinates>
     </Point>
     <name>Fontaine d'Ychippe</name>
-    <description>https://eaupotable.info/fr/744-fontaine-d-ychippe</description>
+    <description>https://eaupotable.info/fr/744-fontaine-dychippe</description>
     <address>Rue d'Ychippe 30</address>
   </Placemark>
   <Placemark>
