@@ -3424,4 +3424,19 @@
     <name>Robinet du cimeti&#232;re de Chanly (&#233;glise Saint-Remacle)</name>
     <desc>Rue de Grupont 101</desc>
   </wpt>
+  <wpt lat="39.480374756322306" lon="-0.433183197531124">
+    <src>https://eaupotable.info/fr/865-parque-polideportivo-municipal</src>
+    <name>Parque polideportivo municipal</name>
+    <desc>Avinguda Antic Regne de Val&#232;ncia 102</desc>
+  </wpt>
+  <wpt lat="45.58825896808486" lon="2.8033985978393527">
+    <src>https://eaupotable.info/fr/866-fontaine-du-parking-des-cascades-a-mont-dore</src>
+    <name>Fontaine du parking des Cascades &#224; Mont-Dore</name>
+    <desc>Route de Prends Toi Garde 47</desc>
+  </wpt>
+  <wpt lat="39.42730156383302" lon="-0.41974720118866937">
+    <src>https://eaupotable.info/fr/867-carrer-de-la-font-primer-de-maig</src>
+    <name>Carrer de la font - Primer de maig</name>
+    <desc>Carrer Primer de Maig 30</desc>
+  </wpt>
 </gpx>

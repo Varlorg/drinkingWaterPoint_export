@@ -5479,4 +5479,28 @@
     <description>https://eaupotable.info/fr/864-robinet-du-cimetiere-de-chanly-eglise-saint-remacle</description>
     <address>Rue de Grupont 101</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.433183197531124,39.480374756322306</coordinates>
+    </Point>
+    <name>Parque polideportivo municipal</name>
+    <description>https://eaupotable.info/fr/865-parque-polideportivo-municipal</description>
+    <address>Avinguda Antic Regne de Val&#232;ncia 102</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.8033985978393527,45.58825896808486</coordinates>
+    </Point>
+    <name>Fontaine du parking des Cascades &#224; Mont-Dore</name>
+    <description>https://eaupotable.info/fr/866-fontaine-du-parking-des-cascades-a-mont-dore</description>
+    <address>Route de Prends Toi Garde 47</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.41974720118866937,39.42730156383302</coordinates>
+    </Point>
+    <name>Carrer de la font - Primer de maig</name>
+    <description>https://eaupotable.info/fr/867-carrer-de-la-font-primer-de-maig</description>
+    <address>Carrer Primer de Maig 30</address>
+  </Placemark>
 </kml>
