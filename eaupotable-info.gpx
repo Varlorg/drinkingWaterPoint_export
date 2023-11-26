@@ -3439,4 +3439,9 @@
     <name>Carrer de la font - Primer de maig</name>
     <desc>Carrer Primer de Maig 30</desc>
   </wpt>
+  <wpt lat="47.623709" lon="-2.777768">
+    <src>https://eaupotable.info/fr/868-port-anna</src>
+    <name>Port Anna</name>
+    <desc/>
+  </wpt>
 </gpx>

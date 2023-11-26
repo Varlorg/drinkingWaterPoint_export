@@ -5503,4 +5503,12 @@
     <description>https://eaupotable.info/fr/867-carrer-de-la-font-primer-de-maig</description>
     <address>Carrer Primer de Maig 30</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-2.777768,47.623709</coordinates>
+    </Point>
+    <name>Port Anna</name>
+    <description>https://eaupotable.info/fr/868-port-anna</description>
+    <address/>
+  </Placemark>
 </kml>
