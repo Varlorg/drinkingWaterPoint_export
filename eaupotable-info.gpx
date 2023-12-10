@@ -3444,4 +3444,24 @@
     <name>Port Anna</name>
     <desc/>
   </wpt>
+  <wpt lat="45.5883603279363" lon="2.8044500237731906">
+    <src>https://eaupotable.info/fr/869-cimetiere-de-mont-dore</src>
+    <name>Cimeti&#232;re de Mont-Dore</name>
+    <desc>Route de Prends Toi Garde 47</desc>
+  </wpt>
+  <wpt lat="45.68311252735698" lon="2.841695932540902">
+    <src>https://eaupotable.info/fr/870-fontaine-de-la-basilique-dorcival</src>
+    <name>Fontaine de la basilique d'Orcival</name>
+    <desc>Rue de Cord&#232;s 25</desc>
+  </wpt>
+  <wpt lat="45.5883002628613" lon="2.8037526494293186">
+    <src>https://eaupotable.info/fr/871-robinets-cimetiere-de-mont-dore</src>
+    <name>Robinets cimeti&#232;re de Mont-Dore</name>
+    <desc>Route de Prends Toi Garde 47</desc>
+  </wpt>
+  <wpt lat="45.6829963478239" lon="2.8416101018524254">
+    <src>https://eaupotable.info/fr/872-fontaine-de-la-basilique-dorcival</src>
+    <name>Fontaine de la basilique d'Orcival</name>
+    <desc>Place Notre Dame 64</desc>
+  </wpt>
 </gpx>

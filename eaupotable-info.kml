@@ -5511,4 +5511,36 @@
     <description>https://eaupotable.info/fr/868-port-anna</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.8044500237731906,45.5883603279363</coordinates>
+    </Point>
+    <name>Cimeti&#232;re de Mont-Dore</name>
+    <description>https://eaupotable.info/fr/869-cimetiere-de-mont-dore</description>
+    <address>Route de Prends Toi Garde 47</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.841695932540902,45.68311252735698</coordinates>
+    </Point>
+    <name>Fontaine de la basilique d'Orcival</name>
+    <description>https://eaupotable.info/fr/870-fontaine-de-la-basilique-dorcival</description>
+    <address>Rue de Cord&#232;s 25</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.8037526494293186,45.5883002628613</coordinates>
+    </Point>
+    <name>Robinets cimeti&#232;re de Mont-Dore</name>
+    <description>https://eaupotable.info/fr/871-robinets-cimetiere-de-mont-dore</description>
+    <address>Route de Prends Toi Garde 47</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.8416101018524254,45.6829963478239</coordinates>
+    </Point>
+    <name>Fontaine de la basilique d'Orcival</name>
+    <description>https://eaupotable.info/fr/872-fontaine-de-la-basilique-dorcival</description>
+    <address>Place Notre Dame 64</address>
+  </Placemark>
 </kml>
