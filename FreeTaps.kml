@@ -136191,4 +136191,102 @@ c7642dd53b58b4ad8c4742f33b909e08</description>
     <description>FOUNTAIN
 49cf95e977facd9c1bbc8a72f4ea8cd7</description>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.35103247687221,48.8565990052465</coordinates>
+    </Point>
+    <description>FOUNTAIN
+210d522af840f48dbc79be6d41de70c8</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-3.04753233749164,48.2054969730833</coordinates>
+    </Point>
+    <description>FOUNTAIN
+62b4234133c0e49972d67ea07dcb7ad6</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>1.79629666806029,43.5408880720746</coordinates>
+    </Point>
+    <description>FOUNTAIN
+e8b01958910ae692fac9498669056dba</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.227738823741674,42.7910057090354</coordinates>
+    </Point>
+    <description>FOUNTAIN
+04481c9ba0422e378a31f39641ce778f</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.48204815015197,43.3358781367013</coordinates>
+    </Point>
+    <description>PRIVATE
+L'hostellerie</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.00382864252695,43.5489738564918</coordinates>
+    </Point>
+    <description>FOUNTAIN
+09527dd43bfb4dcd61f0690d22b41f88</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.00630388199530437,42.8752480919125</coordinates>
+    </Point>
+    <description>FOUNTAIN
+6e45315a131cc43f5e127e8b3548f6ac</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.36551877913783,48.8318918031826</coordinates>
+    </Point>
+    <description>FOUNTAIN
+21674e8a4146f06de1c74a8e2026663f</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.3790300330377,48.8310985219384</coordinates>
+    </Point>
+    <description>PRIVATE
+Ceci est un test </description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>13.3458947204053,38.1093912192433</coordinates>
+    </Point>
+    <description>FOUNTAIN
+c7642dd53b58b4ad8c4742f33b909e08</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-2.10615718737245,36.7627865382308</coordinates>
+    </Point>
+    <description>FOUNTAIN
+b0be45bedca923f91e63e183e0f510b2</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.542995277792215,43.071028054963</coordinates>
+    </Point>
+    <description>FOUNTAIN
+26fddea6943fb9dec85da22d8eb7b676</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.93589067508962,46.0085951231966</coordinates>
+    </Point>
+    <description>FOUNTAIN
+98c7376fb86aca1a22db3849fc37afec</description>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.27800674587287,47.4595258276724</coordinates>
+    </Point>
+    <description>FOUNTAIN
+6c8253c955ff3e891f34fcc4752e165d</description>
+  </Placemark>
 </kml>
