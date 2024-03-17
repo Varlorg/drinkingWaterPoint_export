@@ -5543,4 +5543,20 @@
     <description>https://eaupotable.info/fr/872-fontaine-de-la-basilique-dorcival</description>
     <address>Place Notre Dame 64</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.6722976319183536,48.10338552354269</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/874-fontaine</description>
+    <address>Place de la Gare 17</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>9.341383149132424,45.5482206567923</coordinates>
+    </Point>
+    <name>Water fountain Parco Centro</name>
+    <description>https://eaupotable.info/fr/875-water-fountain-parco-centro</description>
+    <address>Via Vittorio Bachelet 19</address>
+  </Placemark>
 </kml>

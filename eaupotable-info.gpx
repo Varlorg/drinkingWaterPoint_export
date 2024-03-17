@@ -3464,4 +3464,14 @@
     <name>Fontaine de la basilique d'Orcival</name>
     <desc>Place Notre Dame 64</desc>
   </wpt>
+  <wpt lat="48.10338552354269" lon="-1.6722976319183536">
+    <src>https://eaupotable.info/fr/874-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Place de la Gare 17</desc>
+  </wpt>
+  <wpt lat="45.5482206567923" lon="9.341383149132424">
+    <src>https://eaupotable.info/fr/875-water-fountain-parco-centro</src>
+    <name>Water fountain Parco Centro</name>
+    <desc>Via Vittorio Bachelet 19</desc>
+  </wpt>
 </gpx>
