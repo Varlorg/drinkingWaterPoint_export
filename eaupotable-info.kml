@@ -5559,4 +5559,12 @@
     <description>https://eaupotable.info/fr/875-water-fountain-parco-centro</description>
     <address>Via Vittorio Bachelet 19</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-79.16560492437975,43.80259263872822</coordinates>
+    </Point>
+    <name>Water Fountain</name>
+    <description>https://eaupotable.info/fr/887-water-fountain</description>
+    <address>2816-19 Bathurst St</address>
+  </Placemark>
 </kml>

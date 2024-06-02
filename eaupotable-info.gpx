@@ -3474,4 +3474,9 @@
     <name>Water fountain Parco Centro</name>
     <desc>Via Vittorio Bachelet 19</desc>
   </wpt>
+  <wpt lat="43.80259263872822" lon="-79.16560492437975">
+    <src>https://eaupotable.info/fr/887-water-fountain</src>
+    <name>Water Fountain</name>
+    <desc>2816-19 Bathurst St</desc>
+  </wpt>
 </gpx>
