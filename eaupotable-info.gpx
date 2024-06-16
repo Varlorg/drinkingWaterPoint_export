@@ -3479,4 +3479,29 @@
     <name>Water Fountain</name>
     <desc>2816-19 Bathurst St</desc>
   </wpt>
+  <wpt lat="40.11843401751088" lon="9.250605330984145">
+    <src>https://eaupotable.info/fr/888-tap-water</src>
+    <name>Tap water</name>
+    <desc>227 boulevard de Saint-Loup</desc>
+  </wpt>
+  <wpt lat="40.09389355115595" lon="9.16942165098908">
+    <src>https://eaupotable.info/fr/889-tap-water</src>
+    <name>Tap water</name>
+    <desc>227 boulevard de Saint-Loup</desc>
+  </wpt>
+  <wpt lat="40.093879524745866" lon="9.16940727078645">
+    <src>https://eaupotable.info/fr/890-tap-water</src>
+    <name>Tap water</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.465224688916415" lon="14.199438233453181">
+    <src>https://eaupotable.info/fr/891-parco-nicola-calipari</src>
+    <name>Parco Nicola Calipari</name>
+    <desc>Via Renato Paolini 118</desc>
+  </wpt>
+  <wpt lat="43.529742" lon="5.447427">
+    <src>https://eaupotable.info/fr/892-fontaine-des-bagniers</src>
+    <name>Fontaine des bagniers</name>
+    <desc/>
+  </wpt>
 </gpx>

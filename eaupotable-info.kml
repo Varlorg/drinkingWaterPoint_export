@@ -5567,4 +5567,44 @@
     <description>https://eaupotable.info/fr/887-water-fountain</description>
     <address>2816-19 Bathurst St</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>9.250605330984145,40.11843401751088</coordinates>
+    </Point>
+    <name>Tap water</name>
+    <description>https://eaupotable.info/fr/888-tap-water</description>
+    <address>227 boulevard de Saint-Loup</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>9.16942165098908,40.09389355115595</coordinates>
+    </Point>
+    <name>Tap water</name>
+    <description>https://eaupotable.info/fr/889-tap-water</description>
+    <address>227 boulevard de Saint-Loup</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>9.16940727078645,40.093879524745866</coordinates>
+    </Point>
+    <name>Tap water</name>
+    <description>https://eaupotable.info/fr/890-tap-water</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>14.199438233453181,42.465224688916415</coordinates>
+    </Point>
+    <name>Parco Nicola Calipari</name>
+    <description>https://eaupotable.info/fr/891-parco-nicola-calipari</description>
+    <address>Via Renato Paolini 118</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.447427,43.529742</coordinates>
+    </Point>
+    <name>Fontaine des bagniers</name>
+    <description>https://eaupotable.info/fr/892-fontaine-des-bagniers</description>
+    <address/>
+  </Placemark>
 </kml>
