@@ -3504,4 +3504,9 @@
     <name>Fontaine des bagniers</name>
     <desc/>
   </wpt>
+  <wpt lat="39.03360158361337" lon="8.995486145835002">
+    <src>https://eaupotable.info/fr/893-tap-water</src>
+    <name>Tap water</name>
+    <desc>Piazza San Pietro 9</desc>
+  </wpt>
 </gpx>

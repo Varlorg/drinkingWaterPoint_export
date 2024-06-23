@@ -5607,4 +5607,12 @@
     <description>https://eaupotable.info/fr/892-fontaine-des-bagniers</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>8.995486145835002,39.03360158361337</coordinates>
+    </Point>
+    <name>Tap water</name>
+    <description>https://eaupotable.info/fr/893-tap-water</description>
+    <address>Piazza San Pietro 9</address>
+  </Placemark>
 </kml>
