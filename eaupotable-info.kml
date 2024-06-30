@@ -5615,4 +5615,36 @@
     <description>https://eaupotable.info/fr/893-tap-water</description>
     <address>Piazza San Pietro 9</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0260406,39.9936542</coordinates>
+    </Point>
+    <name>Fuente de agua potable</name>
+    <description>https://eaupotable.info/fr/894-fuente-de-agua-potable</description>
+    <address>Avenida de la Mare de D&#233;u del Lled&#243; 80</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0272747,39.9929382</coordinates>
+    </Point>
+    <name>Fuente de agua potable</name>
+    <description>https://eaupotable.info/fr/895-fuente-de-agua-potable</description>
+    <address>Avenida de la Mare de D&#233;u del Lled&#243; 68</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.451067414666109,49.88682145669796</coordinates>
+    </Point>
+    <name>Eglise</name>
+    <description>https://eaupotable.info/fr/896-eglise</description>
+    <address>Pachis Saint-Raymond 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.677932999999999,49.015167</coordinates>
+    </Point>
+    <name>Fontaine publique</name>
+    <description>https://eaupotable.info/fr/897-fontaine-publique</description>
+    <address>Rue de l.eglise et rue de verdun</address>
+  </Placemark>
 </kml>

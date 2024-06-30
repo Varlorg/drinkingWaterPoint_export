@@ -3509,4 +3509,24 @@
     <name>Tap water</name>
     <desc>Piazza San Pietro 9</desc>
   </wpt>
+  <wpt lat="39.9936542" lon="-0.0260406">
+    <src>https://eaupotable.info/fr/894-fuente-de-agua-potable</src>
+    <name>Fuente de agua potable</name>
+    <desc>Avenida de la Mare de D&#233;u del Lled&#243; 80</desc>
+  </wpt>
+  <wpt lat="39.9929382" lon="-0.0272747">
+    <src>https://eaupotable.info/fr/895-fuente-de-agua-potable</src>
+    <name>Fuente de agua potable</name>
+    <desc>Avenida de la Mare de D&#233;u del Lled&#243; 68</desc>
+  </wpt>
+  <wpt lat="49.88682145669796" lon="5.451067414666109">
+    <src>https://eaupotable.info/fr/896-eglise</src>
+    <name>Eglise</name>
+    <desc>Pachis Saint-Raymond 10</desc>
+  </wpt>
+  <wpt lat="49.015167" lon="5.677932999999999">
+    <src>https://eaupotable.info/fr/897-fontaine-publique</src>
+    <name>Fontaine publique</name>
+    <desc>Rue de l.eglise et rue de verdun</desc>
+  </wpt>
 </gpx>
