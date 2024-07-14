@@ -5647,4 +5647,28 @@
     <description>https://eaupotable.info/fr/897-fontaine-publique</description>
     <address>Rue de l.eglise et rue de verdun</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.1773998764182005,52.22557072927717</coordinates>
+    </Point>
+    <name>Tap point</name>
+    <description>https://eaupotable.info/fr/898-tap-point</description>
+    <address>Groest 58</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.54555472082531,46.24379214184054</coordinates>
+    </Point>
+    <name>Wasserhahn am Waschplatz</name>
+    <description>https://eaupotable.info/fr/899-wasserhahn-am-waschplatz</description>
+    <address>1 Chem. de la Tour, 01580 Matafelon-Granges, Frankreich</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-6.3853210858692355,37.288264638041305</coordinates>
+    </Point>
+    <name>Fuente en polideportivo</name>
+    <description>https://eaupotable.info/fr/900-fuente-en-polideportivo</description>
+    <address>Manuel Villalobos</address>
+  </Placemark>
 </kml>
