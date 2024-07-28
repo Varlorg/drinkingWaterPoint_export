@@ -3544,4 +3544,9 @@
     <name>Fuente en polideportivo</name>
     <desc>Manuel Villalobos</desc>
   </wpt>
+  <wpt lat="50.5158049777896" lon="4.36339922618104">
+    <src>https://eaupotable.info/fr/902-robinet-publique</src>
+    <name>Robinet publique</name>
+    <desc>Rue du Cimeti&#232;re 23</desc>
+  </wpt>
 </gpx>

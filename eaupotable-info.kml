@@ -5671,4 +5671,12 @@
     <description>https://eaupotable.info/fr/900-fuente-en-polideportivo</description>
     <address>Manuel Villalobos</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.36339922618104,50.5158049777896</coordinates>
+    </Point>
+    <name>Robinet publique</name>
+    <description>https://eaupotable.info/fr/902-robinet-publique</description>
+    <address>Rue du Cimeti&#232;re 23</address>
+  </Placemark>
 </kml>
