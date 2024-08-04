@@ -5679,4 +5679,44 @@
     <description>https://eaupotable.info/fr/902-robinet-publique</description>
     <address>Rue du Cimeti&#232;re 23</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-4.297923800463299,48.091341999179775</coordinates>
+    </Point>
+    <name>Robinet de la plage du Ris</name>
+    <description>https://eaupotable.info/fr/903-robinet-de-la-plage-du-ris</description>
+    <address>Route du Ris 109</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-4.3245079049094,48.09411885782573</coordinates>
+    </Point>
+    <name>Fontaine du Rosmeur</name>
+    <description>https://eaupotable.info/fr/904-fontaine-du-rosmeur</description>
+    <address>Quai du Petit Port 17</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-4.327035276521873,48.09378091800484</coordinates>
+    </Point>
+    <name>Fontaine des Halles</name>
+    <description>https://eaupotable.info/fr/905-fontaine-des-halles</description>
+    <address>Rue Eug&#232;ne K&#233;rivel 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.7603852164131109,39.853215988196794</coordinates>
+    </Point>
+    <name>Fuente de Santa Barbara</name>
+    <description>https://eaupotable.info/fr/906-fuente-de-santa-barbara</description>
+    <address>Calle Horno 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>11.2565501,43.7734385</coordinates>
+    </Point>
+    <name>Fuente duh</name>
+    <description>https://eaupotable.info/fr/907-fuente-duh</description>
+    <address>Piazza del Duomo</address>
+  </Placemark>
 </kml>

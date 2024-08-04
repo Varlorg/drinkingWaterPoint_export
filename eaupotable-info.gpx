@@ -3549,4 +3549,29 @@
     <name>Robinet publique</name>
     <desc>Rue du Cimeti&#232;re 23</desc>
   </wpt>
+  <wpt lat="48.091341999179775" lon="-4.297923800463299">
+    <src>https://eaupotable.info/fr/903-robinet-de-la-plage-du-ris</src>
+    <name>Robinet de la plage du Ris</name>
+    <desc>Route du Ris 109</desc>
+  </wpt>
+  <wpt lat="48.09411885782573" lon="-4.3245079049094">
+    <src>https://eaupotable.info/fr/904-fontaine-du-rosmeur</src>
+    <name>Fontaine du Rosmeur</name>
+    <desc>Quai du Petit Port 17</desc>
+  </wpt>
+  <wpt lat="48.09378091800484" lon="-4.327035276521873">
+    <src>https://eaupotable.info/fr/905-fontaine-des-halles</src>
+    <name>Fontaine des Halles</name>
+    <desc>Rue Eug&#232;ne K&#233;rivel 2</desc>
+  </wpt>
+  <wpt lat="39.853215988196794" lon="-0.7603852164131109">
+    <src>https://eaupotable.info/fr/906-fuente-de-santa-barbara</src>
+    <name>Fuente de Santa Barbara</name>
+    <desc>Calle Horno 1</desc>
+  </wpt>
+  <wpt lat="43.7734385" lon="11.2565501">
+    <src>https://eaupotable.info/fr/907-fuente-duh</src>
+    <name>Fuente duh</name>
+    <desc>Piazza del Duomo</desc>
+  </wpt>
 </gpx>
