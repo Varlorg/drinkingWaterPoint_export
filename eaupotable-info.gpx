@@ -3574,4 +3574,54 @@
     <name>Fuente duh</name>
     <desc>Piazza del Duomo</desc>
   </wpt>
+  <wpt lat="47.04114719635819" lon="8.220069883467106">
+    <src>https://eaupotable.info/fr/908-water-fountain-next-to-house-pond</src>
+    <name>Water fountain next to house &amp; pond</name>
+    <desc>Weiherhus 1</desc>
+  </wpt>
+  <wpt lat="47.06013162646126" lon="8.324028681553667">
+    <src>https://eaupotable.info/fr/909-fountain-just-next-to-the-sidewalk-before-going-up-the-hill</src>
+    <name>Fountain just next to the sidewalk before going up the hill</name>
+    <desc>Dietschibergstrasse 6006</desc>
+  </wpt>
+  <wpt lat="46.287589285526465" lon="6.993709848028167">
+    <src>https://eaupotable.info/fr/910-villy-water-fountain</src>
+    <name>Villy Water Fountain</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.28004339222775" lon="7.616509719425801">
+    <src>https://eaupotable.info/fr/911-toilette-publiques</src>
+    <name>Toilette publiques</name>
+    <desc>M&#252;hlenstra&#223;e 10</desc>
+  </wpt>
+  <wpt lat="50.280063503878736" lon="7.616518779544856">
+    <src>https://eaupotable.info/fr/912-toilettes-publiques</src>
+    <name>Toilettes publiques</name>
+    <desc>M&#252;hlenstra&#223;e 10</desc>
+  </wpt>
+  <wpt lat="50.280063503878736" lon="7.616518779544856">
+    <src>https://eaupotable.info/fr/913-toilettes-publiques</src>
+    <name>Toilettes publiques</name>
+    <desc>M&#252;hlenstra&#223;e 10</desc>
+  </wpt>
+  <wpt lat="41.526347158849944" lon="2.3933282423457936">
+    <src>https://eaupotable.info/fr/914-font-ajuntament-de-cabrera</src>
+    <name>Font ajuntament de Cabrera</name>
+    <desc>Pintor Pahissa 25</desc>
+  </wpt>
+  <wpt lat="49.88263781750631" lon="5.630768224363316">
+    <src>https://eaupotable.info/fr/915-fontaine-winville</src>
+    <name>Fontaine Winville</name>
+    <desc>N848 13</desc>
+  </wpt>
+  <wpt lat="49.91472331648918" lon="5.609939533729551">
+    <src>https://eaupotable.info/fr/916-fontaine-cobreville</src>
+    <name>Fontaine Cobreville</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.22670094642539" lon="8.146252879467774">
+    <src>https://eaupotable.info/fr/917-fountain-next-to-farm-house</src>
+    <name>Fountain next to farm house</name>
+    <desc>Kr&#252;mmigasse 10</desc>
+  </wpt>
 </gpx>

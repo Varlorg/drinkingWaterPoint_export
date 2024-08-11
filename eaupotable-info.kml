@@ -5719,4 +5719,84 @@
     <description>https://eaupotable.info/fr/907-fuente-duh</description>
     <address>Piazza del Duomo</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>8.220069883467106,47.04114719635819</coordinates>
+    </Point>
+    <name>Water fountain next to house &amp; pond</name>
+    <description>https://eaupotable.info/fr/908-water-fountain-next-to-house-pond</description>
+    <address>Weiherhus 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>8.324028681553667,47.06013162646126</coordinates>
+    </Point>
+    <name>Fountain just next to the sidewalk before going up the hill</name>
+    <description>https://eaupotable.info/fr/909-fountain-just-next-to-the-sidewalk-before-going-up-the-hill</description>
+    <address>Dietschibergstrasse 6006</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.993709848028167,46.287589285526465</coordinates>
+    </Point>
+    <name>Villy Water Fountain</name>
+    <description>https://eaupotable.info/fr/910-villy-water-fountain</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.616509719425801,50.28004339222775</coordinates>
+    </Point>
+    <name>Toilette publiques</name>
+    <description>https://eaupotable.info/fr/911-toilette-publiques</description>
+    <address>M&#252;hlenstra&#223;e 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.616518779544856,50.280063503878736</coordinates>
+    </Point>
+    <name>Toilettes publiques</name>
+    <description>https://eaupotable.info/fr/912-toilettes-publiques</description>
+    <address>M&#252;hlenstra&#223;e 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.616518779544856,50.280063503878736</coordinates>
+    </Point>
+    <name>Toilettes publiques</name>
+    <description>https://eaupotable.info/fr/913-toilettes-publiques</description>
+    <address>M&#252;hlenstra&#223;e 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.3933282423457936,41.526347158849944</coordinates>
+    </Point>
+    <name>Font ajuntament de Cabrera</name>
+    <description>https://eaupotable.info/fr/914-font-ajuntament-de-cabrera</description>
+    <address>Pintor Pahissa 25</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.630768224363316,49.88263781750631</coordinates>
+    </Point>
+    <name>Fontaine Winville</name>
+    <description>https://eaupotable.info/fr/915-fontaine-winville</description>
+    <address>N848 13</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.609939533729551,49.91472331648918</coordinates>
+    </Point>
+    <name>Fontaine Cobreville</name>
+    <description>https://eaupotable.info/fr/916-fontaine-cobreville</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>8.146252879467774,47.22670094642539</coordinates>
+    </Point>
+    <name>Fountain next to farm house</name>
+    <description>https://eaupotable.info/fr/917-fountain-next-to-farm-house</description>
+    <address>Kr&#252;mmigasse 10</address>
+  </Placemark>
 </kml>
