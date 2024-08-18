@@ -5799,4 +5799,52 @@
     <description>https://eaupotable.info/fr/917-fountain-next-to-farm-house</description>
     <address>Kr&#252;mmigasse 10</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.5759323,39.9155531</coordinates>
+    </Point>
+    <name>Spring water</name>
+    <description>https://eaupotable.info/fr/918-spring-water</description>
+    <address>Career Randurias</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.509384105924459,46.08332191918607</coordinates>
+    </Point>
+    <name>Waterpoint</name>
+    <description>https://eaupotable.info/fr/919-waterpoint</description>
+    <address>Chemin de l'Ecole 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>11.256263638318615,43.77337095072501</coordinates>
+    </Point>
+    <name>Fountain</name>
+    <description>https://eaupotable.info/fr/920-fountain</description>
+    <address>Piazza del Duomo 12</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.4463145283249,50.8065696630808</coordinates>
+    </Point>
+    <name>Source des Trois Fontaines</name>
+    <description>https://eaupotable.info/fr/921-source-des-trois-fontaines</description>
+    <address>Vallon des Trois Fontaines</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.45407684121399,50.809539202304</coordinates>
+    </Point>
+    <name>Source de l'Empereur Charlemagne</name>
+    <description>https://eaupotable.info/fr/922-source-de-lempereur-charlemagne</description>
+    <address>Vijversweg</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.45753152642518,50.8102239322834</coordinates>
+    </Point>
+    <name>Source du Sylvain</name>
+    <description>https://eaupotable.info/fr/923-source-du-sylvain</description>
+    <address>Vijversweg</address>
+  </Placemark>
 </kml>

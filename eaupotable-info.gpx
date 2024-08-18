@@ -3624,4 +3624,34 @@
     <name>Fountain next to farm house</name>
     <desc>Kr&#252;mmigasse 10</desc>
   </wpt>
+  <wpt lat="39.9155531" lon="-0.5759323">
+    <src>https://eaupotable.info/fr/918-spring-water</src>
+    <name>Spring water</name>
+    <desc>Career Randurias</desc>
+  </wpt>
+  <wpt lat="46.08332191918607" lon="7.509384105924459">
+    <src>https://eaupotable.info/fr/919-waterpoint</src>
+    <name>Waterpoint</name>
+    <desc>Chemin de l'Ecole 1</desc>
+  </wpt>
+  <wpt lat="43.77337095072501" lon="11.256263638318615">
+    <src>https://eaupotable.info/fr/920-fountain</src>
+    <name>Fountain</name>
+    <desc>Piazza del Duomo 12</desc>
+  </wpt>
+  <wpt lat="50.8065696630808" lon="4.4463145283249">
+    <src>https://eaupotable.info/fr/921-source-des-trois-fontaines</src>
+    <name>Source des Trois Fontaines</name>
+    <desc>Vallon des Trois Fontaines</desc>
+  </wpt>
+  <wpt lat="50.809539202304" lon="4.45407684121399">
+    <src>https://eaupotable.info/fr/922-source-de-lempereur-charlemagne</src>
+    <name>Source de l'Empereur Charlemagne</name>
+    <desc>Vijversweg</desc>
+  </wpt>
+  <wpt lat="50.8102239322834" lon="4.45753152642518">
+    <src>https://eaupotable.info/fr/923-source-du-sylvain</src>
+    <name>Source du Sylvain</name>
+    <desc>Vijversweg</desc>
+  </wpt>
 </gpx>
