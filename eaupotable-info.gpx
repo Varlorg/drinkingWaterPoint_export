@@ -3654,4 +3654,14 @@
     <name>Source du Sylvain</name>
     <desc>Vijversweg</desc>
   </wpt>
+  <wpt lat="46.645255" lon="1.0257">
+    <src>https://eaupotable.info/fr/924-source-saint-aigny-36</src>
+    <name>source Saint aigny 36</name>
+    <desc>place de la mairie</desc>
+  </wpt>
+  <wpt lat="43.13300785705198" lon="6.359925626469964">
+    <src>https://eaupotable.info/fr/925-city-stade</src>
+    <name>City stade</name>
+    <desc>Rue Fran&#231;ois Touz&#233; 3</desc>
+  </wpt>
 </gpx>

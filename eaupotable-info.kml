@@ -5847,4 +5847,20 @@
     <description>https://eaupotable.info/fr/923-source-du-sylvain</description>
     <address>Vijversweg</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>1.0257,46.645255</coordinates>
+    </Point>
+    <name>source Saint aigny 36</name>
+    <description>https://eaupotable.info/fr/924-source-saint-aigny-36</description>
+    <address>place de la mairie</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.359925626469964,43.13300785705198</coordinates>
+    </Point>
+    <name>City stade</name>
+    <description>https://eaupotable.info/fr/925-city-stade</description>
+    <address>Rue Fran&#231;ois Touz&#233; 3</address>
+  </Placemark>
 </kml>
