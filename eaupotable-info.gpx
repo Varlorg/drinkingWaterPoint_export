@@ -3664,4 +3664,24 @@
     <name>City stade</name>
     <desc>Rue Fran&#231;ois Touz&#233; 3</desc>
   </wpt>
+  <wpt lat="59.323842978915444" lon="18.072808997553235">
+    <src>https://eaupotable.info/fr/926-tyska-brunnen</src>
+    <name>Tyska brunnen</name>
+    <desc>Sk&#246;nstaholmsv&#228;gen 111</desc>
+  </wpt>
+  <wpt lat="59.325013382198684" lon="18.070820657077807">
+    <src>https://eaupotable.info/fr/927-stortorgets-brunn</src>
+    <name>Stortorgets brunn</name>
+    <desc>Sk&#246;nstaholmsv&#228;gen 111</desc>
+  </wpt>
+  <wpt lat="44.6665162" lon="5.8580002">
+    <src>https://eaupotable.info/fr/928-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Route du Col du Festre 22</desc>
+  </wpt>
+  <wpt lat="44.4649586" lon="1.0686973">
+    <src>https://eaupotable.info/fr/929-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Route de la Source Bleue 5345</desc>
+  </wpt>
 </gpx>

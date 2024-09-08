@@ -5863,4 +5863,36 @@
     <description>https://eaupotable.info/fr/925-city-stade</description>
     <address>Rue Fran&#231;ois Touz&#233; 3</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>18.072808997553235,59.323842978915444</coordinates>
+    </Point>
+    <name>Tyska brunnen</name>
+    <description>https://eaupotable.info/fr/926-tyska-brunnen</description>
+    <address>Sk&#246;nstaholmsv&#228;gen 111</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>18.070820657077807,59.325013382198684</coordinates>
+    </Point>
+    <name>Stortorgets brunn</name>
+    <description>https://eaupotable.info/fr/927-stortorgets-brunn</description>
+    <address>Sk&#246;nstaholmsv&#228;gen 111</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.8580002,44.6665162</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/928-fontaine</description>
+    <address>Route du Col du Festre 22</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>1.0686973,44.4649586</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/929-fontaine</description>
+    <address>Route de la Source Bleue 5345</address>
+  </Placemark>
 </kml>
