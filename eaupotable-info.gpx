@@ -3684,4 +3684,9 @@
     <name>Fontaine</name>
     <desc>Route de la Source Bleue 5345</desc>
   </wpt>
+  <wpt lat="50.505848256516806" lon="4.401779259027081">
+    <src>https://eaupotable.info/fr/930-cimetiere-de-luttre</src>
+    <name>Cimeti&#232;re de Luttre</name>
+    <desc>Rue Saint-Antoine</desc>
+  </wpt>
 </gpx>

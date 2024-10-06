@@ -5895,4 +5895,12 @@
     <description>https://eaupotable.info/fr/929-fontaine</description>
     <address>Route de la Source Bleue 5345</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.401779259027081,50.505848256516806</coordinates>
+    </Point>
+    <name>Cimeti&#232;re de Luttre</name>
+    <description>https://eaupotable.info/fr/930-cimetiere-de-luttre</description>
+    <address>Rue Saint-Antoine</address>
+  </Placemark>
 </kml>
