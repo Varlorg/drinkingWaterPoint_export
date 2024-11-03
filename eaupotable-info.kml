@@ -5903,4 +5903,44 @@
     <description>https://eaupotable.info/fr/930-cimetiere-de-luttre</description>
     <address>Rue Saint-Antoine</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>15.403378648671605,47.010253019466965</coordinates>
+    </Point>
+    <name>Mr</name>
+    <description>https://eaupotable.info/fr/931-mr</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>15.403256446028081,47.011468287673644</coordinates>
+    </Point>
+    <name>Mr</name>
+    <description>https://eaupotable.info/fr/932-mr</description>
+    <address>Schwarzlgasse 15</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>15.407030134932484,47.01320278299357</coordinates>
+    </Point>
+    <name>Mr.</name>
+    <description>https://eaupotable.info/fr/933-mr</description>
+    <address>Haushamer Stra&#223;e 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>15.403256446028081,47.011468287673644</coordinates>
+    </Point>
+    <name>Mr</name>
+    <description>https://eaupotable.info/fr/934-mr</description>
+    <address>Schwarzlgasse 15</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.17808450198473658,51.418038481637815</coordinates>
+    </Point>
+    <name>Colliers Wood underground station</name>
+    <description>https://eaupotable.info/fr/935-colliers-wood-underground-station</description>
+    <address>172 Canterbury Road</address>
+  </Placemark>
 </kml>

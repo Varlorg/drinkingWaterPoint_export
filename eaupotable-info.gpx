@@ -3689,4 +3689,29 @@
     <name>Cimeti&#232;re de Luttre</name>
     <desc>Rue Saint-Antoine</desc>
   </wpt>
+  <wpt lat="47.010253019466965" lon="15.403378648671605">
+    <src>https://eaupotable.info/fr/931-mr</src>
+    <name>Mr</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.011468287673644" lon="15.403256446028081">
+    <src>https://eaupotable.info/fr/932-mr</src>
+    <name>Mr</name>
+    <desc>Schwarzlgasse 15</desc>
+  </wpt>
+  <wpt lat="47.01320278299357" lon="15.407030134932484">
+    <src>https://eaupotable.info/fr/933-mr</src>
+    <name>Mr.</name>
+    <desc>Haushamer Stra&#223;e 10</desc>
+  </wpt>
+  <wpt lat="47.011468287673644" lon="15.403256446028081">
+    <src>https://eaupotable.info/fr/934-mr</src>
+    <name>Mr</name>
+    <desc>Schwarzlgasse 15</desc>
+  </wpt>
+  <wpt lat="51.418038481637815" lon="-0.17808450198473658">
+    <src>https://eaupotable.info/fr/935-colliers-wood-underground-station</src>
+    <name>Colliers Wood underground station</name>
+    <desc>172 Canterbury Road</desc>
+  </wpt>
 </gpx>
