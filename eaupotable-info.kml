@@ -5943,4 +5943,28 @@
     <description>https://eaupotable.info/fr/935-colliers-wood-underground-station</description>
     <address>172 Canterbury Road</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>152.8237968099952,-27.196592102514874</coordinates>
+    </Point>
+    <name>Lions Park</name>
+    <description>https://eaupotable.info/fr/936-lions-park</description>
+    <address>Williams Street 16</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>152.82540814706093,-27.195738326330474</coordinates>
+    </Point>
+    <name>Roderick A Cruice Park</name>
+    <description>https://eaupotable.info/fr/937-roderick-a-cruice-park</description>
+    <address>Williams Street 37</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>17.478419138897742,48.96376632696032</coordinates>
+    </Point>
+    <name>Stud&#225;nka po Anton&#237;nkem</name>
+    <description>https://eaupotable.info/fr/938-studanka-po-antoninkem</description>
+    <address/>
+  </Placemark>
 </kml>

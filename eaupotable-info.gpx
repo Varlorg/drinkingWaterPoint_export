@@ -3714,4 +3714,19 @@
     <name>Colliers Wood underground station</name>
     <desc>172 Canterbury Road</desc>
   </wpt>
+  <wpt lat="-27.196592102514874" lon="152.8237968099952">
+    <src>https://eaupotable.info/fr/936-lions-park</src>
+    <name>Lions Park</name>
+    <desc>Williams Street 16</desc>
+  </wpt>
+  <wpt lat="-27.195738326330474" lon="152.82540814706093">
+    <src>https://eaupotable.info/fr/937-roderick-a-cruice-park</src>
+    <name>Roderick A Cruice Park</name>
+    <desc>Williams Street 37</desc>
+  </wpt>
+  <wpt lat="48.96376632696032" lon="17.478419138897742">
+    <src>https://eaupotable.info/fr/938-studanka-po-antoninkem</src>
+    <name>Stud&#225;nka po Anton&#237;nkem</name>
+    <desc/>
+  </wpt>
 </gpx>
