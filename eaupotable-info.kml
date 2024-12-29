@@ -5967,4 +5967,12 @@
     <description>https://eaupotable.info/fr/938-studanka-po-antoninkem</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.143481299999999,45.5695758</coordinates>
+    </Point>
+    <name>eau de source</name>
+    <description>https://eaupotable.info/fr/939-eau-de-source</description>
+    <address>Impasse du Canal</address>
+  </Placemark>
 </kml>

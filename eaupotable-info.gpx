@@ -3729,4 +3729,9 @@
     <name>Stud&#225;nka po Anton&#237;nkem</name>
     <desc/>
   </wpt>
+  <wpt lat="45.5695758" lon="6.143481299999999">
+    <src>https://eaupotable.info/fr/939-eau-de-source</src>
+    <name>eau de source</name>
+    <desc>Impasse du Canal</desc>
+  </wpt>
 </gpx>
