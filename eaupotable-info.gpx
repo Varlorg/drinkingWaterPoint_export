@@ -3734,4 +3734,9 @@
     <name>eau de source</name>
     <desc>Impasse du Canal</desc>
   </wpt>
+  <wpt lat="35.17013690006736" lon="33.35934903558195">
+    <src>https://eaupotable.info/fr/940-drinking-water-fountain</src>
+    <name>Drinking water fountain</name>
+    <desc>&#927;&#956;&#942;&#961;&#959;&#965; 5</desc>
+  </wpt>
 </gpx>

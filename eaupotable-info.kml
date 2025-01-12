@@ -5975,4 +5975,12 @@
     <description>https://eaupotable.info/fr/939-eau-de-source</description>
     <address>Impasse du Canal</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>33.35934903558195,35.17013690006736</coordinates>
+    </Point>
+    <name>Drinking water fountain</name>
+    <description>https://eaupotable.info/fr/940-drinking-water-fountain</description>
+    <address>&#927;&#956;&#942;&#961;&#959;&#965; 5</address>
+  </Placemark>
 </kml>
