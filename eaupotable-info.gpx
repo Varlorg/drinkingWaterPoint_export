@@ -3739,4 +3739,9 @@
     <name>Drinking water fountain</name>
     <desc>&#927;&#956;&#942;&#961;&#959;&#965; 5</desc>
   </wpt>
+  <wpt lat="43.134646451773705" lon="0.9764648497375417">
+    <src>https://eaupotable.info/fr/941-aire-de-camping-car-de-mazeres-sur-salat</src>
+    <name>Aire de camping-car de Maz&#232;res sur Salat</name>
+    <desc>1 chemin d'Odos</desc>
+  </wpt>
 </gpx>
