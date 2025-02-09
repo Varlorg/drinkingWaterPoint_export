@@ -3744,4 +3744,9 @@
     <name>Aire de camping-car de Maz&#232;res sur Salat</name>
     <desc>1 chemin d'Odos</desc>
   </wpt>
+  <wpt lat="50.44043765907412" lon="-4.682824178871408">
+    <src>https://eaupotable.info/fr/943-stone-horse-through</src>
+    <name>Stone Horse through</name>
+    <desc>Newton Lane 2</desc>
+  </wpt>
 </gpx>

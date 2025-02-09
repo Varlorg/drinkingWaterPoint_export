@@ -5991,4 +5991,12 @@
     <description>https://eaupotable.info/fr/941-aire-de-camping-car-de-mazeres-sur-salat</description>
     <address>1 chemin d'Odos</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-4.682824178871408,50.44043765907412</coordinates>
+    </Point>
+    <name>Stone Horse through</name>
+    <description>https://eaupotable.info/fr/943-stone-horse-through</description>
+    <address>Newton Lane 2</address>
+  </Placemark>
 </kml>
