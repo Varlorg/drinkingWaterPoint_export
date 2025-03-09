@@ -5999,4 +5999,12 @@
     <description>https://eaupotable.info/fr/943-stone-horse-through</description>
     <address>Newton Lane 2</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.1979244404754574,43.475433430711654</coordinates>
+    </Point>
+    <name>source naturelle</name>
+    <description>https://eaupotable.info/fr/944-source-naturelle</description>
+    <address>Lotissement Mendi Alde 5</address>
+  </Placemark>
 </kml>

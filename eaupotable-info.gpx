@@ -3749,4 +3749,9 @@
     <name>Stone Horse through</name>
     <desc>Newton Lane 2</desc>
   </wpt>
+  <wpt lat="43.475433430711654" lon="-1.1979244404754574">
+    <src>https://eaupotable.info/fr/944-source-naturelle</src>
+    <name>source naturelle</name>
+    <desc>Lotissement Mendi Alde 5</desc>
+  </wpt>
 </gpx>
