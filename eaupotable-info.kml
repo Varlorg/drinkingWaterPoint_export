@@ -6007,4 +6007,36 @@
     <description>https://eaupotable.info/fr/944-source-naturelle</description>
     <address>Lotissement Mendi Alde 5</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.0716526249534573,41.35769076093142</coordinates>
+    </Point>
+    <name>skate park cornella</name>
+    <description>https://eaupotable.info/fr/945-skate-park-cornella</description>
+    <address>Carrer Llu&#237;s Muntadas 42</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.0738386253005947,41.35549342738074</coordinates>
+    </Point>
+    <name>rosa sensat 1</name>
+    <description>https://eaupotable.info/fr/946-rosa-sensat-1</description>
+    <address>Carrer Marcelino Men&#233;ndez Pel 59</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.075746143640118,41.353445216248744</coordinates>
+    </Point>
+    <name>pl. libertad, cornell&#224; de llobregat</name>
+    <description>https://eaupotable.info/fr/947-pl-libertad-cornella-de-llobregat</description>
+    <address>Carrer Can Ros&#233;s 3724</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.074525270808407,41.356113152252966</coordinates>
+    </Point>
+    <name>parking esteve terradas</name>
+    <description>https://eaupotable.info/fr/948-parking-esteve-terradas</description>
+    <address>Carrer Bonavista 70</address>
+  </Placemark>
 </kml>

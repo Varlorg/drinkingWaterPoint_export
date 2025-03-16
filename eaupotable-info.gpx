@@ -3754,4 +3754,24 @@
     <name>source naturelle</name>
     <desc>Lotissement Mendi Alde 5</desc>
   </wpt>
+  <wpt lat="41.35769076093142" lon="2.0716526249534573">
+    <src>https://eaupotable.info/fr/945-skate-park-cornella</src>
+    <name>skate park cornella</name>
+    <desc>Carrer Llu&#237;s Muntadas 42</desc>
+  </wpt>
+  <wpt lat="41.35549342738074" lon="2.0738386253005947">
+    <src>https://eaupotable.info/fr/946-rosa-sensat-1</src>
+    <name>rosa sensat 1</name>
+    <desc>Carrer Marcelino Men&#233;ndez Pel 59</desc>
+  </wpt>
+  <wpt lat="41.353445216248744" lon="2.075746143640118">
+    <src>https://eaupotable.info/fr/947-pl-libertad-cornella-de-llobregat</src>
+    <name>pl. libertad, cornell&#224; de llobregat</name>
+    <desc>Carrer Can Ros&#233;s 3724</desc>
+  </wpt>
+  <wpt lat="41.356113152252966" lon="2.074525270808407">
+    <src>https://eaupotable.info/fr/948-parking-esteve-terradas</src>
+    <name>parking esteve terradas</name>
+    <desc>Carrer Bonavista 70</desc>
+  </wpt>
 </gpx>
