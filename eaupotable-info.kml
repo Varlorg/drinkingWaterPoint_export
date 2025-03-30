@@ -6039,4 +6039,12 @@
     <description>https://eaupotable.info/fr/948-parking-esteve-terradas</description>
     <address>Carrer Bonavista 70</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.140836599999999,50.9984556</coordinates>
+    </Point>
+    <name>Waterpunt ingang zwembad/sportcomplex</name>
+    <description>https://eaupotable.info/fr/949-waterpunt-ingang-zwembadsportcomplex</description>
+    <address>Koning Albert I-straat 124</address>
+  </Placemark>
 </kml>
