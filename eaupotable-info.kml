@@ -6047,4 +6047,12 @@
     <description>https://eaupotable.info/fr/949-waterpunt-ingang-zwembadsportcomplex</description>
     <address>Koning Albert I-straat 124</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.187800670445996,50.967878765982775</coordinates>
+    </Point>
+    <name>Drinkwaterpunt Hof ten Hemelrijk</name>
+    <description>https://eaupotable.info/fr/950-drinkwaterpunt-hof-ten-hemelrijk</description>
+    <address>Kloosterstraat 7</address>
+  </Placemark>
 </kml>
