@@ -6055,4 +6055,20 @@
     <description>https://eaupotable.info/fr/950-drinkwaterpunt-hof-ten-hemelrijk</description>
     <address>Kloosterstraat 7</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>10.534757501033004,44.93628150574983</coordinates>
+    </Point>
+    <name>Agua de Grifo</name>
+    <description>https://eaupotable.info/fr/951-agua-de-grifo</description>
+    <address>Italo Svevo 6</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-2.509528108375081,51.18696315959494</coordinates>
+    </Point>
+    <name>St Aldhelm's Well</name>
+    <description>https://eaupotable.info/fr/952-st-aldhelms-well</description>
+    <address>School Lane 1</address>
+  </Placemark>
 </kml>

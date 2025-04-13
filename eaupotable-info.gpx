@@ -3784,4 +3784,14 @@
     <name>Drinkwaterpunt Hof ten Hemelrijk</name>
     <desc>Kloosterstraat 7</desc>
   </wpt>
+  <wpt lat="44.93628150574983" lon="10.534757501033004">
+    <src>https://eaupotable.info/fr/951-agua-de-grifo</src>
+    <name>Agua de Grifo</name>
+    <desc>Italo Svevo 6</desc>
+  </wpt>
+  <wpt lat="51.18696315959494" lon="-2.509528108375081">
+    <src>https://eaupotable.info/fr/952-st-aldhelms-well</src>
+    <name>St Aldhelm's Well</name>
+    <desc>School Lane 1</desc>
+  </wpt>
 </gpx>
