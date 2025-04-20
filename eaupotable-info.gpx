@@ -3794,4 +3794,14 @@
     <name>St Aldhelm's Well</name>
     <desc>School Lane 1</desc>
   </wpt>
+  <wpt lat="41.27026374455324" lon="1.4164009883606">
+    <src>https://eaupotable.info/fr/953-font-a-masllorenc</src>
+    <name>Font a Maslloren&#231;</name>
+    <desc>Carrer Nou 1</desc>
+  </wpt>
+  <wpt lat="50.4703618" lon="5.0794291">
+    <src>https://eaupotable.info/fr/954-robinet-cimetiere-de-groynne</src>
+    <name>Robinet cimeti&#232;re de Groynne</name>
+    <desc>Rue Groynne 5300</desc>
+  </wpt>
 </gpx>

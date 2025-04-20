@@ -6071,4 +6071,20 @@
     <description>https://eaupotable.info/fr/952-st-aldhelms-well</description>
     <address>School Lane 1</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>1.4164009883606,41.27026374455324</coordinates>
+    </Point>
+    <name>Font a Maslloren&#231;</name>
+    <description>https://eaupotable.info/fr/953-font-a-masllorenc</description>
+    <address>Carrer Nou 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.0794291,50.4703618</coordinates>
+    </Point>
+    <name>Robinet cimeti&#232;re de Groynne</name>
+    <description>https://eaupotable.info/fr/954-robinet-cimetiere-de-groynne</description>
+    <address>Rue Groynne 5300</address>
+  </Placemark>
 </kml>
