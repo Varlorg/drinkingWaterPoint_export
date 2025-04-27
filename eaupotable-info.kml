@@ -6087,4 +6087,12 @@
     <description>https://eaupotable.info/fr/954-robinet-cimetiere-de-groynne</description>
     <address>Rue Groynne 5300</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.5859549739665004,40.70593221461959</coordinates>
+    </Point>
+    <name>Fuente municipal</name>
+    <description>https://eaupotable.info/fr/955-fuente-municipal</description>
+    <address>Passeig del Canal 34</address>
+  </Placemark>
 </kml>

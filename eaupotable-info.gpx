@@ -3804,4 +3804,9 @@
     <name>Robinet cimeti&#232;re de Groynne</name>
     <desc>Rue Groynne 5300</desc>
   </wpt>
+  <wpt lat="40.70593221461959" lon="0.5859549739665004">
+    <src>https://eaupotable.info/fr/955-fuente-municipal</src>
+    <name>Fuente municipal</name>
+    <desc>Passeig del Canal 34</desc>
+  </wpt>
 </gpx>
