@@ -3809,4 +3809,29 @@
     <name>Fuente municipal</name>
     <desc>Passeig del Canal 34</desc>
   </wpt>
+  <wpt lat="43.4574382" lon="6.6855044">
+    <src>https://eaupotable.info/fr/956-cimetiere</src>
+    <name>Cimeti&#232;re</name>
+    <desc>Boulevard de Lorraine</desc>
+  </wpt>
+  <wpt lat="45.53309467753134" lon="2.69043476523517">
+    <src>https://eaupotable.info/fr/957-fontaine-eau-potable</src>
+    <name>Fontaine eau potable</name>
+    <desc>Place de la Mairie 2069</desc>
+  </wpt>
+  <wpt lat="45.53309467753134" lon="2.69043476523517">
+    <src>https://eaupotable.info/fr/958-fontaine-publique</src>
+    <name>Fontaine publique</name>
+    <desc>Place de la Mairie 2069</desc>
+  </wpt>
+  <wpt lat="45.53309467753134" lon="2.69043476523517">
+    <src>https://eaupotable.info/fr/959-fontaine-publique</src>
+    <name>Fontaine publique</name>
+    <desc>Place de la Mairie 2069</desc>
+  </wpt>
+  <wpt lat="45.53340322114108" lon="2.690229237142705">
+    <src>https://eaupotable.info/fr/960-fontaine-publique</src>
+    <name>Fontaine publique</name>
+    <desc/>
+  </wpt>
 </gpx>

@@ -6095,4 +6095,44 @@
     <description>https://eaupotable.info/fr/955-fuente-municipal</description>
     <address>Passeig del Canal 34</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.6855044,43.4574382</coordinates>
+    </Point>
+    <name>Cimeti&#232;re</name>
+    <description>https://eaupotable.info/fr/956-cimetiere</description>
+    <address>Boulevard de Lorraine</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.69043476523517,45.53309467753134</coordinates>
+    </Point>
+    <name>Fontaine eau potable</name>
+    <description>https://eaupotable.info/fr/957-fontaine-eau-potable</description>
+    <address>Place de la Mairie 2069</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.69043476523517,45.53309467753134</coordinates>
+    </Point>
+    <name>Fontaine publique</name>
+    <description>https://eaupotable.info/fr/958-fontaine-publique</description>
+    <address>Place de la Mairie 2069</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.69043476523517,45.53309467753134</coordinates>
+    </Point>
+    <name>Fontaine publique</name>
+    <description>https://eaupotable.info/fr/959-fontaine-publique</description>
+    <address>Place de la Mairie 2069</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.690229237142705,45.53340322114108</coordinates>
+    </Point>
+    <name>Fontaine publique</name>
+    <description>https://eaupotable.info/fr/960-fontaine-publique</description>
+    <address/>
+  </Placemark>
 </kml>
