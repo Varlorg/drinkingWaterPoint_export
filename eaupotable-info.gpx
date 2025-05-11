@@ -3834,4 +3834,134 @@
     <name>Fontaine publique</name>
     <desc/>
   </wpt>
+  <wpt lat="50.699019" lon="4.5526925">
+    <src>https://eaupotable.info/fr/961-robinet-cimetiere-seucha</src>
+    <name>Robinet cimeti&#232;re seucha</name>
+    <desc>Chemin du Seucha</desc>
+  </wpt>
+  <wpt lat="50.6988954" lon="4.5585176">
+    <src>https://eaupotable.info/fr/962-robinet-ancien-cimetiere-de-limal</src>
+    <name>Robinet ancien cimeti&#232;re de Limal</name>
+    <desc>Rue Jos&#233;phine Rauscent 132</desc>
+  </wpt>
+  <wpt lat="45.05551246737695" lon="7.681544659661412">
+    <src>https://eaupotable.info/fr/963-turet</src>
+    <name>Turet</name>
+    <desc>Burgfelderstrasse 220</desc>
+  </wpt>
+  <wpt lat="47.2573524" lon="-0.0811244">
+    <src>https://eaupotable.info/fr/964-point-deau</src>
+    <name>Point d'eau</name>
+    <desc>Rue du Clos Thimeau - Dampierre sur Loire - 49400 SAUMUR</desc>
+  </wpt>
+  <wpt lat="47.2573524" lon="-0.0811244">
+    <src>https://eaupotable.info/fr/965-point-deau</src>
+    <name>Point d'eau</name>
+    <desc>Rue des Enverries - Saint-Lambert des Lev&#233;es - 49400 SAUMUR</desc>
+  </wpt>
+  <wpt lat="47.2750053030317" lon="-0.0794530333129817">
+    <src>https://eaupotable.info/fr/966-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Avenue de la Croix de Guerre - Saint-Lambert des Lev&#233;es</desc>
+  </wpt>
+  <wpt lat="47.2643707384707" lon="-0.0734806669342136">
+    <src>https://eaupotable.info/fr/967-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Avenue du G&#233;n&#233;ral de Gaulle</desc>
+  </wpt>
+  <wpt lat="47.2408571805346" lon="-0.075187532402039">
+    <src>https://eaupotable.info/fr/968-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Place des anciens Combattants - 49400 SAUMUR</desc>
+  </wpt>
+  <wpt lat="47.2463273337758" lon="-0.0770161226844723">
+    <src>https://eaupotable.info/fr/969-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Avenue Fran&#231;ois Miterrand 920</desc>
+  </wpt>
+  <wpt lat="47.2466468184172" lon="-0.0932896550865259">
+    <src>https://eaupotable.info/fr/970-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Rue du Pont Fouchard 125</desc>
+  </wpt>
+  <wpt lat="47.2494097496885" lon="-0.0907028660621623">
+    <src>https://eaupotable.info/fr/971-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Rue Michel Chumeau</desc>
+  </wpt>
+  <wpt lat="47.2618920412052" lon="-0.0792154699058556">
+    <src>https://eaupotable.info/fr/972-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Place Saint Nicolas 2</desc>
+  </wpt>
+  <wpt lat="47.2617801" lon="-0.0827861">
+    <src>https://eaupotable.info/fr/973-robinet-fontaine</src>
+    <name>Robinet Fontaine</name>
+    <desc>Place Charles de Foucauld 100</desc>
+  </wpt>
+  <wpt lat="47.2584367402487" lon="-0.0810229362457338">
+    <src>https://eaupotable.info/fr/974-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Place de l'Europe 9167F</desc>
+  </wpt>
+  <wpt lat="47.2551196940749" lon="-0.0815953449134788">
+    <src>https://eaupotable.info/fr/975-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Place de Verdun 1 Bis</desc>
+  </wpt>
+  <wpt lat="47.2521971824403" lon="-0.0806004876968314">
+    <src>https://eaupotable.info/fr/976-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Avenue Balzac 10</desc>
+  </wpt>
+  <wpt lat="47.2534651176264" lon="-0.0706508420806884">
+    <src>https://eaupotable.info/fr/977-robinet-fontaine</src>
+    <name>Robinet Fontaine</name>
+    <desc>Rue du Clos Coutard</desc>
+  </wpt>
+  <wpt lat="47.2557701595723" lon="-0.0716201667175254">
+    <src>https://eaupotable.info/fr/978-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Rue des Moulins 1313</desc>
+  </wpt>
+  <wpt lat="47.2600568733815" lon="-0.0742514477462697">
+    <src>https://eaupotable.info/fr/979-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Quai Mayaud 71</desc>
+  </wpt>
+  <wpt lat="47.2599749580304" lon="-0.0759117351264882">
+    <src>https://eaupotable.info/fr/980-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Rue Moli&#232;re, H&#244;tel de Ville</desc>
+  </wpt>
+  <wpt lat="47.2584108929666" lon="-0.0749348963298768">
+    <src>https://eaupotable.info/fr/981-robinet-fontaine</src>
+    <name>Robinet Fontaine</name>
+    <desc>Mont&#233;e du Fort 1</desc>
+  </wpt>
+  <wpt lat="47.2577381087278" lon="-0.0722923294303945">
+    <src>https://eaupotable.info/fr/982-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Rue Fourrier 1</desc>
+  </wpt>
+  <wpt lat="47.2676532614239" lon="-0.108512570500192">
+    <src>https://eaupotable.info/fr/983-robinet</src>
+    <name>Robinet</name>
+    <desc>Rue des Sables 10</desc>
+  </wpt>
+  <wpt lat="47.2660429655212" lon="-0.103718740896235">
+    <src>https://eaupotable.info/fr/984-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Rue de la Senatorerie 6</desc>
+  </wpt>
+  <wpt lat="47.2645288570181" lon="-0.0996675607131969">
+    <src>https://eaupotable.info/fr/985-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Rue de l'&#201;cluse 7</desc>
+  </wpt>
+  <wpt lat="47.2750148977193" lon="-0.111079036549753">
+    <src>https://eaupotable.info/fr/986-wc-public-avec-lavabo</src>
+    <name>WC Public avec Lavabo</name>
+    <desc>Rue Palustre, Saint-Hilaire-Saint-Florent, 49400 Saumur</desc>
+  </wpt>
 </gpx>

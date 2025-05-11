@@ -6135,4 +6135,212 @@
     <description>https://eaupotable.info/fr/960-fontaine-publique</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.5526925,50.699019</coordinates>
+    </Point>
+    <name>Robinet cimeti&#232;re seucha</name>
+    <description>https://eaupotable.info/fr/961-robinet-cimetiere-seucha</description>
+    <address>Chemin du Seucha</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.5585176,50.6988954</coordinates>
+    </Point>
+    <name>Robinet ancien cimeti&#232;re de Limal</name>
+    <description>https://eaupotable.info/fr/962-robinet-ancien-cimetiere-de-limal</description>
+    <address>Rue Jos&#233;phine Rauscent 132</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.681544659661412,45.05551246737695</coordinates>
+    </Point>
+    <name>Turet</name>
+    <description>https://eaupotable.info/fr/963-turet</description>
+    <address>Burgfelderstrasse 220</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0811244,47.2573524</coordinates>
+    </Point>
+    <name>Point d'eau</name>
+    <description>https://eaupotable.info/fr/964-point-deau</description>
+    <address>Rue du Clos Thimeau - Dampierre sur Loire - 49400 SAUMUR</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0811244,47.2573524</coordinates>
+    </Point>
+    <name>Point d'eau</name>
+    <description>https://eaupotable.info/fr/965-point-deau</description>
+    <address>Rue des Enverries - Saint-Lambert des Lev&#233;es - 49400 SAUMUR</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0794530333129817,47.2750053030317</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/966-wc-public-avec-lavabo</description>
+    <address>Avenue de la Croix de Guerre - Saint-Lambert des Lev&#233;es</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0734806669342136,47.2643707384707</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/967-wc-public-avec-lavabo</description>
+    <address>Avenue du G&#233;n&#233;ral de Gaulle</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.075187532402039,47.2408571805346</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/968-wc-public-avec-lavabo</description>
+    <address>Place des anciens Combattants - 49400 SAUMUR</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0770161226844723,47.2463273337758</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/969-wc-public-avec-lavabo</description>
+    <address>Avenue Fran&#231;ois Miterrand 920</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0932896550865259,47.2466468184172</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/970-wc-public-avec-lavabo</description>
+    <address>Rue du Pont Fouchard 125</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0907028660621623,47.2494097496885</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/971-wc-public-avec-lavabo</description>
+    <address>Rue Michel Chumeau</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0792154699058556,47.2618920412052</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/972-wc-public-avec-lavabo</description>
+    <address>Place Saint Nicolas 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0827861,47.2617801</coordinates>
+    </Point>
+    <name>Robinet Fontaine</name>
+    <description>https://eaupotable.info/fr/973-robinet-fontaine</description>
+    <address>Place Charles de Foucauld 100</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0810229362457338,47.2584367402487</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/974-wc-public-avec-lavabo</description>
+    <address>Place de l'Europe 9167F</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0815953449134788,47.2551196940749</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/975-wc-public-avec-lavabo</description>
+    <address>Place de Verdun 1 Bis</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0806004876968314,47.2521971824403</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/976-wc-public-avec-lavabo</description>
+    <address>Avenue Balzac 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0706508420806884,47.2534651176264</coordinates>
+    </Point>
+    <name>Robinet Fontaine</name>
+    <description>https://eaupotable.info/fr/977-robinet-fontaine</description>
+    <address>Rue du Clos Coutard</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0716201667175254,47.2557701595723</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/978-wc-public-avec-lavabo</description>
+    <address>Rue des Moulins 1313</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0742514477462697,47.2600568733815</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/979-wc-public-avec-lavabo</description>
+    <address>Quai Mayaud 71</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0759117351264882,47.2599749580304</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/980-wc-public-avec-lavabo</description>
+    <address>Rue Moli&#232;re, H&#244;tel de Ville</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0749348963298768,47.2584108929666</coordinates>
+    </Point>
+    <name>Robinet Fontaine</name>
+    <description>https://eaupotable.info/fr/981-robinet-fontaine</description>
+    <address>Mont&#233;e du Fort 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0722923294303945,47.2577381087278</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/982-wc-public-avec-lavabo</description>
+    <address>Rue Fourrier 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.108512570500192,47.2676532614239</coordinates>
+    </Point>
+    <name>Robinet</name>
+    <description>https://eaupotable.info/fr/983-robinet</description>
+    <address>Rue des Sables 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.103718740896235,47.2660429655212</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/984-wc-public-avec-lavabo</description>
+    <address>Rue de la Senatorerie 6</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.0996675607131969,47.2645288570181</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/985-wc-public-avec-lavabo</description>
+    <address>Rue de l'&#201;cluse 7</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.111079036549753,47.2750148977193</coordinates>
+    </Point>
+    <name>WC Public avec Lavabo</name>
+    <description>https://eaupotable.info/fr/986-wc-public-avec-lavabo</description>
+    <address>Rue Palustre, Saint-Hilaire-Saint-Florent, 49400 Saumur</address>
+  </Placemark>
 </kml>
