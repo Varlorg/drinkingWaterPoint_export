@@ -6343,4 +6343,12 @@
     <description>https://eaupotable.info/fr/986-wc-public-avec-lavabo</description>
     <address>Rue Palustre, Saint-Hilaire-Saint-Florent, 49400 Saumur</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.30262,49.391893</coordinates>
+    </Point>
+    <name>Open waterpunt</name>
+    <description>https://eaupotable.info/fr/987-open-waterpunt</description>
+    <address>Grande rue</address>
+  </Placemark>
 </kml>
