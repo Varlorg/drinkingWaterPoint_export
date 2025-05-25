@@ -6351,4 +6351,60 @@
     <description>https://eaupotable.info/fr/987-open-waterpunt</description>
     <address>Grande rue</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.8506839,50.5173225</coordinates>
+    </Point>
+    <name>Source st Lambert</name>
+    <description>https://eaupotable.info/fr/988-source-st-lambert</description>
+    <address>Rue Trieux des Gouttes</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.5323588,46.7293301</coordinates>
+    </Point>
+    <name>Fontaine potable</name>
+    <description>https://eaupotable.info/fr/989-fontaine-potable</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.53215248081208,46.7262202559507</coordinates>
+    </Point>
+    <name>Fontaine potable</name>
+    <description>https://eaupotable.info/fr/990-fontaine-potable</description>
+    <address>Avenue de Thienne 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.53195378643877,46.724240867939</coordinates>
+    </Point>
+    <name>Fontaine potable</name>
+    <description>https://eaupotable.info/fr/991-fontaine-potable</description>
+    <address>Place du March&#233; 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.53155011398203,46.7230052593978</coordinates>
+    </Point>
+    <name>Fontaine potable</name>
+    <description>https://eaupotable.info/fr/992-fontaine-potable</description>
+    <address>Rue Sainte-Claire 32</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.5324097619713,46.7229225167434</coordinates>
+    </Point>
+    <name>Fontaine potable</name>
+    <description>https://eaupotable.info/fr/993-fontaine-potable</description>
+    <address>Rue du Grand Pont 2B</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.53320637804872,46.7222826359308</coordinates>
+    </Point>
+    <name>Fontaine potable</name>
+    <description>https://eaupotable.info/fr/994-fontaine-potable</description>
+    <address>Rue de la Tournelle 6</address>
+  </Placemark>
 </kml>

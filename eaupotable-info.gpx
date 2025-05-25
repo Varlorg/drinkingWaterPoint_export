@@ -3969,4 +3969,39 @@
     <name>Open waterpunt</name>
     <desc>Grande rue</desc>
   </wpt>
+  <wpt lat="50.5173225" lon="4.8506839">
+    <src>https://eaupotable.info/fr/988-source-st-lambert</src>
+    <name>Source st Lambert</name>
+    <desc>Rue Trieux des Gouttes</desc>
+  </wpt>
+  <wpt lat="46.7293301" lon="6.5323588">
+    <src>https://eaupotable.info/fr/989-fontaine-potable</src>
+    <name>Fontaine potable</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.7262202559507" lon="6.53215248081208">
+    <src>https://eaupotable.info/fr/990-fontaine-potable</src>
+    <name>Fontaine potable</name>
+    <desc>Avenue de Thienne 2</desc>
+  </wpt>
+  <wpt lat="46.724240867939" lon="6.53195378643877">
+    <src>https://eaupotable.info/fr/991-fontaine-potable</src>
+    <name>Fontaine potable</name>
+    <desc>Place du March&#233; 2</desc>
+  </wpt>
+  <wpt lat="46.7230052593978" lon="6.53155011398203">
+    <src>https://eaupotable.info/fr/992-fontaine-potable</src>
+    <name>Fontaine potable</name>
+    <desc>Rue Sainte-Claire 32</desc>
+  </wpt>
+  <wpt lat="46.7229225167434" lon="6.5324097619713">
+    <src>https://eaupotable.info/fr/993-fontaine-potable</src>
+    <name>Fontaine potable</name>
+    <desc>Rue du Grand Pont 2B</desc>
+  </wpt>
+  <wpt lat="46.7222826359308" lon="6.53320637804872">
+    <src>https://eaupotable.info/fr/994-fontaine-potable</src>
+    <name>Fontaine potable</name>
+    <desc>Rue de la Tournelle 6</desc>
+  </wpt>
 </gpx>
