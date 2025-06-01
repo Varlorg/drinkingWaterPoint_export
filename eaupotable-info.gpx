@@ -4004,4 +4004,9 @@
     <name>Fontaine potable</name>
     <desc>Rue de la Tournelle 6</desc>
   </wpt>
+  <wpt lat="40.4470302865886" lon="-4.004879111639396">
+    <src>https://eaupotable.info/fr/995-fuente-de-la-plaza-del-ayuntamiento</src>
+    <name>Fuente de la plaza del ayuntamiento</name>
+    <desc>Calle Real 43</desc>
+  </wpt>
 </gpx>
