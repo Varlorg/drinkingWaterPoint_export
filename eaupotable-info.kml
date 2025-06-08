@@ -6415,4 +6415,12 @@
     <description>https://eaupotable.info/fr/995-fuente-de-la-plaza-del-ayuntamiento</description>
     <address>Calle Real 43</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-2.821227901366894,37.54062950858494</coordinates>
+    </Point>
+    <name>&#193;rea recreativa de la Fuente Grande</name>
+    <description>https://eaupotable.info/fr/996-area-recreativa-de-la-fuente-grande</description>
+    <address>C/ Ingenio 15 - 1&#176;B</address>
+  </Placemark>
 </kml>
