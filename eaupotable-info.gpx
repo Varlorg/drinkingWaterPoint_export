@@ -4014,4 +4014,24 @@
     <name>&#193;rea recreativa de la Fuente Grande</name>
     <desc>C/ Ingenio 15 - 1&#176;B</desc>
   </wpt>
+  <wpt lat="37.952755284814025" lon="-84.50031046445692">
+    <src>https://eaupotable.info/fr/997-veterans-park-playground</src>
+    <name>Veteran's Park Playground</name>
+    <desc>Rockbridge Road 900</desc>
+  </wpt>
+  <wpt lat="45.1525523" lon="0.007538899999999999">
+    <src>https://eaupotable.info/fr/998-point-deau-dans-les-toilettes-publiques</src>
+    <name>Point d'eau dans les toilettes publiques</name>
+    <desc>Rue de la Terrasse</desc>
+  </wpt>
+  <wpt lat="45.43407752434881" lon="-0.7035324130363474">
+    <src>https://eaupotable.info/fr/999-toilettes-publiques</src>
+    <name>Toilettes publiques</name>
+    <desc>Rue des Forges 8</desc>
+  </wpt>
+  <wpt lat="44.79308113334487" lon="-0.4682706114616475">
+    <src>https://eaupotable.info/fr/1000-point-deau-au-bord-de-la-piste</src>
+    <name>point d'eau au bord de la piste</name>
+    <desc>Chemin de Citon 26</desc>
+  </wpt>
 </gpx>

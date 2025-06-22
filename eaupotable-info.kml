@@ -6423,4 +6423,36 @@
     <description>https://eaupotable.info/fr/996-area-recreativa-de-la-fuente-grande</description>
     <address>C/ Ingenio 15 - 1&#176;B</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-84.50031046445692,37.952755284814025</coordinates>
+    </Point>
+    <name>Veteran's Park Playground</name>
+    <description>https://eaupotable.info/fr/997-veterans-park-playground</description>
+    <address>Rockbridge Road 900</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.007538899999999999,45.1525523</coordinates>
+    </Point>
+    <name>Point d'eau dans les toilettes publiques</name>
+    <description>https://eaupotable.info/fr/998-point-deau-dans-les-toilettes-publiques</description>
+    <address>Rue de la Terrasse</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.7035324130363474,45.43407752434881</coordinates>
+    </Point>
+    <name>Toilettes publiques</name>
+    <description>https://eaupotable.info/fr/999-toilettes-publiques</description>
+    <address>Rue des Forges 8</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.4682706114616475,44.79308113334487</coordinates>
+    </Point>
+    <name>point d'eau au bord de la piste</name>
+    <description>https://eaupotable.info/fr/1000-point-deau-au-bord-de-la-piste</description>
+    <address>Chemin de Citon 26</address>
+  </Placemark>
 </kml>
