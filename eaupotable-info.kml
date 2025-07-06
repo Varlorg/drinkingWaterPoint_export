@@ -6455,4 +6455,76 @@
     <description>https://eaupotable.info/fr/1000-point-deau-au-bord-de-la-piste</description>
     <address>Chemin de Citon 26</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.513880696312536,46.30219340129457</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/1002-fontaine</description>
+    <address>Darnona d'en haut 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>18.67676385718687,50.3030180599144</coordinates>
+    </Point>
+    <name>Drinking water</name>
+    <description>https://eaupotable.info/fr/1003-drinking-water</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.862087043099965,50.46864164291907</coordinates>
+    </Point>
+    <name>Gare de Namur - Salle des pas perdus</name>
+    <description>https://eaupotable.info/fr/1004-gare-de-namur-salle-des-pas-perdus</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.92207008102037,43.3475405443755</coordinates>
+    </Point>
+    <name>Point d'eau public</name>
+    <description>https://eaupotable.info/fr/1005-point-deau-public</description>
+    <address>Place de la Mairie 33</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.426204065264302,45.33375483527953</coordinates>
+    </Point>
+    <name>WC public IZEAUX</name>
+    <description>https://eaupotable.info/fr/1006-wc-public-izeaux</description>
+    <address>15 C impasse des chances</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.260086139395144,47.10173258493517</coordinates>
+    </Point>
+    <name>Esplanade des itin&#233;rances - Office de Tourisme</name>
+    <description>https://eaupotable.info/fr/1007-esplanade-des-itinerances-office-de-tourisme</description>
+    <address>Quai Lafayette</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.04495740839004,47.2601903792968</coordinates>
+    </Point>
+    <name>Fontaine &#224; eau potable</name>
+    <description>https://eaupotable.info/fr/1008-fontaine-a-eau-potable</description>
+    <address>All&#233;e des Myosotis 5</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.3612262,43.7661501</coordinates>
+    </Point>
+    <name>Fontaine eau potable</name>
+    <description>https://eaupotable.info/fr/1009-fontaine-eau-potable</description>
+    <address>Boulevard du Rayol 14</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.3611651,43.76612189999999</coordinates>
+    </Point>
+    <name>Point d'eau/ fontaine eau potable</name>
+    <description>https://eaupotable.info/fr/1010-point-deau-fontaine-eau-potable</description>
+    <address>Boulevard du Rayol 14</address>
+  </Placemark>
 </kml>

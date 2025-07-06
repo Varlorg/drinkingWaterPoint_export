@@ -4034,4 +4034,49 @@
     <name>point d'eau au bord de la piste</name>
     <desc>Chemin de Citon 26</desc>
   </wpt>
+  <wpt lat="46.30219340129457" lon="7.513880696312536">
+    <src>https://eaupotable.info/fr/1002-fontaine</src>
+    <name>Fontaine</name>
+    <desc>Darnona d'en haut 10</desc>
+  </wpt>
+  <wpt lat="50.3030180599144" lon="18.67676385718687">
+    <src>https://eaupotable.info/fr/1003-drinking-water</src>
+    <name>Drinking water</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.46864164291907" lon="4.862087043099965">
+    <src>https://eaupotable.info/fr/1004-gare-de-namur-salle-des-pas-perdus</src>
+    <name>Gare de Namur - Salle des pas perdus</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.3475405443755" lon="5.92207008102037">
+    <src>https://eaupotable.info/fr/1005-point-deau-public</src>
+    <name>Point d'eau public</name>
+    <desc>Place de la Mairie 33</desc>
+  </wpt>
+  <wpt lat="45.33375483527953" lon="5.426204065264302">
+    <src>https://eaupotable.info/fr/1006-wc-public-izeaux</src>
+    <name>WC public IZEAUX</name>
+    <desc>15 C impasse des chances</desc>
+  </wpt>
+  <wpt lat="47.10173258493517" lon="5.260086139395144">
+    <src>https://eaupotable.info/fr/1007-esplanade-des-itinerances-office-de-tourisme</src>
+    <name>Esplanade des itin&#233;rances - Office de Tourisme</name>
+    <desc>Quai Lafayette</desc>
+  </wpt>
+  <wpt lat="47.2601903792968" lon="6.04495740839004">
+    <src>https://eaupotable.info/fr/1008-fontaine-a-eau-potable</src>
+    <name>Fontaine &#224; eau potable</name>
+    <desc>All&#233;e des Myosotis 5</desc>
+  </wpt>
+  <wpt lat="43.7661501" lon="5.3612262">
+    <src>https://eaupotable.info/fr/1009-fontaine-eau-potable</src>
+    <name>Fontaine eau potable</name>
+    <desc>Boulevard du Rayol 14</desc>
+  </wpt>
+  <wpt lat="43.76612189999999" lon="5.3611651">
+    <src>https://eaupotable.info/fr/1010-point-deau-fontaine-eau-potable</src>
+    <name>Point d'eau/ fontaine eau potable</name>
+    <desc>Boulevard du Rayol 14</desc>
+  </wpt>
 </gpx>
