@@ -6527,4 +6527,36 @@
     <description>https://eaupotable.info/fr/1010-point-deau-fontaine-eau-potable</description>
     <address>Boulevard du Rayol 14</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.1739431520712094,41.53641379447233</coordinates>
+    </Point>
+    <name>Grifo agua potable</name>
+    <description>https://eaupotable.info/fr/1011-grifo-agua-potable</description>
+    <address>Carrer de la Creueta 9</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.180894767285557,41.52305020929596</coordinates>
+    </Point>
+    <name>Grifo de agua</name>
+    <description>https://eaupotable.info/fr/1012-grifo-de-agua</description>
+    <address>Passeig de Can Tai&#243; 39P</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-6.953062591652747,42.045561997703885</coordinates>
+    </Point>
+    <name>Fuente de agua</name>
+    <description>https://eaupotable.info/fr/1013-fuente-de-agua</description>
+    <address>Carretera Za-L-2603 35</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.99249939939952,48.97563695082173</coordinates>
+    </Point>
+    <name>Fontaine potable</name>
+    <description>https://eaupotable.info/fr/1014-fontaine-potable</description>
+    <address>Rue des Trois Maisons 28</address>
+  </Placemark>
 </kml>

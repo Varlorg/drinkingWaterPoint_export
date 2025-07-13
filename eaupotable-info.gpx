@@ -4079,4 +4079,24 @@
     <name>Point d'eau/ fontaine eau potable</name>
     <desc>Boulevard du Rayol 14</desc>
   </wpt>
+  <wpt lat="41.53641379447233" lon="2.1739431520712094">
+    <src>https://eaupotable.info/fr/1011-grifo-agua-potable</src>
+    <name>Grifo agua potable</name>
+    <desc>Carrer de la Creueta 9</desc>
+  </wpt>
+  <wpt lat="41.52305020929596" lon="2.180894767285557">
+    <src>https://eaupotable.info/fr/1012-grifo-de-agua</src>
+    <name>Grifo de agua</name>
+    <desc>Passeig de Can Tai&#243; 39P</desc>
+  </wpt>
+  <wpt lat="42.045561997703885" lon="-6.953062591652747">
+    <src>https://eaupotable.info/fr/1013-fuente-de-agua</src>
+    <name>Fuente de agua</name>
+    <desc>Carretera Za-L-2603 35</desc>
+  </wpt>
+  <wpt lat="48.97563695082173" lon="5.99249939939952">
+    <src>https://eaupotable.info/fr/1014-fontaine-potable</src>
+    <name>Fontaine potable</name>
+    <desc>Rue des Trois Maisons 28</desc>
+  </wpt>
 </gpx>
