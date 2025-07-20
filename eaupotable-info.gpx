@@ -4099,4 +4099,19 @@
     <name>Fontaine potable</name>
     <desc>Rue des Trois Maisons 28</desc>
   </wpt>
+  <wpt lat="41.0509272" lon="0.8713863">
+    <src>https://eaupotable.info/fr/1015-font-a-pratdip</src>
+    <name>Font a Pratdip</name>
+    <desc>C/nou</desc>
+  </wpt>
+  <wpt lat="46.171754410406855" lon="7.215208514977349">
+    <src>https://eaupotable.info/fr/1016-robinet-au-bord-du-boulodromes</src>
+    <name>Robinet au bord du boulodromes</name>
+    <desc>Chemin J-S Farinet 6</desc>
+  </wpt>
+  <wpt lat="46.32060340998651" lon="-0.5895334587156231">
+    <src>https://eaupotable.info/fr/1017-aire-de-lautremont</src>
+    <name>Aire de l'Autremont</name>
+    <desc/>
+  </wpt>
 </gpx>

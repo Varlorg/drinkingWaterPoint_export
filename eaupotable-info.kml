@@ -6559,4 +6559,28 @@
     <description>https://eaupotable.info/fr/1014-fontaine-potable</description>
     <address>Rue des Trois Maisons 28</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.8713863,41.0509272</coordinates>
+    </Point>
+    <name>Font a Pratdip</name>
+    <description>https://eaupotable.info/fr/1015-font-a-pratdip</description>
+    <address>C/nou</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>7.215208514977349,46.171754410406855</coordinates>
+    </Point>
+    <name>Robinet au bord du boulodromes</name>
+    <description>https://eaupotable.info/fr/1016-robinet-au-bord-du-boulodromes</description>
+    <address>Chemin J-S Farinet 6</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.5895334587156231,46.32060340998651</coordinates>
+    </Point>
+    <name>Aire de l'Autremont</name>
+    <description>https://eaupotable.info/fr/1017-aire-de-lautremont</description>
+    <address/>
+  </Placemark>
 </kml>
