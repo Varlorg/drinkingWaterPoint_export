@@ -4114,4 +4114,29 @@
     <name>Aire de l'Autremont</name>
     <desc/>
   </wpt>
+  <wpt lat="53.224991786674714" lon="-7.728710992596845">
+    <src>https://eaupotable.info/fr/1018-lough-boora</src>
+    <name>Lough Boora</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.518223003398" lon="6.52263292964286">
+    <src>https://eaupotable.info/fr/1019-fontaine-a-bouton-pressoir</src>
+    <name>Fontaine &#224; bouton pressoir</name>
+    <desc>All&#233;e du Capellan 12</desc>
+  </wpt>
+  <wpt lat="46.509458060976" lon="6.533915641864">
+    <src>https://eaupotable.info/fr/1020-fontaine-a-bouton-pressoir</src>
+    <name>Fontaine &#224; bouton pressoir</name>
+    <desc>Avenue de la Plage 35</desc>
+  </wpt>
+  <wpt lat="46.5178406073728" lon="6.52655297811812">
+    <src>https://eaupotable.info/fr/1021-fontaine-a-bouton-pressoir</src>
+    <name>Fontaine &#224; bouton pressoir</name>
+    <desc>Rue de Lausanne 8</desc>
+  </wpt>
+  <wpt lat="52.0803575" lon="4.2695108">
+    <src>https://eaupotable.info/fr/1022-watertappunt-dunea</src>
+    <name>Watertappunt Dunea</name>
+    <desc>Margarethaweg, 24</desc>
+  </wpt>
 </gpx>

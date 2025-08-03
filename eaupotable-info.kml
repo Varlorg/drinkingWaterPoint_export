@@ -6583,4 +6583,44 @@
     <description>https://eaupotable.info/fr/1017-aire-de-lautremont</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-7.728710992596845,53.224991786674714</coordinates>
+    </Point>
+    <name>Lough Boora</name>
+    <description>https://eaupotable.info/fr/1018-lough-boora</description>
+    <address/>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.52263292964286,46.518223003398</coordinates>
+    </Point>
+    <name>Fontaine &#224; bouton pressoir</name>
+    <description>https://eaupotable.info/fr/1019-fontaine-a-bouton-pressoir</description>
+    <address>All&#233;e du Capellan 12</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.533915641864,46.509458060976</coordinates>
+    </Point>
+    <name>Fontaine &#224; bouton pressoir</name>
+    <description>https://eaupotable.info/fr/1020-fontaine-a-bouton-pressoir</description>
+    <address>Avenue de la Plage 35</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.52655297811812,46.5178406073728</coordinates>
+    </Point>
+    <name>Fontaine &#224; bouton pressoir</name>
+    <description>https://eaupotable.info/fr/1021-fontaine-a-bouton-pressoir</description>
+    <address>Rue de Lausanne 8</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.2695108,52.0803575</coordinates>
+    </Point>
+    <name>Watertappunt Dunea</name>
+    <description>https://eaupotable.info/fr/1022-watertappunt-dunea</description>
+    <address>Margarethaweg, 24</address>
+  </Placemark>
 </kml>
