@@ -4139,4 +4139,19 @@
     <name>Watertappunt Dunea</name>
     <desc>Margarethaweg, 24</desc>
   </wpt>
+  <wpt lat="41.646267784838635" lon="-0.8676232480934187">
+    <src>https://eaupotable.info/fr/1023-fuente-en-pintor-zuloaga-zaragoza</src>
+    <name>Fuente en pintor zuloaga zaragoza</name>
+    <desc>Calle del Pintor Zuloaga 15</desc>
+  </wpt>
+  <wpt lat="41.64751008270091" lon="-0.8646161012043185">
+    <src>https://eaupotable.info/fr/1024-fuente</src>
+    <name>Fuente</name>
+    <desc>Calle del Monasterio de Siresa 17</desc>
+  </wpt>
+  <wpt lat="46.18540383874854" lon="6.228706920922833">
+    <src>https://eaupotable.info/fr/1025-eau</src>
+    <name>Eau</name>
+    <desc>Rue du Brouaz 46</desc>
+  </wpt>
 </gpx>

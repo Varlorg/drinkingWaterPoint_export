@@ -6623,4 +6623,28 @@
     <description>https://eaupotable.info/fr/1022-watertappunt-dunea</description>
     <address>Margarethaweg, 24</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.8676232480934187,41.646267784838635</coordinates>
+    </Point>
+    <name>Fuente en pintor zuloaga zaragoza</name>
+    <description>https://eaupotable.info/fr/1023-fuente-en-pintor-zuloaga-zaragoza</description>
+    <address>Calle del Pintor Zuloaga 15</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.8646161012043185,41.64751008270091</coordinates>
+    </Point>
+    <name>Fuente</name>
+    <description>https://eaupotable.info/fr/1024-fuente</description>
+    <address>Calle del Monasterio de Siresa 17</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.228706920922833,46.18540383874854</coordinates>
+    </Point>
+    <name>Eau</name>
+    <description>https://eaupotable.info/fr/1025-eau</description>
+    <address>Rue du Brouaz 46</address>
+  </Placemark>
 </kml>
