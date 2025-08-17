@@ -6647,4 +6647,44 @@
     <description>https://eaupotable.info/fr/1025-eau</description>
     <address>Rue du Brouaz 46</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.6101263098481802,50.98507624044996</coordinates>
+    </Point>
+    <name>Fountain inside park</name>
+    <description>https://eaupotable.info/fr/1026-fountain-inside-park</description>
+    <address>23</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-3.393969482036936,37.09606015550793</coordinates>
+    </Point>
+    <name>Fuente doble ca&#241;o</name>
+    <description>https://eaupotable.info/fr/1027-fuente-doble-cano</description>
+    <address>Grupo Prado Alto 121</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>14.941958559032628,47.91831916741416</coordinates>
+    </Point>
+    <name>Public Toilet</name>
+    <description>https://eaupotable.info/fr/1028-public-toilet</description>
+    <address>Perasdorf</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>15.080153360018116,47.97642836815044</coordinates>
+    </Point>
+    <name>Spring Water</name>
+    <description>https://eaupotable.info/fr/1029-spring-water</description>
+    <address>Perasdorf</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>15.104657086765826,48.05198699562263</coordinates>
+    </Point>
+    <name>Tap Water</name>
+    <description>https://eaupotable.info/fr/1030-tap-water</description>
+    <address>Perasdorf</address>
+  </Placemark>
 </kml>

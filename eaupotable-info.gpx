@@ -4154,4 +4154,29 @@
     <name>Eau</name>
     <desc>Rue du Brouaz 46</desc>
   </wpt>
+  <wpt lat="50.98507624044996" lon="-0.6101263098481802">
+    <src>https://eaupotable.info/fr/1026-fountain-inside-park</src>
+    <name>Fountain inside park</name>
+    <desc>23</desc>
+  </wpt>
+  <wpt lat="37.09606015550793" lon="-3.393969482036936">
+    <src>https://eaupotable.info/fr/1027-fuente-doble-cano</src>
+    <name>Fuente doble ca&#241;o</name>
+    <desc>Grupo Prado Alto 121</desc>
+  </wpt>
+  <wpt lat="47.91831916741416" lon="14.941958559032628">
+    <src>https://eaupotable.info/fr/1028-public-toilet</src>
+    <name>Public Toilet</name>
+    <desc>Perasdorf</desc>
+  </wpt>
+  <wpt lat="47.97642836815044" lon="15.080153360018116">
+    <src>https://eaupotable.info/fr/1029-spring-water</src>
+    <name>Spring Water</name>
+    <desc>Perasdorf</desc>
+  </wpt>
+  <wpt lat="48.05198699562263" lon="15.104657086765826">
+    <src>https://eaupotable.info/fr/1030-tap-water</src>
+    <name>Tap Water</name>
+    <desc>Perasdorf</desc>
+  </wpt>
 </gpx>
