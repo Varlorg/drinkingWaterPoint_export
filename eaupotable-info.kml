@@ -6687,4 +6687,20 @@
     <description>https://eaupotable.info/fr/1030-tap-water</description>
     <address>Perasdorf</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>16.381112123311595,48.23895923262112</coordinates>
+    </Point>
+    <name>Water Tap</name>
+    <description>https://eaupotable.info/fr/1036-water-tap</description>
+    <address>Winarskystra&#223;e 16-20</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.218533542278573,51.02714331088375</coordinates>
+    </Point>
+    <name>Parochiepomp</name>
+    <description>https://eaupotable.info/fr/1037-parochiepomp</description>
+    <address>Dries 65</address>
+  </Placemark>
 </kml>

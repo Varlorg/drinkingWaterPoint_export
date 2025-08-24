@@ -4179,4 +4179,14 @@
     <name>Tap Water</name>
     <desc>Perasdorf</desc>
   </wpt>
+  <wpt lat="48.23895923262112" lon="16.381112123311595">
+    <src>https://eaupotable.info/fr/1036-water-tap</src>
+    <name>Water Tap</name>
+    <desc>Winarskystra&#223;e 16-20</desc>
+  </wpt>
+  <wpt lat="51.02714331088375" lon="4.218533542278573">
+    <src>https://eaupotable.info/fr/1037-parochiepomp</src>
+    <name>Parochiepomp</name>
+    <desc>Dries 65</desc>
+  </wpt>
 </gpx>
