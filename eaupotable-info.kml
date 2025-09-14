@@ -6703,4 +6703,28 @@
     <description>https://eaupotable.info/fr/1037-parochiepomp</description>
     <address>Dries 65</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.317479478851321,39.1834483867699</coordinates>
+    </Point>
+    <name>fontaine</name>
+    <description>https://eaupotable.info/fr/1038-fontaine</description>
+    <address>Carrer del Caminas 4</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.166337354757756,44.68892766012799</coordinates>
+    </Point>
+    <name>Fontaine d'eau potable</name>
+    <description>https://eaupotable.info/fr/1039-fontaine-deau-potable</description>
+    <address>Place Bagatelle 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.646181043426119,41.74449324008115</coordinates>
+    </Point>
+    <name>Fountain</name>
+    <description>https://eaupotable.info/fr/1040-fountain</description>
+    <address>Carrer Ravalet s/n</address>
+  </Placemark>
 </kml>
