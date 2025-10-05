@@ -6727,4 +6727,12 @@
     <description>https://eaupotable.info/fr/1040-fountain</description>
     <address>Carrer Ravalet s/n</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>5.887705082000743,50.66553840202131</coordinates>
+    </Point>
+    <name>Watertap op begraafplaats</name>
+    <description>https://eaupotable.info/fr/1041-watertap-op-begraafplaats</description>
+    <address>Thier 17</address>
+  </Placemark>
 </kml>

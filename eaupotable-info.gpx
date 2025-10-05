@@ -4204,4 +4204,9 @@
     <name>Fountain</name>
     <desc>Carrer Ravalet s/n</desc>
   </wpt>
+  <wpt lat="50.66553840202131" lon="5.887705082000743">
+    <src>https://eaupotable.info/fr/1041-watertap-op-begraafplaats</src>
+    <name>Watertap op begraafplaats</name>
+    <desc>Thier 17</desc>
+  </wpt>
 </gpx>
