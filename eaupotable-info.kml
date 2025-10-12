@@ -6735,4 +6735,12 @@
     <description>https://eaupotable.info/fr/1041-watertap-op-begraafplaats</description>
     <address>Thier 17</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>10.789037077861078,43.89659485834656</coordinates>
+    </Point>
+    <name>Water Fountain</name>
+    <description>https://eaupotable.info/fr/1042-water-fountain</description>
+    <address>Via Lemmo di Balduccio 3</address>
+  </Placemark>
 </kml>

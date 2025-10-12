@@ -4209,4 +4209,9 @@
     <name>Watertap op begraafplaats</name>
     <desc>Thier 17</desc>
   </wpt>
+  <wpt lat="43.89659485834656" lon="10.789037077861078">
+    <src>https://eaupotable.info/fr/1042-water-fountain</src>
+    <name>Water Fountain</name>
+    <desc>Via Lemmo di Balduccio 3</desc>
+  </wpt>
 </gpx>
