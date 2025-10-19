@@ -4214,4 +4214,9 @@
     <name>Water Fountain</name>
     <desc>Via Lemmo di Balduccio 3</desc>
   </wpt>
+  <wpt lat="39.648502179965405" lon="16.177181840569144">
+    <src>https://eaupotable.info/fr/1043-kleiner-brunnen</src>
+    <name>Kleiner Brunnen</name>
+    <desc>Zeisigweg 16</desc>
+  </wpt>
 </gpx>

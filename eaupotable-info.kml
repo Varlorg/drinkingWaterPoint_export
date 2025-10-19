@@ -6743,4 +6743,12 @@
     <description>https://eaupotable.info/fr/1042-water-fountain</description>
     <address>Via Lemmo di Balduccio 3</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>16.177181840569144,39.648502179965405</coordinates>
+    </Point>
+    <name>Kleiner Brunnen</name>
+    <description>https://eaupotable.info/fr/1043-kleiner-brunnen</description>
+    <address>Zeisigweg 16</address>
+  </Placemark>
 </kml>
