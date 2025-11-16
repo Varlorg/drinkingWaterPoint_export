@@ -4219,4 +4219,9 @@
     <name>Kleiner Brunnen</name>
     <desc>Zeisigweg 16</desc>
   </wpt>
+  <wpt lat="47.81755318519612" lon="-0.6878596572418161">
+    <src>https://eaupotable.info/fr/1044-robinet-au-bord-de-la-mayenne-sur-aze</src>
+    <name>Robinet au bord de la Mayenne sur Az&#233;</name>
+    <desc>Rue du Port 7</desc>
+  </wpt>
 </gpx>

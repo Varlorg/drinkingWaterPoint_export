@@ -6751,4 +6751,12 @@
     <description>https://eaupotable.info/fr/1043-kleiner-brunnen</description>
     <address>Zeisigweg 16</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.6878596572418161,47.81755318519612</coordinates>
+    </Point>
+    <name>Robinet au bord de la Mayenne sur Az&#233;</name>
+    <description>https://eaupotable.info/fr/1044-robinet-au-bord-de-la-mayenne-sur-aze</description>
+    <address>Rue du Port 7</address>
+  </Placemark>
 </kml>
