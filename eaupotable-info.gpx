@@ -4224,4 +4224,9 @@
     <name>Robinet au bord de la Mayenne sur Az&#233;</name>
     <desc>Rue du Port 7</desc>
   </wpt>
+  <wpt lat="37.146774988587104" lon="22.89359846756588">
+    <src>https://eaupotable.info/fr/1046-robinet-deau-potable</src>
+    <name>Robinet d'eau potable</name>
+    <desc>Place centrale de Plaka</desc>
+  </wpt>
 </gpx>

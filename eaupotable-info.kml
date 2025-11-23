@@ -6759,4 +6759,12 @@
     <description>https://eaupotable.info/fr/1044-robinet-au-bord-de-la-mayenne-sur-aze</description>
     <address>Rue du Port 7</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>22.89359846756588,37.146774988587104</coordinates>
+    </Point>
+    <name>Robinet d'eau potable</name>
+    <description>https://eaupotable.info/fr/1046-robinet-deau-potable</description>
+    <address>Place centrale de Plaka</address>
+  </Placemark>
 </kml>
