@@ -6767,4 +6767,36 @@
     <description>https://eaupotable.info/fr/1046-robinet-deau-potable</description>
     <address>Place centrale de Plaka</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.13064665323832,43.6746711567602</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/1047-fontaine</description>
+    <address>Rue Tivoli 277B</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.6781884,50.91872619999999</coordinates>
+    </Point>
+    <name>Bronwater</name>
+    <description>https://eaupotable.info/fr/1048-bronwater</description>
+    <address>Kattestraat</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.691625870361337,50.832968492621156</coordinates>
+    </Point>
+    <name>Farys waterpunt</name>
+    <description>https://eaupotable.info/fr/1049-farys-waterpunt</description>
+    <address>Koekoekstraat 12</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.8929292405533023,50.90801123719286</coordinates>
+    </Point>
+    <name>Farys waterpunt</name>
+    <description>https://eaupotable.info/fr/1050-farys-waterpunt</description>
+    <address>Pastorijstraat 12</address>
+  </Placemark>
 </kml>
