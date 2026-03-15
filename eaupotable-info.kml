@@ -6689,6 +6689,46 @@
   </Placemark>
   <Placemark>
     <Point>
+      <coordinates>-8.543766105205925,42.176327164263235</coordinates>
+    </Point>
+    <name>Fuente torreiro de Arnoso</name>
+    <description>https://eaupotable.info/fr/1031-fuente-torreiro-de-arnoso</description>
+    <address>Lugar O Covelo 29</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-8.553226256401452,42.17229888694377</coordinates>
+    </Point>
+    <name>Fuente, Outeiri&#241;o, Arnoso</name>
+    <description>https://eaupotable.info/fr/1032-fuente-outeirino-arnoso</description>
+    <address>Lugar O Outeiri&#241;o 10</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.475815799999999,50.9168998</coordinates>
+    </Point>
+    <name>Robinet cimeti&#232;re</name>
+    <description>https://eaupotable.info/fr/1033-robinet-cimetiere</description>
+    <address>Vanheylenstraat 113</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.637251,45.186896</coordinates>
+    </Point>
+    <name>Fontaine Charbelet</name>
+    <description>https://eaupotable.info/fr/1034-fontaine-charbelet</description>
+    <address>place de la mairie</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.535528,45.118592</coordinates>
+    </Point>
+    <name>Fontaine St Francois R&#233;gis</name>
+    <description>https://eaupotable.info/fr/1035-fontaine-st-francois-regis</description>
+    <address>rue de la fontaine</address>
+  </Placemark>
+  <Placemark>
+    <Point>
       <coordinates>16.381112123311595,48.23895923262112</coordinates>
     </Point>
     <name>Water Tap</name>
@@ -6798,5 +6838,77 @@
     <name>Farys waterpunt</name>
     <description>https://eaupotable.info/fr/1050-farys-waterpunt</description>
     <address>Pastorijstraat 12</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.51402437980956,46.5165203585234</coordinates>
+    </Point>
+    <name>Robinet</name>
+    <description>https://eaupotable.info/fr/1051-robinet</description>
+    <address>Chemin des Tuili&#232;res 7</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.84405826168939,46.4664654928414</coordinates>
+    </Point>
+    <name>Rue des Moulins</name>
+    <description>https://eaupotable.info/fr/1052-rue-des-moulins</description>
+    <address>Rue des Tilleuls 2</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-5.8483107,43.3645958</coordinates>
+    </Point>
+    <name>Fuente de Jaime y Juan</name>
+    <description>https://eaupotable.info/fr/1053-fuente-de-jaime-y-juan</description>
+    <address>Plaza de Longoria Carbajal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-5.8483107,43.3645958</coordinates>
+    </Point>
+    <name>Fuente de Jaime y Juan</name>
+    <description>https://eaupotable.info/fr/1054-fuente-de-jaime-y-juan</description>
+    <address>Plaza de Longoria Carbajal</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.168091101121647,46.69424495017212</coordinates>
+    </Point>
+    <name>Eau de source</name>
+    <description>https://eaupotable.info/fr/1055-eau-de-source</description>
+    <address>Rue Vie des Vaches 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.168091101121647,46.69424495017212</coordinates>
+    </Point>
+    <name>Eau de source</name>
+    <description>https://eaupotable.info/fr/1056-eau-de-source</description>
+    <address>Rue Vie des Vaches 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.05379273876190194,47.393627003756386</coordinates>
+    </Point>
+    <name>Toilettes publiques</name>
+    <description>https://eaupotable.info/fr/1057-toilettes-publiques</description>
+    <address>11 rue du Mar&#233;chal Leclerc</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.15485816266975538,47.13247782720295</coordinates>
+    </Point>
+    <name>Fontaine</name>
+    <description>https://eaupotable.info/fr/1058-fontaine</description>
+    <address>11 rue du Mar&#233;chal Leclerc</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.839398119435109,50.83077364831875</coordinates>
+    </Point>
+    <name>waterpunt waesberg (orientatietafel)</name>
+    <description>https://eaupotable.info/fr/1059-waterpunt-waesberg-orientatietafel</description>
+    <address>Waesberg 23</address>
   </Placemark>
 </kml>

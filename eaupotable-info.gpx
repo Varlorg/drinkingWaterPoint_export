@@ -4179,6 +4179,31 @@
     <name>Tap Water</name>
     <desc>Perasdorf</desc>
   </wpt>
+  <wpt lat="42.176327164263235" lon="-8.543766105205925">
+    <src>https://eaupotable.info/fr/1031-fuente-torreiro-de-arnoso</src>
+    <name>Fuente torreiro de Arnoso</name>
+    <desc>Lugar O Covelo 29</desc>
+  </wpt>
+  <wpt lat="42.17229888694377" lon="-8.553226256401452">
+    <src>https://eaupotable.info/fr/1032-fuente-outeirino-arnoso</src>
+    <name>Fuente, Outeiri&#241;o, Arnoso</name>
+    <desc>Lugar O Outeiri&#241;o 10</desc>
+  </wpt>
+  <wpt lat="50.9168998" lon="4.475815799999999">
+    <src>https://eaupotable.info/fr/1033-robinet-cimetiere</src>
+    <name>Robinet cimeti&#232;re</name>
+    <desc>Vanheylenstraat 113</desc>
+  </wpt>
+  <wpt lat="45.186896" lon="4.637251">
+    <src>https://eaupotable.info/fr/1034-fontaine-charbelet</src>
+    <name>Fontaine Charbelet</name>
+    <desc>place de la mairie</desc>
+  </wpt>
+  <wpt lat="45.118592" lon="4.535528">
+    <src>https://eaupotable.info/fr/1035-fontaine-st-francois-regis</src>
+    <name>Fontaine St Francois R&#233;gis</name>
+    <desc>rue de la fontaine</desc>
+  </wpt>
   <wpt lat="48.23895923262112" lon="16.381112123311595">
     <src>https://eaupotable.info/fr/1036-water-tap</src>
     <name>Water Tap</name>
@@ -4248,5 +4273,50 @@
     <src>https://eaupotable.info/fr/1050-farys-waterpunt</src>
     <name>Farys waterpunt</name>
     <desc>Pastorijstraat 12</desc>
+  </wpt>
+  <wpt lat="46.5165203585234" lon="6.51402437980956">
+    <src>https://eaupotable.info/fr/1051-robinet</src>
+    <name>Robinet</name>
+    <desc>Chemin des Tuili&#232;res 7</desc>
+  </wpt>
+  <wpt lat="46.4664654928414" lon="6.84405826168939">
+    <src>https://eaupotable.info/fr/1052-rue-des-moulins</src>
+    <name>Rue des Moulins</name>
+    <desc>Rue des Tilleuls 2</desc>
+  </wpt>
+  <wpt lat="43.3645958" lon="-5.8483107">
+    <src>https://eaupotable.info/fr/1053-fuente-de-jaime-y-juan</src>
+    <name>Fuente de Jaime y Juan</name>
+    <desc>Plaza de Longoria Carbajal</desc>
+  </wpt>
+  <wpt lat="43.3645958" lon="-5.8483107">
+    <src>https://eaupotable.info/fr/1054-fuente-de-jaime-y-juan</src>
+    <name>Fuente de Jaime y Juan</name>
+    <desc>Plaza de Longoria Carbajal</desc>
+  </wpt>
+  <wpt lat="46.69424495017212" lon="6.168091101121647">
+    <src>https://eaupotable.info/fr/1055-eau-de-source</src>
+    <name>Eau de source</name>
+    <desc>Rue Vie des Vaches 1</desc>
+  </wpt>
+  <wpt lat="46.69424495017212" lon="6.168091101121647">
+    <src>https://eaupotable.info/fr/1056-eau-de-source</src>
+    <name>Eau de source</name>
+    <desc>Rue Vie des Vaches 1</desc>
+  </wpt>
+  <wpt lat="47.393627003756386" lon="0.05379273876190194">
+    <src>https://eaupotable.info/fr/1057-toilettes-publiques</src>
+    <name>Toilettes publiques</name>
+    <desc>11 rue du Mar&#233;chal Leclerc</desc>
+  </wpt>
+  <wpt lat="47.13247782720295" lon="-0.15485816266975538">
+    <src>https://eaupotable.info/fr/1058-fontaine</src>
+    <name>Fontaine</name>
+    <desc>11 rue du Mar&#233;chal Leclerc</desc>
+  </wpt>
+  <wpt lat="50.83077364831875" lon="3.839398119435109">
+    <src>https://eaupotable.info/fr/1059-waterpunt-waesberg-orientatietafel</src>
+    <name>waterpunt waesberg (orientatietafel)</name>
+    <desc>Waesberg 23</desc>
   </wpt>
 </gpx>
