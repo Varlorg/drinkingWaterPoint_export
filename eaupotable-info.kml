@@ -6911,4 +6911,20 @@
     <description>https://eaupotable.info/fr/1059-waterpunt-waesberg-orientatietafel</description>
     <address>Waesberg 23</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.3695399799576071,46.297311286229515</coordinates>
+    </Point>
+    <name>Fuente to pepina</name>
+    <description>https://eaupotable.info/fr/1060-fuente-to-pepina</description>
+    <address>Route des Estuaires</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>0.5219066982204001,41.5678811630145</coordinates>
+    </Point>
+    <name>Fuente de agua</name>
+    <description>https://eaupotable.info/fr/1061-fuente-de-agua</description>
+    <address>Carrer Segon Passeig de Ronda 32</address>
+  </Placemark>
 </kml>
