@@ -6927,4 +6927,12 @@
     <description>https://eaupotable.info/fr/1061-fuente-de-agua</description>
     <address>Carrer Segon Passeig de Ronda 32</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.5670006653289787,50.713077187625636</coordinates>
+    </Point>
+    <name>cemetery</name>
+    <description>https://eaupotable.info/fr/1062-cemetery</description>
+    <address>Rue de l'Eglise 29</address>
+  </Placemark>
 </kml>
