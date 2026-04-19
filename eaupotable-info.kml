@@ -6935,4 +6935,44 @@
     <description>https://eaupotable.info/fr/1062-cemetery</description>
     <address>Rue de l'Eglise 29</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>11.3504420871025,47.15100548503738</coordinates>
+    </Point>
+    <name>St. Florian Brunnen</name>
+    <description>https://eaupotable.info/fr/1063-st-florian-brunnen</description>
+    <address>Kirchstra&#223;e 37</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>11.349500631738273,47.1520292433362</coordinates>
+    </Point>
+    <name>Hl. Vitus Brunnen</name>
+    <description>https://eaupotable.info/fr/1064-hl-vitus-brunnen</description>
+    <address>Waldrasterstra&#223;e 5</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>11.348425010622577,47.15311705654673</coordinates>
+    </Point>
+    <name>Kirche Fulpmes</name>
+    <description>https://eaupotable.info/fr/1065-kirche-fulpmes</description>
+    <address>Sonnegg 19</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>11.341222608865337,47.14955418307805</coordinates>
+    </Point>
+    <name>Waldfriedhof</name>
+    <description>https://eaupotable.info/fr/1066-waldfriedhof</description>
+    <address>Gr&#246;benweg 25</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>2.2114859592543334,48.99329099909776</coordinates>
+    </Point>
+    <name>Robinet dans le parc des &#233;boulures</name>
+    <description>https://eaupotable.info/fr/1067-robinet-dans-le-parc-des-eboulures</description>
+    <address>Chemin Vert des Gratte B&#339;ufs</address>
+  </Placemark>
 </kml>

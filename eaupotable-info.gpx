@@ -4334,4 +4334,29 @@
     <name>cemetery</name>
     <desc>Rue de l'Eglise 29</desc>
   </wpt>
+  <wpt lat="47.15100548503738" lon="11.3504420871025">
+    <src>https://eaupotable.info/fr/1063-st-florian-brunnen</src>
+    <name>St. Florian Brunnen</name>
+    <desc>Kirchstra&#223;e 37</desc>
+  </wpt>
+  <wpt lat="47.1520292433362" lon="11.349500631738273">
+    <src>https://eaupotable.info/fr/1064-hl-vitus-brunnen</src>
+    <name>Hl. Vitus Brunnen</name>
+    <desc>Waldrasterstra&#223;e 5</desc>
+  </wpt>
+  <wpt lat="47.15311705654673" lon="11.348425010622577">
+    <src>https://eaupotable.info/fr/1065-kirche-fulpmes</src>
+    <name>Kirche Fulpmes</name>
+    <desc>Sonnegg 19</desc>
+  </wpt>
+  <wpt lat="47.14955418307805" lon="11.341222608865337">
+    <src>https://eaupotable.info/fr/1066-waldfriedhof</src>
+    <name>Waldfriedhof</name>
+    <desc>Gr&#246;benweg 25</desc>
+  </wpt>
+  <wpt lat="48.99329099909776" lon="2.2114859592543334">
+    <src>https://eaupotable.info/fr/1067-robinet-dans-le-parc-des-eboulures</src>
+    <name>Robinet dans le parc des &#233;boulures</name>
+    <desc>Chemin Vert des Gratte B&#339;ufs</desc>
+  </wpt>
 </gpx>
