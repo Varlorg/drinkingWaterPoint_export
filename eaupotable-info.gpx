@@ -4359,4 +4359,14 @@
     <name>Robinet dans le parc des &#233;boulures</name>
     <desc>Chemin Vert des Gratte B&#339;ufs</desc>
   </wpt>
+  <wpt lat="44.11675317420818" lon="4.2793318838920635">
+    <src>https://eaupotable.info/fr/1069-cimetiere-seynes</src>
+    <name>Cimeti&#232;re Seynes</name>
+    <desc>Route des Cevennes 41</desc>
+  </wpt>
+  <wpt lat="44.14164965108817" lon="4.243972656240449">
+    <src>https://eaupotable.info/fr/1070-cimetiere-brouzet-les-ales</src>
+    <name>Cimeti&#232;re Brouzet-l&#232;s-Al&#232;s</name>
+    <desc/>
+  </wpt>
 </gpx>

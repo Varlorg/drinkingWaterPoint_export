@@ -6975,4 +6975,20 @@
     <description>https://eaupotable.info/fr/1067-robinet-dans-le-parc-des-eboulures</description>
     <address>Chemin Vert des Gratte B&#339;ufs</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.2793318838920635,44.11675317420818</coordinates>
+    </Point>
+    <name>Cimeti&#232;re Seynes</name>
+    <description>https://eaupotable.info/fr/1069-cimetiere-seynes</description>
+    <address>Route des Cevennes 41</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.243972656240449,44.14164965108817</coordinates>
+    </Point>
+    <name>Cimeti&#232;re Brouzet-l&#232;s-Al&#232;s</name>
+    <description>https://eaupotable.info/fr/1070-cimetiere-brouzet-les-ales</description>
+    <address/>
+  </Placemark>
 </kml>
