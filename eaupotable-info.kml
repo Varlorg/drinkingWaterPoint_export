@@ -6991,4 +6991,12 @@
     <description>https://eaupotable.info/fr/1070-cimetiere-brouzet-les-ales</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-0.3649976,39.5155742</coordinates>
+    </Point>
+    <name>Water tap</name>
+    <description>https://eaupotable.info/fr/1071-water-tap</description>
+    <address>Carrer del Parc</address>
+  </Placemark>
 </kml>

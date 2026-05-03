@@ -4369,4 +4369,9 @@
     <name>Cimeti&#232;re Brouzet-l&#232;s-Al&#232;s</name>
     <desc/>
   </wpt>
+  <wpt lat="39.5155742" lon="-0.3649976">
+    <src>https://eaupotable.info/fr/1071-water-tap</src>
+    <name>Water tap</name>
+    <desc>Carrer del Parc</desc>
+  </wpt>
 </gpx>
