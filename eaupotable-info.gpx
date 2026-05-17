@@ -4374,4 +4374,9 @@
     <name>Water tap</name>
     <desc>Carrer del Parc</desc>
   </wpt>
+  <wpt lat="36.906130210390955" lon="-4.337284477730008">
+    <src>https://eaupotable.info/fr/1072-water-taps-x3</src>
+    <name>Water taps x3</name>
+    <desc>A-7204 5</desc>
+  </wpt>
 </gpx>

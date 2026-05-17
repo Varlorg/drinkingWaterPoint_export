@@ -6999,4 +6999,12 @@
     <description>https://eaupotable.info/fr/1071-water-tap</description>
     <address>Carrer del Parc</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-4.337284477730008,36.906130210390955</coordinates>
+    </Point>
+    <name>Water taps x3</name>
+    <description>https://eaupotable.info/fr/1072-water-taps-x3</description>
+    <address>A-7204 5</address>
+  </Placemark>
 </kml>
