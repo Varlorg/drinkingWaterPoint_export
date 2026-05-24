@@ -4379,4 +4379,9 @@
     <name>Water taps x3</name>
     <desc>A-7204 5</desc>
   </wpt>
+  <wpt lat="46.4706940596497" lon="6.42240376515122">
+    <src>https://eaupotable.info/fr/1073-fontaine-centre-de-buchillon</src>
+    <name>Fontaine centre de Buchillon</name>
+    <desc>Place du Chauchy 2</desc>
+  </wpt>
 </gpx>

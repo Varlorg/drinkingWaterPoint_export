@@ -7007,4 +7007,12 @@
     <description>https://eaupotable.info/fr/1072-water-taps-x3</description>
     <address>A-7204 5</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.42240376515122,46.4706940596497</coordinates>
+    </Point>
+    <name>Fontaine centre de Buchillon</name>
+    <description>https://eaupotable.info/fr/1073-fontaine-centre-de-buchillon</description>
+    <address>Place du Chauchy 2</address>
+  </Placemark>
 </kml>
