@@ -4384,4 +4384,9 @@
     <name>Fontaine centre de Buchillon</name>
     <desc>Place du Chauchy 2</desc>
   </wpt>
+  <wpt lat="40.86505505692157" lon="-8.656187931884686">
+    <src>https://eaupotable.info/fr/1074-water-by-city</src>
+    <name>Water by city</name>
+    <desc>R. do Carregal 393</desc>
+  </wpt>
 </gpx>

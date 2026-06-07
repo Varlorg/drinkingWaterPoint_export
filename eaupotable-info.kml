@@ -7015,4 +7015,12 @@
     <description>https://eaupotable.info/fr/1073-fontaine-centre-de-buchillon</description>
     <address>Place du Chauchy 2</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-8.656187931884686,40.86505505692157</coordinates>
+    </Point>
+    <name>Water by city</name>
+    <description>https://eaupotable.info/fr/1074-water-by-city</description>
+    <address>R. do Carregal 393</address>
+  </Placemark>
 </kml>
