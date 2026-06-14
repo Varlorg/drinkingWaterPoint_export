@@ -2849,7 +2849,7 @@
     <name>Toilettes publiques de l'&#233;glise d'Omonville la Rogue</name>
     <desc>Rue des Beuriers 1</desc>
   </wpt>
-  <wpt lat="46.272113848588845" lon="7.027802264198746">
+  <wpt lat="46.2721268268297" lon="7.027798240885184">
     <src>https://eaupotable.info/fr/742-fontaine</src>
     <name>Fontaine</name>
     <desc>Chemin du Champ-de-la-Blanche 3</desc>
@@ -4388,5 +4388,10 @@
     <src>https://eaupotable.info/fr/1074-water-by-city</src>
     <name>Water by city</name>
     <desc>R. do Carregal 393</desc>
+  </wpt>
+  <wpt lat="41.588519297633795" lon="-8.783431939133605">
+    <src>https://eaupotable.info/fr/1075-water-tap</src>
+    <name>Water tap</name>
+    <desc>Rua do Calv&#225;rio 237</desc>
   </wpt>
 </gpx>

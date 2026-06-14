@@ -4561,7 +4561,7 @@
   </Placemark>
   <Placemark>
     <Point>
-      <coordinates>7.027802264198746,46.272113848588845</coordinates>
+      <coordinates>7.027798240885184,46.2721268268297</coordinates>
     </Point>
     <name>Fontaine</name>
     <description>https://eaupotable.info/fr/742-fontaine</description>
@@ -7022,5 +7022,13 @@
     <name>Water by city</name>
     <description>https://eaupotable.info/fr/1074-water-by-city</description>
     <address>R. do Carregal 393</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-8.783431939133605,41.588519297633795</coordinates>
+    </Point>
+    <name>Water tap</name>
+    <description>https://eaupotable.info/fr/1075-water-tap</description>
+    <address>Rua do Calv&#225;rio 237</address>
   </Placemark>
 </kml>
