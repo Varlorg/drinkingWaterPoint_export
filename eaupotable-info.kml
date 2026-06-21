@@ -7031,4 +7031,20 @@
     <description>https://eaupotable.info/fr/1075-water-tap</description>
     <address>Rua do Calv&#225;rio 237</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-1.442750935199637,40.40714256834342</coordinates>
+    </Point>
+    <name>Fontaine publique</name>
+    <description>https://eaupotable.info/fr/1076-fontaine-publique</description>
+    <address>Calle Diputaci&#243;n Provincial 1</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>20.99080322093738,52.213991290656836</coordinates>
+    </Point>
+    <name>Poide&#322;ko</name>
+    <description>https://eaupotable.info/fr/1077-poidelko</description>
+    <address>Wawelska 5</address>
+  </Placemark>
 </kml>

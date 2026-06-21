@@ -4394,4 +4394,14 @@
     <name>Water tap</name>
     <desc>Rua do Calv&#225;rio 237</desc>
   </wpt>
+  <wpt lat="40.40714256834342" lon="-1.442750935199637">
+    <src>https://eaupotable.info/fr/1076-fontaine-publique</src>
+    <name>Fontaine publique</name>
+    <desc>Calle Diputaci&#243;n Provincial 1</desc>
+  </wpt>
+  <wpt lat="52.213991290656836" lon="20.99080322093738">
+    <src>https://eaupotable.info/fr/1077-poidelko</src>
+    <name>Poide&#322;ko</name>
+    <desc>Wawelska 5</desc>
+  </wpt>
 </gpx>
