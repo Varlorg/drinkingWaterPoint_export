@@ -7047,4 +7047,36 @@
     <description>https://eaupotable.info/fr/1077-poidelko</description>
     <address>Wawelska 5</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.872416690213001,50.77050612690674</coordinates>
+    </Point>
+    <name>Farys water - Inside the train station</name>
+    <description>https://eaupotable.info/fr/1078-farys-water-inside-the-train-station</description>
+    <address>Stationsplein</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>8.89259900171357,53.07980794547136</coordinates>
+    </Point>
+    <name>Wasserspender</name>
+    <description>https://eaupotable.info/fr/1079-wasserspender</description>
+    <address>Berliner Freiheit 1B</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>6.8253281,47.0993633</coordinates>
+    </Point>
+    <name>Fontaine &#224; eau</name>
+    <description>https://eaupotable.info/fr/1080-fontaine-a-eau</description>
+    <address>Place de la Gare</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>9.003533272731161,49.41749160523588</coordinates>
+    </Point>
+    <name>Brunnen Lindach</name>
+    <description>https://eaupotable.info/fr/1081-brunnen-lindach</description>
+    <address>Kastanienstra&#223;e 2</address>
+  </Placemark>
 </kml>

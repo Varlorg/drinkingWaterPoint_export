@@ -4404,4 +4404,24 @@
     <name>Poide&#322;ko</name>
     <desc>Wawelska 5</desc>
   </wpt>
+  <wpt lat="50.77050612690674" lon="3.872416690213001">
+    <src>https://eaupotable.info/fr/1078-farys-water-inside-the-train-station</src>
+    <name>Farys water - Inside the train station</name>
+    <desc>Stationsplein</desc>
+  </wpt>
+  <wpt lat="53.07980794547136" lon="8.89259900171357">
+    <src>https://eaupotable.info/fr/1079-wasserspender</src>
+    <name>Wasserspender</name>
+    <desc>Berliner Freiheit 1B</desc>
+  </wpt>
+  <wpt lat="47.0993633" lon="6.8253281">
+    <src>https://eaupotable.info/fr/1080-fontaine-a-eau</src>
+    <name>Fontaine &#224; eau</name>
+    <desc>Place de la Gare</desc>
+  </wpt>
+  <wpt lat="49.41749160523588" lon="9.003533272731161">
+    <src>https://eaupotable.info/fr/1081-brunnen-lindach</src>
+    <name>Brunnen Lindach</name>
+    <desc>Kastanienstra&#223;e 2</desc>
+  </wpt>
 </gpx>
