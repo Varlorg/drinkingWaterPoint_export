@@ -4424,4 +4424,9 @@
     <name>Brunnen Lindach</name>
     <desc>Kastanienstra&#223;e 2</desc>
   </wpt>
+  <wpt lat="51.1354987" lon="3.140338">
+    <src>https://eaupotable.info/fr/1084-drinkwaterpunt-vloethemveld</src>
+    <name>Drinkwaterpunt Vloethemveld</name>
+    <desc>Bedeldreef</desc>
+  </wpt>
 </gpx>

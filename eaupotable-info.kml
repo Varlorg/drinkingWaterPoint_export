@@ -7079,4 +7079,12 @@
     <description>https://eaupotable.info/fr/1081-brunnen-lindach</description>
     <address>Kastanienstra&#223;e 2</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>3.140338,51.1354987</coordinates>
+    </Point>
+    <name>Drinkwaterpunt Vloethemveld</name>
+    <description>https://eaupotable.info/fr/1084-drinkwaterpunt-vloethemveld</description>
+    <address>Bedeldreef</address>
+  </Placemark>
 </kml>
