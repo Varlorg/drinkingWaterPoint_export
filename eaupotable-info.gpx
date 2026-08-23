@@ -4429,4 +4429,9 @@
     <name>Drinkwaterpunt Vloethemveld</name>
     <desc>Bedeldreef</desc>
   </wpt>
+  <wpt lat="51.0113643" lon="4.1927705">
+    <src>https://eaupotable.info/fr/1086-dorpspomp</src>
+    <name>Dorpspomp</name>
+    <desc>Nieuwstraat 1</desc>
+  </wpt>
 </gpx>

@@ -7087,4 +7087,12 @@
     <description>https://eaupotable.info/fr/1084-drinkwaterpunt-vloethemveld</description>
     <address>Bedeldreef</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.1927705,51.0113643</coordinates>
+    </Point>
+    <name>Dorpspomp</name>
+    <description>https://eaupotable.info/fr/1086-dorpspomp</description>
+    <address>Nieuwstraat 1</address>
+  </Placemark>
 </kml>
