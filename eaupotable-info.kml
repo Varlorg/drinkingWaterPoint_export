@@ -7095,4 +7095,12 @@
     <description>https://eaupotable.info/fr/1086-dorpspomp</description>
     <address>Nieuwstraat 1</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-80.2631733,43.1408157</coordinates>
+    </Point>
+    <name>Water</name>
+    <description>https://eaupotable.info/fr/1087-water</description>
+    <address/>
+  </Placemark>
 </kml>

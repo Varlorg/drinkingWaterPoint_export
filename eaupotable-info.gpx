@@ -4434,4 +4434,9 @@
     <name>Dorpspomp</name>
     <desc>Nieuwstraat 1</desc>
   </wpt>
+  <wpt lat="43.1408157" lon="-80.2631733">
+    <src>https://eaupotable.info/fr/1087-water</src>
+    <name>Water</name>
+    <desc/>
+  </wpt>
 </gpx>
