@@ -7103,4 +7103,12 @@
     <description>https://eaupotable.info/fr/1087-water</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.4980446,51.2516344</coordinates>
+    </Point>
+    <name>skatepark de Zeurt</name>
+    <description>https://eaupotable.info/fr/1089-skatepark-de-zeurt</description>
+    <address>Eksterdreef skatepark de Zeurt</address>
+  </Placemark>
 </kml>

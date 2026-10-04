@@ -4439,4 +4439,9 @@
     <name>Water</name>
     <desc/>
   </wpt>
+  <wpt lat="51.2516344" lon="4.4980446">
+    <src>https://eaupotable.info/fr/1089-skatepark-de-zeurt</src>
+    <name>skatepark de Zeurt</name>
+    <desc>Eksterdreef skatepark de Zeurt</desc>
+  </wpt>
 </gpx>
