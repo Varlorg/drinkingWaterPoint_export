@@ -7111,4 +7111,12 @@
     <description>https://eaupotable.info/fr/1089-skatepark-de-zeurt</description>
     <address>Eksterdreef skatepark de Zeurt</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>4.9866739868012315,50.44050517325115</coordinates>
+    </Point>
+    <name>Robinet angle de l'&#233;glise</name>
+    <description>https://eaupotable.info/fr/1090-robinet-angle-de-leglise</description>
+    <address>Eglise Saint Lambert</address>
+  </Placemark>
 </kml>

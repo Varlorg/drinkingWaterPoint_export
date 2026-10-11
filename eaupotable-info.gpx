@@ -4444,4 +4444,9 @@
     <name>skatepark de Zeurt</name>
     <desc>Eksterdreef skatepark de Zeurt</desc>
   </wpt>
+  <wpt lat="50.44050517325115" lon="4.9866739868012315">
+    <src>https://eaupotable.info/fr/1090-robinet-angle-de-leglise</src>
+    <name>Robinet angle de l'&#233;glise</name>
+    <desc>Eglise Saint Lambert</desc>
+  </wpt>
 </gpx>
