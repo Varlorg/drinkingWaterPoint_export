@@ -4449,4 +4449,14 @@
     <name>Robinet angle de l'&#233;glise</name>
     <desc>Eglise Saint Lambert</desc>
   </wpt>
+  <wpt lat="36.7479748" lon="-5.8065745">
+    <src>https://eaupotable.info/fr/1091-tap-water</src>
+    <name>Tap water</name>
+    <desc>Plaza del cabildo</desc>
+  </wpt>
+  <wpt lat="36.7479748" lon="-5.8065745">
+    <src>https://eaupotable.info/fr/1092-tap-water</src>
+    <name>Tap water</name>
+    <desc/>
+  </wpt>
 </gpx>

@@ -7119,4 +7119,20 @@
     <description>https://eaupotable.info/fr/1090-robinet-angle-de-leglise</description>
     <address>Eglise Saint Lambert</address>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-5.8065745,36.7479748</coordinates>
+    </Point>
+    <name>Tap water</name>
+    <description>https://eaupotable.info/fr/1091-tap-water</description>
+    <address>Plaza del cabildo</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-5.8065745,36.7479748</coordinates>
+    </Point>
+    <name>Tap water</name>
+    <description>https://eaupotable.info/fr/1092-tap-water</description>
+    <address/>
+  </Placemark>
 </kml>
