@@ -7135,4 +7135,20 @@
     <description>https://eaupotable.info/fr/1092-tap-water</description>
     <address/>
   </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-8.1580479,38.498545</coordinates>
+    </Point>
+    <name>Bebedouro P&#250;blico</name>
+    <description>https://eaupotable.info/fr/1094-bebedouro-publico</description>
+    <address>Largo 1.&#186; de Maio, Casa Branca</address>
+  </Placemark>
+  <Placemark>
+    <Point>
+      <coordinates>-7.9142914,38.5705257</coordinates>
+    </Point>
+    <name>Bebedouro P&#250;blico</name>
+    <description>https://eaupotable.info/fr/1095-bebedouro-publico</description>
+    <address>Portas de Alconchel, &#201;vora</address>
+  </Placemark>
 </kml>

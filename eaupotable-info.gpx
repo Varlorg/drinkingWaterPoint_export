@@ -4459,4 +4459,14 @@
     <name>Tap water</name>
     <desc/>
   </wpt>
+  <wpt lat="38.498545" lon="-8.1580479">
+    <src>https://eaupotable.info/fr/1094-bebedouro-publico</src>
+    <name>Bebedouro P&#250;blico</name>
+    <desc>Largo 1.&#186; de Maio, Casa Branca</desc>
+  </wpt>
+  <wpt lat="38.5705257" lon="-7.9142914">
+    <src>https://eaupotable.info/fr/1095-bebedouro-publico</src>
+    <name>Bebedouro P&#250;blico</name>
+    <desc>Portas de Alconchel, &#201;vora</desc>
+  </wpt>
 </gpx>
